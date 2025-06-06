@@ -97,6 +97,9 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
         
         .story-card:hover {
@@ -104,14 +107,40 @@
             box-shadow: 0 15px 30px rgba(0,0,0,0.2);
         }
         
+        .story-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 10px;
+        }
+
         .story-card h3 {
             font-size: 1.3rem;
             margin-bottom: 10px;
+            flex-grow: 1; /* Cho phép tiêu đề co giãn */
         }
         
         .story-card p {
             opacity: 0.9;
             font-size: 0.9rem;
+        }
+
+        .continue-btn {
+            background: #fff;
+            color: #f5576c;
+            border: none;
+            border-radius: 15px;
+            padding: 5px 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap; /* Ngăn nút bị xuống dòng */
+            flex-shrink: 0; /* Ngăn nút bị co lại */
+        }
+        .continue-btn:hover {
+            background: #eee;
+            transform: scale(1.05);
         }
         
         .chapter-list {
@@ -264,6 +293,7 @@
         let currentStory = null;
         let currentChapterIndex = 0;
         let currentPage = 'home';
+        const READING_PROGRESS_KEY = 'readingProgress';
         
         // Khởi tạo ứng dụng
         async function init() {
@@ -361,22 +391,35 @@
         // Hiển thị danh sách truyện
         function displayStories() {
             const storyList = document.getElementById('storyList');
+            const readingProgress = JSON.parse(localStorage.getItem(READING_PROGRESS_KEY)) || {};
             
             if (stories.length === 0 && storyList.getElementsByClassName('error').length === 0) {
                 storyList.innerHTML = '<div class="error">Không tìm thấy truyện nào. Vui lòng kiểm tra file `books/books.json` và đảm bảo nó chứa tên các thư mục truyện.</div>';
                 return;
             }
             
-            // Chỉ hiển thị các card truyện, không xóa các thông báo lỗi đã có
-            const storyCardsHTML = stories.map(story => `
-                <div class="story-card" onclick="selectStory('${story.id}')">
-                    <h3>${story.title}</h3>
-                    <p>${story.description}</p>
-                    <p><strong>${story.chapters.length} chương</strong></p>
-                </div>
-            `).join('');
+            const storyCardsHTML = stories.map(story => {
+                const lastReadChapterIndex = readingProgress[story.id];
+                let continueButtonHTML = '';
+
+                if (lastReadChapterIndex !== undefined) {
+                    continueButtonHTML = `<button class="continue-btn" onclick="continueReading('${story.id}', ${lastReadChapterIndex}, event)">Đọc tiếp</button>`;
+                }
+
+                return `
+                    <div class="story-card" onclick="selectStory('${story.id}')">
+                        <div>
+                            <div class="story-card-header">
+                                <h3>${story.title}</h3>
+                                ${continueButtonHTML}
+                            </div>
+                            <p>${story.description}</p>
+                        </div>
+                        <p><strong>${story.chapters.length} chương</strong></p>
+                    </div>
+                `;
+            }).join('');
     
-            // Xóa nội dung cũ (nếu có) trước khi thêm
             const loadingDiv = storyList.querySelector('.loading');
             if (loadingDiv) loadingDiv.remove();
     
@@ -390,9 +433,7 @@
             
             document.getElementById('storyTitle').textContent = currentStory.title;
             
-            // Sắp xếp các chương trước khi hiển thị
             const sortedChapters = [...currentStory.chapters].sort(naturalSort);
-            // Cập nhật lại mảng chapters của truyện để thứ tự được giữ nguyên cho việc điều hướng
             currentStory.chapters = sortedChapters;
     
             const chapterList = document.getElementById('chapterList');
@@ -406,13 +447,42 @@
             showPage('chapterList');
         }
         
-        // Đọc chương
+        // *** MỚI: Đọc tiếp từ chương đã lưu ***
+        function continueReading(storyId, chapterIndex, event) {
+            event.stopPropagation(); // Ngăn sự kiện click lan ra thẻ cha (tránh gọi selectStory)
+            
+            currentStory = stories.find(s => s.id === storyId);
+            if (!currentStory) return;
+
+            // Sắp xếp chương để đảm bảo chỉ số chương là chính xác
+            const sortedChapters = [...currentStory.chapters].sort(naturalSort);
+            currentStory.chapters = sortedChapters;
+            
+            // Đảm bảo chỉ số chương hợp lệ
+            if (chapterIndex >= 0 && chapterIndex < currentStory.chapters.length) {
+                readChapter(chapterIndex);
+            } else {
+                // Nếu chỉ số không hợp lệ, chỉ hiển thị danh sách chương
+                selectStory(storyId);
+            }
+        }
+
+        // *** CẬP NHẬT: Lưu tiến trình đọc khi mở chương mới ***
         async function readChapter(chapterIndex) {
             if (!currentStory) return;
             
             currentChapterIndex = chapterIndex;
             const chapter = currentStory.chapters[chapterIndex];
             
+            // Lưu tiến trình vào localStorage
+            try {
+                const readingProgress = JSON.parse(localStorage.getItem(READING_PROGRESS_KEY)) || {};
+                readingProgress[currentStory.id] = chapterIndex;
+                localStorage.setItem(READING_PROGRESS_KEY, JSON.stringify(readingProgress));
+            } catch (e) {
+                console.error("Không thể lưu tiến trình đọc:", e);
+            }
+
             document.getElementById('currentChapterTitle').textContent = chapter.title;
             
             document.getElementById('prevChapter').disabled = chapterIndex === 0;
@@ -470,6 +540,9 @@
         // Hiển thị trang chủ
         function showHome() {
             currentStory = null;
+            // Tải lại danh sách truyện để cập nhật nút "Đọc tiếp"
+            document.getElementById('storyList').innerHTML = '<div class="loading">Đang tải danh sách truyện...</div>';
+            displayStories();
             showPage('home');
         }
         

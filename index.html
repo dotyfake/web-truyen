@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thư Viện Truyện</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #233;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 5px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            color: white;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        p{
+            text-indent: 5%;
+            font-size: 1.3rem;
+        }
+        
+        .nav-buttons {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        
+        button {
+            background: rgba(255,255,255,0.2);
+            border: 2px solid rgba(255,255,255,0.3);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        button:hover {
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        button:active {
+            transform: translateY(0);
+        }
+        
+        .content {
+            background: rgba(255,255,255,0.95);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+            min-height: 500px;
+        }
+        
+        .story-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .story-card {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            border-radius: 15px;
+            padding: 20px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .story-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+        }
+        
+        .story-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+        
+        .story-card p {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+        
+        .chapter-list {
+            max-height: 400px;
+            overflow-y: auto;
+            margin-top: 20px;
+        }
+        
+        .chapter-item {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .chapter-item:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+        }
+        
+        .chapter-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 20px 0;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .reader-content {
+            background: white;
+            padding: 5px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+        
+        .reader-content h1, .reader-content h2, .reader-content h3 {
+            color: #2c3e50;
+            margin: 20px 0 15px 0;
+        }
+        
+        .reader-content p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #666;
+        }
+        
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+
+            p{
+                font-size: 20px;
+            }
+            
+            .content {
+                padding: 5px;
+            }
+            
+            .story-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .chapter-nav {
+                flex-direction: column;
+            }
+        }
+        
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Thư Viện Truyện</h1>
+            <p>Khám phá những câu chuyện tuyệt vời</p>
+        </header>
+        
+        <div class="nav-buttons">
+            <button id="homeBtn" onclick="showHome()">🏠 Trang chủ</button>
+            <button id="backBtn" onclick="goBack()" class="hidden">⬅️ Quay lại</button>
+        </div>
+        
+        <div class="content">
+            <!-- Trang chủ - Danh sách truyện -->
+            <div id="homePage">
+                <h2>📖 Danh sách truyện</h2>
+                <div id="storyList" class="story-grid">
+                    <div class="loading">Đang tải danh sách truyện...</div>
+                </div>
+            </div>
+            
+            <!-- Trang danh sách chương -->
+            <div id="chapterListPage" class="hidden">
+                <h2 id="storyTitle"></h2>
+                <div id="chapterList" class="chapter-list"></div>
+            </div>
+            
+            <!-- Trang đọc truyện -->
+            <div id="readerPage" class="hidden">
+                <div class="chapter-nav">
+                    <button id="prevChapter" onclick="previousChapter()">⬅️ Chương trước</button>
+                    <h3 id="currentChapterTitle"></h3>
+                    <button id="nextChapter" onclick="nextChapter()">Chương sau ➡️</button>
+                </div>
+                <div id="readerContent" class="reader-content">
+                    <div class="loading">Đang tải nội dung...</div>
+                </div>
+                <div class="chapter-nav">
+                    <button onclick="previousChapter()">⬅️ Chương trước</button>
+                    <button onclick="showChapterList()">📋 Danh sách chương</button>
+                    <button onclick="nextChapter()">Chương sau ➡️</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // State management
+        let stories = [];
+        let currentStory = null;
+        let currentChapterIndex = 0;
+        let currentPage = 'home';
+        
+        // Khởi tạo ứng dụng
+        async function init() {
+            await loadStories();
+            showHome();
+        }
+        
+        // Tải danh sách truyện tự động từ file books/books.json
+        async function loadStories() {
+            stories = [];
+            try {
+                // Đọc danh sách các thư mục truyện từ file chỉ mục
+                const folders = await discoverStoryFolders();
+                
+                for (let folder of folders) {
+                    const story = await loadStoryFromFolder(folder);
+                    if (story) {
+                        stories.push(story);
+                    }
+                }
+                
+                // Sắp xếp truyện theo tên
+                stories.sort((a, b) => a.title.localeCompare(b.title, 'vi', { numeric: true }));
+                
+            } catch (error) {
+                console.error('Lỗi nghiêm trọng khi tải danh sách truyện:', error);
+                const storyList = document.getElementById('storyList');
+                storyList.innerHTML = '<div class="error">Đã xảy ra lỗi khi tải truyện. Vui lòng kiểm tra console (F12) để biết chi tiết.</div>';
+            }
+            
+            displayStories();
+        }
+        
+        // Đọc file books/books.json để lấy danh sách thư mục truyện
+        async function discoverStoryFolders() {
+            try {
+                const response = await fetch('books/books.json');
+                if (!response.ok) {
+                    throw new Error(`Không thể tải file books/books.json. Hãy chắc chắn rằng file tồn tại và có cấu trúc đúng.`);
+                }
+                const folders = await response.json();
+                if (!Array.isArray(folders)) {
+                    throw new Error('File books/books.json phải là một mảng JSON chứa tên các thư mục truyện.');
+                }
+                return folders;
+            } catch (error) {
+                console.error(error);
+                // Hiển thị lỗi cho người dùng
+                const storyList = document.getElementById('storyList');
+                storyList.innerHTML = `<div class="error">${error.message}</div>`;
+                return [];
+            }
+        }
+        
+        // Tải thông tin truyện từ thư mục con trong 'books'
+        async function loadStoryFromFolder(folder) {
+            try {
+                const response = await fetch(`books/${folder}/index.json`);
+                if (!response.ok) return null;
+                
+                const indexData = await response.json();
+                
+                return {
+                    id: folder,
+                    title: indexData.title || folder.replace(/[-_]/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+                    description: indexData.description || `Truyện có ${indexData.chapters?.length || 0} chương`,
+                    folder: folder, // Lưu tên thư mục gốc
+                    chapters: indexData.chapters || []
+                };
+                
+            } catch (error) {
+                console.error(`Lỗi khi tải truyện từ books/${folder}/index.json:`, error);
+                // Hiển thị lỗi này ngay trên danh sách truyện
+                const storyList = document.getElementById('storyList');
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'error';
+                errorDiv.textContent = `Lỗi cú pháp JSON trong file: books/${folder}/index.json. Vui lòng kiểm tra lại.`;
+                storyList.appendChild(errorDiv);
+                return null;
+            }
+        }
+        
+        // Hàm sắp xếp chương theo số thứ tự tự nhiên
+        function naturalSort(a, b) {
+            const getNumber = (str) => {
+                const match = (str || '').match(/(\d+)/);
+                return match ? parseInt(match[1], 10) : 0;
+            };
+            const numA = getNumber(a.title || a.file);
+            const numB = getNumber(b.title || b.file);
+            if (numA !== numB) return numA - numB;
+            return (a.title || a.file).localeCompare(b.title || b.file, 'vi');
+        }
+        
+        // Hiển thị danh sách truyện
+        function displayStories() {
+            const storyList = document.getElementById('storyList');
+            
+            if (stories.length === 0 && storyList.getElementsByClassName('error').length === 0) {
+                storyList.innerHTML = '<div class="error">Không tìm thấy truyện nào. Vui lòng kiểm tra file `books/books.json` và đảm bảo nó chứa tên các thư mục truyện.</div>';
+                return;
+            }
+            
+            // Chỉ hiển thị các card truyện, không xóa các thông báo lỗi đã có
+            const storyCardsHTML = stories.map(story => `
+                <div class="story-card" onclick="selectStory('${story.id}')">
+                    <h3>${story.title}</h3>
+                    <p>${story.description}</p>
+                    <p><strong>${story.chapters.length} chương</strong></p>
+                </div>
+            `).join('');
+    
+            // Xóa nội dung cũ (nếu có) trước khi thêm
+            const loadingDiv = storyList.querySelector('.loading');
+            if (loadingDiv) loadingDiv.remove();
+    
+            storyList.insertAdjacentHTML('beforeend', storyCardsHTML);
+        }
+        
+        // Chọn truyện và hiển thị danh sách chương
+        function selectStory(storyId) {
+            currentStory = stories.find(s => s.id === storyId);
+            if (!currentStory) return;
+            
+            document.getElementById('storyTitle').textContent = currentStory.title;
+            
+            // Sắp xếp các chương trước khi hiển thị
+            const sortedChapters = [...currentStory.chapters].sort(naturalSort);
+            // Cập nhật lại mảng chapters của truyện để thứ tự được giữ nguyên cho việc điều hướng
+            currentStory.chapters = sortedChapters;
+    
+            const chapterList = document.getElementById('chapterList');
+            chapterList.innerHTML = sortedChapters.map((chapter, index) => `
+                <div class="chapter-item" onclick="readChapter(${index})">
+                    <span>${chapter.title}</span>
+                    <span>📖</span>
+                </div>
+            `).join('');
+            
+            showPage('chapterList');
+        }
+        
+        // Đọc chương
+        async function readChapter(chapterIndex) {
+            if (!currentStory) return;
+            
+            currentChapterIndex = chapterIndex;
+            const chapter = currentStory.chapters[chapterIndex];
+            
+            document.getElementById('currentChapterTitle').textContent = chapter.title;
+            
+            document.getElementById('prevChapter').disabled = chapterIndex === 0;
+            document.getElementById('nextChapter').disabled = chapterIndex >= currentStory.chapters.length - 1;
+            
+            showPage('reader');
+            
+            await loadChapterContent(chapter);
+        }
+        
+        // Tải nội dung chương từ file markdown
+        async function loadChapterContent(chapter) {
+            const readerContent = document.getElementById('readerContent');
+            readerContent.innerHTML = '<div class="loading">Đang tải nội dung...</div>';
+            
+            try {
+                const response = await fetch(`books/${currentStory.folder}/${chapter.file}`);
+                if (!response.ok) {
+                    throw new Error('Không thể tải file chương');
+                }
+                
+                const markdown = await response.text();
+                readerContent.innerHTML = marked.parse(markdown);
+                
+                window.scrollTo(0, 0);
+                
+            } catch (error) {
+                readerContent.innerHTML = `
+                    <div class="error">
+                        Không thể tải nội dung chương. Vui lòng kiểm tra file: books/${currentStory.folder}/${chapter.file}
+                    </div>
+                `;
+            }
+        }
+        
+        // Chuyển đến chương trước
+        function previousChapter() {
+            if (currentChapterIndex > 0) {
+                readChapter(currentChapterIndex - 1);
+            }
+        }
+        
+        // Chuyển đến chương sau
+        function nextChapter() {
+            if (currentChapterIndex < currentStory.chapters.length - 1) {
+                readChapter(currentChapterIndex + 1);
+            }
+        }
+        
+        // Hiển thị danh sách chương
+        function showChapterList() {
+            showPage('chapterList');
+        }
+        
+        // Hiển thị trang chủ
+        function showHome() {
+            currentStory = null;
+            showPage('home');
+        }
+        
+        // Quay lại trang trước
+        function goBack() {
+            if (currentPage === 'reader') {
+                showChapterList();
+            } else if (currentPage === 'chapterList') {
+                showHome();
+            }
+        }
+        
+        // Chuyển đổi giữa các trang
+        function showPage(page) {
+            document.getElementById('homePage').classList.add('hidden');
+            document.getElementById('chapterListPage').classList.add('hidden');
+            document.getElementById('readerPage').classList.add('hidden');
+            
+            document.getElementById(page + 'Page').classList.remove('hidden');
+            
+            if (page === 'home') {
+                document.getElementById('homeBtn').classList.add('hidden');
+                document.getElementById('backBtn').classList.add('hidden');
+            } else {
+                document.getElementById('homeBtn').classList.remove('hidden');
+                document.getElementById('backBtn').classList.remove('hidden');
+            }
+            
+            currentPage = page;
+        }
+        
+        window.addEventListener('load', init);
+    </script>
+</body>
+</html>

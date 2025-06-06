@@ -1,0 +1,39 @@
+# Read Shadow Slave - Chapter 1993: Attrition online free - Novelfull
+
+## Tóm tắt chương truyện
+
+Dưới chiến trường hỗn loạn, Sunny nhận thấy quân đội Liên Minh Kiếm (Sword Army) đang dần mất lợi thế trước quân đội Tống (Song Army). Mặc dù quân đội Kiếm được trang bị tốt hơn, huấn luyện bài bản hơn và kỷ luật hơn, nhưng lợi thế này chỉ là ảo ảnh.
+
+Quân đội Kiếm giành chiến thắng trong nhiều trận chiến và chịu ít thương vong hơn, nhưng số lượng quân đội của họ đang giảm dần. Trong khi đó, quân đội Tống không ngừng tăng lên nhờ Nữ Hoàng Giun (Queen of Worms). Bà ta không phân biệt đối xử giữa quân đội của mình và quân đội của kẻ thù, mà biến tất cả những người ngã xuống thành một phần của đội quân bất tử. Cảnh tượng đồng đội vừa chiến đấu bên cạnh mình phút trước, nay trỗi dậy từ cõi chết với ánh mắt trống rỗng và ý định giết mình, thật sự gây ám ảnh.
+
+Sunny nhận ra Liên Minh Kiếm đang tham gia vào một cuộc chiến hao mòn (Attrition), và họ không thể thắng. Càng kéo dài, Liên Minh Kiếm càng mất nhiều binh sĩ, trong khi quân đội Tống ngày càng lớn mạnh. Sự chênh lệch này dẫn đến thương vong lớn hơn cho Liên Minh Kiếm, tạo ra một vòng luẩn quẩn đáng sợ.
+
+Tình hình tương tự cũng đang diễn ra trên chiến trường mà Sunny đang quan sát. Nếu không có sự thay đổi, họ sẽ phải chịu một thất bại cay đắng, có thể gây ra những hậu quả không thể khắc phục và làm thay đổi cán cân quyền lực có lợi cho quân đội Tống. Sunny nhìn về phía Vua Kiếm (King of Swords), tự hỏi vị Chúa Tể đáng sợ đang suy nghĩ gì.
+
+## Toàn bộ chương
+
+### Chương 1993: Hao mòn
+
+Từ phía dưới sâu thẳm, trận chiến dường như đang treo lơ lửng trên một cán cân mong manh. Ranh giới giữa các bên giao tranh trở nên xoắn xuýt và đứt gãy, và ở một số nơi, mọi hình thức trật tự đã biến mất. Vô số chiến binh Thức Tỉnh (Awakened) đan xen vào nhau trong một cuộc hỗn chiến hỗn loạn, quên hết kỷ luật và đội hình chiến đấu. Máu đổ xuống đất, và một tràng dài những tiếng kêu tuyệt vọng chìm nghỉm trong tiếng thép va chạm chói tai.
+
+Ở những nơi khác, các sĩ quan kiên trung vẫn duy trì được một chút kiểm soát. Lực lượng của Quân đoàn Kiếm (Sword Army) đang đẩy lùi lực lượng của Tống (Song) ở sườn trái của đội hình lớn, trong khi sườn phải của họ lại bị đẩy ngược trở lại. Ở trung tâm, một cuộc giằng co dữ dội đang diễn ra, không bên nào giành được lợi thế. Thoạt nhìn, binh lính của Lãnh địa Kiếm (Sword Domain) có vẻ ở vị thế tốt hơn. Điều đó đúng trong suốt cuộc chiến. Các chiến binh của Lãnh địa Tống không hề thiếu dũng khí, quyết tâm hay sức mạnh chiến đấu… thực tế, Sunny đã nhiều lần kinh ngạc trước sự kiên trì ngoan cường của họ. Sức mạnh và chiến thuật của họ thường kỳ lạ, xảo quyệt và hoang dã, mang theo cảm giác nguy hiểm chết người.
+
+Họ lạnh lùng, không sợ hãi trước cái chết, và tàn nhẫn một cách tàn bạo khi cần thiết. Tuy nhiên, họ đơn giản là không phải đối thủ của binh lính Quân đoàn Kiếm. Quân đội của Lãnh địa Kiếm được trang bị tốt hơn, huấn luyện bài bản hơn và có khả năng duy trì kỷ luật tốt hơn trong những tình huống khó khăn. Ngay cả khi mỗi chiến binh riêng lẻ chiến đấu dưới ngọn cờ của Kiếm Vương (King of Swords) không mạnh hơn các chiến binh của Tống, thì cùng nhau, họ tạo thành một lực lượng mạnh mẽ và chết chóc hơn nhiều. Một phần là do Gia tộc Valor (Clan Valor) và các chư hầu của họ đã nắm quyền lâu hơn Gia tộc Tống, và do đó sở hữu một truyền thống võ thuật phong phú hơn nhiều. Nòng cốt của Quân đoàn Kiếm đã được rèn luyện trong các chiến dịch chinh phục liên tiếp, đưa những vùng đất rộng lớn của Mộng Giới (Dream Realm) dưới sự kiểm soát của loài người, và mặc dù Ki Song đã dẫn đầu một cuộc chinh phục lịch sử của riêng mình, nhưng quy mô và thời gian của nó không thể so sánh được.
+
+Một phần cũng là do những người Thức Tỉnh của Lãnh địa Kiếm luôn hiếu chiến hơn, và văn hóa võ thuật của họ luôn nghiêng nhiều hơn về hướng chiến tranh có tổ chức. Gia tộc Valor đã thừa hưởng dòng dõi của Chiến Thần (War God), và do đó, khu vực dưới sự kiểm soát của họ đã bị ảnh hưởng một cách tinh tế để phù hợp với di sản đó. ...Nhưng phần lớn là do Kiếm Vương.
+
+Uy quyền của ông ta ở khắp mọi nơi, bao trùm Quân đoàn Kiếm như một tấm màn vô hình. Những người lính không chỉ chiến đấu vì Lãnh địa của ông ta—họ là một phần của lãnh địa đó, và do đó, là những kênh dẫn của nó. Sunny đã nhận thấy tác động tinh tế từ uy quyền của Anvil trong trận chiến đầu tiên ở rìa phía đông của Đồng bằng Xương Quai Xanh (Collarbone Plain). Những người mang nó sẽ không trở nên mạnh hơn hay quyền năng hơn một cách kỳ diệu, nhưng hiệu quả của các hành động chung của họ sẽ lớn hơn, sự hợp tác của họ sẽ liền mạch hơn, và tinh thần chiến đấu của họ sẽ trở nên bất khuất hơn.
+
+Đó là một uy quyền để làm cho quân đội chiến thắng. Và đó là lý do tại sao những người lính của Tống lại thua kém một cách tuyệt vọng trong cuộc chiến này. Ngay cả bây giờ, họ đang phải chịu đựng trên chiến trường. Các đợt sóng chiến binh Tống vỡ tan vào thành trì thép của lực lượng Quân đoàn Kiếm, trả giá đắt cho mỗi cuộc tấn công. Bất chấp sự tàn phá khủng khiếp của trận chiến, kẻ thù của họ vẫn duy trì một mức độ kỷ luật quân sự cao—các đơn vị tiền tuyến chịu đựng các cuộc tấn công lâu nhất có thể, sau đó rút lui để nhường chỗ cho quân tiếp viện. Khi đến thời điểm tấn công, họ tiến lên như một thực thể duy nhất. Khi các phòng tuyến bị phá vỡ và các chiến binh của Lãnh địa Kiếm bị đẩy lùi, họ ngay lập tức nhận được quân tiếp viện. Cứ mỗi một người lính của Quân đoàn Kiếm ngã xuống, hai kẻ thù phải chết. Sunny thở dài. Điều đó không quan trọng, cuối cùng. Lợi thế rõ ràng của Quân đoàn Kiếm… chỉ là một ảo ảnh. Bất cứ ai có một chút hiểu biết đều có thể nhận ra rằng mọi thứ thực sự đang diễn ra khá tệ đối với phe của họ. Đó là bởi vì Nữ hoàng Sâu Bọ (Queen of Worms) cũng đang gây ảnh hưởng lên chiến trường. Và sức mạnh của bà ta không hề kém đáng sợ so với sức mạnh của Kiếm Vương. Có gì quan trọng nếu ít chiến binh của Quân đoàn Kiếm chết hơn? Cuối cùng, tất cả những người đã chết—bất kể bên nào—đều đơn giản sống lại, trở thành thành viên của quân đoàn người chết. Điều đó cũng đúng trong suốt cuộc chiến.
+
+Đúng vậy, Quân đoàn Kiếm mạnh hơn. Và đúng vậy, họ đã nắm giữ lợi thế từ đầu, giành được nhiều trận thắng hơn số trận thua, và chịu ít thương vong hơn nhiều so với kẻ thù.
+
+Nhưng đó vẫn là con đường dẫn đến thất bại chắc chắn. Khi tổn thất của cả hai bên tăng lên, chỉ có một bên thực sự trở nên yếu hơn… bên mà Sunny đang chiến đấu. Trong khi đó, Quân đội Tống đang mất đi những chiến binh Thức Tỉnh, nhưng số lượng của họ không bao giờ thực sự giảm đi.
+
+Ngược lại, họ tiếp tục phát triển. Bởi vì không quan trọng những người chết đã từng trung thành với ai—Nữ hoàng Sâu Bọ không phân biệt giữa những người ngã xuống của quân đội của bà ta hay của kẻ thù, mà ôm tất cả với lòng khoan dung như nhau. Thật là một cảnh tượng rùng rợn, khi thấy một đồng đội mà bạn vừa chiến đấu sát cánh bên cạnh một phút trước, và cái chết của người đó khiến bạn đau buồn, trỗi dậy từ mặt đất và hướng ánh mắt trống rỗng về phía bạn, quyết tâm dập tắt mạng sống của bạn. Cứ như thể Quân đoàn Kiếm đang tiến hành chiến tranh chống lại chính cái chết.
+
+Cuộc chiến càng kéo dài, Lãnh địa Kiếm càng mất nhiều binh lính, và quân đội của Lãnh địa Tống càng trở nên lớn mạnh hơn. Và khoảng cách giữa hai bên càng lớn, Quân đoàn Kiếm càng phải chịu nhiều thương vong, do đó tạo ra một vòng luẩn quẩn đáng sợ.
+
+Bất chấp sự vượt trội của mình, họ обречены (обречены) phải thua cuộc chiến tranh tiêu hao này. ...Tình huống tương tự, mặc dù ở quy mô nhỏ hơn, hiện đang diễn ra trên chiến trường mà Sunny đang quan sát. Điều gì đó phải thay đổi sớm, nếu không họ sẽ phải chịu một thất bại cay đắng… điều này rất có thể trở nên không thể khắc phục, làm thay đổi cán cân quyền lực có lợi cho Lãnh địa Tống quá nhiều.
+
+Cậu liếc nhìn Kiếm Vương, tự hỏi vị Chúa Tể đáng sợ đó đang nghĩ gì.

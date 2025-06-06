@@ -1,0 +1,21 @@
+{% extends "base.njk" %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+
+    <article>
+        {{ content | safe }}
+    </article>
+
+    <div class="nav">
+        {% if pagination.previous %}
+            <a href="{{ pagination.previous.url }}">« Chương Trước</a>
+        {% endif %}
+        
+        <a href="/">Về trang chủ</a>
+
+        {% if pagination.next %}
+            <a href="{{ pagination.next.url }}">Chương Tiếp »</a>
+        {% endif %}
+    </div>
+{% endblock %}

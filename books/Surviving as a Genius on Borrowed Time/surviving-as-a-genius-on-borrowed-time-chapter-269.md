@@ -1,0 +1,13 @@
+# Surviving as a Genius on Borrowed Time Chapter 269 - faqwiki.xyz
+
+## Tóm tắt chương truyện
+
+Jeongyeonshin giao chiến với nhiều đối thủ ở núi TaeBaek, sử dụng kiếm pháp Thanh An Ma Kiếm (Cheong-an Demon Sword) tiêu diệt gần như toàn bộ kẻ địch. Baek Mi-ryeo xuất hiện, tỏ vẻ tức giận nhưng lại có chút bối rối khi Jeongyeonshin ngỏ ý muốn nhận cô là em gái. Yulhanangrang cũng xuất hiện, ca ngợi Jeongyeonshin và nhắc nhở cậu về Bindo, khuyên cậu không nên dùng kiếm pháp mạnh mẽ để đối đầu trực diện mà cần có phương pháp riêng. Yulhanangrang tiết lộ rằng mình đã bị thương nặng do Khí công Hắc Ám (Dark Spirit) của đối thủ và sắp phải rời đi.
+
+Trước khi đi, Yulhanangrang kịp thời che chắn cho Jeongyeonshin khỏi năng lượng hắc ám từ bên dưới. Vụ việc ở núi TaeBaek gây xôn xao dư luận ở Thiểm Tây (Shaanxi), đặc biệt là sức mạnh của Jeongyeonshin. Trong khi đó, tại một trang viên vắng vẻ, một kẻ mặc đồ đen chỉ trích việc không tiêu diệt chưởng môn nhân Hoa Sơn (Hwasan Jangmunin) vì hắn ta sở hữu Thánh Hỏa Kiếm (Holy Fire Sword), thanh thần kiếm duy nhất còn lại ở Thiểm Tây. Đại kiếm sư (great swordsman) đáp lại rằng Thánh Linh (Holy Spirit) tự mình lựa chọn người xứng đáng. Hắn ta thừa nhận việc đánh giá thấp Jeongyeonshin và tiết lộ rằng việc chưởng môn nhân Hoa Sơn còn sống là để Jeongyeonshin có cơ hội thể hiện năng lực. Đại kiếm sư thổ huyết, cho thấy hắn bị thương nặng khi sử dụng Hắc Ám Phần Hương (Dark Incense Burner). Yeo Ryeong-ju chế nhạo và gợi ý Jeongyeonshin làm hộ vệ bí mật cho cậu, nhưng đại kiếm sư từ chối vì tin rằng Jeongyeonshin cần tự mình đối mặt với thử thách để phát triển. Yeo Ryeong-ju thông báo sẽ không can thiệp vào Jeongyeonshin nữa và chuyển sự chú ý sang Hà Bắc Bằng Gia (Habukpengga).
+
+Trong khi đó, Ma Gwang-ik trở về Tông Nam (Jongnam) và được an dưỡng. Jeong-hye, cháu gái của Jeongyeonshin, cũng tỉnh lại sau khi uống thuốc. Jeongyeonshin gửi thư trả lời Jin Myeong-jo, bày tỏ sự ngưỡng mộ và lòng biết ơn. Sau đó, Jeongyeonshin hướng dẫn Jeong-hye luyện tập Đông Công (Donggong), một phương pháp giúp tăng cường sức mạnh cơ thể. Khi Jeongyeonshin đang dạy dỗ Jeong-hye, một con chim én đưa đến một bức thư từ Aksurim, phó kiếm chủ (Sword Master’s deputy) của Tân Kiếm Chủ (New Sword Master), thông báo rằng Shingeomdan và Muryonghoe đã bị tấn công và cần được đưa đến nơi an nghỉ. Aksurim cũng bày tỏ sự nhớ nhung Jeongyeonshin.
+
+## Toàn bộ chương
+
+[Processing failed for chunk 1: 504 Deadline Exceeded]

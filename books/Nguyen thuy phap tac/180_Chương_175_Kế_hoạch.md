@@ -1,4 +1,3 @@
-```
 Chương 175: Kế hoạch
 
 "Hắn nếu hỏi lại, cứ nói cho hắn biết."
@@ -150,7 +149,7 @@ Nghiêu Âm đi phía trước dẫn đường, Lý Duy Nhất đi vào nơi ở
 Thắp sáng cốt đăng, nàng chuẩn bị rời đi.
 
 Lý Duy Nhất nhìn thiếu nữ như bạch ngọc đúc thành dưới ánh đèn...
-```nữ, hỏi: "Trong khoảng thời gian này, Băng Phách Hàn Khí có phát tác nhiều không?"
+nữ, hỏi: "Trong khoảng thời gian này, Băng Phách Hàn Khí có phát tác nhiều không?"
 
 Nghiêu Âm khẽ lắc đầu.
 

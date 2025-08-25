@@ -1,4 +1,3 @@
-```
 ## Chương 239: Tết mười lăm, sáng sớm
 
 Đông thành, lòng đất Minh Thị.
@@ -150,7 +149,7 @@ Lý Duy Nhất nói: "Ngươi trước nói cho ta một chút, ngươi nửa th
 "Vốn là suýt nữa bị Loan Sinh Lân Ấu một chưởng đánh c·h·ế·t, nhưng ta đây không phải kế thừa Cửu Lê chi thần chiến pháp ý niệm? Rơi sông về sau, bằng vào loại giao dị chủng thân thể thiên phú và Cửu thủ ma giao chiến pháp ý niệm, thủy độn mà đi, chạy trốn tới Binh Tổ Trạch biển bên trên, sau đó một mực trốn ở Minh Nguyệt Thất Tinh Các dưỡng thương."
 
 Ẩn thập nhất nhãn thần đặc sắc tuyệt luân: "Ngươi đoán, ta tại Minh Nguyệt Thất Tinh Các..."
-```"Gặp cái gì?"
+"Gặp cái gì?"
 
 Lý Duy Nhất hỏi.
 

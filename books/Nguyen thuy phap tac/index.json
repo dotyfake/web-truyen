@@ -1,6 +1,6 @@
 {
   "title": "Nguyen Thuy Phap Tac",
-  "description": "Truyện 359 chương",
+  "description": "Truyện 471 chương",
   "folder": "Nguyen thuy phap tac",
   "chapters": [
     {
@@ -324,7 +324,7 @@
       "file": "80_Chương_75_Dòng_suối_róc_rách.md"
     },
     {
-      "title": "Chương 76: Ẩn nhị thập tứ",
+      "title": "``## Chương 76: Ẩn nhị thập tứ",
       "file": "81_Chương_76_Ẩn_nhị_thập_tứ.md"
     },
     {
@@ -1438,10 +1438,458 @@
     {
       "title": "Chương 351: Tề Tiêu mang về tin tức",
       "file": "359_Chương_351_Tề_Tiêu_mang_về_tin_tức.md"
+    },
+    {
+      "title": "Chương 352: Bí ẩn chiến tuyến",
+      "file": "360_Chương_352_Bí_ẩn_chiến_tuyến.md"
+    },
+    {
+      "title": "Chương 353: Ngũ tinh Linh niệm sư",
+      "file": "361_Chương_353_Ngũ_tinh_Linh_niệm_sư.md"
+    },
+    {
+      "title": "Chương 354: Tế đàn, cổ chú",
+      "file": "362_Chương_354_Tế_đàn,_cổ_chú.md"
+    },
+    {
+      "title": "Chương 355: Thái Sử gia tộc nguy cơ",
+      "file": "363_Chương_355_Thái_Sử_gia_tộc_nguy_cơ.md"
+    },
+    {
+      "title": "Chương 356: Hưng sư vấn tội",
+      "file": "364_Chương_356_Hưng_sư_vấn_tội.md"
+    },
+    {
+      "title": "Chương 357: Vạn dặm trăm phường Lăng Tiêu Thành",
+      "file": "365_Chương_357_Vạn_dặm_trăm_phường_Lăng_Tiêu_Thành.md"
+    },
+    {
+      "title": "Chương 358: Thái Sử giáp thủ Thái Sử Vũ",
+      "file": "366_Chương_358_Thái_Sử_giáp_thủ_Thái_Sử_Vũ.md"
+    },
+    {
+      "title": "Chương 359: Gặp mặt Ẩn nhị",
+      "file": "367_Chương_359_Gặp_mặt_Ẩn_nhị.md"
+    },
+    {
+      "title": "Chương 360: Đại chiến Quỷ mẫu",
+      "file": "368_Chương_360_Đại_chiến_quỷ_mẫu.md"
+    },
+    {
+      "title": "Chương 361: Thái Sử dạ yến",
+      "file": "369_Chương_361_Thái_Sử_dạ_yến.md"
+    },
+    {
+      "title": "Chương 362: Phù Tang Thụ Hạ",
+      "file": "370_Chương_362_Phù_tang_thụ_hạ.md"
+    },
+    {
+      "title": "Chương 363: Lại bị Khương đại nhân chặn đường",
+      "file": "371_Chương_363_Lại_bị_Khương_đại_nhân_chặn_đường.md"
+    },
+    {
+      "title": "Chương 364: Bại lộ",
+      "file": "372_Chương_364_Bại_lộ.md"
+    },
+    {
+      "title": "Chương 365: Tây Hải Vương phủ",
+      "file": "373_Chương_365_Tây_Hải_Vương_phủ.md"
+    },
+    {
+      "title": "374 Tháng 6 Nguyệt Phiếu Rút Thưởng Hoạt Động!",
+      "file": "374_tháng_6_nguyệt_phiếu_rút_thưởng_hoạt_động!.md"
+    },
+    {
+      "title": "Chương 366: Thánh Anh",
+      "file": "375_Chương_366_Thánh_Anh.md"
+    },
+    {
+      "title": "Chương 367: Ma quốc Tiêu dao kinh",
+      "file": "376_Chương_367_Ma_quốc_Tiêu_dao_kinh.md"
+    },
+    {
+      "title": "Chương 368: Ta nhất định đánh c·h·ế·t ngươi",
+      "file": "377_Chương_368_Ta_nhất_định_đánh_c·h·ế·t_ngươi.md"
+    },
+    {
+      "title": "Chương 369: Tả Ninh cùng Tạ Sở Tài",
+      "file": "378_Chương_369_Tả_Ninh_cùng_Tạ_Sở_Tài.md"
+    },
+    {
+      "title": "Chương 370: Hai mâu trọng thương",
+      "file": "379_Chương_370_Hai_mâu_trọng_thương.md"
+    },
+    {
+      "title": "Chương 371: Liên phá hai trọng đạo tượng đồ",
+      "file": "380_Chương_371_Liên_phá_hai_trọng_đạo_tượng_đồ.md"
+    },
+    {
+      "title": "Chương 372: Lục niệm thiền viện",
+      "file": "381_Chương_372_Lục_niệm_thiền_viện.md"
+    },
+    {
+      "title": "Chương 373: Thần tử đánh thần tử",
+      "file": "382_Chương_373_Thần_tử_đánh_thần_tử.md"
+    },
+    {
+      "title": "383 Đổi Mới Trì Hoãn Thông Tri!",
+      "file": "383_đổi_mới_trì_hoãn_thông_tri!.md"
+    },
+    {
+      "title": "Chương 374: Ngả bài",
+      "file": "384_Chương_374_Ngả_bài.md"
+    },
+    {
+      "title": "Chương 375: Ngươi cảm thấy ta ăn dấm",
+      "file": "385_Chương_375_Ngươi_cảm_thấy_ta_ăn_dấm.md"
+    },
+    {
+      "title": "Chương 376: Ẩn nhân hội nghị",
+      "file": "386_Chương_376_Ẩn_nhân_hội_nghị.md"
+    },
+    {
+      "title": "Chương 377: Tiểu trưởng lão",
+      "file": "387_Chương_377_Tiểu_trưởng_lão.md"
+    },
+    {
+      "title": "Chương 378: Tỷ ta c·h·ế·t",
+      "file": "388_Chương_378_Tỷ_ta_c·h·ế·t.md"
+    },
+    {
+      "title": "Chương 379: Đạo sinh",
+      "file": "389_Chương_379_Đạo_sinh.md"
+    },
+    {
+      "title": "Chương 380: Bị tập kích, gặp lại Loan Sinh Lân Ấu",
+      "file": "390_Chương_380_Bị_tập_kích,_gặp_lại_Loan_Sinh_Lân_Ấu.md"
+    },
+    {
+      "title": "\\\\Chương 381: Toàn bộ thực lực của Lý Duy Nhất\\\\",
+      "file": "391_Chương_381_Lý_Duy_Nhất_toàn_bộ_thực_lực.md"
+    },
+    {
+      "title": "Chương 382: Nàng mới thật sự là Tả Ninh",
+      "file": "392_Chương_382_Nàng_mới_thật_sự_là_Tả_Ninh.md"
+    },
+    {
+      "title": "Chương 383: Đến từ vị hôn thê khảo vấn",
+      "file": "393_Chương_383_Đến_từ_vị_hôn_thê_khảo_vấn.md"
+    },
+    {
+      "title": "Chương 384: Hồng nhan tri kỷ",
+      "file": "394_Chương_384_Hồng_nhan_tri_kỷ.md"
+    },
+    {
+      "title": "Chương 385: Thái Thường Tự",
+      "file": "395_Chương_385_Thái_Thường_Tự.md"
+    },
+    {
+      "title": "Chương 386: Viễn cổ tiên tuyền",
+      "file": "396_Chương_386_Viễn_cổ_tiên_tuyền.md"
+    },
+    {
+      "title": "Chương 387: Chiến thư",
+      "file": "397_Chương_387_Chiến_thư.md"
+    },
+    {
+      "title": "Chương 388: Khiêu khích",
+      "file": "398_Chương_388_Khiêu_khích.md"
+    },
+    {
+      "title": "Chương 389: Hắc ám thần tộc",
+      "file": "399_Chương_389_Hắc_ám_thần_tộc.md"
+    },
+    {
+      "title": "Thông báo: Chương mới bị trì hoãn!",
+      "file": "400_tối_nay_đổi_mới_trì_hoãn!.md"
+    },
+    {
+      "title": "Chương 390: Ba mươi mốt tháng chạp",
+      "file": "401_Chương_390_Ba_mươi_mốt_tháng_chạp.md"
+    },
+    {
+      "title": "\\\\Chương 391: Chiều hướng phát triển\\\\",
+      "file": "402_Chương_391_Chiều_hướng_phát_triển.md"
+    },
+    {
+      "title": "Chương 392: Giao phong, Lục niệm chi đỉnh",
+      "file": "403_Chương_392_Giao_phong,_Lục_niệm_chi_đỉnh.md"
+    },
+    {
+      "title": "Chương 393: Tuyệt đại Châu mục, Thiên tử Long hồn",
+      "file": "404_Chương_393_Tuyệt_đại_Châu_mục,_Thiên_tử_Long_hồn.md"
+    },
+    {
+      "title": "405 Đổi Mới Trì Hoãn ~",
+      "file": "405_đổi_mới_trì_hoãn_~.md"
+    },
+    {
+      "title": "\\\\Chương 394: Triêu dương xuất Phù Tang\\\\",
+      "file": "406_Chương_394_Triêu_dương_xuất_Phù_Tang.md"
+    },
+    {
+      "title": "Chương 395: Tam cung chủ giá lâm",
+      "file": "407_Chương_395_Tam_cung_chủ_giá_lâm.md"
+    },
+    {
+      "title": "408 Tháng 6, Nửa Tháng Sau Nguyệt Phiếu Rút Thưởng Hoạt Động",
+      "file": "408_tháng_6,_nửa_tháng_sau_nguyệt_phiếu_rút_thưởng_hoạt_động.md"
+    },
+    {
+      "title": "409 Tối Nay Đổi Mới Chậm Một Chút Một Điểm!",
+      "file": "409_tối_nay_đổi_mới_chậm_một_chút_một_điểm!.md"
+    },
+    {
+      "title": "Chương 396: Thánh Anh c·h·ế·t, Ma Đồng xuất",
+      "file": "410_Chương_396_Thánh_Anh_c·h·ế·t,_Ma_Đồng_xuất.md"
+    },
+    {
+      "title": "Chương 397: Mất hết can đảm",
+      "file": "411_Chương_397_Mất_hết_can_đảm.md"
+    },
+    {
+      "title": "Kết quả chương trình quay thưởng vé tháng tháng Sáu như sau:",
+      "file": "412_tháng_6_nguyệt_phiếu_rút_thưởng_kết_quả!.md"
+    },
+    {
+      "title": "Chương 398: Thiên đạo sáng tỏ",
+      "file": "413_Chương_398_Thiên_đạo_sáng_tỏ.md"
+    },
+    {
+      "title": "Chương 399: Thật không phải ngươi làm",
+      "file": "414_Chương_399_Thật_không_phải_ngươi_làm.md"
+    },
+    {
+      "title": "Chương 400: Tiên nguyên ly biệt",
+      "file": "415_Chương_400_Tiên_nguyên_ly_biệt.md"
+    },
+    {
+      "title": "Chương 401: Phủ Châu gặp nhau",
+      "file": "416_Chương_401_Phủ_Châu_gặp_nhau.md"
+    },
+    {
+      "title": "Chương 402: Ma Đồng đối thủ",
+      "file": "417_Chương_402_Ma_Đồng_đối_thủ.md"
+    },
+    {
+      "title": "\\\\Chương 403: Sư Đà\\\\",
+      "file": "418_Chương_403_Sư_Đà.md"
+    },
+    {
+      "title": "Chương 404: Long thủ lạc đà",
+      "file": "419_Chương_404_Long_thủ_lạc_đà.md"
+    },
+    {
+      "title": "Chương 405: Lê Lăng trưởng thành",
+      "file": "420_Chương_405_Lê_Lăng_trưởng_thành.md"
+    },
+    {
+      "title": "Chương 406: Lục niệm tâm thần chú",
+      "file": "421_Chương_406_Lục_niệm_tâm_thần_chú.md"
+    },
+    {
+      "title": "Chương 407: Đăng lâm Phượng Các",
+      "file": "422_Chương_407_Đăng_lâm_Phượng_Các.md"
+    },
+    {
+      "title": "Chương 408: Cửu tiêu bí tàng",
+      "file": "423_Chương_408_Cửu_tiêu_bí_tàng.md"
+    },
+    {
+      "title": "Chương 409: Sụp đổ Cát Tiên Đồng",
+      "file": "424_Chương_409_Sụp_đổ_Cát_Tiên_Đồng.md"
+    },
+    {
+      "title": "Chương 410: 《Không minh quyết》",
+      "file": "425_Chương_410_《Không_minh_quyết》.md"
+    },
+    {
+      "title": "Chương 411: Thông nhi",
+      "file": "426_Chương_411_Thông_nhi.md"
+    },
+    {
+      "title": "Chương 412: Lão sư, ta không có lười biếng",
+      "file": "427_Chương_412_Lão_sư,_ta_không_có_lười_biếng.md"
+    },
+    {
+      "title": "Chương 413: Tám trăm",
+      "file": "428_Chương_413_Tám_trăm.md"
+    },
+    {
+      "title": "Chương 414: Oan chủng vị hôn thê",
+      "file": "429_Chương_414_Oan_chủng_vị_hôn_thê.md"
+    },
+    {
+      "title": "Chương 415: Rượu mừng tiệc tiễn biệt",
+      "file": "430_Chương_415_Rượu_mừng_tiệc_tiễn_biệt.md"
+    },
+    {
+      "title": "Chương 416: Tân binh trên chiến trường",
+      "file": "431_Chương_416_Tân_binh_trên_chiến_trường.md"
+    },
+    {
+      "title": "Chương 417: Lão binh đối kỵ binh",
+      "file": "432_Chương_417_Lão_binh_đối_kỵ_binh.md"
+    },
+    {
+      "title": "Chương 418: Toàn thành đều là chiến",
+      "file": "433_Chương_418_Toàn_thành_đều_là_chiến.md"
+    },
+    {
+      "title": "Chương 419: Tiếng chuông gió trở lại Lăng Tiêu Sinh Cảnh",
+      "file": "434_Chương_419_Tiếng_chuông_gió_trở_lại_Lăng_Tiêu_Sinh_Cảnh.md"
+    },
+    {
+      "title": "Chương 420: Huyết tẩy Lân đài",
+      "file": "435_Chương_420_Huyết_tẩy_Lân_Đài.md"
+    },
+    {
+      "title": "Chương 421: Cấm kỵ vẫn lạc",
+      "file": "436_Chương_421_Cấm_kỵ_vẫn_lạc.md"
+    },
+    {
+      "title": "Chương 422: Lấy một địch bốn",
+      "file": "437_Chương_422_Lấy_một_địch_bốn.md"
+    },
+    {
+      "title": "Chương 423: Minh Hà bát trảm",
+      "file": "438_Chương_423_Minh_Hà_bát_trảm.md"
+    },
+    {
+      "title": "Chương 424: Liên sát",
+      "file": "439_Chương_424_Liên_sát.md"
+    },
+    {
+      "title": "Chương 425: Sư đồ",
+      "file": "440_Chương_425_Sư_đồ.md"
+    },
+    {
+      "title": "441 Tháng 7 Nguyệt Phiếu Rút Thưởng Hoạt Động!",
+      "file": "441_tháng_7_nguyệt_phiếu_rút_thưởng_hoạt_động!.md"
+    },
+    {
+      "title": "Chương 426: Tông thánh học phủ, Thiên địa chi âm",
+      "file": "442_Chương_426_Tông_thánh_học_phủ,_Thiên_địa_chi_âm.md"
+    },
+    {
+      "title": "Chương 427: Thành phá",
+      "file": "443_Chương_427_Thành_phá.md"
+    },
+    {
+      "title": "444 Tháng Sáu Nguyệt Phiếu Nửa Tháng Sau, Rút Thưởng Kết Quả!",
+      "file": "444_tháng_sáu_nguyệt_phiếu_nửa_tháng_sau,_rút_thưởng_kết_quả!.md"
+    },
+    {
+      "title": "Chương 428: Nhất kiếm trảm",
+      "file": "445_Chương_428_Nhất_kiếm_trảm.md"
+    },
+    {
+      "title": "Chương 429: Đạo hoa hương, khắp thiên hạ",
+      "file": "446_Chương_429_Đạo_hoa_hương,_khắp_thiên_hạ.md"
+    },
+    {
+      "title": "Chương 430: Ẩn tổ xuất thế, côn trùng kêu vang thiên hạ",
+      "file": "447_Chương_430_Ẩn_tổ_xuất_thế,_côn_trùng_kêu_vang_thiên_hạ.md"
+    },
+    {
+      "title": "Chương 431: Bụng tàng thập nhất quốc, Kim thân một trượng sáu",
+      "file": "448_Chương_431_Bụng_tàng_thập_nhất_quốc,_Kim_thân_một_trượng_sáu.md"
+    },
+    {
+      "title": "Chương 432: Máu nhuộm Tây cảnh",
+      "file": "449_Chương_432_Máu_nhuộm_Tây_cảnh.md"
+    },
+    {
+      "title": "Chương 433: Một tháng sau",
+      "file": "450_Chương_433_Một_tháng_sau.md"
+    },
+    {
+      "title": "451 Tối Nay Đổi Mới Trễ Một Điểm!",
+      "file": "451_tối_nay_đổi_mới_trễ_một_điểm!.md"
+    },
+    {
+      "title": "Chương 434: Biên thành khách sạn",
+      "file": "452_Chương_434_Biên_thành_khách_sạn.md"
+    },
+    {
+      "title": "Chương 435: Thệ linh thị trường",
+      "file": "453_Chương_435_Thệ_linh_thị_trường.md"
+    },
+    {
+      "title": "Chương 436: Đạo Châu",
+      "file": "454_Chương_436_Đạo_Châu.md"
+    },
+    {
+      "title": "Chương 437: Lục Như Phần Nghiệp Tầng Thứ Ba",
+      "file": "455_Chương_437_Lục_như_phần_nghiệp_tầng_thứ_ba.md"
+    },
+    {
+      "title": "Chương 438: Cửu Lê Tộc lớn nhất phản đồ",
+      "file": "456_Chương_438_Cửu_Lê_Tộc_lớn_nhất_phản_đồ_-_Quyển_mới_Đông_hải_tầm_tiên.md"
+    },
+    {
+      "title": "Chương 439: Hư Không Khắc Ấn",
+      "file": "457_Chương_439_Hư_không_khắc_ấn.md"
+    },
+    {
+      "title": "458 Đổi Mới Trì Hoãn!",
+      "file": "458_đổi_mới_trì_hoãn!.md"
+    },
+    {
+      "title": "Chương 440: Xâm nhập U cảnh",
+      "file": "459_Chương_440_Xâm_nhập_U_cảnh.md"
+    },
+    {
+      "title": "Chương 441: Bạch sa mạc",
+      "file": "460_Chương_441_Bạch_sa_mạc.md"
+    },
+    {
+      "title": "461 Đổi Mới Trì Hoãn!",
+      "file": "461_đổi_mới_trì_hoãn!.md"
+    },
+    {
+      "title": "Chương 442: Tập sát trên biển",
+      "file": "462_Chương_442_Tập_sát_trên_biển.md"
+    },
+    {
+      "title": "Chương 443: Cướp bóc",
+      "file": "463_Chương_443_Cướp_bóc.md"
+    },
+    {
+      "title": "Chương 444: A Ly",
+      "file": "464_Chương_444_A_Ly.md"
+    },
+    {
+      "title": "Chương 445: Phá cảnh đệ lục trọng thiên",
+      "file": "465_Chương_445_Phá_cảnh_đệ_lục_trọng_thiên.md"
+    },
+    {
+      "title": "\\\\Chương 446: Tiên đạo Long mạch\\\\",
+      "file": "466_Chương_446_Tiên_đạo_long_mạch.md"
+    },
+    {
+      "title": "Chương 447: Châu thành bên ngoài, Đạo hoa hương",
+      "file": "467_Chương_447_Châu_thành_bên_ngoài,_Đạo_hoa_hương.md"
+    },
+    {
+      "title": "Chương 448: Đạo cung chân truyền",
+      "file": "468_Chương_448_Đạo_cung_chân_truyền.md"
+    },
+    {
+      "title": "Chương 449: Đăng Phượng công chúa",
+      "file": "469_Chương_449_Đăng_Phượng_công_chúa.md"
+    },
+    {
+      "title": "\\\\Chương 450: Quyết chiến tại hôm nay\\\\",
+      "file": "470_Chương_450_Quyết_chiến_tại_hôm_nay.md"
+    },
+    {
+      "title": "Chương 451: Phượng huyết thụ",
+      "file": "471_Chương_451_Phượng_huyết_thụ.md"
     }
   ],
-  "total": 359,
+  "total": 471,
   "created_by": "auto_script",
-  "created_at": "2025-08-22T22:52:24.804385",
-  "last_updated": "2025-08-22T22:52:24.804385"
+  "created_at": "2025-08-25T22:45:04.285811",
+  "last_updated": "2025-08-25T22:45:04.285811"
 }

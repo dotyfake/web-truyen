@@ -1,4 +1,3 @@
-```
 \*\*Chương 90: Pháp Vương, đừng quên ngươi nói ban thưởng\*\*
 
 "Xoạt!"
@@ -162,7 +161,7 @@ Hắn vào trong viện, thấy Lý Duy Nhất ngồi dưới mái hiên, tay c�
 Chặt đứt một sợi xích, một người cấp tốc rời khỏi trạch phủ.
 
 "Pháp Vương là một cường giả hàng đầu, làm gì lấn phụ những người cơ khổ này?" Lý Duy Nhất căn bản
-```Thạch Lục Dục cũng không ngẩng đầu lên nhìn hắn.
+Thạch Lục Dục cũng không ngẩng đầu lên nhìn hắn.
 
 Thạch Lục Dục cũng không vội ra tay, giẫm trên vũng bùn nhão máu tươi, nhìn khắp khu vườn đầy tử thi: "Tiểu tử, sát tính của ngươi thật đủ a, toàn bộ bang phái không chừa một ai sống sót."
 

@@ -1,5 +1,4 @@
-```
-## Chương 76: Ẩn nhị thập tứ
+``## Chương 76: Ẩn nhị thập tứ
 
 Lý Duy Nhất giật mình tỉnh giấc, lập tức sờ soạng xung quanh, chạm phải thân thể và tay chân người khác.
 
@@ -164,7 +163,7 @@ Dòng nước ngầm đột nhiên trở nên xiết hơn, thuyền tăng tốc.
 Bọt nước bắn lên, rơi xuống người Lý Duy Nhất.
 
 Lý Duy Nhất sờ soạng một cái, cả tay đỏ tươi, đưa lên mũi ngửi: "Dòng nước trong sông ngầm này, lại cùng với huyết hải chi thủy..."
-```"Ngồi bên cạnh hắn, Nghiêu Âm vừa rồi suýt chút nữa vì dòng nước chảy xiết mà ngã vào lòng hắn, khẽ hừ một tiếng: "Đồ nhà quê! Bên dưới Lăng Tiêu Sinh Cảnh có vô số huyết hà, thông suốt bốn phương, lại có rất nhiều lòng chảo sông rộng lớn, khu mỏ quặng, trùng cảnh, yêu quật. Trên mặt đất là một thế giới, dưới mặt đất cũng là một thế giới khác."
+"Ngồi bên cạnh hắn, Nghiêu Âm vừa rồi suýt chút nữa vì dòng nước chảy xiết mà ngã vào lòng hắn, khẽ hừ một tiếng: "Đồ nhà quê! Bên dưới Lăng Tiêu Sinh Cảnh có vô số huyết hà, thông suốt bốn phương, lại có rất nhiều lòng chảo sông rộng lớn, khu mỏ quặng, trùng cảnh, yêu quật. Trên mặt đất là một thế giới, dưới mặt đất cũng là một thế giới khác."
 
 "Địa Lang Vương Quân, một trong tam đại man tặc khét tiếng của Nam Cảnh, từng trốn tránh ở thế giới dưới lòng đất, chẳng phải đã bị Lăng Tiêu Cung tiêu diệt rồi sao?"
 

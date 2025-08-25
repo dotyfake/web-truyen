@@ -1,4 +1,3 @@
-```
 ## Chương 81: Thập Tuyền Truyền Thuyết
 
 Pháp lực rời thể, hóa thành pháp khí, lập tức kiếm phong hoàng mang tăng vọt.
@@ -166,7 +165,7 @@ Lý Duy Nhất hỏi: "Nhục thân cường độ muốn đạt đến mức n�
 Thủ vệ lão nhân chỉ vào một cây cột sắt lập ở ngoài sơn môn cách đó không xa: "Kia là chí mật trọng binh Ngũ Hải Trụ, nặng 5500 cân, chỉ có võ tu Ngũ Hải Cảnh mới có thể dùng lực nhục thân nhấc lên. Ngươi nếu có thể nhấc được nó ở Dũng Tuyền cảnh, liền có tư cách rèn luyện kim sắc ngấn mạch."
 
 "Diêu Chính Thăng loại người trời sinh thần lực, có thể lấy côn sắt ngàn cân làm binh khí, nhưng thật ra là dùng pháp lực gia trì mới có thể huy động. Chỉ bằng lực nhục thân, hắn khiêng côn sắt ngàn cân cũng không phải một chuyện dễ dàng."
-```đây đã là Dũng Tuyền cảnh nhục thân lực lượng đỉnh tiêm tồn tại!
+đây đã là Dũng Tuyền cảnh nhục thân lực lượng đỉnh tiêm tồn tại!
 
 Lý Duy Nhất đi hướng cây kia màu đen Ngũ Hải Trụ.
 

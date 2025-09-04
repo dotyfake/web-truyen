@@ -2,154 +2,163 @@
 
 ## Tóm tắt chương truyện
 
-Tóm tắt thất bại do giới hạn API (sẽ thử lại sau).
+Chương này mở đầu với việc năm vị chân quân Nhân tộc tấn công Thiên Phật Tự (Thousand Buddha Temple), một ngôi chùa cổ hùng vĩ được hình thành từ những cây đại thụ che trời ở Long Vực (Dragon Realm). Ba vị Hải tộc Hoàng Chủ (Ocean Race Emperor) bị đánh lui ngay lập tức.
+
+Thái Vĩnh (Tai Yong) hóa thành Kim Long vạn trượng, đánh tan phong tỏa, tạo khe hở thời không để đưa Trọng Hi (Zhong Xi) và Hi Dương (Xi Yang) bị thương nặng đi trốn. Hắn tuyên bố: "Hoàng Chủ có thể c·h·ế·t, Long Thiện Lĩnh không thể không! Hôm nay máu nhuộm Thiên Phật Tự người, tự mình Thái Vĩnh cuối cùng!" (Emperors may die, but the Dragon Good Ridge cannot fall! Today, Tai Yong will be the last to stain the Thousand Buddha Temple with blood!). Sau đó, Thái Vĩnh quấn lấy Thiên Phật Tự, dùng thân mình và đạo tắc (principles) tạo thành phòng ngự "Long tức đài giấu đại kim cương giới" (Dragon Breath Hidden Great Diamond Realm), hy sinh bản thân để câu giờ cho Duệ Sùng (Rui Chong) và Chiêm Thọ (Zhan Shou). Hắn muốn đánh đổi mạng mình để đổi lấy Nguy Tầm (Wei Xun), ám chỉ Nhân tộc nên rút lui.
+
+Tuy nhiên, Tào Giai (Cao Jia) không đáp lại, mà dùng tay còn lại bắt lấy đuôi rồng của Thái Vĩnh, cố gắng lôi hắn ra khỏi Thiên Phật Tự. Chúc Tuế (Zhu Sui) đốt cháy bản thân bằng lửa trắng, tiến vào bên trong thân rồng Thái Vĩnh, xé nát ý chí của hắn. Ngu Lễ Dương (Yu Li Yang) ném "quân cờ" hoa đào, phá hủy "Long tức đài giấu đại kim cương giới". Bành Sùng Giản (Peng Chongjian) dùng trâm đen đâm xuyên qua phòng ngự, rồi quấn lấy chùa bằng sông máu. Nhạc Tiết (Yue Xue) dùng sóc tám trượng, nhấc bổng cả Thiên Phật Tự lên, khiến Long Thiện Lĩnh (Dragon Good Ridge) sụp đổ.
+
+Duệ Sùng, Huyền Thần Hoàng Chủ (Profound God Emperor), giáng lâm sức mạnh xuống nhưng bị Nhạc Tiết đánh trả. Tào Giai bắn một mũi tên vào con mắt màu trắng của Duệ Sùng, khiến ả phải rời khỏi Long Vực.
+
+Khương Vọng (Jiang Wang) chứng kiến Thái Vĩnh c·h·ế·t, sinh mệnh lực tan biến vào thiên địa, và Thiên Phật Tự sụp đổ. Tào Giai và những người khác vẫn tiếp tục san bằng Long Thiện Lĩnh. Khương Vọng cảm thấy một khí tức cổ xưa đang thức tỉnh. Tào Giai ra lệnh rút quân.
+
+Khi đại quân rời khỏi Long Vực, Khương Vọng vẫn cảm nhận được chấn động. Ngu Lễ Dương hỏi Khương Vọng điều gì duy trì sự cân bằng của Mê giới (Misty Realm), rồi sửa lại câu hỏi, hỏi về lực lượng giằng co từ thời trung cổ. Khương Vọng nhận ra đó là các căn cứ địa như Sa Bà long vực, Đông Hải long cung (East Sea Dragon Palace), Thương Ngô Cảnh (Cangwu Territory), và Thiên Tịnh quốc (Heavenly Purity Country).
+
+Cuối cùng, Long Thiện Lĩnh biến mất, để lại một khoảng trống lớn. Tại đó, một cây tích trượng (khakkhara) xuất hiện, mang theo khí tức cổ xưa. Ngu Lễ Dương tiết lộ đó chính là Sa Bà Long Trượng (Sha Po Dragon Staff), binh khí của Thiên Phật, và là thứ đã giằng co với Nhân tộc từ vạn cổ.
 
 ## Toàn bộ chương
 
-[Dịch thuật thất bại do giới hạn API]
-
 ## Chương 180: Thiên Phật (x)
 
-  
-Làm cánh hoa của nó lắc rung động, dù là cực kỳ nhỏ.  
-Hắn sở dĩ chưa hề nói Nguyệt Quế Hải cùng Phù Đồ tịnh thổ, là bởi vì hai cái này căn cứ địa đều là đến sau mới xuất hiện. Lại trong lịch sử, đều có bị thay thế kinh lịch.  
-Nhưng Tào Giai tại lòng bàn tay đuôi rồng vỡ vụn đồng thời, đã lập kéo binh sát vì đại cung, ngửa mặt lên trời một mũi tên bắn Huyền Thần! Quản ngươi bi thương không đau thương, chính là muốn ngươi đau nhức!  
-Cái kia còn có thể có cái gì?  
-Thật giống nhất định muốn đem cái này ba ngàn dặm dãy núi, san thành bình địa mới có thể.  
-"Lấy ta máu rồng giội Long Vực, như thế nào? !"  
-Tất cả những thứ này nói đến phức tạp, nhưng Diễn Đạo chiến đấu, mấy có lẽ đã rất khó dùng thời gian đến khắc độ.  
-Nhưng so với mấy trăm ngàn năm năm tháng. . . Những thứ này khó tránh, vẫn không đủ nặng nề.  
-Long Thiện Lĩnh tại sụp đổ.  
-Đơn giản là hướng tới hiện thế Hải tộc cùng đi đến biển thủ biên cương tu sĩ nhân tộc.  
-Bản tại Long Thiện Lĩnh tùy ý phóng thích lực lượng mấy vị Diễn Đạo, cũng theo đó tứ tán. Tựa như sâu Lâm Kinh Vũ, bầy chim tất cả bay.  
-Hắn cứ như vậy đến gần Thiên Phật Tự, cuối cùng cứ như vậy đi vào Thái Vĩnh thân rồng bên trong! (đọc tại Qidian-VP.com)  
-Khương Vọng bởi vậy nhìn thấy, tại cái kia Giới Hà đối diện, nhiều đoạn vô ngần Sa Bà long vực, lại đã biến mất không thấy gì nữa! Cũng không phải là Giới Hà chuyển vị, bởi vì hắn cũng không có cảm nhận được Giới Hà chuyển vị gợn sóng, lại Giới Hà đối diện cũng chưa xuất hiện những thứ khác giới vực, trái lại chỉ có một mảnh trống không.  
-Thái Vĩnh lắc thân biến đổi, lại xuất hiện vạn trượng Kim Long!  
-Là bởi vì đại thế không thể kéo, cho nên lựa chọn vứt bỏ?  
-Mây sét chỗ sâu rồng vẫy đuôi, bỗng nhiên đánh tan phong tỏa, đánh ra thời không khe hở. Râu rồng ở trong mưa gió lay động, càng đem sắp c·h·ế·t Trọng Hi, trọng thương Hi Dương đều đưa tiễn. Mà lôi điện xen lẫn, lại lập tức đem đạo này kẽ nứt khâu lại.  
-Khương Vọng trong lòng có một loại không chân thực cảm thụ.  
-Lúc này không liều, chờ đến khi nào?  
-Mê giới chiến cuộc cân bằng bất kỳ cái gì một cái tại Mê giới chinh chiến qua tu sĩ, chỉ sợ đều có thể nói tới ra một hai.  
-Hắn thấy cái kia Thái Vĩnh c·h·ế·t, Hoàng Chủ c·h·ế·t như tuyết lở. Bàng bạc sinh mệnh vỡ vụn, biển lớn đạo tắc toái diệt, cơ hồ vô cùng vô tận sinh mệnh lực, tán về tại giữa thiên địa.  
-Đơn giản là ngẫu nhiên sẽ xuất hiện Hải tộc hoàng chủ cùng nhân tộc chân quân.  
-Tề quốc chưa có tồn tại lâu như vậy, thậm chí Điếu Hải Lâu cũng không có tồn tại lâu như vậy.  
-Nhưng năm vị chân quân đồng thời xuất thủ, chỉ là vừa đối mặt, ba tôn Hoàng Chủ liền đã b·ị đ·ánh lui!  
-Ba ngàn dặm Long Thiện Lĩnh, trên không hết Tích Lôi mây.  
-Thân rồng ôm chùa, bên ngoài chùa ánh vàng khuấy động, như đến thắng cảnh.  
-Nhưng Thái Vĩnh gầm thét, cũng không có đạt được đáp lại.  
-Hắn lại còn là cảm nhận được Sa Bà long vực chấn động, phảng phất có cái gì vô pháp miêu tả quái vật khổng lồ, ngay tại xoay người.  
-Mê giới Giới Hà, là hoàn toàn ngăn cách giới vực tồn tại. Kia vực gợn sóng, cần phải hoàn toàn không liên quan nơi này giới.  
-Cái kia tại vảy vàng phía trên trào lên ánh sáng rực rỡ, cũng khuynh tả tại Thiên Phật Tự, chảy xiết nước sơn vàng.  
-Đơn giản là lâu dài tọa trấn Mê giới mấy vị Chân Vương đối chân nhân.  
-Khương Vọng nhìn về phía Ngu Lễ Dương.  
-Máu đam mê quấn thân rồng, đem ánh vàng nhuộm làm đỏ.  
-Ba tôn Hải tộc hoàng chủ, lưng chùa cổ mà mặt Nhân tộc, tự có núi cao nguy nga không thể dời xu thế. (đọc tại Qidian-VP.com)  
-Toàn bộ Sa Bà long vực đều tại lay động!  
-Hắn cau mày nguyên nhân, không phải vấn đề này quá phức tạp, mà là quá đơn giản.  
-Nàng đau thương cũng không chỉ là Thái Vĩnh!  
-Hiện tại thối lui, cũng không tính là thua thiệt!  
-Đơn giản là Đông Hải long cung, Sa Bà long vực, Nguyệt Quế Hải, đối Thiên Tịnh quốc, Thương Ngô Cảnh, Phù Đồ tịnh thổ.  
-Thẳng đến đại quân rời khỏi Sa Bà long vực, tại sớm thành đất trống "Kỷ Dậu chiến trường" trọng chỉnh quân trận. Hắn mới từ binh sát một bộ phận, về lại vì tự mình.  
-Ầm ầm ầm ầm long!  
-Thân trượng thẳng tắp, trên có xoay quanh chi thụ văn.  
-Hắn nhìn thấy Tào Giai chờ chân quân cũng không dừng tay, tại g·i·ế·t c·h·ế·t Thái Vĩnh, chọn lật Thiên Phật Tự về sau, vẫn thi triển thủ đoạn, lấy lực lượng kinh khủng rửa sạch Long Thiện Lĩnh.  
-Thái Vĩnh lấy to lớn thân rồng mang theo gió mang mưa, thôn lôi nhả điện. To như ốc xá màu vàng rồng đồng, căm tức nhìn Tào Giai chờ: "Cùng ngươi đổi một Nguy Tầm!"  
-Đuôi trượng là đuôi rồng, nhưng vảy râu đều là rơi như thương nhọn.  
-Lớn như vậy Thiên Phật cây trong chùa, vang lên hồng chung đại lữ tiếng tụng kinh.  
-Tào Giai, Chúc Tuế, Ngu Lễ Dương, Bành Sùng Giản, Nhạc Tiết, ai có thể lưu thủ?  
-Hắn ẩn ẩn cảm giác được tên này là "Sa Bà long vực" thế giới, có thay đổi gì chính tại phát sinh. Thật giống có một đạo Hoang Cổ mà vĩ đại khí tức. . . Chính đang thức tỉnh!  
-Thái Vĩnh khổ tâm cấu trúc long tức Thai Tàng đại kim cương giới, này một khắc như Hư như ảo.  
-Xảy ra chuyện gì?  
-Hắn còn muốn triển khai nói cái gì, lại ngừng lại câu chuyện, ngước mắt nói: "Ngươi nhìn!"  
-Nơi đây còn có cái gì?  
-Khương Vọng thân ở trong đại quân, yên lặng lấy Càn Dương Xích Đồng quan sát tất cả những thứ này. Diễn Đạo chiến đấu chi tiết, hắn nếu có thể bắt giữ lông tơ, đều là lớn lao thu hoạch.  
-Còn có thể có cái gì?  
-Càng có đủ sức cầm cự Long tộc hoàng chủ Thái Vĩnh Thiên Phật cây chùa, không thể bảo là không cường đại!  
-Đại chiến còn chưa dừng, Diễn Đạo quyết tử, cũng tranh lấy chớp mắt.  
-Giống như các tu sĩ khác đồng dạng, Khương Vọng thân ở bên trong quân trận, hoàn toàn vứt bỏ tự mình suy nghĩ, giao phó toàn bộ lực lượng.  
-Vị này bây giờ thay mặt chưởng thiên lật Đại Tề danh tướng, trước tiên tiếp chưởng quân đội, lại hào không tiếc rẻ quân lực, cực kỳ quyết đoán tụ khởi binh sát, hóa thành trường tiễn một nhánh, phá giới mà đi!  
-Nơi đây còn có cái gì?  
-"Chuyện gì xảy ra? Sa Bà long vực đi nơi nào?" Bên trong quân trận, có người không thể che hết hốt hoảng hỏi.  
-Sinh mệnh là như thế chuyện kỳ diệu, thế giới cùng sinh linh cũng tổng tồn tại vô pháp cắt đứt cấu kết. Sa Bà long vực tại run lắc đồng thời, Mê giới cũng lấy được vĩ đại phát sinh.  
-"Đào Hoa Tiên đối Võ An Hầu ngược lại là vô cùng có kiên nhẫn. . ." Trong hư không, làm giấy vô danh trên sách, văn tự lại tại phát sinh.  
-Liền nghe được âm thanh của Ngu Lễ Dương nói bổ sung: "Ta đổi cái vấn đề tốt rồi. Ngươi cho rằng từ thời đại trung cổ nhân long chiến đấu, cho tới bây giờ, là cái gì lực lượng tại Mê giới nơi này giằng co?"  
-Khương Vọng nhíu mày.  
-Nhân tộc cùng Hải tộc riêng phần mình đại thế va chạm? Hai cái vĩ đại đại văn minh giao phong?  
-Đã lật tung Sa Bà long vực sao?  
-Đều nói xoắn ốc kiến không tự lượng, nhẹ du mịt mù biển cả, có thể cỏ cây tươi khô, cùng cái này đỉnh cao nhất sinh tử, lại có cái gì không giống? (đọc tại Qidian-VP.com)  
-Thần long thấy đầu mà không thấy đuôi, hôm nay râu đuôi đều đủ.  
-Thái Vĩnh cái kia cường đại vô song đỉnh cao nhất thân rồng, giống như một tòa sơn mạch sụp đổ! Một trượng một trượng đất sụp nát!  
-Nhưng đưa tiễn hai vị Hoàng Chủ về sau Thái Vĩnh, lại cũng không nhào về phía Nhân tộc đại quân. Trái lại quấn cây mà lên, rồng Bàn Cổ chùa. (đọc tại Qidian-VP.com)  
-Dương cốc tướng chủ trên thân bộ kia cổ xưa chiến giáp, đều phát ra khó mà chịu lực đụng vang. Nhạc Tiết thể như Kim Cương, trầm ổn lập tức bước, hai tay cầm sóc, cắn răng gầm thét ---- lấy một loại lật tung vòm trời tư thế, đem cái kia rắc rối khó gỡ không biết mấy ngàn dặm Thiên Phật Tự cây, mạnh mẽ nhấc lên!  
-Vạn cổ đến nay cùng nhân tộc giằng co, là này!  
-Trừ phi là nói. . . Lúc này Sa Bà long vực biến hóa, ảnh hưởng chính là toàn bộ Mê giới.  
-Khương Vọng a~ một tiếng nói: "Sa Bà long vực, Đông Hải long cung, Thương Ngô Cảnh, Thiên Tịnh quốc?"  
-Tào Giai chỉ còn tay cụt, thế nhưng là hắn hướng trời cao dò xét chưởng. Hắn cái kia còn sót lại một cái tay. . . Tay bên ngoài là vai mỏ khí huyết cùng nhiều chuông nguyên lực chỗ đan dệt ra đến hư ảo giáp tay, mà tại gió đục mưa đánh, Lôi Oanh điện đánh trúng không ngừng bành trướng, lại lấy vô hình nắm giữ hình, từ cái này hắc ám nặng nề trong mây sét, vô cùng tinh chuẩn bắt đuôi rồng!  
-Phải biết cái này thế nhưng là cách Giới Hà!  
-Tại đây Mê giới, Nhân tộc cứ như vậy thắng được trước nay chưa từng có thắng lợi vĩ đại?  
-Đông Hải long cung bên kia hết thảy đều kết thúc, bọn hắn đương nhiên biết rõ cần phải tranh thủ thời gian, nhưng thời gian đi hỏi ai đây muốn?  
-Giờ phút này tại trên chiến trường Mê giới chém g·i·ế·t tất cả, ở thời đại trung cổ phần lớn đều chưa từng xuất hiện.  
-Hắn bắt cái kia đuôi rồng ra bên ngoài rút cùng Thái Vĩnh làm trực tiếp nhất đấu sức, muốn đem này rồng rút rời Thiên Phật Tự thân.  
-Cũng gọi Khương Vọng bỗng nhiên cảnh giác.  
-"Uống ---- a!"  
-Chỉ nghe tiếng sấm thỉnh thoảng, ánh chớp đứt gãy, thiên địa quy tắc như bụi bay, toàn bộ Thiên Phật Tự phụ cận không gian, nhất là tại diễn đạo lực lượng va chạm phía ngoài nhất, lại xuất hiện lốm đốm lấm tấm màu đen lỗ thủng!  
-Ngu Lễ Dương khẽ gật đầu: "Võ An Hầu một điểm liền thông."  
-Nhân tộc c·h·ế·t một Nguy Tầm, Hải tộc c·h·ế·t một Thái Vĩnh.  
-Có thể tính thanh toán xong!  
-Hắn nói dùng chính mình đổi Nguy Tầm, là khuyên bảo Thiên Phật Tự trước những này nhân tộc Diễn Đạo ---- có thể đi vậy!  
-Nhưng những thứ này đáp án đều quá đơn giản, không đáng Ngu Lễ Dương coi nó là làm một vấn đề.  
-Đương nhiên bao quát Tào Giai, bao quát Ngu Lễ Dương. . . Thậm chí bao gồm Chúc Tuế!  
-Đúng lúc này, Ngu Lễ Dương dạo bước mà tiến, tay áo lớn bồng bềnh, cũng chỉ vuốt hoa đào. . . Giống như là nhặt một viên màu hồng đào quân cờ, mà lấy long tức Thai Tàng đại kim cương giới làm bàn cờ, đem này cờ điểm rơi.  
-Đến tột cùng xảy ra chuyện gì, lại so Diễn Đạo c·h·ế·t chiến trận càng lớn? !  
-Trác Thanh Như ung dung thản nhiên hướng Khương Vọng bên này xê dịch.  
-Trắng đồng nhắm mắt, thần lực tán tiêu tan. Huyền thần hoàng chủ Duệ Sùng tại chỗ rời khỏi Sa Bà long vực.  
-Trong lúc nhất thời, ánh vàng lung lay, sen vàng điêu tàn.  
-Đối với một cái chú định đạo tiêu tồn tại, đối với những cái kia đã không có ở đây người, ngôn ngữ có ích lợi gì?  
-Thái Vĩnh c·h·ế·t, hắn vô tận sinh cơ trả về ở thiên địa.  
-Này trượng liền lẳng lặng lơ lửng tại cái kia phiến trống rỗng bên trong, nhưng có một loại cổ xưa mà vĩ đại khí tức, bao phủ tất cả nhìn kỹ nó sinh linh.  
-Là được chính tại thời khắc này, Nhạc Tiết trượng tám sóc, hung hăng vào thân rồng, thậm chí vào Thiên Phật Tự!  
-Nhưng bao phủ ở trong lòng cái chủng loại kia trĩu nặng cảm giác áp bách, lại chẳng những không có tán đi, ngược lại càng thêm mãnh liệt.  
-Hắn thấy cái kia Thiên Phật Tự đã nghiêng, cây già rễ đứt. Trong đó nhiều ít Hải tộc, tất cả đều không hơi thở. Thánh chùa sụp đổ, Long Thiện Lĩnh xa đối biển cây Hương Thiện cổ xưa bố cục, thật giống cũng sụp đổ.  
-Mà hắn mục đích cũng đã lại rất rõ ràng ---- hắn hướng Nhân tộc đạo cầu không được thời gian, cũng vô pháp trông cậy vào Trọng Hi cùng Hi Dương, cho nên tự cầu, lại lấy đạo khu trấn bảo tự!  
-Thế giới này lại có như thế mâu thuẫn giới hạn, mà tại vô tận vĩ lực bện phía dưới, tạo nên đại biểu Thái Vĩnh đời này cao nhất phòng ngự thành tựu "Long tức đài giấu đại kim cương giới" !  
-Ngu Lễ Dương đứng chắp tay, chính tiêu sái cách Giới Hà nhìn ra xa Sa Bà long vực. Cảm ứng được Khương Vọng ánh mắt, thực sự không quay đầu lại, chỉ hỏi: "Ngươi cho rằng Mê giới cân bằng là từ cái gì để duy trì?"  
-Cho dù cường đại như Thái Vĩnh, cho dù hắn kết ra long tức đài giấu đại kim cương giới, càng làm tốt nghênh đón tất cả chuẩn bị, thực sự vào lúc này phát ra thống khổ gào thét! Hắn vĩ đại đại ý chí, đang bị từng giờ từng phút xé nát!  
-Trên bầu trời thuộc về huyền thần hoàng chủ Duệ Sùng cái kia con mắt màu trắng, chảy ra khó mà miêu tả đau thương.  
-Nhân tộc lấy tuyệt đối lực lượng ưu thế đánh tới, thắng lợi hái đến tuyệt không thoải mái.  
-Che trời cự mộc thành chùa cổ, tên lấy "Thiên Phật" hùng trấn Long Vực.  
-Cũng là này chùa tu giả, cùng Thái Vĩnh hợp vang.  
-Các loại tưởng tượng chính ở trong lòng chuyển động, cái kia treo ở Nội Phủ, đã nở rộ Lạc Lối chi hoa, bỗng dưng lắc rung động.  
-Là lớn như vậy Mê giới bên trong, đột ngột xuất hiện một cái lỗ trống lớn!  
-Bành Sùng Giản ngay tại cái này khoảng cách đi về phía trước, lật tay liền rút hạ đầu bên trên trâm đen, coi đây là dao găm, đâm xuyên qua cái gọi là "Long tức Thai Tàng đại kim cương" . Mà thân thành sông máu, gào thét lên bổ nhào bên trên Thiên Phật Tự. Sông máu như máu đam mê, cũng như Thái Vĩnh lúc trước như vậy, quấn chùa mà lên. (đọc tại Qidian-VP.com)  
-Vị này phong lưu Đào Hoa Tiên, ngữ khí lần thứ nhất biến ngưng trọng như thế: "Binh khí của Thiên Phật, Sa Bà Long Trượng!"  
-Mây sét sâu che đậy trên bầu trời, xuất hiện một cái cực lớn, con mắt màu trắng. Trong đó màu trắng đồng nhân như biển, gào thét lên vĩ đại thần tính lực lượng.  
-Dùng chính hắn hi sinh, đến vì Thiên Phật Tự thắng đến thời gian, vì ngay tại chạy tới huyền thần hoàng chủ Duệ Sùng, vô oan hoàng chủ Chiêm Thọ thắng đến thời gian.  
-Không đợi Khương Vọng hỏi ra âm thanh đến, hắn ngay tại cái kia Giới Hà Bỉ Ngạn, tại cái kia cực lớn trống rỗng bên trong, nhìn thấy một cái tích trượng!  
-Từ thời đại trung cổ, từ Nhân Hoàng đuổi Long Hoàng cái kia cuộc chiến tranh về sau, một mực lan tràn đến hiện tại giằng co!  
-Chỗ kia Phong Vũ Lôi Điện, thật giống thiên ngoại hộ pháp. Phương này mặt đất nở sen vàng, là tịnh thổ Diệu Môn.  
-Ầm ầm ầm ầm ầm!  
-Nhân tộc cường giả như Sùng Quang, Dương Phụng các loại, đều không thể không lựa chọn mang theo đại quân triệt thoái phía sau.  
-Thái Vĩnh thân rồng, giống như trở thành Thiên Phật Tự từ xưa đến nay liền có điêu khắc, tới tương hợp, vốn mà kích phát ra sức mạnh vĩ đại.  
-Đầu rồng nâng cao, mái vòm mưa gió gào thét, giống như biển gầm.  
-Đầu trượng là Cửu Long đan xen.  
-Đơn giản là Hải tộc đại quân đối nhân tộc đại quân.  
----- vị đỉnh cao nhất cường giả dốc hết tất cả đến liều mạng uy thế, so trời nghiêng lật càng kinh khủng.  
-Huyền thần hoàng chủ Duệ Sùng gần chạy đến, đồng thời trước một bước giáng lâm lực lượng!  
-Lạc Lối hoa từ cánh hoa đến nhành hoa, đều là làm hai màu trắng đen, g vị rõ ràng. Nó ngược lại sinh tại Nội Phủ mái vòm, mà tự có vương xuống ánh sáng xanh. Cả tòa thứ hai Nội Phủ, vô số Nội Phủ gian phòng, cũng là bởi vì này giới hạn, nửa trắng nửa đen.  
-Trong lúc này, chỉ nghe một tiếng long ngâm như sấm rống: "Hoàng Chủ có thể c·h·ế·t, Long Thiện Lĩnh không thể không! Hôm nay máu nhuộm Thiên Phật Tự người, tự mình Thái Vĩnh cuối cùng!"  
-Thấy này tích trượng, lo sợ không yên muốn bái!  
-Thiên địa lớn âm, dùng người nghe tâm thần, vây dùng.  
-Tiếng sấm rồng Ngâm Phong rống, hô hô như đụng vận mệnh chuông.  
-Không có Thiên Phật Tự duy trì, không có hao hết đạo tắc quyết tâm, cho dù lấy Thái Vĩnh cường đại, cũng vô pháp thành tựu này mấy.  
-Khương Vọng không khỏi nghĩ đến kinh doanh mấy trăm ngàn năm căn cứ, vẻn vẹn như thế sao? Mặc dù đoạn đường này đánh tới, Long Thiện Lĩnh hoàn toàn chính xác hùng vĩ nguy nga, sừng sững cường đại. Có 12 tịnh địa, 18 ác ngục đủ loại cửa ải, có trấn sơn Kim Cương, hộ đường núi Già Lam đủ loại bố trí.  
-Hoặc là nói, Tào Giai bọn hắn, cũng không có tại trên miệng đáp lại.  
-Duy chỉ có Sa Bà long vực chờ bốn tòa, mới được từ xưa đến nay đến nay, giống như vĩnh tồn!  
-Tào Giai chờ năm vị Diễn Đạo cường giả thật giống muốn miễn cưỡng đem Long Thiện Lĩnh đục bình, đem Sa Bà long vực đánh nát, bọn hắn thật giống đang bức bách cái gì!  
-Long Thiện Lĩnh bị công phá, Thiên Phật Tự bị lật tung, Hải tộc tại Mê giới liền như vậy lại thiếu một chỗ căn cứ địa, lại là kinh doanh mấy trăm ngàn năm căn cứ.  
-Thái Vĩnh nói máu nhuộm Thiên Phật Tự, Huyết Hà chân quân cũng là chờ không nổi, tới trước giúp hắn thực hiện.  
-Hải tộc đau mất Nguyệt Quế Hải, Nhân tộc cũng có quần đảo chịu hại.  
-Cái kia thân hình lọm khọm Chúc Tuế, y nguyên còng lưng. Đèn lồng tiến lên, bước đi gian nan. Có thể hắn thân bên ngoài dần dần mà cháy lên lửa trắng, hai con mắt của hắn cũng bị lửa trắng nhóm lửa hắn dĩ nhiên cũng liền như vậy đi vào tường gió màn mưa, đi vào ánh vàng kết sen. . . Tất cả mọi thứ, thật giống đều không đúng hắn tạo thành trở ngại.  
-Khương Vọng cũng có này nghi vấn, nhưng hắn nghe được âm thanh của Ngu Lễ Dương ----  
-Chương 180: Thiên Phật (x)  
-"Đây chính là Sa Bà long vực."  
-Không đợi hắn chạm đến loại kia cảm thụ, Tào Giai đã vung tay lên: "Đi!"  
+Che trời cây cổ thành chùa, tên lấy "Thiên Phật Tự" (Thiên Phật Tự) hùng trấn Long Vực.
+Ba tôn Hoàng Chủ Hải tộc, lưng tựa chùa cổ, đối mặt Nhân tộc, tự có thế núi cao sừng sững không thể lay chuyển.
+Nhưng năm vị chân quân đồng thời xuất thủ, chỉ vừa đối mặt, ba tôn Hoàng Chủ đã bị đánh lui!
+Đông Hải long cung bên kia đã kết thúc, bọn họ đương nhiên biết cần phải tranh thủ thời gian, nhưng thời gian lấy đâu ra?
+Tào Giai, Chúc Tuế, Ngu Lễ Dương, Bành Sùng Giản, Nhạc Tiết, ai có thể ở lại?
+Trong lúc này, chỉ nghe một tiếng long ngâm như sấm rền: "Hoàng Chủ có thể c·h·ế·t, Long Thiện Lĩnh (Long Thiện Lĩnh) không thể mất! Hôm nay kẻ nhuộm máu Thiên Phật Tự, tự ta Thái Vĩnh (Thái Vĩnh) gánh chịu!"
+Thái Vĩnh lắc mình biến hóa, hiện ra Kim Long vạn trượng!
+Mây sét nơi sâu rồng vẫy đuôi, bỗng nhiên đánh tan phong tỏa, đánh ra khe hở thời không. Râu rồng lay động trong mưa gió, đưa tiễn Trọng Hi sắp c·h·ế·t, Hi Dương trọng thương. Lôi điện xen lẫn, lập tức khâu lại khe nứt.
+"Lấy máu rồng ta tưới Long Vực, thế nào? !"
+Thái Vĩnh mang theo gió mưa, thôn lôi nhả điện bằng thân rồng to lớn. Đồng tử màu vàng to như ốc xá, căm tức nhìn Tào Giai và những người khác: "Đổi cho các ngươi một Nguy Tầm (Nguy Tầm)!"
+Ba ngàn dặm Long Thiện Lĩnh, trên không toàn mây Tích Lôi.
+---- Uy thế liều mạng của cường giả đỉnh cao, so trời nghiêng đất lật còn kinh khủng hơn.
+Nhưng sau khi đưa tiễn hai vị Hoàng Chủ, Thái Vĩnh không nhào về phía đại quân Nhân tộc, mà quấn lấy cây cổ, rồng Bàn Cổ chùa.
+Ánh sáng rực rỡ trào lên trên vảy vàng, lan tỏa khắp Thiên Phật Tự, chảy xiết như nước sơn vàng.
+Thân rồng Thái Vĩnh, tựa như điêu khắc có từ lâu đời của Thiên Phật Tự, tương hợp, kích phát ra sức mạnh vĩ đại vốn có.
+Tiếng sấm rồng ngâm, gió rít, hô hô như tiếng chuông định mệnh.
+Âm thanh lớn của đất trời, vây lấy tâm thần người nghe.
+Trong Thiên Phật Tự lớn như vậy, vang lên tiếng tụng kinh hồng chung đại lữ.
+Tu giả trong chùa, cùng Thái Vĩnh hợp vang.
+Đầu rồng ngẩng cao, mái vòm mưa gió gào thét như biển gầm.
+Thân rồng ôm chùa, bên ngoài chùa ánh vàng khuấy động như chốn thắng cảnh.
+Nơi đó gió mưa sấm chớp, như hộ pháp từ ngoài thiên. Nơi này mặt đất nở sen vàng, là tịnh thổ Diệu Môn.
+Thế giới này lại có giới hạn mâu thuẫn như thế, dưới vô tận vĩ lực, tạo nên thành tựu phòng ngự cao nhất đời này của Thái Vĩnh: "Long tức Thai Tàng đại kim cương giới" (Long tức Thai Tàng đại kim cương giới)!
+Không có Thiên Phật Tự duy trì, không có quyết tâm hao hết đạo tắc, dù Thái Vĩnh cường đại, cũng không thể thành tựu.
+Mục đích của hắn rất rõ ràng ---- Hắn cầu Nhân tộc không được thời gian, không thể trông cậy vào Trọng Hi và Hi Dương, nên tự cầu, lấy đạo khu trấn bảo tự!
+Dùng sự hi sinh của chính hắn, thắng thời gian cho Thiên Phật Tự, cho Duệ Sùng (Duệ Sùng) Huyền Thần Hoàng Chủ, Chiêm Thọ (Chiêm Thọ) Vô Oan Hoàng Chủ đang chạy tới.
+Hắn nói dùng mình đổi Nguy Tầm, là khuyên nhủ Diễn Đạo Nhân tộc trước Thiên Phật Tự ---- có thể đi đi!
+Hải tộc đau mất Nguyệt Quế Hải (Nguyệt Quế Hải), Nhân tộc cũng có quần đảo chịu hại.
+Nhân tộc c·h·ế·t một Nguy Tầm, Hải tộc c·h·ế·t một Thái Vĩnh.
+Có thể coi như xong!
+Bây giờ rút lui, cũng không tính thiệt!
+Nhưng Thái Vĩnh gầm thét, không nhận được đáp lại.
+Hoặc là, Tào Giai và những người khác không đáp lại bằng lời.
+Đối với kẻ định sẵn đạo tiêu, đối với những người đã không còn, ngôn ngữ có ích gì?
+Tào Giai chỉ còn một tay cụt, nhưng hướng trời cao dò xét chưởng. Bàn tay còn lại của hắn. . . Bên ngoài là khí huyết vai mỏ và nguyên lực các loại đan dệt thành giáp tay hư ảo, trong gió đục mưa giông, lôi oanh điện kích không ngừng bành trướng, nắm giữ hình vô hình, từ mây sét đen kịt, bắt đuôi rồng vô cùng chuẩn xác!
+Thần long thấy đầu không thấy đuôi, hôm nay râu đuôi đều đủ.
+Hắn bắt đuôi rồng rút ra ngoài, đấu sức trực tiếp với Thái Vĩnh, muốn rút rồng khỏi Thiên Phật Tự.
+Lúc này không liều, đợi đến khi nào?
+Chỉ nghe tiếng sấm thỉnh thoảng, ánh chớp đứt gãy, quy tắc thiên địa như bụi bay, không gian phụ cận Thiên Phật Tự, nhất là bên ngoài va chạm lực lượng Diễn Đạo, xuất hiện lỗ thủng màu đen lấm tấm!
+Cường giả Nhân tộc như Sùng Quang, Dương Phụng, phải mang đại quân triệt thoái phía sau.
+Đại chiến chưa dừng, Diễn Đạo quyết tử, tranh từng khoảnh khắc.
+Chúc Tuế thân hình lọm khọm, vẫn còng lưng. Đèn lồng tiến lên, bước đi gian nan. Lửa trắng cháy lên bên ngoài thân hắn, hai mắt cũng bị lửa trắng thiêu đốt, cứ thế đi vào tường gió màn mưa, ánh vàng kết sen. . . Mọi thứ không gây trở ngại cho hắn.
+Hắn đến gần Thiên Phật Tự, cuối cùng đi vào thân rồng Thái Vĩnh!
+Dù cường đại như Thái Vĩnh, dù kết Long tức Thai Tàng đại kim cương giới, chuẩn bị nghênh đón tất cả, lúc này phát ra tiếng gào thét thống khổ! Ý chí vĩ đại của hắn, bị xé nát từng giờ từng phút!
+Lúc này, Ngu Lễ Dương dạo bước tiến lên, tay áo lớn bồng bềnh, vuốt hoa đào. . . Như nhặt quân cờ đào hồng, lấy Long tức Thai Tàng đại kim cương giới làm bàn cờ, thả cờ xuống.
+Trong khoảnh khắc, ánh vàng lung lay, sen vàng tàn úa.
+Long tức Thai Tàng đại kim cương giới Thái Vĩnh khổ tâm xây dựng, lúc này như Hư như ảo.
+Bành Sùng Giản tiến lên, lật tay rút trâm đen trên đầu, coi như dao găm, đâm xuyên cái gọi là "Long tức Thai Tàng đại kim cương". Máu thành sông, gào thét nhào lên Thiên Phật Tự. Sông máu như máu đam mê, như Thái Vĩnh lúc trước, quấn chùa mà lên.
+Máu đam mê quấn thân rồng, nhuộm ánh vàng thành đỏ.
+Thái Vĩnh nói máu nhuộm Thiên Phật Tự, Huyết Hà chân quân (Huyết Hà chân quân) không chờ được, tới trước giúp hắn thực hiện.
+Tất cả nói đến phức tạp, nhưng chiến đấu Diễn Đạo khó mà đo bằng thời gian.
+Trên bầu trời mây sét che phủ, xuất hiện con mắt màu trắng khổng lồ. Đồng tử màu trắng như biển, gào thét lực lượng thần tính vĩ đại.
+Duệ Sùng Huyền Thần Hoàng Chủ gần đến, giáng lâm lực lượng trước một bước!
+Ngay lúc này, Nhạc Tiết (Nhạc Tiết) cầm sóc tám trượng, hung hăng đâm vào thân rồng, vào Thiên Phật Tự!
+"Uống ---- a!"
+Bộ chiến giáp cổ xưa trên Dương Cốc tướng chủ (Dương Cốc tướng chủ), phát ra tiếng va chạm khó mà chịu đựng. Nhạc Tiết thể như Kim Cương, bước chân trầm ổn, hai tay cầm sóc, nghiến răng gầm thét ---- lật tung vòm trời, nhấc bổng Thiên Phật Tự cây mấy ngàn dặm không biết!
+Ầm ầm ầm ầm ầm!
+Thân rồng đỉnh cao vô song của Thái Vĩnh, như sơn mạch sụp đổ! Từng tấc đất sụp nát!
+Ầm ầm ầm ầm long!
+Long Thiện Lĩnh sụp đổ.
+Toàn bộ Sa Bà long vực (Sa Bà long vực) rung chuyển!
+Sinh mệnh kỳ diệu, thế giới và sinh linh luôn có liên kết không thể cắt đứt. Sa Bà long vực rung chuyển, Mê giới cũng có biến hóa vĩ đại.
+Thái Vĩnh c·h·ế·t, sinh cơ vô tận trả về thiên địa.
+Con mắt màu trắng của Duệ Sùng Huyền Thần Hoàng Chủ trên bầu trời, chảy ra đau thương khó tả.
+Nàng đau thương không chỉ vì Thái Vĩnh!
+Nhưng Tào Giai bóp nát đuôi rồng trong lòng bàn tay, kéo binh sát thành đại cung, ngửa mặt bắn Huyền Thần! Mặc ngươi bi thương, ta muốn ngươi đau!
+Trắng đồng nhắm mắt, thần lực tan biến. Duệ Sùng Huyền Thần Hoàng Chủ rời Sa Bà long vực.
+Vì đại thế không thể kéo, nên vứt bỏ?
+Khương Vọng ở trong đại quân, lặng lẽ quan sát mọi thứ bằng Càn Dương Xích Đồng (Càn Dương Xích Đồng). Chi tiết chiến đấu Diễn Đạo, nếu hắn bắt được, đều là thu hoạch lớn.
+Hắn thấy Thái Vĩnh c·h·ế·t, Hoàng Chủ c·h·ế·t như tuyết lở. Sinh mệnh vỡ vụn, đạo tắc biển lớn toái diệt, sinh mệnh lực vô tận, tan về giữa thiên địa.
+Người đời nói ốc sên không tự lượng sức, nhẹ du biển cả mịt mờ, nhưng cỏ cây tươi khô, so với sinh tử đỉnh cao này, có gì khác?
+Hắn thấy Thiên Phật Tự nghiêng ngả, cây già rễ đứt. Hải tộc bên trong, không còn hơi thở. Thánh chùa sụp đổ, Long Thiện Lĩnh xa đối cây Hương Thiện (Hương Thiện) cổ xưa, bố cục như sụp đổ.
+Lật tung Sa Bà long vực rồi sao?
+Tại Mê giới, Nhân tộc thắng lợi vĩ đại chưa từng có?
+Khương Vọng có cảm giác không chân thực.
+Hắn thấy Tào Giai và các chân quân không dừng tay, sau khi g·i·ế·t c·h·ế·t Thái Vĩnh, lật Thiên Phật Tự, vẫn thi triển thủ đoạn, dùng lực lượng kinh khủng rửa sạch Long Thiện Lĩnh.
+Như muốn san bằng dãy núi ba ngàn dặm.
+Long Thiện Lĩnh bị công phá, Thiên Phật Tự bị lật tung, Hải tộc mất một căn cứ địa ở Mê giới, căn cứ địa kinh doanh mấy trăm ngàn năm.
+Nơi đây còn gì?
+Khương Vọng nghĩ đến căn cứ kinh doanh mấy trăm ngàn năm, chỉ vậy thôi sao? Dù chặng đường này đánh tới, Long Thiện Lĩnh hùng vĩ nguy nga, sừng sững cường đại. Có 12 tịnh địa, 18 ác ngục, có Kim Cương trấn sơn, Già Lam hộ đường.
+Lại có Thái Vĩnh Hoàng Chủ Long tộc, Thiên Phật cây chùa, không thể bảo là không cường đại!
+Nhân tộc lấy ưu thế lực lượng tuyệt đối đánh tới, thắng lợi không thoải mái.
+Nhưng so với mấy trăm ngàn năm. . . Những thứ này không tránh khỏi, không đủ nặng nề.
+Nơi đây còn gì?
+Tào Giai và năm vị Diễn Đạo muốn san bằng Long Thiện Lĩnh, đánh nát Sa Bà long vực, họ đang bức bách cái gì!
+Các loại tưởng tượng chuyển động trong lòng, Lạc Lối chi hoa (Lạc Lối chi hoa) treo ở Nội Phủ, bỗng lắc rung.
+Hoa Lạc Lối từ cánh đến cành, đều hai màu trắng đen rõ ràng. Nó ngược lại sinh ở mái vòm Nội Phủ, có ánh sáng xanh. Toàn bộ Nội Phủ thứ hai, vô số gian phòng, cũng nửa trắng nửa đen vì giới hạn này.
+Cánh hoa lắc rung, dù cực nhỏ.
+Khiến Khương Vọng cảnh giác.
+Hắn cảm giác được thế giới tên "Sa Bà long vực" này, có thay đổi đang xảy ra. Có khí tức Hoang Cổ vĩ đại. . . Đang thức tỉnh!
+Không đợi hắn chạm đến cảm thụ, Tào Giai vung tay: "Đi!"
+Danh tướng Đại Tề thay mặt chưởng thiên lật, tiếp chưởng quân đội, không tiếc quân lực, tụ binh sát, hóa thành trường tiễn, phá giới mà đi!
+Mấy vị Diễn Đạo tùy ý phóng thích lực lượng tại Long Thiện Lĩnh, cũng tứ tán. Như chim rừng kinh sợ.
+Khương Vọng trong quân trận, vứt bỏ suy nghĩ, giao phó toàn bộ lực lượng.
+Đến khi đại quân rời Sa Bà long vực, trọng chỉnh quân trận tại "Kỷ Dậu chiến trường" (Kỷ Dậu chiến trường) sớm thành đất trống, hắn mới lấy lại tự do.
+Nhưng cảm giác áp bách nặng trĩu trong lòng, không tan đi, mà thêm mãnh liệt.
+Hắn vẫn cảm nhận được Sa Bà long vực chấn động, phảng phất quái vật khổng lồ không thể miêu tả, đang xoay người.
+Phải biết đây là cách Giới Hà (Giới Hà)!
+Giới Hà Mê giới, ngăn cách giới vực. Gợn sóng vực kia không liên quan nơi này.
+Trừ phi. . . Biến hóa Sa Bà long vực, ảnh hưởng toàn bộ Mê giới.
+Rốt cuộc xảy ra chuyện gì, còn lớn hơn chiến trận Diễn Đạo c·h·ế·t! ?
+Khương Vọng nhìn Ngu Lễ Dương.
+Ngu Lễ Dương chắp tay sau lưng, tiêu sái nhìn Sa Bà long vực cách Giới Hà. Cảm nhận ánh mắt Khương Vọng, không quay đầu, hỏi: "Ngươi cho rằng Mê giới cân bằng được duy trì bởi gì?"
+Khương Vọng nhíu mày.
+Hắn cau mày không phải vì vấn đề phức tạp, mà vì quá đơn giản.
+Bất kỳ tu sĩ nào chinh chiến ở Mê giới, đều có thể nói ra cân bằng chiến cuộc Mê giới.
+Đơn giản là Đông Hải long cung, Sa Bà long vực, Nguyệt Quế Hải, đối Thiên Tịnh quốc (Thiên Tịnh quốc), Thương Ngô Cảnh (Thương Ngô Cảnh), Phù Đồ tịnh thổ (Phù Đồ tịnh thổ).
+Đơn giản là đại quân Hải tộc đối đại quân Nhân tộc.
+Đơn giản là Chân Vương tọa trấn Mê giới đối chân nhân.
+Đơn giản là Hải tộc hướng tới hiện thế và tu sĩ Nhân tộc đi biển thủ biên cương.
+Đơn giản là Hoàng Chủ Hải tộc và chân quân Nhân tộc ngẫu nhiên xuất hiện.
+Nhưng những đáp án này quá đơn giản, không đáng Ngu Lễ Dương coi là vấn đề.
+Vậy còn gì?
+Va chạm đại thế Nhân tộc và Hải tộc? Giao phong hai nền văn minh vĩ đại?
+"Đào Hoa Tiên (Đào Hoa Tiên) đối Võ An Hầu (Võ An Hầu) rất kiên nhẫn. . ." Trong hư không, văn tự lại phát sinh trên giấy vô danh.
+Trác Thanh Như (Trác Thanh Như) ung dung xê dịch về phía Khương Vọng.
+Nghe Ngu Lễ Dương bổ sung: "Ta đổi câu hỏi. Ngươi cho rằng từ thời trung cổ nhân long chiến đấu, đến nay, lực lượng nào giằng co ở Mê giới?"
+Từ thời trung cổ, từ Nhân Hoàng đuổi Long Hoàng, lan tràn đến hiện tại giằng co!
+Còn gì?
+Tề quốc chưa tồn tại lâu như vậy, Điếu Hải Lâu (Điếu Hải Lâu) cũng không tồn tại lâu như vậy.
+Tất cả chém g·i·ế·t trên chiến trường Mê giới, phần lớn chưa từng xuất hiện ở thời trung cổ.
+Bao gồm Tào Giai, Ngu Lễ Dương. . . Thậm chí Chúc Tuế!
+Vậy còn gì?
+Khương Vọng nói: "Sa Bà long vực, Đông Hải long cung, Thương Ngô Cảnh, Thiên Tịnh quốc?"
+Hắn không nói Nguyệt Quế Hải và Phù Đồ tịnh thổ, vì hai căn cứ này xuất hiện sau. Trong lịch sử, từng bị thay thế.
+Chỉ có bốn tòa Sa Bà long vực, tồn tại từ xưa đến nay, như vĩnh hằng!
+Ngu Lễ Dương gật đầu: "Võ An Hầu một điểm liền thông."
+Hắn muốn nói thêm, lại ngừng, ngước mắt: "Ngươi nhìn!"
+Khương Vọng thấy Sa Bà long vực vô ngần đối diện Giới Hà, đã biến mất! Không phải Giới Hà chuyển vị, vì hắn không cảm nhận được gợn sóng Giới Hà chuyển vị, mà đối diện Giới Hà không có giới vực khác, chỉ có trống không.
+Một lỗ trống lớn đột ngột xuất hiện trong Mê giới lớn như vậy!
+Xảy ra chuyện gì?
+Không đợi Khương Vọng hỏi, hắn thấy tích trượng ở Bỉ Ngạn Giới Hà, trong trống rỗng!
+Thân trượng thẳng tắp, có triện văn xoay quanh.
+Đầu trượng là Cửu Long đan xen.
+Đuôi trượng là đuôi rồng, nhưng vảy râu rơi như thương nhọn.
+Trượng lơ lửng trong trống rỗng, có khí tức cổ xưa vĩ đại, bao phủ sinh linh nhìn kỹ nó.
+Thấy tích trượng, lo sợ muốn bái!
+"Chuyện gì xảy ra? Sa Bà long vực đi đâu?" Trong quân trận, có người hốt hoảng hỏi.
+Khương Vọng cũng có nghi vấn, nhưng nghe tiếng Ngu Lễ Dương ----
+"Đây là Sa Bà long vực."
+Đào Hoa Tiên phong lưu, lần đầu tiên ngưng trọng: "Binh khí của Thiên Phật, Sa Bà Long Trượng (Sa Bà Long Trượng)!"
+Từ vạn cổ đến nay giằng co với Nhân tộc, là nó!

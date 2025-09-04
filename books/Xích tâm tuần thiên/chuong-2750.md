@@ -2,147 +2,274 @@
 
 ## Tóm tắt chương truyện
 
-Trên Đài Thiên Hạ náo nhiệt, Khương Vọng đứng một mình, giữ vai trò trọng tài trận bán kết cuối cùng giữa Cung Duy Chương và Gia Cát Tộ. Anh lạnh lùng tuyên bố bắt đầu trận đấu, đồng thời khẳng định sẽ can thiệp nếu có bất kỳ ai vượt quá giới hạn quy định.
+Trên Đài Thiên Hạ náo nhiệt với Viêm Kỳ phần phật, siêu thoát hiện thân, thiếu niên đẫm máu và nước mắt, thiên kiêu gào thét. Khương Vọng, như người ngoài cuộc, chỉ muốn hoàn thành nhiệm vụ trọng tài.
 
-Trận đấu nhanh chóng diễn ra. Cung Duy Chương xuất đao, còn Gia Cát Tộ triệu hồi một ngôi sao tên "Đại Lương" để nghênh chiến.
+Đãng Ma thiên quân hỏi: "Tâm có thể định hay không? Còn có thể chiến hay không?". Cung Duy Chương đáp "Chỉ nguyện nhanh khôi.", còn Gia Cát Tộ nói "Đạo lý văn võ, khi nắm khi buông. Xem kịch nhìn lâu, có thể hoạt động một cái tay chân, kia là lại rất tốt.".
 
-Trong khi đó, Thần Yến Tầm và Cơ Cảnh Lộc vẫn đối đầu nhau. Cơ Cảnh Lộc bất ngờ ra tay, đánh tan xác Thần Yến Tầm ngay tại chỗ. Tuy nhiên, Khương Vọng nhận ra một điểm linh quang quen thuộc trong mắt Thần Yến Tầm trước khi chết – ánh sáng Nhân Đạo, thứ không nên có ở một người như hắn.
+Khương Vọng tuyên bố bắt đầu vòng bán kết, kiếm khí tạo thành ranh giới bảo vệ hai đấu thủ. Cung Duy Chương lập tức rút đao, Gia Cát Tộ triệu hồi "Đại Lương" bắt lấy ánh đao.
 
-Cơ Cảnh Lộc thiêu đốt t·hi t·hể Thần Yến Tầm, nhưng những mảnh vụn còn sót lại bắt đầu run rẩy và tập hợp lại. Đại Sơn Vương dùng Chân Võ Điện Châm Kình để cố định chúng. Những mảnh vụn huyết nhục đó đồng loạt vang lên, tự xưng không oán không thù với Cảnh quốc, cầu xin tha mạng. Cơ Cảnh Lộc bác bỏ, cho rằng Vong Ngã Nhân Ma nuôi họa, Cảnh quốc có trách nhiệm tiêu diệt. Hắn tung một quyền sấm sét, nhưng từ trong đống tro tàn, một đứa trẻ sơ sinh xuất hiện, mang theo sinh cơ dồi dào và nguyên lực phong phú.
+Thần Yến Tầm và Cơ Cảnh Lộc vẫn đối mặt nhau. Cơ Cảnh Lộc nói: "Ta cũng muốn cùng ngươi có thương có lượng, nhưng ngươi trước đó không thương, sự tình lúc không lượng, hiện tại phải thương lượng. . Ta rất khó xử lý a.". Thần Yến Tầm lộ ra một điểm linh quang, Cơ Cảnh Lộc lập tức ra tay, đánh nát đầu Thần Yến Tầm.
 
-Diệp Thanh Vũ trên khán đài nhận ra đây là Lăng Tiêu Lưỡng Nghi Độ Thế Pháp (Lingxiao Twofold Salvation Method), một bí pháp do Diệp Lăng Tiêu sáng tạo để che giấu thân phận và chuyển đổi mệnh cách. Nàng vội vàng truyền tin cho Khương Vọng, giải thích rằng Yến Xuân Hồi đã dùng bí pháp này cùng với huyết mạch Thần thị để tạo ra Thần Yến Tầm, và giờ đây hắn đang mượn Cơ Cảnh Lộc để tái sinh, trở nên vô cùng nguy hiểm. Khương Vọng kinh ngạc xem xét bí pháp này.
+Khương Vọng không kịp ngăn cản vì nhận ra Nhân Đạo ánh sáng trong Thần Yến Tầm. Cơ Cảnh Lộc đốt t·hi t·hể, nhưng những mảnh vụn thịt bắt đầu run rẩy, tụ lại. Cơ Cảnh Lộc dùng Chân Võ Điện Châm Kình cố định chúng, hỏi: "Ngươi đối thân người có không giống bình thường lý giải. Ta không biết nên tán thưởng, vẫn là sợ hãi.".
 
-Thần Yến Tầm tái sinh không chỉ đơn thuần là phục hồi, mà còn được Nhân Đạo chiếu cố, trở thành thiên tài bẩm sinh với khí vận tập trung. Cơ Cảnh Lộc cảm thấy uy h·iếp nhưng vẫn rút quạt sắt ra. Đúng lúc này, Lư Khâu Văn Nguyệt liếc nhìn hắn, và cả hai đều cảm nhận được sự trỗi dậy của Trường Hà – Hỗn Nguyên Tà Tiên (Hunlun Evil Immortal) đang đến gần!
+Những mảnh vụn thịt phát ra âm thanh: "Chúng ta ngày xưa không oán, ngày nay không thù, luôn luôn chung sống hoà bình...". Cơ Cảnh Lộc phản bác: "Vong Ngã Nhân Ma nuôi họa Vô Hồi Cốc, truyền nọc độc thiên hạ, Cảnh quốc giám trời có trách nhiệm, gọi thế nào không cừu không oán? Há không nghe vì dân oán, vì dân mối thù!". Hắn tung một quyền lôi điện, nhưng trong đống tàn tích lại hình thành một đứa trẻ sơ sinh.
 
-Cơ Cảnh Lộc đổi giọng, hỏi Thần Yến Tầm về cái c·hết của Trần Toán, ám chỉ rằng nếu hắn chịu khai, có lẽ sẽ được tha mạng.
+Lâu Giang Nguyệt ngất xỉu. Bảo Huyền Kính nghiến răng.
+
+Diệp Thanh Vũ nhận ra Lăng Tiêu Lưỡng Nghi Độ Thế Pháp, vội truyền tin cho Khương Vọng: "Yến Xuân Hồi cần phải là dựa vào hắn đối Nhân Ma nghiên cứu, mượn dùng Thần thị huyết mạch, Thần Dĩ Ngọ bản mệnh máu, bóp thành Thần Yến Tầm người này, lại hai phần mệnh cách, lấy ở trong đó, có thể lừa trời khinh người.".
+
+Đứa trẻ sơ sinh mở mắt, nói: "Im lặng sinh ra sinh linh, hết tội kết thành trẻ thơ...". Thần Yến Tầm tái sinh, có Nhân đạo khí vận tập trung.
+
+Cơ Cảnh Lộc cảm thấy uy h·iếp, định ra tay thì Lư Khâu Văn Nguyệt liếc nhìn. Trường Hà bốc lên, cả tòa thần lục lắc lư – Hỗn Nguyên Tà Tiên đến!
+
+Cơ Cảnh Lộc chuyển hướng Thần Yến Tầm: "Ngươi lại đáp ta Trần Toán c·ái c·ết, là ai ra tay?".
 
 ## Toàn bộ chương
 
-[Dịch thuật thất bại do giới hạn API khi thử lại]
-
 ## Chương 179: Chẳng lẽ ngươi chưa từng nghe: đó là thù hận của trăm họ?
 
-  
-Cái này Đài Thiên Hạ thật tốt náo nhiệt! Viêm kỳ phần phật, siêu thoát hiện thân, thiếu niên đẫm máu và nước mắt, thiên kiêu gào thét.  
-Kẻ thương tâm vì xúc động trước tiếng vang ấy, hận người hận nó tên, đều có mỗi bên cố sự cùng đặc sắc.  
-Khương Vọng đồng thời không có phẫn nộ vì không được tôn trọng, cũng không có sát ý vì đối mặt bất công, hắn cô độc đứng tại trên đài, như cái người ngoài cuộc. Hắn chỉ là nghĩ. . Làm xong chính mình sự tình.  
-Cung Duy Chương cùng Gia Cát Tộ còn tại dưới đài yên lặng chờ đợi, thật tốt chuẩn bị thi đấu. Bọn hắn đều là rất tốt hài tử, cái này vốn nên là thuộc về bọn hắn thời khắc. . . Đương nhiên bọn hắn tuổi còn rất trẻ, các đại nhân hoành đồ đại nghiệp, mới là nhân gian đại cục.  
-Người thiếu niên thời khắc huy hoàng, cần vì hùng vĩ cố sự mà nhường đường.  
-Lúc này bọn hắn nghe được một thanh âm, Đãng Ma thiên quân âm thanh ——  
-"Tâm có thể định hay không?"  
-hắn âm thanh lại hỏi: "Còn có thể chiến hay không?"  
-Càng là muốn tại Hỗn Nguyên Tà Tiên trở về phía trước, mau chóng xong thi đấu.  
-Đương nhiên công bằng xong thi đấu tiền đề, là tuyển thủ dự thi có khả năng ở trong môi trường này không bị q·uấy n·hiễu, chân chính phát huy mình thực lực.  
-Vì lẽ đó trọng tài cần tôn trọng song phương tuyển thủ ý kiến. Cung Duy Chương thu lại mắt án đao: "Chỉ nguyện nhanh khôi."  
-Gia Cát Tộ đã an tĩnh tô tô vẽ vẽ nửa ngày, lúc này đem cán nhỏ nhẹ như sợi tơ vừa buông đã tung bay, ấn thành ánh sao, điền vào trong sách. Tiện tay đem bản này sách dày, nhét vào trong chiếc pháp bào rộng thùng thình, lại từ từ duỗi lưng một cái: "Đạo lý văn võ, khi nắm khi buông. Xem kịch nhìn lâu, có thể hoạt động một cái tay chân, kia là lại rất tốt."  
-"Làm phiền chân quân." Hắn đối với Khương Vọng hành lễ, cẩn thận tỉ mỉ.  
-Tại Đãng Ma thiên quân phát ra tiếng giờ khắc này, trên đài Quan Hà những thứ khác âm thanh liền đã bị che giấu, Thái Hư Huyễn Cảnh cùng các nơi màn trời chuyển chiếu bên trong, thiếu niên thiên kiêu phong thái, một lần nữa chiếm làm chủ cách.  
-Đại sơn vương Cơ Cảnh Lộc cũng tốt, Thiên Sư Viêm Kỳ ngay tại diễn hóa thành Hỗn Nguyên Tà Tiên cũng được, đều chỉ xem như hình tượng một góc.  
-Đã nửa ngày không nói gì Hô Duyên Kính Huyền, rõ ràng lại đến hắn bình luận thời điểm.  
-"Cái kia, hiện tại. . ." Hắn đem ánh mắt từ Thiên Sư Viêm Kỳ bên trên dịch chuyển khỏi, đuổi vòng bán kết tuyển thủ mà đi: "Để chúng ta tiếp tục trận này hội Hoàng Hà!"  
-Trên đài Quan Hà Tần Chí Trăn im lặng như đá ngầm san hô, chỉ là nhấc đao một cắt —— đài diễn võ nội bộ không gian liền lại mở rộng, Cung Duy Chương cùng Gia Cát Tộ đã rơi vào trên đài.  
-Tên là "Hoành Thụ" thiên hạ đao, vì bọn họ phân chia ra cùng lúc trước đồng dạng rộng lớn không gian. Tuy là trên đài có nhiều tràng biểu diễn tại đồng thời tiến hành, cũng đã không ảnh hưởng tới bọn hắn."Thiên kiêu thịnh hội, Hoàng Hà việc lớn. Liền lấy siêu thoát phát ra âm thanh, vì ngươi tấu âm thanh. Vĩnh hằng thất vọng, coi là này vinh!"  
-Khương Vọng thực hiện Hoàng Hà trọng tài chức trách, âm thanh thành kiếm phát ra âm thanh: "Năm nay hội Hoàng Hà cuối cùng một hồi vòng bán kết, hiện tại bắt đầu. Thi đấu bên trong thắng bại, các ngươi tự cầu, thi đấu bên ngoài sự tình, đều là tại ngoài vòng kiếm của ta. . Xin quyết!"  
-Sáng như tuyết ánh kiếm ngưng tụ thành một sợi, quấn phương này quyết đấu không gian mà đi, cuối cùng cắt xuống tuyến tới. . . Ẩn vào hư không, tựa như Giao Long nằm.  
-Từ giờ khắc này bắt đầu bất kỳ người nào bởi vì bất cứ chuyện gì chạm đến đạo này tuyến, liền biết nghênh đón Trường Tương Tư không giới hạn phản công!  
-Trong vòng kiếm, chiến đấu cấp tốc bộc phát.  
-Cơ hồ là thanh âm của Khương Vọng vừa dứt xuống tới, Cung Duy Chương đao cũng đã ra khỏi vỏ, vắt ngang như một đạo cầu vồng trắng, bén nhọn cắt đứt trời cao.  
-Mà Gia Cát Tộ vậy mà mịt mù như Thần Tinh, trong chốc lát xa cuối chân trời. Ánh sao sau lưng hắn giao hội, hạ xuống một tôn tư thái nở nang, mặt khắc kê thu. . . Ngôi sao tên là "Đại Lương"!  
-"Đại Lương" bàn tay thò ra bắt ánh đao như cầu vồng.  
-Còn có bao nhiêu người đang chăm chú trận này vòng bán kết, không thể biết được.  
-Nhưng bọn hắn đều đầy đủ thể xác tinh thần gia nhập chiến đấu, tin tưởng Khương chân quân có khả năng cam đoan chiến trường an toàn.  
-Dù là Đại Sơn Vương ở bên hỏi tặc, dù là trên đài siêu thoát đến. Tại đây tòa Đài Thiên Hạ, thanh văn tất cả thành chủ trọng tài nắm giữ.  
-Thần Yến Tầm hai mắt đẫm lệ, cùng từng bước ép sát Cơ Cảnh Lộc, đều tại chính bọn họ cố sự bên trong.  
-Cái trước là lấy trước mắt cỗ thân thể này, còn không thể trốn thoát hiểu biết. Cái sau dù có thể nhận ra hiểu biết khác thường, lại không đi chạm đến, tránh cùng trọng tài xung đột.  
-Vì lẽ đó Thần Yến Tầm cùng Cơ Cảnh Lộc, còn tại đối mắt nhìn nhau.  
-Bọn hắn cũng còn không có chú ý tới vòng bán kết bắt đầu.  
-Đây là Thần Yến Tầm cái thân phận này, một lần cuối cùng rơi lệ biểu diễn, mà Đại Cảnh Đại Sơn Vương, tâm như sắt đá.  
-"Ta cũng nghĩ cùng ngươi có thương có lượng, nhưng ngươi trước đó không thương, sự tình lúc không lượng, hiện tại phải thương lượng. ." Cơ Cảnh Lộc mặt mỉm cười: "Ta rất khó xử lý a."  
-Thần Yến Tầm chảy nước mắt, thế nhưng nhếch môi đến: "Đã như vậy. . ."  
-Bên trong nước mắt của hắn, nhảy ra một điểm rất khó b·ị b·ắt linh quang. Là trong ánh sáng sóng, một điểm lấp lánh, hừng hực lửa mạnh bên trong một ngọn lửa!  
-Oành! Cũng là tại hắn mở miệng nói "Đã như vậy" đồng thời Cơ Cảnh Lộc tay đã nhô ra.  
-Trời trong hiện ra sấm sét, tụ thành nộ sư hình.  
-Sư tử hé miệng hợp năm ngón tay, ánh quyền thu làm gõ chùy ngọc!  
-Vang vọng đài Quan Hà nổ vang, đất bằng nổ tung. Tiếng như vằn nước, dập dờn các phương.  
-Cái kia linh quang không còn, nước mắt cũng không còn.  
-Một cái nắm đấm nổ xuống, Tống quốc thiếu niên lang đầu tại chỗ liền nổ tung! Đỏ trắng bay đầy trời tung tóe.  
-Thích ghim tóc búi tròn thiếu niên tuấn lãng, bị coi là trận Nội Phủ đoạt giải nhất đứng đầu thiên kiêu tuyệt thế. . Từ đầu lâu đến cái cổ đến thân thể, ép tại dưới quyền như bụi bậm, một lần tính toàn bộ san bằng trừ sạch.  
-Đài cao rộng lớn, thật tốt thanh tịnh.  
-Như là đã đầy đủ hoài nghi người này, Cơ Cảnh Lộc đương nhiên không biết cuồng vọng chờ hắn đột nhiên gây khó khăn.  
-Vừa có không đúng, liền trực tiếp nện c·hết.  
-Đến mức nện sai rồi. . .  
-Người đều c·hết rồi, làm sao lại sai?  
-Không phải là Yến Xuân Hồi, cũng có thể là cái gì khác ma đầu. Trung ương đế quốc tóm lại là phải có lý do chính đáng. Người như chưa c·hết. . Đây không phải là nện đúng rồi sao! ?  
-Cơ Cảnh Lộc khí kình kết thành một cái ba bước vuông tròn trịa, ôm Đan mà đầy, tất cả vết bẩn đều ở trong đó hắt vẫy.  
-Khí huyết thành ngọn lửa, châm lửa t·hi t·hể.  
-Giống như thế giới ô trọc, đều có thể dạng này bị quét dọn.  
-Khương Vọng không có kịp thời ra kiếm, bởi vì hắn đã từ Thần Yến Tầm trong mắt nhảy ra cái kia một điểm linh quang bên trong, chạm đến quen thuộc cảm thụ. . Cái kia vậy mà là Nhân Đạo ánh sáng!  
-Ngày xưa hắn lấy, mà Lý Nhất chống đỡ, Ngoại Lâu chưa từng rơi.  
-Hôm nay Ngoại Lâu cũng bỏ trống, Tả Quang Thù nhận, Nội Phủ còn chưa quyết tên, Thần Yến Tầm lại là từ nơi nào lấy được?  
-Bất kể nói thế nào, có thể hưởng Nhân Đạo ánh sáng người, tuyệt không phải mười lăm tuổi Thần Yến Tầm. Nó tức không đệ nhất, quá khứ kinh lịch bên trong, cũng không tồn tại gì đó nhờ sự giúp đỡ Nhân Đạo công đức lớn.  
-Nó chứng minh Thần Yến Tầm cũng không phải là Thần Yến Tầm.  
-Đã không phải là hợp quy dự thi tuyển thủ, Hoàng Hà trọng tài tự nhiên không có bảo hộ hắn trách nhiệm.  
-Thần Yến Tầm quả nhiên không c·hết. Cái kia lốm đốm lấm tấm tán tại quyền kình đan viên các nơi huyết nhục cặn bã, tại khí huyết ngọn lửa bên trong nấu một trận, không có chờ đến cứu viện, cũng không có đợi đến những thứ khác biến hóa. Rốt cuộc biết Khương Vọng sẽ không xuất thủ, Hoàng Xá Lợi cũng không biết thụt lùi thời gian.  
-Sau cùng biểu diễn cũng không có thể đánh động người xem.  
-Những thứ này máu thịt điểm lấm tấm còn thừa lại hơn trăm điểm tàn tích, liền bắt đầu run rẩy, sau đó bắt đầu nhúc nhích.  
-Bảo Huyền Kính mắt có thần sắc, nghĩ mà sợ cảm xúc hiện ra tại mặt mũi, lại theo gấp gáp lộ vẻ 【 Thần Minh Kính 】 trạng thái mà tiêu tan mất. Tóm lại thời khắc chú ý mình biểu diễn, dù là đã không có người chú ý. . . Cứ như vậy lại gần sát Khương Vọng hai bước.  
-Chỉ thấy nhỏ vụn máu thịt tại đan viên bên trong bơi ra đủ loại quỹ tích, xuyên qua khí huyết lửa cháy mạnh, cực nhanh hướng vị trí trung tâm tụ tập ——  
-"Thú vị!"  
-Cơ Cảnh Lộc mắt thả ra bãi cỏ xanh điện, phút chốc đi khắp này tròn, ngàn vạn ánh chớp, đem quyền kình đan viên chiếu lên như minh châu.  
-Những cái kia phi tốc bơi lội huyết nhục điểm lấm tấm, cứ như vậy bị ánh chớp hào châm ổn định, trong chốc lát giãy dụa không được thoát.  
-Đại Sơn Vương có chút hăng hái quan sát lấy những thứ này máu thịt điểm lấm tấm biến hóa: "Tào Ngọc Hàm có 【 máu thịt sinh linh 】 võ thân, chính là nhục thân đỉnh điểm. Ngươi rõ ràng không có tới gần loại kia nhục thân cảnh giới, cũng không tu võ, là thế nào làm đến mỗi một điểm nhỏ vụn máu thịt, đều gánh chịu ý chí của ngươi?"  
-"Ngươi đối thân người có không giống bình thường lý giải. Ta không biết nên tán thưởng, vẫn là sợ hãi."  
-"A đúng rồi, đây là Chân Võ Điện Châm Kình, không có cái gì đặc biệt lợi hại địa phương, chính là giỏi về đánh xuyên đạo tắc, vỡ nát linh tính. Vừa lúc ngươi lại như thế phân tán, lại dùng như thế thân thể yếu đuối. ."  
-Cơ Cảnh Lộc trên mặt mang cười, trong mắt lại khác biệt không ý cười: "Không chịu được lâu."  
-"Chờ một chút —— "  
-Không thể đếm hết huyết nhục điểm lấm tấm, tại ánh chớp kim châm cứu phía dưới, giãy dụa rung động, vậy mà cộng minh ra một thanh âm đến: "Chúng ta ngày xưa không oán, ngày nay không thù, luôn luôn chung sống hoà bình. Ta không giống La Sát cầu Họa Quốc, không phải là Bình Đẳng Quốc cầu bình đẳng, không ảnh hưởng các ngươi bá quốc tồn tại —— trời sinh đại đạo, vạn sự có đức, cần gì ngươi c·hết ta sống!"  
-Cảnh quốc hoàn toàn chính xác không có cái gì nhất định muốn g·iết c·hết Vong Ngã Nhân Ma lý do.  
-Nhất là tại Yến Xuân Hồi vô cùng khó g·iết, vô cùng tính nguy hiểm tình huống dưới. Không phải là không trừ ma tâm, thật là được không bù mất.  
-Ích lợi quốc gia là trước tại đạo đức thứ nhất cân nhắc!  
-Nhưng đã kia là thịt cá, ta là dao thớt. . .  
-"Trò cười! Vong Ngã Nhân Ma nuôi họa Vô Hồi Cốc, truyền nọc độc thiên hạ, Cảnh quốc giám trời có trách nhiệm, gọi thế nào không cừu không oán? Há không nghe vì dân oán, vì dân mối thù!"  
-"Chúng ta có thể xưng không lên chung sống hoà bình, lần trước Thái Ngu chân quân liền muốn rút kiếm g·iết ngươi, vệ đạo nhân gian. Chỉ là tin tức tiết lộ, bị ngươi chạy thoát. Hôm nay đâm vào bản vương trên tay, có thể thấy được lưới trời lồng lộng, ác tất có báo."  
-Cơ Cảnh Lộc võ thân vĩ đại, khí huyết oanh liệt, quyền lên rộng lớn xu thế: "Thiên hạ bất an, trung ương vì dân bung dù. Thanh trừ ác trừ ma, bản vương việc nhân đức không nhường ai!"  
-Âm thanh như lôi, quyền như trống.  
-Một quyền đi xuống, toàn bộ quyền kình đan viên, biến thành thực chất màu xanh. Màu xanh đậm lôi tương, tại bên trong đan viên dập dờn! Lốp bốp nổ vang, giống như là tân xuân pháo ném. Một nháy mắt rực sáng ánh chớp, gột sạch hết thảy ô trọc.  
-Nhưng cố sự nhưng không có theo một quyền này kết thúc.  
-Năm cũ đi, năm mới tới.  
-Nhiều thấy quyền kình kia đan viên như trời xanh trăng rằm, liền tại cái kia lắc lư thành thực chất lôi tương bên trong, lại có từng điểm từng điểm linh quang sinh ra. Hư quang linh ảnh, mơ hồ kết thành một cái ôm mặt cuộn tròn thân trẻ mới sinh!  
-Một màn này cùng đài diễn võ một chỗ khác Thiên Sư Viêm Kỳ biến hóa, lại giống nhau đến mấy phần chỗ. . Để cho người có tương cận sợ hãi.  
-Có lẽ là bởi vì, chúng đều tới một mức độ nào đó đại biểu tân sinh, đều đại biểu lực lượng nào đó giáng lâm.  
-Bên trên ghế quan chiến Lâu Giang Nguyệt ngửa mặt liền ngã, cái này đã hoàn toàn vượt qua nàng mức độ tính toán, một nháy mắt chợt nổ tung biến hóa, làm nàng rời khỏi thần thông cũng không kịp, chỉ là bản năng lấy ngất đến từ ta bảo vệ. Đài cao như biển sinh trăng sáng, dưới ánh trăng sáng, đứa trẻ ngủ trong vòng tay.  
-Rực cháy sinh cơ tại trên đài lan tràn, phong phú nguyên lực cơ hồ kết thành như thực chất thủy triều!  
-Thiên Đạo cho hắn lấy thiên vị, Nhân Đạo cho hắn lấy chiếu cố.  
-Bảo Huyền Kính nhìn đến nghiến răng, đây thật là người lừa trời! Rõ ràng làm người không có hắn thuần, không phải người cũng không kịp hắn mạnh, lại bởi vì dính vào Nhân Đạo ánh sáng, không biết lấy biện pháp gì tân sinh, liền phải này tạo hóa ——  
-Cái này vốn nên là hắn đoạt giải nhất sau thắng cảnh. Bây giờ lại nhường gian nhân đắc ý, nghiệt tặc hưởng lợi.  
-"Quyền này đi qua, nhân quả thanh toán xong. Cảm ơn đạo hữu, đưa ta một đường!"  
-Trẻ mới sinh bên trong quyền kình đan viên, cuối cùng mở hai mắt ra, trong mắt ánh chớp vẩy ra, trong veo thấy linh, uy nghiêm tự sinh: "Im lặng sinh ra sinh linh, hết tội kết thành trẻ thơ. Quá khứ đủ loại, đã thành hôm qua c·hết. Ác nghiệp các loại, làm theo kia thân tận. Cái gọi là nghiệt tận có đức, thế hệ chúng ta ôm đức mà sinh!"  
-Trên khán đài Diệp Thanh Vũ, ánh mắt đột ngột rung động.  
-Lăng Tiêu Lưỡng Nghi Độ Thế Pháp!  
-Lúc trước Thần Yến Tầm còn là Tống quốc thiếu niên, hăng hái, trên đài ấn kiếm, nàng còn không thể nhìn rõ trong đó biến hóa. Giờ phút này ôm linh thành hài nhi, quay lại ngây thơ, nàng cuối cùng là nhận ra môn bí pháp này.  
-Cũng là tại Diệp đại hào kiệt rời đi về sau, nàng mới tại bên trong Lăng Tiêu chưởng giáo ấn được truyền. Này là Diệp Lăng Tiêu năm đó vì tránh đi Nhất Chân Đạo nhìn chăm chú, cầu đạo cầu lực, chỗ nghiên cứu tiên thần đồng tu, hai đạo pháp.  
-Giống Khương Vọng có rất nhiều pháp thân. Nhưng không cần nói Ma Viên vẫn là Tiên Long, không cần nói công pháp biểu hiện như thế nào không tầm thường, vẫn là vừa đứng ra, chính là Khương Vọng.  
-Diệp Lăng Tiêu hai đạo pháp tắc không giống.  
-Năm đó hắn lấy thân phận của Lăng Tiêu các chủ thoải mái nhàn nhã, Tài Thần mượn trên mây thương lộ bày ra các phương, cũng không có người nào nhìn ra Tài Thần là hắn!  
-Nó lấy Tiền Sửu tên, gia nhập Bình Đẳng Quốc về sau, lại học được Chiêu Vương che lấp thân phận bản sự. Bởi vậy hoàn thiện cái này « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp » cuối cùng hai phần mệnh cách, lẫn lộn quá khứ, thoáng như tân sinh.  
-Diệp Thanh Vũ biết được pháp này, lại chưa tu hành, bởi vì nàng Tài Thần thân không cần không rõ ràng. Vừa vặn thiên hạ rộng biết, mới rất có lợi tại thăng hoa Thần đạo.  
-Môn bí pháp này tại tu hành, tại chiến đấu, đều không có quá lớn ý nghĩa, lớn nhất giá trị ở chỗ mơ hồ. Thuần túy bởi vì sự thành pháp.  
-Mà trên đài Thần Yến Tầm đã tiến thêm một bước, dùng cái này khinh người lừa trời.  
-"Đây là « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp » chính là ta lần trước nói với ngươi, phụ thân ta nặc hành Thần đạo cái kia pháp môn —— Yến Xuân Hồi cần phải là dựa vào hắn đối Nhân Ma nghiên cứu, mượn dùng Thần thị huyết mạch, Thần Dĩ Ngọ bản mệnh máu, bóp thành Thần Yến Tầm người này, lại hai phần mệnh cách, lấy ở trong đó, có thể lừa trời khinh người. Hắn hiện tại mượn Cơ Cảnh Lộc lôi đình tiêu tan nghiệp, tái sinh mới thân, cũng đã bù đắp tận ngày xưa tiếc! Vô cùng nguy hiểm!"  
-Diệp Thanh Vũ khẩn cấp giấu niệm tại Như Ý Tiên Niệm, lại giao cho « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp » cả bộ, bay vào Khương Vọng biển tiềm ý, khuyên hắn thận mà lại thận.  
-Yến Xuân Hồi là người nước Cảnh đang đuổi, liền nhường người nước Cảnh phụ trách tới cùng là được!  
-Vong Ngã, Toán Mệnh, Vạn Ác, Tước Nhục, Yết Diện, Khảm Đầu, Thị Huyết, Thực Phách, Thôn Tâm. . . Bóp người thuật, tân sinh pháp. « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp » hai phần mệnh cách pháp.  
-Cộng lại hoàn toàn chính xác không chê vào đâu được, khó trách Yến Xuân Hồi nguyện ý trả giá toàn lực một kiếm, cùng Diệp Lăng Tiêu giao dịch. Khó trách hắn chưa từng thật đối Vân quốc động thủ, chịu tại trước kiếm của Khương Vọng đổi đường.  
-Thần Yến Tầm nhục thân tươi sống hoàn mỹ, cho nên mắt người không quan sát. Thần Yến Tầm mệnh cách xác thực tồn tại, cho nên thiên chiêm không lọt!  
-Khương Vọng nhất là nhìn thấy Diệp Thanh Vũ trước mắt cảnh giới còn không nhìn thấy chi tiết.  
-Thần Yến Tầm tại biển lôi sinh hài nhi, cũng không phải là thuần túy tiếp tục sử dụng cũ pháp, mà là lấy Nhân Đạo ánh sáng làm căn bản, tái sinh ngũ tạng lục phủ, gân cốt máu thịt. . . Này trời sinh đạo mạch, tất có thiên phủ, phúc đức bản mệnh, sinh tức Nhân đạo khí vận tập trung! Hắn hiện tại đâu chỉ là bù đắp tận ngày xưa tiếc, hẳn là trời ưu ái, người yêu thương, có vượt qua thời đại thù hận, nhảy lên siêu thoát khả năng!  
-Hắn đối « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp » lúc đầu không có hứng thú, hiện tại tinh tế lật xem, lại là càng xem càng kinh.  
-Thần Yến Tầm trên người sinh tử biến, nghiệp nghiệt hóa, đã vượt qua Cơ Cảnh Lộc nhận biết.  
-Nhất là cái này lôi bên trong mang thai hài nhi, lại làm hắn sinh lòng cảnh giác, cảm giác được uy h·iếp.  
-Nhưng hôm nay tại đây trên đài Quan Hà, cao thủ tụ tập, Cảnh quốc liền siêu thoát đều muốn làm thịt rơi ba cái, nói gì đến một cái không biết tình huống gì Thần Yến Tầm!  
-Hắn không chút do dự rút ra quạt sắt, lại tại lúc này, cảm nhận được Lư Khâu Văn Nguyệt liếc đến ánh mắt.  
-Bên tai lại nghe tiếng thuỷ triều lên!  
-Đỉnh cao nhất cường giả nhận biết trải rộng ra tới.  
-Chỉ thấy trăm triệu dặm Trường Hà trong chốc lát bốc lên, cả tòa thần lục đều tựa hồ tùy theo lắc lư! Lớn như vậy đài Quan Hà tản mát ra hậu đức vàng sáng ánh sáng, cửu trấn tề ứng, thiên địa hợp thế, mới đè xuống lần này biến động.  
-Hỗn Nguyên Tà Tiên đánh đến nơi!  
-"Lạc đường biết quay lại, nó còn chưa muộn. Ngươi đã nhận Đãng Ma thiên quân cảnh cáo, đổi đường tìm khác, bản vương cũng không phải là không nghĩ đến đức độ của trời cao đối với sự sống." Cơ Cảnh Lộc nâng quạt nơi tay, nhẹ nhàng gõ một cái lòng bàn tay, hiện ra hết trung ương thong dong, lời nói chuyển hướng: "Ngươi lại đáp ta Trần Toán c·ái c·hết, là ai ra tay?"  
+Đài Thiên Hạ này thật náo nhiệt! Cờ Viêm (Yan flag) phấp phới, siêu thoát hiện thân, thiếu niên đẫm máu và nước mắt, thiên kiêu gào thét.
+
+Kẻ thương tâm vì xúc động trước tiếng vang ấy, người hận kẻ ghét nó tên, đều có mỗi bên câu chuyện cùng đặc sắc.
+
+Khương Vọng đồng thời không phẫn nộ vì không được tôn trọng, cũng không có sát ý vì đối mặt bất công, cậu cô độc đứng trên đài, như một người ngoài cuộc. Cậu chỉ là nghĩ... Làm xong chuyện của mình.
+
+Cung Duy Chương và Gia Cát Tộ vẫn im lặng chờ đợi dưới đài, chuẩn bị tốt cho cuộc thi. Bọn họ đều là những đứa trẻ rất giỏi, đây vốn nên là khoảnh khắc thuộc về bọn họ... Đương nhiên bọn họ còn trẻ, những đại nhân với hoành đồ đại nghiệp mới là đại cục nhân gian.
+
+Khoảnh khắc huy hoàng của thiếu niên, cần nhường đường cho những câu chuyện hùng vĩ.
+
+Lúc này họ nghe thấy một thanh âm, thanh âm của Đãng Ma thiên quân (Dangmo Heavenly Lord) ——
+
+"Tâm có thể định được không?"
+
+Ông ta lại hỏi: "Còn có thể chiến đấu không?"
+
+Ông ta muốn mau chóng kết thúc cuộc thi trước khi Hỗn Nguyên Tà Tiên (Hun Yuan Evil Immortal) trở lại.
+
+Đương nhiên tiền đề để kết thúc cuộc thi một cách công bằng là tuyển thủ dự thi có thể không bị quấy nhiễu trong môi trường này, thực sự phát huy thực lực của mình.
+
+Vì vậy trọng tài cần tôn trọng ý kiến của cả hai tuyển thủ. Cung Duy Chương thu lại ánh mắt mang sát khí: "Chỉ mong nhanh chóng kết thúc."
+
+Gia Cát Tộ đã an tĩnh tô tô vẽ vẽ nửa ngày, lúc này cậu thả nhẹ chiếc bút nhỏ nhẹ như sợi tơ, ấn thành ánh sao, điền vào trong sách. Tiện tay nhét quyển sách dày này vào trong chiếc pháp bào rộng thùng thình, rồi từ từ duỗi lưng một cái: "Đạo lý văn võ, khi nắm khi buông. Xem kịch lâu, có thể hoạt động tay chân, vậy thì lại rất tốt."
+
+"Làm phiền chân quân." Cậu đối với Khương Vọng hành lễ, cẩn thận tỉ mỉ.
+
+Trong khoảnh khắc Đãng Ma thiên quân lên tiếng, những âm thanh khác trên đài Quan Hà đã bị che giấu, phong thái của thiếu niên thiên kiêu trong Thái Hư Huyễn Cảnh (Tai Xu Illusion) và các màn trời chuyển chiếu, một lần nữa chiếm vị trí chủ đạo.
+
+Đại Sơn Vương Cơ Cảnh Lộc (Ji Jinglu) hay Thiên Sư Viêm Kỳ (Yan Qi) đang diễn hóa thành Hỗn Nguyên Tà Tiên cũng vậy, đều chỉ được xem là một góc hình ảnh.
+
+Hô Duyên Kính Huyền (Huyan Jingxuan) đã im lặng nửa ngày, rõ ràng lại đến lúc ông ta bình luận.
+
+"Vậy, hiện tại..." Ông ta dời ánh mắt khỏi Thiên Sư Viêm Kỳ, đuổi theo các tuyển thủ vòng bán kết: "Hãy cùng tiếp tục trận Hội Hoàng Hà này!"
+
+Tần Chí Trăn (Qin Zhizhen) trên đài Quan Hà im lặng như đá ngầm san hô, chỉ nhấc đao một cắt —— không gian bên trong đài diễn võ lại được mở rộng, Cung Duy Chương và Gia Cát Tộ đã rơi xuống đài.
+
+Thiên hạ đao tên là "Hoành Thụ" (Heng Shu), phân chia cho họ không gian rộng lớn như trước. Tuy trên đài có nhiều trận biểu diễn đang diễn ra đồng thời, nhưng đã không ảnh hưởng đến họ. "Thịnh hội thiên kiêu, việc lớn Hoàng Hà. Hãy lấy âm thanh của siêu thoát làm nhạc nền cho các ngươi. Thất vọng vĩnh hằng, hãy coi đó là vinh quang!"
+
+Khương Vọng thực hiện chức trách trọng tài Hoàng Hà, âm thanh thành kiếm phát ra tiếng: "Trận bán kết cuối cùng của Hội Hoàng Hà năm nay, hiện tại bắt đầu. Thắng bại trong thi đấu, các ngươi tự cầu, chuyện ngoài thi đấu, đều nằm ngoài vòng kiếm của ta... Xin quyết!"
+
+Ánh kiếm sáng như tuyết ngưng tụ thành một sợi, quấn lấy không gian quyết đấu này, cuối cùng cắt xuống một đường... Ẩn vào hư không, tựa như Giao Long nằm.
+
+Từ giờ phút này trở đi, bất kỳ ai vì bất cứ chuyện gì chạm vào đường này, sẽ nghênh đón sự phản công không giới hạn của Trường Tương Tư (Changxiangsi)!
+
+Trong vòng kiếm, chiến đấu nhanh chóng bộc phát.
+
+Gần như là ngay khi Khương Vọng vừa dứt lời, đao của Cung Duy Chương đã rời khỏi vỏ, vắt ngang như một đạo cầu vồng trắng, bén nhọn cắt đứt trời cao.
+
+Còn Gia Cát Tộ vậy mà mịt mờ như Thần Tinh, trong chốc lát xa tận chân trời. Ánh sao sau lưng cậu giao hội, hạ xuống một tôn tư thái nở nang, mặt khắc kê thu... Ngôi sao tên là "Đại Lương" (Da Liang)!
+
+"Đại Lương" thò tay ra bắt ánh đao như cầu vồng.
+
+Không thể biết có bao nhiêu người đang chăm chú theo dõi trận bán kết này.
+
+Nhưng họ đều toàn tâm toàn ý tham gia vào trận chiến, tin tưởng Khương chân quân có thể đảm bảo an toàn cho chiến trường.
+
+Dù là Đại Sơn Vương đang hỏi tặc, dù là siêu thoát giáng lâm trên đài. Tại Đài Thiên Hạ này, thanh văn tất cả thành chủ trọng tài nắm giữ.
+
+Thần Yến Tầm (Shen Yanshen) hai mắt đẫm lệ, cùng với từng bước ép sát Cơ Cảnh Lộc, đều ở trong câu chuyện của riêng họ.
+
+Người trước là lấy cơ thể hiện tại này, vẫn không thể trốn thoát khỏi tri giác. Người sau dù có thể nhận ra tri giác khác thường, lại không chạm vào, tránh xung đột với trọng tài.
+
+Vì vậy Thần Yến Tầm và Cơ Cảnh Lộc vẫn đang đối mắt nhìn nhau.
+
+Họ cũng chưa chú ý đến trận bán kết bắt đầu.
+
+Đây là lần cuối cùng Thần Yến Tầm trong thân phận này rơi lệ biểu diễn, còn Đại Sơn Vương Đại Cảnh, tâm như sắt đá.
+
+"Ta cũng muốn cùng ngươi có thương có lượng, nhưng ngươi trước đó không thương, lúc xảy ra chuyện không lượng, bây giờ lại muốn thương lượng..." Cơ Cảnh Lộc mặt mỉm cười: "Ta rất khó xử lý a."
+
+Thần Yến Tầm chảy nước mắt, nhưng lại nhếch môi: "Đã như vậy..."
+
+Bên trong nước mắt của cậu, nhảy ra một điểm linh quang rất khó bị bắt. Là một điểm lấp lánh trong sóng ánh sáng, một ngọn lửa trong biển lửa hừng hực!
+
+Ầm! Cũng là ngay khi cậu mở miệng nói "Đã như vậy", tay của Cơ Cảnh Lộc đã nhô ra.
+
+Trời trong hiện ra sấm sét, tụ thành hình nộ sư.
+
+Sư tử hé miệng hợp năm ngón tay, ánh quyền thu lại thành chùy ngọc!
+
+Tiếng nổ vang vọng đài Quan Hà, đất bằng nổ tung. Tiếng nổ như vằn nước, dập dờn các phương.
+
+Linh quang kia không còn, nước mắt cũng không còn.
+
+Một nắm đấm nổ xuống, đầu của thiếu niên Tống quốc nổ tung tại chỗ! Đỏ trắng bay đầy trời tung tóe.
+
+Thiếu niên tuấn lãng thích ghim tóc búi tròn, được coi là thiên kiêu tuyệt thế đứng đầu đoạt giải nhất Nội Phủ... Từ đầu lâu đến cái cổ đến thân thể, bị ép dưới quyền như bụi bậm, toàn bộ san bằng trừ sạch trong một lần.
+
+Đài cao rộng lớn, thật thanh tịnh.
+
+Như thể đã đủ nghi ngờ người này, Cơ Cảnh Lộc đương nhiên sẽ không cuồng vọng chờ hắn đột nhiên gây khó dễ.
+
+Vừa có gì đó không đúng, liền trực tiếp đập c·hết.
+
+Đến mức đập sai rồi...
+
+Người đều c·hết rồi, làm sao lại sai?
+
+Không phải Yến Xuân Hồi (Yan Chunhui), thì cũng có thể là ma đầu nào khác. Trung ương đế quốc tóm lại là phải có lý do chính đáng. Người như chưa c·hết... Đây chẳng phải là đập đúng rồi sao!?
+
+Khí kình của Cơ Cảnh Lộc kết thành một vòng tròn ba bước vuông vắn, ôm Đan (Dan) mà đầy, tất cả vết bẩn đều bị hắt vẫy trong đó.
+
+Khí huyết thành ngọn lửa, châm lửa t·hi t·hể.
+
+Giống như thế giới ô trọc, đều có thể bị quét dọn như vậy.
+
+Khương Vọng không kịp thời ra kiếm, bởi vì cậu đã chạm đến cảm giác quen thuộc trong điểm linh quang nhảy ra từ mắt Thần Yến Tầm... Cái đó vậy mà là ánh sáng Nhân Đạo!
+
+Ngày xưa cậu lấy, mà Lý Nhất (Li Yi) chống đỡ, Ngoại Lâu (Outer Building) chưa từng rơi.
+
+Hôm nay Ngoại Lâu cũng bỏ trống, Tả Quang Thù (Zuo Guangshu) nhận, Nội Phủ còn chưa quyết tên, Thần Yến Tầm lại lấy được từ đâu?
+
+Bất kể nói thế nào, người có thể hưởng ánh sáng Nhân Đạo, tuyệt không phải Thần Yến Tầm mười lăm tuổi. Cậu ta không phải đệ nhất, trong quá khứ cũng không có công đức lớn lao nào nhờ Nhân Đạo.
+
+Nó chứng minh Thần Yến Tầm không phải Thần Yến Tầm.
+
+Đã không phải tuyển thủ dự thi hợp quy, trọng tài Hoàng Hà tự nhiên không có trách nhiệm bảo vệ cậu ta.
+
+Thần Yến Tầm quả nhiên không c·hết. Những mảnh vụn huyết nhục lốm đốm tán ra khắp nơi trong vòng kình quyền, bị ngọn lửa khí huyết nấu một trận, không chờ đến cứu viện, cũng không đợi đến những biến hóa khác. Cuối cùng biết Khương Vọng sẽ không ra tay, Hoàng Xá Lợi (Huang Xieli) cũng không thụt lùi thời gian.
+
+Màn biểu diễn cuối cùng cũng không thể lay động người xem.
+
+Những điểm máu thịt lấm tấm còn sót lại hơn trăm điểm tàn tích, bắt đầu run rẩy, rồi bắt đầu nhúc nhích.
+
+Ánh mắt Bảo Huyền Kính (Bao Xuanjing) có thần sắc, cảm xúc kinh hãi hiện ra trên mặt, rồi tiêu tan theo trạng thái gấp gáp lộ vẻ 【 Thần Minh Kính 】 (Shenming Mirror). Tóm lại luôn chú ý đến màn trình diễn của mình, dù đã không có ai chú ý... Cứ như vậy lại gần sát Khương Vọng hai bước.
+
+Chỉ thấy máu thịt vụn vặt bơi ra đủ loại quỹ tích trong vòng đan, xuyên qua ngọn lửa khí huyết, cực nhanh hướng về vị trí trung tâm tụ tập ——
+
+"Thú vị!"
+
+Mắt Cơ Cảnh Lộc thả ra điện màu xanh lục, trong phút chốc đi khắp vòng tròn, ngàn vạn ánh chớp, chiếu vòng kình quyền lên như minh châu.
+
+Những điểm máu thịt bơi lội với tốc độ cao bị hào châm ánh chớp ổn định, trong chốc lát giãy giụa không thoát ra được.
+
+Đại Sơn Vương có chút hăng hái quan sát những biến hóa của các điểm máu thịt: "Tào Ngọc Hàm (Cao Yuhan) có 【 máu thịt sinh linh 】 (blood and flesh life) võ thân, chính là đỉnh điểm của nhục thân. Ngươi rõ ràng không tới gần cảnh giới nhục thân đó, cũng không tu võ, làm thế nào mà mỗi một điểm nhỏ vụn máu thịt đều gánh chịu ý chí của ngươi?"
+
+"Ngươi có lý giải không giống bình thường về thân người. Ta không biết nên tán thưởng, hay là sợ hãi."
+
+"À đúng rồi, đây là Chân Võ Điện Châm Kình (Zhenwu Electric Needle Strength), không có gì đặc biệt lợi hại, chính là giỏi đánh xuyên đạo tắc, phá nát linh tính. Vừa lúc ngươi lại phân tán như vậy, lại dùng thân thể yếu đuối như vậy..."
+
+Cơ Cảnh Lộc mang nụ cười trên mặt, nhưng trong mắt không có ý cười: "Không chịu được lâu."
+
+"Chờ một chút ——"
+
+Không thể đếm hết các điểm máu thịt, giãy giụa rung động dưới kim châm ánh chớp, vậy mà cộng minh ra một thanh âm: "Chúng ta ngày xưa không oán, ngày nay không thù, luôn chung sống hòa bình. Ta không giống La Sát cầu Họa Quốc (Rakshasa seeking disaster kingdom), không phải Bình Đẳng Quốc cầu bình đẳng, không ảnh hưởng đến sự tồn tại của các ngươi —— trời sinh đại đạo, vạn sự có đức, cần gì ngươi c·hết ta sống!"
+
+Cảnh quốc hoàn toàn chính xác không có lý do gì nhất định phải g·iết c·hết Vong Ngã Nhân Ma (Forget-me Not Human Demon).
+
+Nhất là trong tình huống Yến Xuân Hồi vô cùng khó g·iết, vô cùng nguy hiểm. Không phải là không trừ ma tâm, thật là được không bù mất.
+
+Ích lợi quốc gia là cân nhắc trước đạo đức!
+
+Nhưng đã kia là thịt cá, ta là dao thớt...
+
+"Trò cười! Vong Ngã Nhân Ma nuôi họa Vô Hồi Cốc (No Return Valley), truyền nọc độc thiên hạ, Cảnh quốc giám trời có trách nhiệm, sao gọi là không cừu không oán? Há không nghe vì dân oán, vì dân mối thù!"
+
+"Chúng ta có thể xưng không lên chung sống hòa bình, lần trước Thái Ngu chân quân (Tai Yu Zhenjun) đã muốn rút kiếm g·iết ngươi, vệ đạo nhân gian. Chỉ là tin tức tiết lộ, bị ngươi chạy thoát. Hôm nay đâm vào tay bản vương, có thể thấy lưới trời lồng lộng, ác tất có báo."
+
+Võ thân của Cơ Cảnh Lộc vĩ đại, khí huyết oanh liệt, quyền lên xu thế rộng lớn: "Thiên hạ bất an, trung ương vì dân bung dù. Thanh trừ ác trừ ma, bản vương việc nhân đức không nhường ai!"
+
+Âm thanh như lôi, quyền như trống.
+
+Một quyền đi xuống, toàn bộ vòng kình quyền biến thành thực chất màu xanh. Lôi tương màu xanh đậm dập dờn bên trong vòng đan! Lốp bốp nổ vang, giống như pháo ném tân xuân. Một nháy mắt ánh chớp rực sáng, gột rửa hết thảy ô trọc.
+
+Nhưng câu chuyện không kết thúc theo một quyền này.
+
+Năm cũ đi, năm mới tới.
+
+Nhiều người thấy vòng kình quyền như trăng rằm trên trời xanh, trong lôi tương rung lắc thành thực chất, lại có từng điểm linh quang sinh ra. Hư quang linh ảnh, mơ hồ kết thành một thân trẻ sơ sinh ôm mặt cuộn tròn!
+
+Một màn này lại giống biến hóa của Thiên Sư Viêm Kỳ ở một nơi khác trên đài diễn võ đến mấy phần... Khiến người ta có nỗi sợ hãi tương tự.
+
+Có lẽ là bởi vì chúng đều đại diện cho tân sinh ở một mức độ nào đó, đều đại diện cho sự giáng lâm của một lực lượng nào đó.
+
+Trên ghế quan chiến, Lâu Giang Nguyệt (Lou Jiangyue) ngửa mặt liền ngã, chuyện này đã hoàn toàn vượt quá mức độ tính toán của cô, sự biến hóa bùng nổ trong nháy mắt khiến cô rời khỏi thần thông cũng không kịp, chỉ bản năng ngất đi để tự bảo vệ mình. Đài cao như biển sinh trăng sáng, dưới ánh trăng sáng, đứa trẻ ngủ trong vòng tay.
+
+Sinh cơ rực cháy lan tràn trên đài, nguyên lực phong phú gần như kết thành thủy triều thực chất!
+
+Thiên Đạo cho cậu ta thiên vị, Nhân Đạo cho cậu ta chiếu cố.
+
+Bảo Huyền Kính nhìn đến nghiến răng, đây thật là người lừa trời! Rõ ràng làm người không thuần khiết bằng hắn, không phải người cũng không mạnh bằng hắn, lại bởi vì dính vào ánh sáng Nhân Đạo, không biết lấy biện pháp gì tân sinh, liền phải tạo hóa này ——
+
+Đây vốn nên là thắng cảnh sau khi hắn đoạt giải nhất. Bây giờ lại để gian nhân đắc ý, nghiệt tặc hưởng lợi.
+
+"Quyền này đi qua, nhân quả thanh toán xong. Cảm ơn đạo hữu, tiễn ta một đoạn đường!"
+
+Trong vòng kình quyền trẻ sơ sinh, cuối cùng mở hai mắt ra, ánh chớp vẩy ra trong mắt, trong veo thấy linh, uy nghiêm tự sinh: "Im lặng sinh ra sinh linh, hết tội kết thành trẻ thơ. Quá khứ đủ loại, đã thành hôm qua c·hết. Ác nghiệp các loại, làm theo kia thân tận. Cái gọi là nghiệt tận có đức, thế hệ chúng ta ôm đức mà sinh!"
+
+Trên khán đài, ánh mắt Diệp Thanh Vũ (Ye Qingyu) đột ngột rung động.
+
+Lăng Tiêu Lưỡng Nghi Độ Thế Pháp (Lingxiao Two-Yin Transcending World Method)!
+
+Lúc trước Thần Yến Tầm còn là thiếu niên Tống quốc, hăng hái ấn kiếm trên đài, cô còn chưa nhìn rõ biến hóa trong đó. Giờ phút này ôm linh thành hài nhi, quay lại ngây thơ, cuối cùng cô đã nhận ra môn bí pháp này.
+
+Cũng là sau khi Diệp đại hào kiệt rời đi, cô mới được chưởng giáo Lăng Tiêu truyền cho. Đây là Diệp Lăng Tiêu năm đó để tránh sự chú ý của Nhất Chân Đạo (One Truth Dao), cầu đạo cầu lực, chỗ nghiên cứu tiên thần đồng tu, hai đạo pháp.
+
+Giống như Khương Vọng có rất nhiều pháp thân. Nhưng không cần nói Ma Viên hay Tiên Long, không cần nói công pháp biểu hiện như thế nào không tầm thường, vẫn là vừa đứng ra, chính là Khương Vọng.
+
+Hai đạo pháp tắc của Diệp Lăng Tiêu không giống.
+
+Năm đó hắn lấy thân phận các chủ Lăng Tiêu thoải mái nhàn nhã, Tài Thần mượn thương lộ trên mây bày ra các phương, cũng không ai nhìn ra Tài Thần là hắn!
+
+Hắn lấy tên Tiền Sửu (Qian Chou), gia nhập Bình Đẳng Quốc, lại học được bản lĩnh che giấu thân phận của Chiêu Vương (Zhao Wang). Do đó hoàn thiện hai phần mệnh cách cuối cùng của « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp », lẫn lộn quá khứ, thoáng như tân sinh.
+
+Diệp Thanh Vũ biết pháp này, nhưng chưa tu hành, bởi vì thân Tài Thần của cô không cần không rõ ràng. Vừa vặn thiên hạ rộng biết, mới rất có lợi cho sự thăng hoa Thần đạo.
+
+Môn bí pháp này không có ý nghĩa quá lớn trong tu hành, trong chiến đấu, giá trị lớn nhất nằm ở chỗ mơ hồ. Thuần túy bởi vì sự thành pháp.
+
+Mà Thần Yến Tầm trên đài đã tiến thêm một bước, dùng nó lừa trời khinh người.
+
+"Đây là « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp », chính là pháp môn Thần đạo mà ta đã nói với ngươi lần trước, phụ thân ta nặc hành —— Yến Xuân Hồi hẳn là dựa vào nghiên cứu của hắn về Nhân Ma, mượn dùng huyết mạch Thần thị, máu bản mệnh của Thần Dĩ Ngọ (Shen Yi-Wu), bóp thành người này, lại hai phần mệnh cách, lấy vào trong đó, có thể lừa trời khinh người. Hắn hiện tại mượn lôi đình Cơ Cảnh Lộc tiêu tan nghiệp, tái sinh thân mới, cũng đã bù đắp hết tiếc nuối ngày xưa! Vô cùng nguy hiểm!"
+
+Diệp Thanh Vũ khẩn cấp giấu niệm trong Như Ý Tiên Niệm (Ru Yi Immortal Thought), lại giao cho Khương Vọng cả bộ « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp », bay vào biển tiềm ý của cậu, khuyên cậu thận trọng mà lại thận trọng.
+
+Yến Xuân Hồi là người Cảnh quốc đang truy đuổi, cứ để người Cảnh quốc phụ trách đến cùng là được!
+
+Vong Ngã, Toán Mệnh (Fate Calculation), Vạn Ác (Ten Thousand Evils), Tước Nhục (Flesh Cutting), Yết Diện (Face Reveal), Khảm Đầu (Head Chopping), Thị Huyết (Blood Tasting), Thực Phách (Soul Eating), Thôn Tâm (Heart Swallowing)... Thuật bóp người, pháp tân sinh. « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp » pháp hai phần mệnh cách.
+
+Cộng lại hoàn toàn chính xác không chê vào đâu được, khó trách Yến Xuân Hồi nguyện ý trả giá toàn lực một kiếm, cùng Diệp Lăng Tiêu giao dịch. Khó trách hắn chưa từng thật sự động thủ với Vân quốc, chịu đổi đường trước kiếm của Khương Vọng.
+
+Nhục thân của Thần Yến Tầm tươi sống hoàn mỹ, cho nên mắt người không quan sát được. Mệnh cách Thần Yến Tầm xác thực tồn tại, cho nên thiên chiêm không lọt!
+
+Khương Vọng nhất là nhìn thấy cảnh giới trước mắt của Diệp Thanh Vũ còn không nhìn thấy chi tiết.
+
+Thần Yến Tầm sinh hài nhi trong biển lôi, không phải thuần túy tiếp tục sử dụng pháp cũ, mà là lấy ánh sáng Nhân Đạo làm căn bản, tái sinh ngũ tạng lục phủ, gân cốt máu thịt... Đạo mạch trời sinh này, tất có thiên phủ (heavenly abode), phúc đức bản mệnh, sinh tức Nhân đạo khí vận tập trung! Cậu ta hiện tại đâu chỉ là bù đắp hết tiếc nuối ngày xưa, hẳn là được trời ưu ái, người yêu thương, có vượt qua thù hận thời đại, nhảy lên siêu thoát khả năng!
+
+Lúc đầu cậu không hứng thú với « Lăng Tiêu Lưỡng Nghi Độ Thế Pháp », hiện tại lật xem tỉ mỉ, lại càng xem càng kinh.
+
+Sinh tử biến và nghiệp nghiệt hóa trên người Thần Yến Tầm đã vượt quá nhận biết của Cơ Cảnh Lộc.
+
+Nhất là hài nhi mang thai trong lôi này, lại khiến hắn sinh lòng cảnh giác, cảm giác được uy h·iếp.
+
+Nhưng hôm nay trên đài Quan Hà này, cao thủ tụ tập, Cảnh quốc ngay cả siêu thoát cũng muốn làm thịt ba cái, nói gì đến một Thần Yến Tầm không biết tình huống gì!
+
+Hắn không chút do dự rút quạt sắt ra, nhưng vào lúc này, cảm nhận được ánh mắt Lư Khâu Văn Nguyệt (Luqiu Wenyue) liếc đến.
+
+Bên tai lại nghe tiếng thủy triều lên!
+
+Nhận biết của cường giả đỉnh cao nhất lan rộng ra.
+
+Chỉ thấy trăm triệu dặm Trường Hà (Long River) trong chốc lát bốc lên, cả tòa thần lục đều tựa hồ tùy theo lắc lư! Đài Quan Hà lớn như vậy tản mát ánh sáng vàng hậu đức, cửu trấn tề ứng, thiên địa hợp thế, mới đè xuống lần biến động này.
+
+Hỗn Nguyên Tà Tiên đánh tới nơi!
+
+"Lạc đường biết quay lại, vẫn chưa muộn. Ngươi đã nhận được cảnh cáo của Đãng Ma thiên quân, đổi đường tìm khác, bản vương không phải không nghĩ đến đức độ của trời cao đối với sự sống." Cơ Cảnh Lộc nâng quạt trong tay, nhẹ nhàng gõ một cái vào lòng bàn tay, thể hiện sự thong dong của trung ương, lời nói chuyển hướng: "Ngươi lại đáp ta về c·ái c·hết của Trần Toán (Chen Suan), là ai ra tay?"

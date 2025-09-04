@@ -2,463 +2,501 @@
 
 ## Tóm tắt chương truyện
 
-API error threshold reached. Rotated token. Chapter 77 needs retry.
+Khương Vọng (Khương Vọng) đối mặt với Thiên Nhân Khương Vọng (Thiên Nhân Khương Vọng), người đang sử dụng thanh kiếm Bạc Hạnh Lang (Bóxìng Láng) để thi triển Thiên Đạo Sát Kiếm · Thiên Bất Giả Niên (Tiāndào shā jiàn · Tiānbùjiǎ nián), một chiêu thức dùng sức mạnh của Thiên Đạo để định đoạt tuổi thọ của đối phương. Mũi kiếm hướng đến mệnh đồ của Khương Vọng, định sẵn một cái kết thúc "thọ hết".
+
+Tuy nhiên, một lực lượng từ bên trong trỗi dậy, tượng trưng cho Nhân Đạo, với Trường Tương Tư (Cháng xiāng sī) đứng chắn trước mũi kiếm. Khương Vọng đáp trả bằng Nhân Đạo Sát Kiếm · Ta Tự Cầu (Rén dào shā jiàn · Wǒ zì qiú), thách thức số mệnh và giành lấy cơ hội sống. Hai thanh kiếm va chạm, tạo ra vô số tia lửa.
+
+Thiên Nhân Khương Vọng và Chân Ngã Khương Vọng (Zhēn wǒ Khương Vọng) liên tục giao chiến, sử dụng các chiêu thức và thần thông khác nhau. Thiên Nhân Khương Vọng tung ra Tiên Pháp · Bất Động Thiên Phong (Xiān fǎ · Bù dòng tiān fēng) để chống lại Chân Hỏa Phần Nguyệt (Zhēn huǒ fén yuè) của Khương Vọng. Hai người tiếp tục giao tranh bằng kiếm, rồi chuyển sang các chiêu thức mới, thể hiện sự trưởng thành và vượt qua giới hạn của bản thân.
+
+Trong lúc giao chiến, cả hai cùng cảm nhận được nguy hiểm và linh giác mách bảo. Khương Vọng nhận ra đây là cơ hội để phản công, dồn hết sức lực vào một đòn tấn công. Thiên Nhân Khương Vọng cũng hành động, nhưng cả hai đều trượt mục tiêu. Hóa ra, cả hai đã rơi vào Lạc Lối (Luòlù), một loại ảo cảnh.
+
+Thiên Nhân Khương Vọng và Chân Ngã Khương Vọng sở hữu mọi thứ của "Khương Vọng", nhưng chúng khác nhau ở một điểm: Thiên Nhân Khương Vọng thiếu đi "Xích Tâm" (Chì xīn) – sức mạnh của ý chí và trái tim. Cả hai đều biết rõ điểm yếu của đối phương, nhưng lại lợi dụng Lạc Lối để đánh lừa nhau.
+
+Cuộc chiến tiếp tục leo thang khi Khương Vọng thi triển Chân Ngã Kiếm Tiên Nhân (Zhēn wǒ jiàn xiān rén), còn Thiên Nhân Khương Vọng đáp trả bằng Thiên Đạo Kiếm Tiên (Tiān dào jiàn xiān). Hai kiếm va chạm tạo ra một vụ nổ kinh hoàng, phá hủy tâm tù và tạo ra Hỗn Độn (Hùn dùn).
+
+Trong Hỗn Độn, Khương Vọng nhìn thẳng vào mắt Thiên Nhân Khương Vọng và tuyên bố rằng đây chưa phải là giới hạn cuối cùng, phía trước vẫn còn con đường. Cậu rút kiếm và tiếp tục tiến lên.
 
 ## Toàn bộ chương
 
-## Chương 77: Bình thường "Trời không cho", đều là "Ta Tự Cầu"
+## Chương 77: Thường khi "Trời không cho", đều là "Ta Tự Cầu"
 
-Mưa rơi tí tách suốt ba ngày.
+"Tất cả đã chuẩn bị xong xuôi."
 
-Lúc đầu, tôi còn cảm thấy khá thú vị khi ngắm mưa trong căn nhà gỗ. Nhưng khi mưa kéo dài, ngay cả khi tôi không ra ngoài, trong lòng tôi cũng cảm thấy ẩm ướt, như thể mọc đầy nấm mốc.
+Lạc Thủy Thương (洛水商) đứng trước mặt hắn, cúi người nói.
 
-Thật khó khăn để sống sót.
+"Ừm." Giang Lăng gật đầu, đứng dậy khỏi ghế thái sư, "Đi thôi."
 
-Tôi đã lấy ra tất cả những viên đá lửa dự trữ (firestones) mà anh tôi đã giao cho tôi, nhưng tôi vẫn cảm thấy ớn lạnh.
+"Vâng."
 
-Nói một cách chính xác, không phải là tôi cảm thấy lạnh, mà là tôi đang đói.
+Lạc Thủy Thương theo sát phía sau Giang Lăng, hai người đi ra khỏi viện tử.
 
-Tôi đã không ăn gì nghiêm túc trong ba ngày.
+"Thiếu gia."
 
-Tôi đã ăn hết số lương khô mà tôi mang theo khi rời khỏi làng.
+Vừa ra khỏi viện, một người hầu liền vội vàng tiến lên.
 
-Sau đó, tôi đã thử đi câu cá trong rừng, nhưng tôi không bắt được con nào.
+"Chuyện gì?"
 
-Có lẽ vì mưa lớn nên lũ cá đều trốn hết rồi.
+"Ngô trưởng lão của Ngô gia (吴家) phái người đến nói, muốn gặp ngài."
 
-Trong ba ngày, tôi đã thử đi săn, nhưng tôi không tìm thấy bất kỳ con thú nào.
+"Ngô gia..." Giang Lăng nhướng mày.
 
-Tôi chỉ thấy một con sóc, nhưng nó quá nhanh nhẹn, tôi không thể bắt được nó.
+Ngô gia cũng là một trong những gia tộc phụ thuộc vào Giang gia (江家), nhưng thực lực của Ngô gia trong các gia tộc phụ thuộc chỉ có thể xếp vào hàng trung.
 
-Thật khó khăn.
+"Bọn họ nói có chuyện quan trọng muốn bẩm báo, còn nói liên quan đến Mộ Dung gia (慕容家)."
 
-Tôi nghĩ rằng mình sắp chết đói.
+"Mộ Dung gia..." Giang Lăng khẽ cười một tiếng, "Dẫn bọn họ đến phòng khách."
 
-Nhưng tôi không thể chết đói ở đây.
+"Vâng."
 
-Tôi vẫn còn rất nhiều việc phải làm.
+Người hầu lĩnh mệnh rời đi.
 
-Tôi phải tìm kiếm anh trai mình.
+"Đi phòng khách trước đi." Giang Lăng nói với Lạc Thủy Thương.
 
-Tôi phải trở nên mạnh mẽ hơn.
+"Vâng."
 
-Tôi phải trả thù cho ngôi làng của mình.
+Hai người Giang Lăng đi về phía phòng khách.
 
-"Haa..."
+Trong phòng khách, một ông lão đang đứng ngồi không yên.
 
-Tôi thở dài một hơi.
+"Ngô trưởng lão, xin chờ một lát, thiếu gia lập tức đến ngay."
 
-Tôi không biết mình nên làm gì.
+Người hầu rót một chén trà cho ông lão, khách khí nói.
 
-Tôi phải làm gì để sống sót?
+"Đa tạ, đa tạ." Ngô trưởng lão vội vàng đứng dậy, chắp tay nói.
 
-Tôi không có bất kỳ kỹ năng đặc biệt nào.
+Ông ta chỉ là một trưởng lão của một gia tộc phụ thuộc nhỏ, còn Giang Lăng là đích tử của Giang gia, địa vị của cả hai khác biệt một trời một vực.
 
-Tôi không thông minh như anh trai tôi, người có thể làm bất cứ điều gì.
+Ngay sau đó, Giang Lăng và Lạc Thủy Thương bước vào phòng khách.
 
-Tôi không mạnh mẽ như các thợ săn trong làng.
+"Vãn bối Ngô Hải (吴海), bái kiến Giang công tử." Ngô trưởng lão vội vàng tiến lên, khom người hành lễ với Giang Lăng.
 
-Tôi chỉ là một đứa trẻ bình thường.
+"Ngô trưởng lão không cần đa lễ." Giang Lăng khoát tay áo, ngồi xuống vị trí chủ tọa, "Ngô trưởng lão đến tìm ta, có chuyện gì?"
 
-Tôi chỉ là một đứa trẻ tầm thường.
+"Giang công tử, chuyện này..." Ngô Hải do dự một chút, rồi nói, "Vãn bối tình cờ biết được một bí mật liên quan đến Mộ Dung gia."
 
-"Nhưng..."
+"Ồ?" Giang Lăng tỏ vẻ hứng thú, "Nói nghe xem."
 
-Tôi nắm chặt tay.
+"Vâng." Ngô Hải gật đầu, "Vãn bối biết được, Mộ Dung gia dường như đang bí mật cấu kết với thế lực ma đạo (魔道)."
 
-"Tôi không thể bỏ cuộc."
+"Thế lực ma đạo?" Giang Lăng nhíu mày, "Ngươi có chứng cứ không?"
 
-Tôi không thể cứ ngồi đây và chờ chết.
+"Vãn bối không có chứng cứ trực tiếp, nhưng vãn bối có thể khẳng định điều này." Ngô Hải nói chắc chắn, "Gần đây Mộ Dung gia thường xuyên lui tới một khu rừng hoang vắng, và mỗi lần đều có người bị thương trở về, hơn nữa trên người họ còn mang theo khí tức ma đạo nhàn nhạt."
 
-Tôi phải làm điều gì đó.
+"Khu rừng hoang vắng..." Giang Lăng trầm ngâm một lát, "Ngươi nói cho ta vị trí khu rừng hoang vắng kia."
 
-Tôi phải làm bất cứ điều gì.
+"Vâng." Ngô Hải vội vàng lấy ra một tấm bản đồ, chỉ vào một vị trí trên đó, "Chính là nơi này."
 
-"Đúng vậy..."
+Giang Lăng nhìn vào vị trí trên bản đồ, thầm ghi nhớ trong lòng.
 
-Một ý tưởng chợt lóe lên trong đầu tôi.
+"Được, ta biết rồi." Giang Lăng gật đầu, "Chuyện này ngươi làm rất tốt, ta sẽ báo cáo với gia chủ, chắc chắn sẽ có phần thưởng cho ngươi."
 
-Có một thứ mà tôi có thể làm.
+"Đa tạ Giang công tử!" Ngô Hải vui mừng khôn xiết, vội vàng cảm ơn.
 
-Một thứ mà tôi đã học được từ anh trai mình.
+"Được rồi, không còn chuyện gì khác thì ngươi có thể lui xuống." Giang Lăng phất tay.
 
-Một thứ mà tôi đã thực hành mỗi ngày.
+"Vâng, vãn bối xin cáo lui." Ngô Hải cung kính rời khỏi phòng khách.
 
-"Tôi có thể luyện tập."
+Sau khi Ngô Hải rời đi, Lạc Thủy Thương lên tiếng: "Thiếu gia, ngài tin lời của ông ta sao?"
 
-Tôi đứng dậy.
+"Tin hay không không quan trọng, quan trọng là..." Giang Lăng cười khẽ, "Cho dù chuyện này là thật hay giả, chúng ta đều có thể đi xem thử."
 
-Tôi nhặt thanh kiếm gỗ (wooden sword) mà anh trai tôi đã giao cho tôi.
+"Ý của thiếu gia là..."
 
-Tôi đi ra ngoài.
+"Nếu Mộ Dung gia thật sự cấu kết với thế lực ma đạo, vậy thì chúng ta có thể diệt trừ Mộ Dung gia, chiếm lấy sản nghiệp của bọn họ." Giang Lăng nhếch miệng cười, "Nếu không có, thì cũng không sao, coi như đi dạo một vòng."
 
-Mưa vẫn rơi.
+"Thiếu gia anh minh." Lạc Thủy Thương cúi đầu.
 
-Nhưng tôi không quan tâm.
+"Đi thôi, chúng ta cũng nên xuất phát rồi." Giang Lăng đứng dậy, đi ra khỏi phòng khách.
 
-Tôi bắt đầu vung kiếm.
+Lần này hắn đến Vạn Yêu Sơn Mạch (万妖山脉) là để tìm kiếm một loại linh dược (灵药).
 
-Tôi vung kiếm theo những động tác mà anh trai tôi đã dạy tôi.
+Loại linh dược này tên là Huyết Linh Chi (血灵芝), là một loại linh dược vô cùng quý giá, có tác dụng tăng cường khí huyết và nâng cao tu vi.
 
-Động tác cơ bản đầu tiên. (First Form)
+Với thiên phú của hắn, việc tu luyện đến Luyện Khí cảnh (炼气境) không có gì khó khăn, nhưng muốn đột phá đến Trúc Cơ cảnh (筑基境) thì lại không hề dễ dàng.
 
-Động tác cơ bản thứ hai. (Second Form)
+Mà Huyết Linh Chi chính là một trong những linh dược có thể giúp hắn đột phá đến Trúc Cơ cảnh.
 
-Động tác cơ bản thứ ba. (Third Form)
+"Thiếu gia, người của Lục gia (陆家) và Vương gia (王家) cũng đã đến." Lạc Thủy Thương nói.
 
-...
+"Ừm." Giang Lăng gật đầu, "Đi thôi."
 
-Tôi vung kiếm không ngừng nghỉ.
+Hai người Giang Lăng đi ra khỏi Giang gia.
 
-Tôi vung kiếm cho đến khi cánh tay tôi mỏi nhừ.
+Bên ngoài Giang gia, hai cỗ xe ngựa sang trọng đã đậu sẵn ở đó.
 
-Tôi vung kiếm cho đến khi đầu tôi quay cuồng.
+Trên hai cỗ xe ngựa, lần lượt có khắc biểu tượng của Lục gia và Vương gia.
 
-Tôi vung kiếm cho đến khi tôi không còn cảm thấy gì nữa.
+"Giang huynh, huynh đến rồi!"
 
-Tôi chỉ vung kiếm.
+"Giang công tử!"
 
-Tôi chỉ tập trung vào việc vung kiếm.
+Nhìn thấy Giang Lăng đi ra, hai người đàn ông trẻ tuổi vội vàng tiến lên chào hỏi.
 
-Tôi chỉ nghĩ về việc vung kiếm.
+Hai người này là Lục Tử Minh (陆子明) của Lục gia và Vương Thanh (王青) của Vương gia.
 
-"Haa... Haa..."
+"Lục huynh, Vương huynh." Giang Lăng mỉm cười gật đầu.
 
-Tôi thở hổn hển.
+Lục gia và Vương gia cũng là những gia tộc phụ thuộc vào Giang gia, và quan hệ của Lục Tử Minh và Vương Thanh với Giang Lăng cũng không tệ.
 
-Cơ thể tôi ướt đẫm mồ hôi và nước mưa.
+"Giang huynh, nghe nói huynh muốn đi Vạn Yêu Sơn Mạch, bọn ta đặc biệt đến để hộ tống huynh." Lục Tử Minh cười nói.
 
-Nhưng tôi không dừng lại.
+"Đúng vậy, Giang công tử, Vạn Yêu Sơn Mạch rất nguy hiểm, có bọn ta đi cùng thì huynh sẽ an toàn hơn." Vương Thanh cũng nói.
 
-Tôi tiếp tục vung kiếm.
+"Hai vị huynh đệ có lòng rồi." Giang Lăng cười nói, "Nhưng lần này ta đi Vạn Yêu Sơn Mạch chỉ là để dạo chơi, không cần phải hộ tống."
 
-Tôi biết rằng điều này có thể không giúp tôi sống sót.
+"Giang huynh, huynh đừng khách sáo, cứ coi như bọn ta đi cùng huynh để mở mang kiến thức." Lục Tử Minh nói.
 
-Tôi biết rằng điều này có thể vô ích.
+"Đúng vậy, Giang công tử, bọn ta cũng rất muốn đi Vạn Yêu Sơn Mạch để rèn luyện." Vương Thanh cũng phụ họa theo.
 
-Nhưng tôi không thể làm gì khác.
+Giang Lăng nhìn hai người, khẽ cười một tiếng.
 
-Đây là tất cả những gì tôi có thể làm.
+Hai người này rõ ràng là muốn đi theo hắn để kiếm chút lợi lộc.
 
-Đây là tất cả những gì tôi biết.
+Vạn Yêu Sơn Mạch là nơi sản sinh ra rất nhiều linh dược và yêu thú (妖兽), nếu may mắn, có lẽ sẽ kiếm được chút gì đó.
 
-Vậy nên tôi sẽ tiếp tục làm điều đó.
+Nhưng Giang Lăng cũng không để ý, có thêm hai người này cũng không sao.
 
-Tôi sẽ tiếp tục vung kiếm.
+"Được thôi, nếu hai vị huynh đệ đã có nhã hứng, vậy thì cùng đi thôi." Giang Lăng cười nói.
 
-Tôi sẽ tiếp tục luyện tập.
+"Ha ha, vậy thì tốt quá!"
 
-Cho đến khi tôi không còn sức nữa.
+"Đa tạ Giang công tử!"
 
-Cho đến khi tôi gục ngã.
+Lục Tử Minh và Vương Thanh vui mừng khôn xiết.
 
-Cho đến khi...
+"Đi thôi." Giang Lăng phất tay, bước lên một cỗ xe ngựa.
 
-*Xoẹt!*
+Lục Tử Minh và Vương Thanh cũng vội vàng lên xe ngựa của mình.
 
-Một âm thanh sắc bén vang lên.
+Đoàn người xuất phát, hướng về Vạn Yêu Sơn Mạch mà đi.
 
-Tôi dừng lại.
+Trên đường đi, Giang Lăng ngồi trong xe ngựa, nhắm mắt dưỡng thần.
 
-Tôi nhìn xuống thanh kiếm gỗ trong tay.
+Lần này đến Vạn Yêu Sơn Mạch, ngoài việc tìm kiếm Huyết Linh Chi, hắn còn có một mục đích khác.
 
-Thanh kiếm gỗ đã vỡ.
+Đó chính là... giết người!
 
-Nó vỡ tan thành nhiều mảnh.
+Trước kia hắn vẫn luôn khiêm tốn, một phần là vì muốn tích lũy thực lực, một phần là vì không muốn gây sự chú ý.
 
-Tôi nhìn những mảnh vỡ của thanh kiếm gỗ.
+Nhưng bây giờ, hắn đã không cần phải khiêm tốn nữa.
 
-Tôi cảm thấy thất vọng.
+Hắn muốn để cho tất cả mọi người biết, hắn, Giang Lăng, không phải là một kẻ vô dụng!
 
-Tôi đã không thể làm được gì.
+"Thường khi 'Trời không cho', đều là 'Ta Tự Cầu'." Giang Lăng lẩm bẩm.
 
-Ngay cả một thanh kiếm gỗ tôi cũng không thể giữ được.
 
-Tôi thực sự vô dụng.
+Thiên Nhân Khương Vọng giơ kiếm lên như thể tự soi bóng, ánh sáng lạnh lẽo như nước, không chút rung động.
 
-Tôi ngồi sụp xuống đất.
+Thanh kiếm này tên là Bạc Hạnh Lang (Bo Xinglang), một thanh danh kiếm nổi tiếng thiên hạ, ẩn mình trong vỏ kiếm đã lâu, người đời biết tên mà quên đi sự sắc bén của nó!
 
-Tôi ôm lấy đầu.
+Kể từ khi Nam Đẩu Điện (Nandou Hall) bị hủy diệt, Trường Sinh Quân (Chang Sheng Army) đoạt lấy danh tiếng rồi ẩn mình, tên của nó, có lẽ cũng không còn ai nhớ đến nữa.
 
-Tôi bắt đầu khóc.
+Thiên Đạo từ đây muốn đem nó phơi bày ra ánh sáng.
 
-Tôi khóc vì sự bất lực của mình.
+Thân kiếm được rèn với những đường vân tự nhiên mà thành, từ trước đến nay là hai bức cảnh xuân. Một mặt là hoa dưới ánh trăng, một mặt là trăng lên đầu ngọn liễu. Chỉ khi tình cảm đạt đến độ nồng nàn nhất, người ta mới thấy được sự bạc bẽo tột cùng.
 
-Tôi khóc vì sự yếu đuối của mình.
+Bức "hoa dưới ánh trăng" kia, được diễn dịch trong đôi mắt Nhật Nguyệt Chi Đồng (Nhật Nguyệt Đồng Tử).
 
-Tôi khóc vì sự tuyệt vọng của mình.
+Ánh trăng sáng từ xưa đến nay vẫn chiếu rọi, ánh xanh rực rỡ mà cô quạnh, chứng kiến bao nhiêu đôi nam nữ si tình, vô số chuyện nhân gian.
 
-Tôi khóc...
+Còn mặt kiếm đối diện với Chân Ngã Khương Vọng, lại là bức "trăng lên đầu ngọn liễu"...
 
-"...Không."
-
-Tôi ngẩng đầu lên.
-
-Tôi lau nước mắt.
-
-Tôi không thể khóc.
-
-Tôi không thể bỏ cuộc.
-
-Tôi vẫn còn việc phải làm.
-
-Tôi phải sống sót.
-
-Tôi phải trở nên mạnh mẽ hơn.
-
-Tôi phải trả thù.
-
-Tôi đứng dậy.
-
-Tôi nhặt một trong những mảnh vỡ của thanh kiếm gỗ.
-
-Mảnh vỡ sắc nhọn.
-
-Tôi nhìn mảnh vỡ.
-
-Một ý tưởng chợt lóe lên trong đầu tôi.
-
-Tôi có thể sử dụng cái này.
-
-Tôi có thể sử dụng cái này để tự vệ.
-
-Tôi có thể sử dụng cái này để săn bắn.
-
-Tôi có thể sử dụng cái này để sống sót.
-
-Tôi nắm chặt mảnh vỡ trong tay.
-
-Tôi cảm thấy một sức mạnh mới trào dâng trong cơ thể mình.
-
-Tôi không còn vô dụng nữa.
-
-Tôi vẫn có thể làm điều gì đó.
-
-Tôi vẫn có thể chiến đấu.
-
-Tôi sẽ sử dụng tất cả những gì tôi có.
-
-Tôi sẽ sử dụng tất cả những gì tôi biết.
-
-Tôi sẽ sử dụng tất cả sức mạnh của mình.
-
-Tôi sẽ sống sót.
-
-Tôi sẽ trở nên mạnh mẽ hơn.
-
-Tôi sẽ trả thù.
-
-Tôi sẽ làm được.
-
-Tôi chắc chắn sẽ làm được.
-
-Tôi nhìn lên bầu trời.
-
-Mưa vẫn rơi.
-
-Nhưng tôi không còn sợ hãi nữa.
-
-Tôi sẵn sàng.
-
-Tôi sẵn sàng đối mặt với bất cứ điều gì.
-
-Tôi sẵn sàng chiến đấu.
-
-Tôi sẵn sàng sống sót.
-
-"Bình thường 'Trời không cho', đều là 'Ta Tự Cầu'." (Normally, what "Heaven doesn't grant," is all "I seek myself.")
-
-Tôi lẩm bẩm.
-
-Đây là những lời mà anh trai tôi đã từng nói với tôi.
-
-Lúc đó tôi không hiểu.
-
-Nhưng bây giờ tôi đã hiểu.
-
-Tôi phải tự mình tìm kiếm.
-
-Tôi phải tự mình chiến đấu.
-
-Tôi phải tự mình sống sót.
-
-Tôi không thể dựa vào ai khác.
-
-Tôi chỉ có thể dựa vào chính mình.
-
-Vậy nên tôi sẽ làm.
-
-Tôi sẽ tự mình tìm kiếm.
-
-Tôi sẽ tự mình chiến đấu.
-
-Tôi sẽ tự mình sống sót.
-
-Tôi sẽ làm được.
-
-Tôi chắc chắn sẽ làm được.
-
-
-Thiên Nhân Khương Vọng giơ kiếm lên như soi bóng, ánh sáng lạnh lẽo như nước, không một chút rung động.
-Chuôi kiếm này tên là Bạc Hạnh Lang (Bo Xinglang), thanh kiếm trứ danh thiên hạ, ẩn mình trong vỏ đã rất lâu, người đời biết tên mà quên mất sự sắc bén của nó!
-Từ khi Nam Đẩu Điện bị hủy diệt, Trường Sinh Quân (Chang Shengjun) đoạt danh rồi ẩn mình, cái tên Bạc Hạnh Lang này, có lẽ cũng không còn ai nhớ tới.
-Thiên Đạo từ đây muốn phơi bày nó ra ánh sáng.
-Thân kiếm rèn nên những hoa văn tự nhiên, từ xưa đến nay là hai bức cảnh xuân. Một mặt là hoa dưới ánh trăng, một mặt là trăng treo đầu ngọn liễu. Chỉ có tình nồng đậm, mới thấy được sự phụ bạc tột cùng.
-Bên hoa dưới ánh trăng, được diễn dịch trong mắt Nhật Nguyệt (Nhì Yuè).
-Ánh trăng sáng từ xưa đến nay vẫn chiếu rọi, ánh xanh rực rỡ mà tịch mịch, chứng kiến vô số nam nữ si tình chốn nhân gian.
-Còn đối diện với Chân Ngã Khương Vọng (Zhen Wǒ Jiang Wang) lại là mặt trăng treo đầu ngọn liễu...
 Trăng treo đầu ngọn liễu, hẹn nhau sau hoàng hôn.
-Cái "Chân Ngã Khương Vọng" kia cứ việc nói năng ngông cuồng.
-Kiếm vừa xuất ra, liền ước định sinh tử.
-Mũi kiếm mỏng như tờ giấy, vạch ra một mệnh đồ hiểm ác lạ thường, vượt qua vô vàn biến đổi của kiếm thức, lấy mũi kiếm làm giấy, lấy sức mạnh của Thiên Đạo làm chữ, viết xuống trang cuối cùng của cuộc đời "Khương Vọng".
-Thần quá hiểu Khương Vọng, những kiếm thức mà Thần tinh thông, đều là Khương Vọng tinh thông, những thủ đoạn bình thường tuyệt đối không thể thắng được "Chân Ngã" này. Nếu muốn chiếm được ưu thế áp đảo, nhất định phải lấy "Có" thắng "Không", dùng sự nắm giữ Thiên Đạo của Thiên Nhân, nghiền ép cái ác linh đang đi ngược lại Thiên Đạo kia.
-Cho nên mới thành thức kiếm này.
-Thiên Đạo sát kiếm · Thiên Bất Giả Niên (Tian Bu Jia Nian - Trời không cho sống lâu).
-Xưa nay anh hùng nhiều chí lớn, chỉ tiếc năm tháng chẳng đợi ta, ôm hận mà chết, hùng tâm khó đáp đền.
-Vạn vật đều có tuổi thọ, và tuổi thọ chính là cửa ải nguy hiểm nhất dưới Thiên Đạo.
-Từ Thần mà minh, đến nhìn rõ chân thực của thế giới, rồi đến đỉnh cao của Diễn Đạo, đến siêu thoát trên đỉnh cao, chẳng phải là thách thức cực hạn của bản thân, thách thức cửa ải Thiên Đạo hay sao? Cho nên mỗi một bước đều là cửa sinh tử, mỗi một bước vượt qua, tuổi thọ đều được nới rộng, số năm sống đều có sự thay đổi mang tính quyết định.
-Vạn vật trên thế gian sống thọ, đều nằm trong sự vận hành của Thiên Đạo.
-Cho nên Thiên Nhân, đương nhiên là người hiểu rõ nhất sự tồn tại của "Tuổi thọ", chỉ là giới hạn bởi "Khương Vọng" bản thân ở đạo này, nên mới không khoa trương như vậy. Nếu có thể rong chơi Thiên Đạo một chút thời gian, đừng nói là Du Khuyết [Xem Thọ] (You Que [Xian Shou]) hay Trọng Huyền Trử Lương [Cắt Thọ] (Zhong Xuan Chu Liang [Qie Shou]), trước mặt Thiên Nhân Khương Vọng đều không đáng nhắc tới.
-Thiên Nhân Khương Vọng đã chìm đắm trong biển sâu Thiên Đạo, hoàn toàn hướng về Thiên Đạo. Lúc này dù thân ở tù, tâm cũng bị giam cầm, không thể trực tiếp giao tiếp với Thiên Đạo, nhưng cũng tự nhiên có bản lĩnh điều khiển tuổi thọ, và trong trận đấu lồng vang dội cổ kim này, lập tức chuyển hóa thành sát chiêu chưa từng có.
-Vứt bỏ ác quả Thiên Nhân, nên trả lại vào kiếm này!
-Sau này đường xá ngươi muốn đi, sau này tuổi thọ ngươi chớ cầu.
-Mũi kiếm mỏng như giấy, mạng người lại càng mỏng hơn tờ giấy.
-Kiếm đi trên mệnh đồ, là một đường thẳng tắp không có lối rẽ. Số mệnh đã an bài, Thiên Bất Giả Niên (Tian Bu Jia Nian - Trời không cho sống lâu).
-Mặc cho ngươi anh hùng cái thế, thiên hạ vô song... Thọ hết!
-Hết thảy đều kết thúc.
-Trong khoảnh khắc này, toàn bộ thế giới dường như hư hóa, lu mờ đi. Ngay cả hai người đang giao chiến, cũng trở thành phông nền.
-Chỉ có đường mệnh đồ rõ ràng này, nhảy ra khỏi dòng sông vận mệnh mà tồn tại - "Chân Ngã Khương Vọng, thọ hết tại đây".
+
+Chân ngã mang tên "Khương Vọng" cứ việc phát ngôn bừa bãi.
+
+Kiếm này vừa ra, ước định sinh tử.
+
+Mũi kiếm mỏng như tờ giấy, vạch ra một con đường số mệnh hiểm ác vô cùng, vượt qua vô tận biến hóa của kiếm thức, lấy mũi nhọn làm bút, lấy sức mạnh của Thiên Đạo làm mực, viết xuống trang cuối cùng của cuộc đời "Khương Vọng".
+
+Thần quá hiểu Khương Vọng, những kiếm thức mà thần tinh thông, đều là những gì Khương Vọng tinh thông, những thủ đoạn bình thường tuyệt đối không thể thắng được cái "Chân ngã" này. Nếu muốn chiếm được ưu thế áp đảo, nhất định phải dùng "Có" để thắng "Không", dùng sự nắm giữ Thiên Nhân đối với Thiên Đạo để nghiền ép cái ác linh đang đi ngược lại Thiên Đạo kia.
+
+Vì vậy, chiêu thức này thành hình.
+
+Thiên Đạo sát kiếm · Thiên Bất Giả Niên (Tian Bu Jia Nian - Trời Không Cho Sống Lâu).
+
+Xưa nay anh hùng nhiều chí khí, chỉ tiếc năm tháng chẳng chờ ta, ôm hận trong lòng, hùng tâm khó đền đáp.
+
+Vạn vật đều có thọ mệnh, thọ hạn chính là cửa ải nguy hiểm nhất dưới sự cai quản của Thiên Đạo.
+
+Từ thần minh mà giác ngộ, đến nhìn rõ thế giới chân thực, rồi đến đỉnh cao của Diễn Đạo, cuối cùng là siêu thoát trên đỉnh cao nhất, chẳng phải là thử thách cực hạn của bản thân, thách thức cửa ải của Thiên Đạo hay sao, cho nên mỗi một bước đều là cửa ải sinh tử, mỗi một bước vượt qua, thọ hạn đều được mở rộng, tuổi thọ đều có sự thay đổi mang tính quyết định.
+
+Sự sống lâu của vạn vật trên thế gian đều nằm trong sự vận hành của Thiên Đạo.
+
+Cho nên Thiên Nhân, đương nhiên là người hiểu rõ nhất sự tồn tại của "Tuổi thọ", chỉ là bị giới hạn bởi bản thân "Khương Vọng" ở đây đạo giới, mới không thể khoa trương đến vậy. Nếu có thể có một chút thời gian ngao du Thiên Đạo, đừng nói là Du Khuyết [Xem Thọ] (You Que [Xem Thọ]) hay là Trọng Huyền Trử Lương [Cắt Thọ] (Zhong Xuan Chu Liang [Cắt Thọ]) trước mặt Thiên Nhân Khương Vọng đều không đáng nhắc đến.
+
+Thiên Nhân Khương Vọng đã chìm đắm trong biển sâu Thiên Đạo, hoàn toàn hướng về Thiên Đạo. Lúc này, dù thân ở trong ngục tù, tâm cũng bị giam cầm, không thể trực tiếp giao tiếp với Thiên Đạo, nhưng cũng tự nhiên có bản lĩnh điều khiển tuổi thọ, và trong trận đấu lồng vang dội cổ kim này, lập tức chuyển hóa thành một sát chiêu chưa từng có.
+
+Vứt bỏ ác quả của Thiên Nhân, nên trả lại bằng kiếm này!
+
+Sau này đường xá ngươi muốn đi, sau này số tuổi thọ ngươi chớ cầu.
+
+Mũi kiếm mỏng như giấy, mạng người lại càng mỏng manh hơn cả trang giấy.
+
+Kiếm đi trên con đường số mệnh, là một đường thẳng tắp không có lối rẽ. Số mệnh đã an bài, Thiên Bất Giả Niên (Trời Không Cho Sống Lâu).
+
+Mặc cho ngươi anh hùng cái thế, thiên hạ vô song... Thọ tận!
+
+Hết thảy cũng đều kết thúc.
+
+Trong khoảnh khắc này, toàn bộ thế giới đều như hư hóa, mờ đi. Ngay cả hai người đang giao chiến, cũng trở thành phông nền.
+
+Chỉ có con đường số mệnh rõ ràng này, nhảy ra khỏi dòng sông vận mệnh mà tồn tại - "Chân Ngã Khương Vọng, thọ tận tại đây".
+
 Khi Bạc Hạnh Lang đi đến điểm cuối cùng của đường này, câu chuyện sẽ kết thúc.
-Nhưng đường thẳng vốn dĩ phải thẳng tắp này, đột nhiên có một chỗ nhô lên, giống như mặt đất bao la, có gì đó muốn trồi lên khỏi mặt đất, lại bị đè xuống! Nhưng điểm nhô lên này giống như tiếng kèn xung trận, rồi đường mệnh đồ này, không còn bình lặng nữa.
-Trên đường có chi chít những điểm nhỏ, giống như từ vạn cổ đến nay, người trước ngã xuống, người sau tiến lên. Giống như nấm mọc sau mưa, không ngừng nhô lên, rồi lại bị đè xuống... Và cuối cùng, một cái đầu lộ ra, trước cái lằn ngang mệnh đồ một đi không trở lại này, đột nhiên dựng thẳng lên một đường thẳng! Đó là cái bóng cố chấp đứng thẳng của Trường Tương Tư (Chang Xiangsi).
+
+Nhưng con đường vốn nên thẳng tắp này, đột nhiên có một chỗ nhô lên, giống như mặt đất bao la, có thứ gì đó muốn trồi lên khỏi mặt đất, nhưng lại bị đè xuống! Nhưng điểm nhô lên ấy giống như tiếng kèn xung trận, sau đó con đường số mệnh này, không còn bình lặng nữa.
+
+Trên đường có vô số điểm nhỏ li ti, giống như từ vạn cổ đến nay, người trước ngã xuống, người sau tiến lên. Giống như mọc lên như nấm, không ngừng nhô lên, rồi lại bị không ngừng đè xuống... Và cuối cùng lộ ra một điểm, trước đường ngang số mệnh một đi không trở lại này, đột nhiên dựng thẳng lên một đường thẳng! Đó là cái bóng cố chấp đứng thẳng của Trường Tương Tư (Chang Xiangsi).
+
 Nó xông phá phong tỏa của Thiên Đạo, đối diện trực tiếp với Bạc Hạnh Lang.
-Giống như đỉnh núi nổi lên, tựa như tráng sĩ canh giữ cửa ải.
-Nếu nói trang cuối cùng của cuộc đời đang muốn viết xuống, thì viết văn chương cũng giống như ngắm ngọn núi, thích nó thế xuất hiện nhiều lần, một kỵ bình thản! Nên có chập chùng, nên có gợn sóng. Dòng sông vận mệnh, nên có chút dòng chảy xiết. Sử thi anh hùng, há lại nói bình thường?
-Đây là sự giằng co của kiếm, càng là sự giao phong của đạo. Là Nhân Đạo phát động thách thức đối với Thiên Đạo.
-Mệnh đồ mà Thiên Đạo cắt xuống, là liếc mắt nhìn thấy điểm cuối, bình dị cuối cùng đến c·h·ế·t. Nhưng ở trước dấu chấm cuối cùng lại nổi lên ngọn núi hiểm trở, cái nhìn này, đến bước này có khó khăn trắc trở... Cái lạnh lẽo sáng như tuyết đứng sững sờ, đường ở dưới chân, "Ta" thành núi cao.
-Phàm nhân ai rồi cũng c·h·ế·t một lần, trên đời mấy ai sống lâu?
-Người siêu phàm tranh thọ với trời, xưa nay mấy ai có thể vĩnh sinh?
-Nhưng mọi người chưa từng dừng bước, nhân loại chưa từng ngừng phấn đấu.
-Từ xưa đến nay kẻ siêu thoát lác đác không có mấy, nhưng dưới chân mỗi một kẻ siêu thoát, đều có vô số bóng người đang leo lên.
-Từ sinh ra đến c·h·ế·t, một đời hoặc dài hoặc ngắn, bao nhiêu người dùng hết toàn lực, viết nên những trang sử hùng vĩ ít nhiều khác nhau.
-Dù chưa thành tựu sự nghiệp vĩ đại, lại hoặc "Thiên Bất Giả Niên (Tian Bu Jia Nian - Trời không cho sống lâu)" thì sao có thể nói họ không phải là anh hùng?
+
+Giống như đỉnh núi nhô lên, tựa như tráng sĩ canh giữ cửa ngõ.
+
+Nếu như trang cuối cùng của cuộc đời đang muốn được viết xuống, thì viết văn chương cũng giống như ngắm núi vậy, thích cái thế xuất hiện nhiều lần, nhất kỵ bình thản (một mình cưỡi ngựa, ung dung tự tại)! Nên có chập chùng, nên có gợn sóng. Dòng sông vận mệnh, nên có chút dòng chảy xiết. Sử thi về anh hùng, sao có thể bình thường?
+
+Đây là sự giằng co của kiếm, càng là sự giao phong của đạo. Là Nhân Đạo phát động khiêu chiến đối với Thiên Đạo.
+
+Con đường số mệnh mà Thiên Đạo cắt xuống, là một cái nhìn đến hồi kết, bình dị cuối cùng đến c·h·ế·t. Nhưng ở phía trước dấu chấm cuối cùng nổi lên một ngọn núi hiểm trở, cái nhìn này, đến bước này có khó khăn trắc trở... Ánh sáng như tuyết, Hàn Phong lẻ loi đứng sững, đường ở dưới chân, "Ta" thành núi cao.
+
+Phàm nhân ai rồi cũng c·h·ế·t một lần, trên đời có mấy người sống lâu?
+
+Người siêu phàm tranh thọ với trời, xưa nay có bao nhiêu người có thể vĩnh sinh?
+
+Nhưng con người chưa từng dừng bước lại, nhân loại chưa từng ngừng phấn đấu.
+
+Từ xưa đến nay, người siêu thoát chỉ đếm trên đầu ngón tay, nhưng dưới chân mỗi một người siêu thoát, đều có vô số bóng hình đang leo lên.
+
+Từ sinh ra đến c·h·ế·t, một đời hoặc dài hoặc ngắn, bao nhiêu người dùng hết toàn lực, viết xuống những trang sử hoặc nhiều hoặc ít hùng vĩ.
+
+Dù chưa thành tựu sự nghiệp vĩ đại, lại hoặc "Thiên Bất Giả Niên (Trời Không Cho Sống Lâu)", sao có thể nói bọn họ không phải là anh hùng?
+
 Đây chính là một kiếm mà Chân Ngã Khương Vọng trình bày và phát huy từ dòng lũ Nhân Đạo...
-Nhân Đạo Sát Kiếm · Ta Tự Cầu! (Wǒ Zì Qiú - Ta tự cầu).
+
+Nhân Đạo Sát Kiếm · Ta Tự Cầu!
+
 Cùng người tranh, tranh thế tranh ý, tranh đạo tranh lý.
+
 Tranh số với trời, kẻ mạnh thường gặp vận may.
-Cùng trời tranh mệnh, đoạt lấy một tia sống.
-Những điều bình thường "Trời không cho" đều là "Ta Tự Cầu".
-Xông phá phong tỏa của Thiên Đạo chỉ là nâng bút, mũi kiếm và mũi kiếm, va chạm trên đường vận mệnh.
-Âm thanh va chạm của mũi kiếm, hai bên đều là binh qua, mọi thanh âm đều dùng để phòng ngự, làm đao làm thương làm kiếm để tấn công, trong phút chốc có hàng vạn lần giao phong! Sự sắc bén của mũi kiếm giao thoa, lúc thì do Thiên Nhân nắm giữ, lúc thì do Chân Ngã đoạt lấy, giăng khắp nơi giữa hai thân ảnh, kết thành một mạng lưới ánh sáng phức tạp!
-Thiên Nhân Khương Vọng có thể trình bày và phát huy hoàn mỹ thanh văn và mắt thấy, Chân Ngã Khương Vọng có thể trình bày hoàn mỹ "Khương Vọng" trong chiến đấu. Cả hai đều có thể đạt đến cực cảnh trong giới hạn của người tên "Khương Vọng" này, hiểu rõ mọi thủ đoạn, không thể gây tổn thương cho nhau. Cho nên đây chỉ là ảnh hưởng còn lại của trận chiến, tiểu xảo mà thôi.
-Sát chiêu thực sự... Những tia lửa bắn ra từ chỗ lưỡi kiếm giao thoa, nhất thời tràn ngập hư không, chợt có một hạt vọt lên, hóa thành một vầng trăng thiêu đốt.
-Vầng trăng này sáng chói ba màu, bên trong vàng bên trong đỏ bên ngoài trắng, cong như lưỡi đao, vừa hiện ra đã áp sát, chém thẳng vào mắt trăng của Thiên Nhân Khương Vọng!
-Hạt thứ hai, hạt thứ ba, hạt thứ tư... Một chùm đốm nhỏ hiện ra hết thảy.
-Trong thoáng chốc lại có đầy trời trăng, mỗi vầng đều thiêu đốt, chém về phía Thiên Nhân. Gào thét mà đến, che kín bầu trời, chém tuyệt mọi đường về.
-Kết hợp mắt thấy và thần thông.
-Tiên Pháp · Chân Hỏa Phần Nguyệt! (Zhen Huǒ Fen Yuè - Lửa thật đốt trăng).
-Lúc này mũi kiếm vẫn đang va chạm, Thiên Nhân Khương Vọng duy trì tư thế khắc họa mệnh đồ, chỉ khẽ liếc mắt tuyết nguyệt... Liền có một sợi gió sương, bay ra từ mắt trăng. Chớp mắt xoay tròn như vòi rồng, đem đầy trời viêm nguyệt, tất cả đều bọc trong đó.
-Tuy là làn gió lưu động, lại có trạng thái vĩnh hằng, sự xoay tròn thành lồng, cấm tiệt ngọn lửa dữ dội. Không cho phép một tia lửa nào thoát ra.
-Pháp thuật · Bất Động Thiên Phong! (Bu Dong Tian Feng - Gió trời bất động).
-Chân Hỏa Phần Nguyệt che kín bầu trời bỗng nhiên phồng lên, nổ thành vô tận ngọn lửa trào ra, muốn xông phá ngăn trở. Trong gió trời sương trắng lại kết sương giá tuyết, không ngừng dập tắt ngọn lửa trào ra. Cuối cùng trong một tiếng trầm đục, Chân Hỏa Phần Nguyệt và Bất Động Thiên Phong... Cùng nhau chôn vùi.
+
+Cùng trời tranh mệnh, đoạt lại một tia sống.
+
+Thường thì "Trời không cho" đều là "Ta Tự Cầu".
+
+Xông phá phong tỏa của Thiên Đạo chỉ là sự khởi đầu, mũi kiếm và mũi kiếm, va chạm trên con đường vận mệnh.
+
+Âm thanh va chạm của mũi kiếm, hai bên lẫn nhau là binh qua, thanh âm đều là nơi phòng thủ, làm đao làm thương làm kiếm để tấn công, trong chốc lát có hàng vạn lần giao phong! Mũi kiếm giao nhau sắc bén, chợt thì do Thiên Nhân nắm giữ, chợt thì do Chân Ngã đoạt lấy, giăng khắp nơi giữa hai thân ảnh, kết thành một mạng lưới ánh sáng phức tạp!
+
+Thiên Nhân Khương Vọng có thể trình bày và phát huy hoàn hảo thanh văn và mắt thấy, Chân Ngã Khương Vọng có thể trình bày hoàn hảo "Khương Vọng" trong chiến đấu. Hai bên đều có thể đạt đến cực cảnh trong giới hạn của con người "Khương Vọng", hiểu rõ mọi thủ đoạn, lẫn nhau không thể gây tổn thương. Cho nên đây chỉ là dư âm của trận chiến này, những tiểu xảo vặt vãnh.
+
+Sát chiêu thực sự... Những tia lửa nổ ra từ nơi lưỡi kiếm giao nhau, nhất thời tràn ngập trong hư không, chợt có một tia vọt lên, hóa thành một vầng trăng đang bốc cháy.
+
+Vầng trăng này sáng chói ba màu, bên trong vàng bên trong đỏ bên ngoài trắng, cong như lưỡi đao, vừa xuất hiện đã tiếp cận, chém thẳng vào trăng mắt của Thiên Nhân Khương Vọng!
+
+Hạt thứ hai, hạt thứ ba, hạt thứ tư... Một chùm chấm nhỏ hiện ra rồi hóa thành.
+
+Trong thoáng chốc lại có đầy trời trăng, mỗi vầng một vẻ, thiêu đốt, chém giết tất cả Thiên Nhân. Gào thét mà đến, che kín bầu trời, chém tuyệt mọi đường lui.
+
+Kết hợp giữa mắt thấy và thần thông.
+
+Tiên Pháp · Chân Hỏa Phần Nguyệt (Zhen Huo Fen Yue - Chân Hỏa Đốt Trăng)!
+
+Lúc này, mũi kiếm vẫn đang va chạm, Thiên Nhân Khương Vọng duy trì tư thế khắc họa số mệnh, chỉ khẽ vẩy đôi mắt tuyết nguyệt... Liền có một sợi gió sương bay ra từ trăng mắt. Chốc lát xoay tròn như vòi rồng, đem toàn bộ viêm nguyệt đầy trời, tất cả đều bọc trong đó.
+
+Tuy là làn gió lưu động, lại có trạng thái vĩnh hằng, sự xoay tròn tạo thành một cái lồng, ngăn chặn ngọn lửa dữ dội. Không cho phép một sợi lửa bén ra ngoài.
+
+Pháp thuật · Bất Động Thiên Phong (Bu Dong Tian Feng - Gió Trời Bất Động)!
+
+Chân Hỏa Phần Nguyệt che kín bầu trời bỗng nhiên phồng lên, nổ thành vô tận ngọn lửa, muốn xông phá sự ngăn cản. Trong gió trời sương trắng lại kết sương giá tuyết, không ngừng dập tắt ngọn lửa. Cuối cùng trong một tiếng trầm thấp, Chân Hỏa Phần Nguyệt và Bất Động Thiên Phong... Cùng nhau chôn vùi.
+
 Mà sự giao phong giữa Trường Tương Tư và Bạc Hạnh Lang, vẫn còn tiếp tục.
-Một cái từ trên xuống chém, một cái từ trái sang phải cắt.
+
+Một bên chém từ trên xuống, một bên cắt từ trái sang.
+
 Thế là mũi kiếm bỏ lỡ mũi kiếm, hai bên đi đến cuối con đường.
-Trên Bạc Hạnh Lang, kiếm văn rung động. Bức cảnh xuân "Trăng treo đầu ngọn liễu" này, đi đến nơi tận cùng. Thiên Nhân Khương Vọng lướt qua người mà đi, chỉ để lại ánh sáng lạnh lẽo che kín bầu trời, đều hướng về phía Chân Ngã Khương Vọng mà đến. Sau những ân tình quanh co, là bóng lưng kiên quyết rời đi, vĩnh viễn không quay đầu lại!
-Kiếm dài tựa như người phụ tình, ánh sáng lạnh lướt qua duyên cũng tan.
-Vô số đường nhân quả đều bị chém đứt, muốn lột "Chân Ngã" thành "Tự mình" cô đơn, tháo bỏ sự phản kháng của hắn.
+
+Trên Bạc Hạnh Lang, kiếm văn rung động. Bức "trăng treo đầu ngọn liễu" kia, đi đến nơi tận cùng. Thiên Nhân Khương Vọng lướt qua người mà đi, chỉ để lại ánh sáng lạnh lẽo che kín bầu trời, đều hướng về Chân Ngã Khương Vọng mà đến. Sau những tình cảm quanh co khúc khuỷu, là sự kiên quyết rời đi, bóng lưng vĩnh viễn không quay đầu!
+
+Kiếm dài tựa như người phụ tình, ánh sáng lạnh lẽo lướt qua, duyên phận cũng tan thành mây khói.
+
+Vô số sợi nhân quả đều bị chém đứt, muốn lột "Chân Ngã" thành "Tự Mình" cô đơn, tháo bỏ sự phản kháng của hắn.
+
 Đây là kiếm "Duyên Không".
-Chân Ngã Khương Vọng lại không lùi mà tiến tới, cầm kiếm mà đuổi theo, một kiếm đâm vào trong ánh sáng lạnh lẽo đầy trời, một kiếm dọn sạch ánh sáng lạnh lẽo đầy trời!
-Cả đời này thích ai hận ai niệm ai oán ai, đều là tự mình quyết định, không phải do trời định.
+
+Chân Ngã Khương Vọng lại không lùi mà tiến tới, cầm kiếm mà đuổi, một kiếm đâm vào trong ánh sáng lạnh lẽo đầy trời, một kiếm dọn sạch ánh sáng lạnh lẽo!
+
+Cả đời này thích ai, hận ai, nhớ ai, oán ai, đều là do ta quyết định, không phải do trời định.
+
 Đây là kiếm "Ta Chấp".
-Thiên Nhân Khương Vọng vung kiếm vẽ cảnh, vốn nên cắt tận mệnh đồ, nhưng Chân Ngã Khương Vọng từ vách núi dưới đáy bò lên, từ đầm lầy sâu thẳm nhảy ra, quanh co, có hy vọng.
-Sau khi đối oanh trong Kiếp Vô Không Cảnh, hai bên cũng sẽ không tiếp tục sử dụng chiêu số "Khương Vọng".
-Bởi vì tất cả lực lượng "Khương Vọng" trong quá khứ, đều vô dụng với "Khương Vọng" hiện tại.
-Bạc Hạnh Lang và Trường Tương Tư, Thiên Đạo sát kiếm và Nhân Đạo sát kiếm, đạo pháp và tiên pháp, Bất Chu Phong (Bu Zhou Feng) và Tam Muội Chân Hỏa (San Mei Zhen Huǒ), thậm chí cả sự trình bày và phát huy riêng biệt của Phật học về "Duyên Không" đối với "Ta Chấp"... Hai bên tiến hành đối kháng toàn diện về lực lượng, tu hành, thể ngộ trên nhiều phương diện.
-Những sát pháp hoàn toàn mới này trình bày, là sự trưởng thành mà hai bên thể hiện sau khi tai kiếp chạm đến giới hạn của vận mệnh!
-"Mạnh nhất" trong quá khứ đã không đủ để giải quyết dứt khoát.
-Bởi vì đối với những thiên kiêu tuyệt thế thực sự, mọi thông tin liên quan đến lực lượng đều đã lỗi thời!
-Thiên Nhân Khương Vọng và Chân Ngã Khương Vọng chẳng những muốn trình bày và phát huy hoàn mỹ lực lượng của mình, mà còn cần tiến lên nhanh nhất có thể trong trận chiến này.
-Ai có thể vượt qua "Ta ngày xưa" nhanh hơn trong trận chiến này, người đó sẽ giành được thắng lợi cuối cùng.
-Chân Ngã Khương Vọng lấy kiếm "Ta Chấp" đuổi theo Thiên Nhân, lồng lộn giữa không trung, lại còn không ngừng dọn sạch những đường nhân quả, tạo ra nhân quả cưỡng ép.
-Trường Tương Tư tựa như con thuyền cô độc bay đuổi, cưỡng ép kết "Duyên" với Thiên Nhân Khương Vọng đang dần bước đi xa trong biển "Duyên Không". Dưa chưa chín, cuống chưa rụng, mạnh mẽ xoay.
-Quản ngươi không tâm hoặc vô tình!
+
+Thiên Nhân Khương Vọng vung kiếm vẽ cảnh, vốn nên cắt đứt hết con đường số mệnh, nhưng Chân Ngã Khương Vọng từ dưới đáy vực bò lên, từ đầm lầy sâu thẳm nhảy ra, quanh co, vẫn có hi vọng.
+
+Sau khi oanh tạc trong Kiếp Vô Không Cảnh, hai bên cũng sẽ không tiếp tục sử dụng chiêu thức "Khương Vọng".
+
+Bởi vì tất cả sức mạnh "Khương Vọng" trong quá khứ, đều vô dụng đối với "Khương Vọng" hiện tại.
+
+Bạc Hạnh Lang và Trường Tương Tư, Thiên Đạo sát kiếm và Nhân Đạo sát kiếm, đạo pháp và tiên pháp, Bất Chu Phong và Tam Muội Chân Hỏa, thậm chí cả sự trình bày và đối kháng riêng của Phật học giữa "Duyên Không" và "Ta Chấp"... Hai bên tiến hành đối kháng toàn diện trên nhiều phương diện như sức mạnh, tu hành, thể ngộ.
+
+Những sát pháp hoàn toàn mới này trình bày, là sự trưởng thành mà hai bên thể hiện sau khi vượt qua giới hạn tai kiếp và vận mệnh!
+
+"Mạnh nhất" trong quá khứ đã không đủ để giải quyết triệt để.
+
+Bởi vì đối với những thiên kiêu tuyệt thế thực sự, tất cả thông tin liên quan đến sức mạnh đều đã lỗi thời!
+
+Thiên Nhân Khương Vọng và Chân Ngã Khương Vọng không chỉ phải trình bày và phát huy sức mạnh của mình một cách hoàn hảo, mà còn cần phải tiến lên nhanh nhất có thể trong trận chiến này.
+
+Ai có thể vượt qua "Ta ngày xưa" nhanh hơn trong trận chiến này, người đó sẽ giành được chiến thắng cuối cùng.
+
+Chân Ngã Khương Vọng dùng kiếm "Ta Chấp" đuổi theo Thiên Nhân, trên bầu trời rộng lớn như cánh đồng hoang, lại còn đang không ngừng dọn sạch những sợi nhân quả, tạo ra nhân quả cưỡng ép.
+
+Trường Tương Tư tựa như con thuyền cô độc bay đuổi, trong biển "Duyên Không", cưỡng ép kết "Duyên" với Thiên Nhân Khương Vọng đang dần bước xa kia. Dưa chưa chín, cuống chưa rụng, mạnh mẽ xoay.
+
+Quản ngươi vô tâm hay vô tình!
+
 Ngay lúc này, Chân Ngã Khương Vọng bỗng nhiên sinh lòng cảnh giác. Thiên Nhân Khương Vọng cũng khẽ động lòng.
-Đối mặt với cảnh báo linh giác này, nhận biết nguy hiểm, Chân Ngã Khương Vọng không hề thoái ý, ngược lại nhìn thấy cơ hội. Thời điểm địch nhân lộ ra nguy hiểm, cũng vừa vặn là thời điểm lộ ra yếu hại, nếu không như thế thì không đủ để phân thắng bại... Mắt đỏ sáng chói như điểm lửa, tâm hỏa bốc cháy trên thân kiếm, Chân Ngã Khương Vọng thân như nhạn bay, nhào về phía bên trái phía trước nơi cảnh giác nhất, đâm kiếm lên, như mặt trời mọc!
-Thiên Nhân Khương Vọng cũng chợt cong người vào lúc này, một kiếm lau lửa trắng, Thiên Hỏa theo kiếm cắt đứt trần duyên!
-Và... Đều thất bại.
-Chân Ngã Khương Vọng một kiếm chống trên không trung, nhanh chóng ngẩng lên như rồng lật, xoay người nhìn lại, như mãnh hổ nằm trên núi.
-Thiên Đạo Khương Vọng một kiếm lau vào khoảng không, suýt chút nữa mất lực mà tự làm tổn thương mình, nhưng cũng xoay người đứng vững, giải tán thế, dựng kiếm trước người, như Tê Ngưu chống sừng.
-Hai người một lần nữa giằng co, ở hai bên tâm tù.
-Cảnh tượng này nhìn có vẻ nực cười.
-Hai chân nhân mạnh nhất đương thời, vậy mà không hẹn mà cùng chém vào không trung, sát chiêu đối với không khí, thật còn không bằng trẻ con đấu kiếm.
-Nhưng hai bên đối diện, lại có thêm một phần cẩn trọng.
-Nhất niệm tức mất, suy nghĩ một chút là sai.
+
+Đối mặt với cảnh báo linh giác này, nhận biết nguy hiểm, Chân Ngã Khương Vọng không hề có chút ý định thoái lui nào, ngược lại nhìn thấy cơ hội. Thời điểm địch nhân lộ ra nguy hiểm, cũng chính là lúc lộ ra sơ hở, nếu không như vậy thì không đủ để phân thắng bại... Mắt đỏ rực rỡ như thể bốc cháy, tâm hỏa bùng cháy trên thân kiếm, Chân Ngã Khương Vọng thân như nhạn bay, hướng về phía trước bên trái nơi cảnh giác cao độ nhất nhào tới, chọc kiếm lên, như mặt trời mọc!
+
+Thiên Nhân Khương Vọng cũng vào lúc này chợt khom người, một kiếm lau lửa trắng, Thiên Hỏa kèm theo kiếm cắt đứt trần duyên!
+
+Nhưng... Đều thất bại.
+
+Chân Ngã Khương Vọng một kiếm chống trên không trung, cấp tốc ngẩng lên như rồng lộn, xoay người nhìn lại, như mãnh hổ nằm trên núi.
+
+Thiên Đạo Khương Vọng một kiếm lau vào khoảng không, suýt chút nữa mất lực mà tự làm tổn thương mình, nhưng cũng xoay người đứng thẳng, giải tan đi thế, kiếm dựng thẳng trước người, như Tê Ngưu chống sừng.
+
+Hai bên một lần nữa giằng co, ở hai bên tâm tù này.
+
+Cảnh tượng này nhìn có vẻ hết sức buồn cười.
+
+Hai chân nhân mạnh nhất đương thời, vậy mà không hẹn mà cùng chém vào không trung, sát chiêu đối không khí, thật còn không bằng trẻ con đấu kiếm.
+
+Nhưng hai bên đối nhau, lại thêm một phần cẩn trọng.
+
+Nhất niệm tức mất, suy nghĩ một chút liền sai.
+
 Nghĩ sai! Sai lầm!
-Hai bên đều lạc lối!
-Trong mắt nhật mâu màu vàng của Thiên Nhân Khương Vọng, có cá bạc bơi. Trong mắt trăng bạc, có cá vàng bơi. Đôi Âm Dương Ngư vàng bạc trong mắt Nhật Nguyệt này, khẽ xoay một vòng, liền biến mất.
-Và trong đôi mắt màu đỏ của Chân Ngã Khương Vọng, Âm Dương Ngư đen trắng chậm rãi bơi, cũng chìm vào biển đỏ.
-Thiên Nhân Khương Vọng và Chân Ngã Khương Vọng đều có được mọi thứ của "Khương Vọng", bao gồm kiến thức, cảm ngộ, suy nghĩ trong cuộc đời tên là "Khương Vọng", bao gồm cả đạo khu này, thậm chí cả thần thông!
+
+Hai bên đều vào Lạc Lối!
+
+Trong nhật mâu màu vàng của Thiên Nhân Khương Vọng, có cá bạc bơi lội. Trong trăng mắt màu bạc, có cá vàng bơi lội. Đôi Âm Dương Ngư vàng bạc trong mắt nhật nguyệt này, khẽ chuyển mình, liền biến mất.
+
+Mà trong đôi mắt màu đỏ của Chân Ngã Khương Vọng, Âm Dương Ngư đen trắng cũng chầm chậm chìm vào trong biển đỏ.
+
+Thiên Nhân Khương Vọng và Chân Ngã Khương Vọng đều có được tất cả của "Khương Vọng", bao gồm tri thức, cảm ngộ, suy nghĩ trong cuộc đời mang tên "Khương Vọng", bao gồm đạo khu này, thậm chí cả thần thông!
+
 Nhưng vào khoảnh khắc hai người này sinh ra, họ cũng có những điểm khác biệt.
-Giống như Thiên Nhân Khương Vọng lấy kiếm "Thiên Bất Giả Niên" chém Chân Ngã Khương Vọng, lấn át việc chân ngã đi ngược lại Thiên Đạo, khó biết thiên thọ.
+
+Giống như Thiên Nhân Khương Vọng dùng kiếm "Thiên Bất Giả Niên (Trời Không Cho Sống Lâu)" chém Chân Ngã Khương Vọng, là vì chân ngã đi ngược lại Thiên Đạo, khó biết thiên thọ.
+
 Vứt bỏ Thiên Nhân, mất đi sự duy trì của Thiên Đạo.
-Còn vứt bỏ chân ngã, mất đi cái gì?
-Đương nhiên là "Ta".
+
+Mà vứt bỏ chân ngã, mất đi điều gì?
+
+Tự nhiên là "Ta".
+
 Là sức mạnh của tâm.
-Cho nên Thiên Nhân Khương Vọng vốn có mọi thứ, thống hợp các pháp, dung nạp thần thông. Bao gồm Tam Muội Chân Hỏa, bao gồm Bất Chu Phong, bao gồm Kiếm Tiên Nhân, bao gồm Lạc Lối, duy chỉ có không bao gồm "Xích Tâm".
-Về nguyên tắc, không cần nói là Thiên Nhân Khương Vọng hay Chân Ngã Khương Vọng, đều có thể tránh được thần thông Lạc Lối.
+
+Cho nên Thiên Nhân Khương Vọng vốn có hết thảy, thống hợp các pháp, dung nạp thần thông. Bao gồm Tam Muội Chân Hỏa, bao gồm Bất Chu Phong, bao gồm Kiếm Tiên Nhân, bao gồm Lạc Lối, duy chỉ có không bao gồm "Xích Tâm (trái tim son)".
+
+Về nguyên tắc, không cần nói là Thiên Nhân Khương Vọng hay Chân Ngã Khương Vọng, đều có thể tránh né thần thông Lạc Lối.
+
 Chân Ngã Khương Vọng có thần thông Xích Tâm, có thể ngự Lạc Lối.
-Thiên Nhân Khương Vọng chỉ tuân theo quy tắc Thiên Đạo, căn bản sẽ không có lựa chọn, bản thân cũng không bị Lạc Lối quấy nhiễu.
-Nhưng họ đều hiểu rõ đối phương, cũng quá hiểu chiến đấu.
-Gần như đồng thời chuyển hướng mũi nhọn, khoảnh khắc truy đuổi, coi là cơ hội chiến đấu tuyệt vời.
-Thiên Nhân Khương Vọng dùng thần thông Lạc Lối không có tác dụng, một chỗ nguy hiểm mãnh liệt, nhảy qua sự phòng hộ của thần thông Xích Tâm, khiến Chân Ngã Khương Vọng có sự lựa chọn chiến đấu tự nhiên, xuất phát từ bản tâm.
-Chân Ngã Khương Vọng thì dùng thần thông Lạc Lối kích thích trật tự Thiên Đạo bên trong tâm tù, khiến Thiên Nhân Khương Vọng đưa ra sự tiến công tất yếu theo trật tự Thiên Đạo.
-Chính vì tất cả những điều này đều xảy ra đồng thời, đến nỗi hai bên đều quỷ dị lỡ tay, chém vào không khí. Sau đó những đợt tấn công liên miên tiếp theo, đều gián đoạn trước khi chính mình "Lỡ tay".
-Hơn nữa sát chiêu của họ đều uổng phí.
-Không chỉ là "Tâm hỏa" và "Thiên Hỏa" riêng biệt quán triệt kiếm thức ác tuyệt, mà còn là việc hai bên dùng "Lạc Lối" ảnh hưởng lá bài tẩy của đối phương, sau khi lộ ra đều không thể tạo ra ưu thế vốn có, từ đó không còn khả năng sinh hiệu quả.
-Duyên tất cả đều tan.
-Một tòa tâm tù nhỏ bé, bao la như vũ trụ. Bát ngát không bờ mặc cho trời long đất lở. Cực Chân đấu trong đó, đều không thể thoát ra.
-Lúc này Chân Ngã Khương Vọng kiếm liếc mắt đỏ, đứng ở tây bắc, ở trên cao nhìn xuống.
-Thiên Nhân Khương Vọng dựng kiếm đông nam, rút thân đối trời cao, mũi kiếm mỏng như giấy, dựng thẳng phân đôi mắt nhật nguyệt.
-Trận chiến này còn lâu mới kết thúc, hoặc là nói hai bên vẫn chưa tìm được khả năng kết thúc trận chiến này.
+
+Thiên Nhân Khương Vọng chỉ tuân theo quy tắc của Thiên Đạo, căn bản sẽ không có lựa chọn, bản thân cũng không bị Lạc Lối quấy nhiễu.
+
+Nhưng họ đều hiểu rất rõ hai bên, cũng quá hiểu chiến đấu.
+
+Gần như đồng thời né tránh mũi nhọn, khoảnh khắc truy đuổi kia, coi là cơ hội chiến đấu tuyệt vời.
+
+Thiên Nhân Khương Vọng dùng thần thông Lạc Lối, không có tác dụng, một chỗ nguy hiểm mãnh liệt, nhảy qua sự phòng hộ của thần thông Xích Tâm, khiến Chân Ngã Khương Vọng có sự lựa chọn chiến đấu tự nhiên, xuất phát từ bản tâm.
+
+Chân Ngã Khương Vọng thì dùng thần thông Lạc Lối kích thích trật tự Thiên Đạo trong tâm tù, khiến Thiên Nhân Khương Vọng đưa ra sự tiến công tất yếu theo trật tự Thiên Đạo.
+
+Chính vì tất cả những điều này đều xảy ra đồng thời, đến mức hai bên đều quỷ dị lỡ tay, mỗi bên đều chém vào không khí. Mỗi bên đều tiếp tục những đợt tiến công liên miên sau đó, đều gián đoạn trước khi "lỡ tay" của chính mình.
+
+Và sát chiêu của họ đều vô ích.
+
+Không chỉ là "Tâm hỏa" và "Thiên Hỏa" quán triệt vào những kiếm thức ác tuyệt kia, mà còn là việc hai bên dùng "Lạc Lối" ảnh hưởng đến lá bài tẩy của đối phương, sau khi lộ ra đều không thể tạo ra ưu thế vốn có, từ đó lại không có khả năng sinh hiệu.
+
+Duyên tất cả đều là không.
+
+Một tòa tâm tù nhỏ bé, bao la như vũ trụ. Bát ngát không bờ mặc cho trời băng đất liệt. Cực Chân đấu trong đó, đều không được ra.
+
+Lúc này Chân Ngã Khương Vọng kiếm liếc mắt đỏ, đứng ở phía tây bắc, nhìn xuống từ trên cao.
+
+Thiên Nhân Khương Vọng dựng thẳng kiếm ở phía đông nam, rút thân đối trời cao, mũi kiếm mỏng như giấy, dựng thẳng phân nhật nguyệt mắt.
+
+Trận chiến này còn lâu mới kết thúc, hoặc có thể nói hai bên vẫn chưa tìm được khả năng kết thúc trận chiến này.
+
 Đây là lần đầu tiên Khương Vọng thực sự đối mặt với chính mình.
+
 Chỉ khi đối mặt với Khương Vọng, mới biết "Khương Vọng" rốt cuộc mạnh đến mức nào.
-Mới có thể lý giải những địch nhân trước đây, đối mặt với một đối thủ như vậy, dày vò đến mức nào!
-Hắn chưa bao giờ mạnh mẽ trên mặt giấy, mà mạnh mẽ ở những câu chuyện trong quá khứ, mạnh mẽ ở những kinh nghiệm trong cuộc đời. Hắn không cần tự tâng bốc mình, địch nhân của hắn tự nhiên trở thành chú giải!
-Nắm bắt thời cơ chiến đấu tuyệt diệu, khứu giác chiến đấu đỉnh cao. Bất kỳ ý đồ chiến đấu nào đều có thể bị nhìn thấu, bất kỳ sát pháp nào cũng sẽ bị phá giải. Bất kỳ lực lượng nào đã từng thể hiện, cũng không thể có hiệu lực lần thứ hai... Trong chiến đấu gần như không được phép có bất kỳ sai lầm nào, lại không ngừng ép buộc bạn phạm sai lầm! Thế công như thác đổ của bạn không lọt một giọt nước, một ý nghĩ sai lầm của bạn lại vĩnh viễn không thể xoay chuyển.
-Đối thủ như vậy, làm sao chiến thắng?
-Không cần nói là Thiên Nhân Khương Vọng, hay Chân Ngã Khương Vọng, đều nhất định phải một lần nữa dò xét chính mình, một lần nữa suy nghĩ cẩn thận trận chiến này!
+
+Mới có thể lý giải những kẻ địch trước đây, khi đối mặt với một đối thủ như vậy, đã dày vò đến nhường nào!
+
+Hắn chưa bao giờ mạnh mẽ trên mặt giấy, mà là mạnh mẽ trong những câu chuyện quá khứ, mạnh mẽ trong những kinh nghiệm nhân sinh của hắn. Hắn không cần vì chính mình bôi son trát phấn, kẻ địch của hắn tự nhiên trở thành chú giải!
+
+Khả năng nắm bắt chiến cơ tuyệt diệu, khứu giác chiến đấu đỉnh cao. Bất kỳ ý đồ chiến đấu nào cũng có thể bị nhìn thấu, bất kỳ sát pháp nào cũng sẽ bị phá giải. Bất kỳ sức mạnh nào đã xuất hiện, cũng không thể có hiệu lực lần thứ hai... Trong chiến đấu gần như không đáng bất kỳ sai lầm nào, lại không ngừng ép ra sai lầm của ngươi! Thế công như thác đổ của ngươi không có giọt nước nào lọt qua, một ý nghĩ sai lầm của ngươi lại vĩnh viễn không xoay người được.
+
+Đối thủ như vậy, làm sao để chiến thắng?
+
+Đừng nói là Thiên Nhân Khương Vọng, hay Chân Ngã Khương Vọng, đều nhất định phải một lần nữa dò xét chính mình, một lần nữa thận trọng suy nghĩ về trận chiến này!
+
 Nhưng suy nghĩ cũng không thể ảnh hưởng đến chiến đấu.
+
 Bản thân suy nghĩ cũng là một loại chiến đấu!
-Ai không thể chém hết những ý nghĩ hỗn tạp, chuyên chú chiến đấu, ai sẽ bị những yếu tố bên ngoài chiến đấu quấy nhiễu, người đó hãy chuẩn bị c·h·ế·t đi!
-Cho nên sau khi hai bên riêng biệt chém vào khoảng không, chỉ là một cái đối mặt, liền một lần nữa tấn công đối phương.
+
+Ai không thể chém hết những ý nghĩ hỗn tạp, chuyên chú vào chiến đấu, ai sẽ bị những yếu tố bên ngoài chiến đấu quấy nhiễu, người đó liền chuẩn bị để c·h·ế·t đi!
+
+Cho nên sau khi mỗi bên chém vào khoảng không, chỉ cần một cái đối mặt, liền lần nữa công kích đối phương.
+
 Đối mặt với đối thủ như vậy, rất nhiều người ngay cả tư cách suy nghĩ cũng sẽ không có.
+
 Bởi vì thời gian suy nghĩ, cũng phải tranh thủ trên thân kiếm.
-Chân Ngã Khương Vọng như rồng đi trên trời cao, một kiếm từ trước mắt vạch ngang, mắt từ đỏ thẫm chuyển vàng ròng, tóc dài rối tung giương múa. Trong khoảnh khắc này, khoác gió sương, tắm Xích Hỏa, chiếu khắp ánh sáng thiên phủ, toàn thân kiếm khí xông lên trời, là [Chân Ngã Kiếm Tiên Nhân]. Sương trắng khoác trên vai giống như liên tiếp màn trời, tất cả đều là bóng lưng này. Kiếm khí ngàn đầu vạn cái, tựa như buộc lên mái vòm.
-Và nhào xuống, một kiếm lún xuống, toàn bộ mái vòm tâm tù đều chìm theo, giống như một kiếm kéo theo trời nghiêng!
+
+Chân Ngã Khương Vọng như rồng bay lên trời cao, một kiếm từ trước mắt ngang qua, mắt từ đỏ thẫm chuyển sang vàng ròng, tóc dài rối tung giương múa. Trong khoảnh khắc này, khoác gió sương, tắm Xích Hỏa, chiếu khắp ánh sáng thiên phủ, toàn thân kiếm khí xông lên trời, là 【Chân Ngã Kiếm Tiên Nhân (Chan Ngan Kiem Tien Nhan - Kiếm Tiên Nhân Chân Ngã)】. Sương trắng khoác trên vai giống như liên tiếp màn trời, hết thảy đều là bóng lưng của tôn này. Kiếm khí ngàn đầu vạn cái, tựa như buộc lên mái vòm.
+
+Và khi nhào xuống, một kiếm lún xuống, toàn bộ mái vòm tâm tù đều chìm theo, giống như một kiếm kéo theo trời nghiêng!
+
 Kiếm này, trời nghiêng tây bắc!
-Thiên Nhân Khương Vọng chỉ giơ cao kiếm, vào khoảnh khắc chuôi kiếm quá trán, toàn thân vàng sáng. Ngọc quan cũng thành kim quan, tóc đen cũng thành tóc vàng, giống như đạp đất nặn Kim Tôn! Cũng lấy gió sương làm áo choàng, nhưng là Thiên Hỏa màu trắng vòng quanh người, kiếm khí như vực sâu biển lớn, gào thét dâng trào, sâu không lường được, xa không thể biết.
-Là, [Thiên Đạo Kiếm Tiên]!
-Trên trời vốn không Tiên, Thiên Đạo dịch làm ra.
-Thần đứng vững không động, dưới chân đã là một mảnh thâm u, giống như Hư Không không đáy.
-Gạch ngói cũng không còn, đại địa đã sụp đổ. Những thứ nặng nề mà đất vàng gánh chịu, đều muốn lưu vong vũ trụ.
-Một kiếm này tuy cao nâng, lại khiến cho những gì thấy nghe ngửi nghĩ, đều chìm xuống. Một kiếm này rõ ràng tồn tại, lại nhất định phải biến mất mọi cơ sở tồn tại.
+
+Thiên Nhân Khương Vọng chỉ giơ cao thanh kiếm dựng thẳng, vào khoảnh khắc chuôi kiếm vượt qua trán, toàn thân vàng sáng. Ngọc quan cũng thành kim quan, tóc đen cũng thành tóc vàng, giống như đạp đất nặn Kim Tôn! Cũng lấy gió sương làm áo choàng, nhưng là vòng quanh người bằng Thiên Hỏa màu trắng, kiếm khí như vực sâu biển lớn, gào thét dâng trào, sâu không lường được, xa không thể biết.
+
+Là, 【Thiên Đạo Kiếm Tiên (Thien Dao Kiem Tien - Kiếm Tiên Thiên Đạo)】!
+
+Trên trời vốn không Tiên, Thiên Đạo dịch làm cho.
+
+Thần đứng vững không động, dưới chân đã là một vùng thâm u, giống như Hư Không không đáy.
+
+Cục gạch cũng không tồn tại, đại địa đã sụp đổ. Đất vàng nặng nề nơi gánh chịu hết thảy, đều muốn lưu vong vũ trụ.
+
+Một kiếm này tuy cao nâng, lại làm cho tất cả những gì thấy nghe nghe thấy suy nghĩ, đều chìm xuống. Một kiếm này rõ ràng tồn tại, lại thế tất yếu biến mất mọi cơ sở tồn tại.
+
 Nó là kiếm tuyệt diệt thực sự.
-Mọi thứ trong tâm tù đều đang rơi xuống, thậm chí bao gồm cả kiếm khí đối oanh, bao gồm cả thần tính không ngừng tiêu tán trong giao phong, bao gồm cả những tiên niệm đang va chạm... Mọi thứ đều thất thủ, chỉ có chuôi kiếm dài tên là "Bạc Hạnh Lang", ngày càng rõ ràng.
+
+Hết thảy bên trong tâm tù đều đang rơi xuống, thậm chí bao gồm cả kiếm khí đối oanh của hai người, bao quát thần tính không ngừng tiêu tán trong giao phong, bao quát tiên niệm đang va chạm... Hết thảy đều đang không ngừng thất thủ, chỉ có thanh kiếm dài mang tên "Bạc Hạnh Lang", càng ngày càng rõ ràng.
+
 Kiếm này, đất sụt đông nam!
-Vốn nên là Chân Ngã Kiếm Tiên Nhân ở nhân gian, lại chém xuống trên trời. Vốn nên là Thiên Đạo Kiếm Tiên trên trời cao, lại chân đạp nhân gian mà giơ kiếm.
-Bởi vì trời nghiêng tây bắc là do người gây ra, còn đất sụt đông nam, là trời sập vậy.
-Hai người giao hội trong hư không, ánh sáng và âm thanh đều chôn vùi.
+
+Vốn nên ở nhân gian chân ngã Kiếm Tiên Nhân, nhưng lại chém xuống từ trên trời. Vốn nên ở trên trời Thiên Đạo Kiếm Tiên, nhưng lại chân đạp nhân gian mà giơ kiếm.
+
+Bởi vì trời nghiêng tây bắc là do người tạo ra, mà đất sụt đông nam, là trời sập vậy.
+
+Hai người giao hội trong hư không, ánh sáng và âm thanh, đều bị chôn vùi.
+
 Trong cuộc quyết đấu kinh khủng như vậy.
+
 Thiên địa dường như cũng có giới hạn kết thúc.
-Vòm trời giật xuống một góc hướng xuống rơi, đại
+
+Mái vòm giật xuống một góc hướng xuống rơi, đại
 
 
-Địa Nhất nhấc lên một góc, nâng lên. Hai tướng tiếp xúc, trong chốc lát thiên địa lăn lộn chuyển.
+địa nhấc lên một góc nâng lên. Hai tướng tiếp xúc, trong chốc lát thiên địa lăn lộn chuyển.
 
 Hết thảy đều lẫn lộn cùng một chỗ, từ đó trong và đục không phân, nhật nguyệt không rõ.
 
-Bên trong tâm tù, lập thành Hỗn Độn!
+Bên trong tâm tù, lập làm Hỗn Độn!
 
 Hết thảy cũng không còn tồn tại!
 
@@ -468,10 +506,10 @@ Tại bên trong Hỗn Độn, siêu việt hết thảy mà đối diện.
 
 Tròng mắt màu vàng đỏ, nhìn nhau nhật nguyệt trời đồng tử.
 
-Thiên Đạo là xuôi theo theo quỹ tích hoàn mỹ đã định.
+Thiên Đạo là xuôi theo theo chú định hoàn mỹ quỹ tích.
 
-Chân ngã nhưng là nên nắm chắc tất cả khả năng, thậm chí cả những điều không thể!
+Chân ngã nhưng là nên nắm chắc tất cả khả năng, thậm chí còn không có khả năng!
 
-"Ta cảm thấy tất cả những thứ này còn chưa phải cực hạn -" trong đôi mắt bất hủ màu vàng, lập loè sáng chói tình cảm, Chân Ngã Khương Vọng xa so với trạng thái bình thường nồng đậm, hắn thét dài mà rít gào, giờ đây nghe đạo mà tự cuồng: "Phía trước còn có đường đi!"
+"Ta cảm thấy tất cả những thứ này còn không phải cực hạn -" trong đôi mắt bất hủ màu vàng, lập loè sáng chói tình cảm, Chân Ngã Khương Vọng xa so với trạng thái bình thường nồng đậm, hắn thét dài mà rít gào, giờ đây nghe đạo mà tự cuồng: "Phía trước còn có đường đi!"
 
 Hắn tại bên trong Hỗn Độn, rút kiếm lại hướng phía trước!

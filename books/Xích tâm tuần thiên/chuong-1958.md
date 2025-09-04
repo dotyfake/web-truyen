@@ -2,131 +2,251 @@
 
 ## Tóm tắt chương truyện
 
-Tóm tắt thất bại do giới hạn API (sẽ thử lại sau).
+Khương Vô Hoa đang chăm sóc chậu Khúc Ý Mai thì bất ngờ nói với Hoàng hậu và Thái tử phi Tống Ninh Nhi rằng Khương Vọng muốn đi giết Trang Cao Tiện. Thái tử lặp lại: "Thời điểm hắn Động Chân (Dong Zhen), chính là thời điểm hắn đi g·i·ế·t Trang Cao Tiện." Hoàng hậu phản đối, cho rằng Trang Cao Tiện là quốc chủ được thừa nhận, không thể tùy tiện g·i·ế·t. Bà cho rằng Khương Vọng chỉ đang "cậy sủng mà kiêu ngạo, mang công mời thưởng".
+
+Khương Vô Hoa phản bác, ám chỉ rằng Khương Vọng đã từ quan thì không còn gì không dám làm, và việc Hoàng hậu phản đối có thể do bà vẫn còn bận tâm về việc Khương Vọng khởi động lại vụ án Lôi Quý phi. Tống Ninh Nhi thắc mắc về mối thù giữa Khương Vọng và Trang Cao Tiện, nhắc lại việc hai người từng được cho là có chung mối thù khi Khương Vọng đăng "Mười năm lời buồn" và Trang Cao Tiện khắc Phong Lâm Sinh Linh Bi. Khương Vô Hoa giải thích rằng có thể có những uẩn khúc mà Khương Vọng chưa công khai. Hoàng hậu lại cho rằng Khương Vọng đang quá coi trọng thù riêng mà coi nhẹ quốc gia. Khương Vô Hoa hỏi ngược lại bà tin Khương Vọng hay Trang Cao Tiện hơn. Hoàng hậu thừa nhận Khương Vọng đáng tin hơn trong việc đòi lại công đạo cho những người nhỏ bé.
+
+Hoàng hậu thắc mắc tại sao Khương Vọng không đợi đến khi Đại Tề diệt Trang rồi trả thù. Khương Vô Hoa đáp lại rằng Khương Vọng có lẽ không đợi được đến ngày đó. Tống Ninh Nhi cho rằng việc Khương Vọng rời đi có thể là một chuyện tốt, tránh cho Đại Tề bị nước khác mượn cớ tấn công. Cô hỏi liệu Khương Vọng đã có thể Động Chân (Dong Zhen) chưa, nhưng Khương Vô Hoa phủ nhận, cho rằng Khương Vọng không thể Động Chân (Dong Zhen) nhanh như vậy. Tống Ninh Nhi khó hiểu vì sao Khương Vọng không đợi đến khi Động Chân (Dong Zhen) rồi rời đi, nhưng Khương Vô Hoa cho rằng đó là "lòng thành của hắn đối với thiên tử". Tống Ninh Nhi hỏi liệu Khương Vô Hoa có đối phó với Khương Vọng nếu anh ta còn sống rời đi không, nhưng Khương Vô Hoa phủ nhận, nói rằng Khương Vọng chưa từng đối nghịch với Hoàng hậu và con đường của mình còn dài, không ngại những trở ngại nhỏ.
+
+Tại Đắc Lộc Cung, Khương Vọng và Trọng Huyền Tuân giao chiến. Khương Vọng dùng Triêu Thiên Khuyết (Chao Tian Que) tấn công, Trọng Huyền Tuân vứt bỏ đao để thoát khỏi Lục Dục Phật Chưởng (Liu Yu Fo Zhang) và tiến vào thế giới thần hồn của Khương Vọng. Khương Vọng dùng Thần hồn sát thuật Động Kim Thác (Dong Jin Tuo) để cản trở Trọng Huyền Tuân, sau đó dựng Triêu Thiên Khuyết (Chao Tian Que) phản trấn tự thân, đẩy Trọng Huyền Tuân ra khỏi thế giới thần hồn của mình.
+
+Trong khi đó, đồng thuật của hai người cũng giằng co. Khương Vọng nhóm lửa tam muội thần hỏa (San Mei Shen Huo), quân cờ màu vàng ròng không ngừng bành trướng. Trọng Huyền Tuân dùng Thái Dương thần cung (Tai Yang Shen Gong) đi vòng qua biển lôi để đối mặt với kiếm của Khương Vọng. Khương Vọng thi triển Nhất Kiếm Hoành Mi (Yi Jian Heng Mei), dùng đạo đồ sát kiếm, cán chùm sao Bắc Đẩu chỉ bắc, Thiên Hạ Đều Đông (Tian Xia Dou Dong). Trọng Huyền Tuân bước ra khỏi Thái Dương thần cung (Tai Yang Shen Gong) để trực diện một kiếm này, dùng Tinh Luân (Xing Lun), Nhật Luân (Ri Lun), Nguyệt Luân (Yue Lun) nối liền thành đao. Trong mắt Hàn Lệnh, hai người đều như người mù, thần hồn giao chiến trong chiến trường thần hồn. Hai người giao chiến ác liệt, ánh sáng trắng lóa bao trùm Đắc Lộc Cung.
 
 ## Toàn bộ chương
 
-[Dịch thuật thất bại do giới hạn API]
-
 ## Chương 8: Quát tháo hoàn vũ, há lại không khe hiểm
 
-  
-Cái kia cửa đá cổ xưa chí tôn chí quý, giống như thành vòm trời cụ tượng, không thể né tránh, không thể ngăn cản. Mà đao của Trọng Huyền Tuân, còn bị Khương Vọng lấy Lục D·ụ·c Phật Chưởng bắt được.  
-Tại Khương Vô Khí sau khi c·h·ế·t, cung Trường Sinh một đêm vắng lặng, cây đổ hồ chuyển tán. Ai còn sẽ để ý một cái Khương Vô Khí bên người một cái nho nhỏ Công Tôn Ngu tính mệnh, dám muốn nàng cái này Đại Tề hoàng hậu bộ hạ trả giá cho cái c·h·ế·t đâu?  
-Trong vườn hoa cũng không một cái nô bộc tại.  
-Quốc tướng nước Trang là Đỗ Như Hối khi đó còn đối Khương Vọng rời nước hắn liền biểu thị thông cảm, nói "Nam nhi tốt công thành không cần tại cố thổ, đại trượng phu dương danh tự mình có thể tại tha hương" rất là để người lộ vẻ xúc động. Câu nói này đến nay đều có người nói chuyện say sưa, bị coi là đại tranh thế gian chim khôn lựa cành quân thần điển hình. Minh quân hiền tướng độ lượng, hiện ra hết tại đây. (đọc tại Qidian-VP.com)  
-Uẩn Thần Điện của Trọng Huyền Tuân cao rộng, còn tại bên trong biển sao chiếu sáng rạng rỡ.  
-Hắn ý tứ hết sức rõ ràng ---- Khương Vọng đều đã chào từ giã, còn có cái gì không dám?  
-Oanh!  
-Tại người hữu tâm lửa cháy thêm dầu phía dưới, lúc đó hai thiên văn chương đồng thời tại thế, Trang quân Trang Cao Tiện cùng Trang quốc xuất thân Khương Vọng trăm sông đổ về một biển, chung báo quốc thù, một lần bị truyền thành giai thoại.  
-Tại thế giới thần hồn cùng đồng thuật đều rơi vào giằng co lúc này, Trọng Huyền Tuân lấy Thái Dương thần cung đi lanh quanh biển lôi, cuối cùng đối mặt kiếm của Khương Vọng!  
-Hôm nay Tề quốc, không biết có bao nhiêu người tại chờ đợi kết quả ở Đắc Lộc Cung.  
-Đại Tề hoàng hậu phẩy tay áo một cái, tức giận đến không thể mở miệng, rất có ý tứ chỉ tiếc rèn sắt không thành thép.  
-Đại Tề hoàng hậu nghiêm nghị nhìn xem hắn: "Ngươi phụ hoàng anh minh thần võ, nhất định có thể tiêu trừ hỗn loạn cục diện, làm cho thiên hạ yên ổn . Con ta vĩ lược trong ngực, lại như thế nào không thể ngựa đạp Thiên Kinh?"  
-Chỉ là ngoại thần, cỡ nào khinh thường hoàng gia, tự cho là đúng!  
-Mà cách người mình, đồng thuật dây dưa cũng tại Khương Vọng nhóm lửa tam muội thần hỏa về sau, tiến vào một cái toàn giai đoạn mới.  
-Hoàng hậu, thái tử, thái tử phi trong khu vườn yên tĩnh này, cũng bất quá là một cái trong số đó.  
-Lần thứ nhất liền dự bị vì Trọng Huyền Tuân vang lên, đến nay lại gặp gỡ!  
-Đại Tề hoàng hậu nói: "Không có chứng cớ sự tình, vậy còn không ông nói ông có lý, bà nói bà có lý? Cũng chưa thấy đến chính là Trang quốc phụ hắn Khương Vọng. Hôm nay ta Đại Tề đợi hắn sao mà dày, hắn nói đi là đi, ngày nào đó binh qua đảo ngược, đúng sai lại cùng người nào nói?" (đọc tại Qidian-VP.com)  
-Dưới gầm trời này người thông minh còn rất nhiều, hết lần này tới lần khác hắn Khương Vọng, sự tình đều đi qua nhiều năm như vậy, sớm đã hết thảy đều kết thúc, phải lật nhặt lên, quấy đến thiên địa bụi bay, vết bẩn một mảnh!  
-Đối mặt Trọng Huyền Tuân đối thủ như vậy, không có nắm chắc, chẳng khác nào thua.  
-Chỉ có thái tử phi Tống Ninh Nhi ở một bên nửa ngồi xổm trên mặt đất, nâng bình tưới hoa, cùng với Đại Tề hoàng hậu ngồi tại trong đình ấm, lấy thìa ngọc miệng nhỏ uống canh.  
-Nhưng bên ngoài Uẩn Thần Điện, đã là trống rỗng, lại không một chút ngăn trở. Cánh cửa mở rộng, chờ lấy Khương Vọng tay cầm Triêu Thiên Khuyết đi phá hư.  
-Ở thời khắc mấu chốt này, Trọng Huyền Tuân trực tiếp buông tay vứt bỏ đao. Mặc cho cái kia đao linh thức tại Khương Vọng trong lòng bàn tay bóp thành khói xanh, mà chính mình đột nhiên nhảy ngang, lấy một cái góc độ xảo trá đến cực điểm, thoát ly Lục D·ụ·c Bồ Tát nhìn kỹ, tại bên trong bầu trời cùng cái kia cửa đá cổ xưa song song.  
-Nàng nói tất nhiên là Khương Vọng lúc trước cái kia thiên văn chương truyền hịch thiên hạ xoắn g·i·ế·t Vô Sinh giáo, cùng Trang Cao Tiện chỗ khắc Phong Lâm Sinh Linh Bi tế văn.  
-Là linh thức sát pháp có khả năng nhất phát huy sân nhà ưu thế.  
-Tự mình phạt Hạ sau khi chiến tranh kết thúc, song phương trên chiến trường vương không thấy vương, lại không đồng thời ra tay thời điểm, chớ nói chi là chính diện đối quyết.  
-Có thể hắn thật có thể cùng Trọng Huyền Tuân dùng cái này đánh cược sao?  
-Khương Vọng là chân chính đem hết toàn lực, tại chiến đấu ngay từ đầu liền muốn đẩy tới chung cuộc. Có thể Trọng Huyền Tuân như thế nào để hắn toại nguyện?  
-Chính như Nhật Luân nện trán người, đập bình thường không chỉ là trán.  
-Đây mới là chém g·i·ế·t!  
-Một đao kia đoạt hết nhân gian hào hoa phong nhã cùng một kiếm trên chín tầng trời rủ xuống.  
-Gặp gỡ giờ khắc này, lại như thế yên tĩnh.  
-Nhưng Hoàng Hậu chỉ là hơi nhàu mày ngài, nàng cũng không cảm thấy Khương Vọng là thật muốn đi: "Cậy sủng mà kiêu ngạo, mang công mời thưởng, loại người này, các triều đại không thiếu  
-Một bên thái tử phi Tống Ninh Nhi, nghe nửa ngày, lúc này nghiêng đầu lại, nhỏ giọng mà nói: "Võ An Hầu cùng cái kia quốc chủ nước Trang lại có như thế đại thù, một ngày đều đợi không được sao? Ta ngược lại là chỉ đọc qua cái kia hai thiên 'Mười năm lời buồn' còn cho là bọn họ nên là cùng chung mối thù."  
-Khương Vô Hoa nhịn không được cười lên: "Cô vì sao muốn đối phó hắn?"  
-Con mắt của Trọng Huyền Tuân là một mảnh vàng ròng, con mắt của Khương Vọng là đen kịt một màu, hai bên ánh mắt bị hai bên xâm chiếm, hai cái quốc hầu đều như người mù. Thần hồn của bọn hắn cơ hồ chưa có sóng chấn động, lộ ra nhưng đã triệu tập chỗ có lực lượng thần hồn, chém g·i·ế·t tại trong chiến trường thần hồn.  
-----  
-Người này tại đối diện là thật đáng ghét, nhưng nếu dứt bỏ lập trường, đúng là cái tin được.  
-Khương Vọng lần này như thành công rời Tề, cái kia nhất cử nhất động của hắn đều chỉ đại biểu chính mình, rốt cuộc đại biểu không được Tề quốc. Hắn làm chuyện gì, khiêu chiến quốc gia thể chế cũng tốt, khiêu chiến hiện thế trật tự cũng được, đều là chính hắn gánh trách nhiệm, liên lụy không đến nước Tề. Vậy ngươi Đại Tề thiên tử cũng tốt, Đại Tề hoàng hậu cũng tốt, có lý do gì "Quyết không cho phép" ? Tối đa cũng chính là "Nếu có việc này, thiên hạ tru diệt" như nước khác, ở sau đó bắt g·i·ế·t thôi.  
-Tại cái kia tứ ngược toàn trường lôi điện cột sáng phía trên, có bốn tòa ngôi sao liên tiếp sáng lên, tinh lộ thuyền dài kết Bắc Đẩu, sau đó một kiếm nghiêng!  
-Một bước này thật sự là kinh tuyệt!  
-Khương Vô Hoa nghiêm túc nhìn lấy trong tay cành mai: "Mẫu hậu thật chẳng lẽ coi là, hắn hôm nay chào từ giã, chỉ là lấy tiến làm lùi, hướng thiên tử yêu cầu càng nhiều sao?"  
-Khương Vô Hoa cười tủm tỉm mà nói: "Phụ hoàng đương nhiên là anh minh, nhi thần thì chưa hẳn thần võ. Những lời này đóng cửa lại đến nói liền có thể, mẫu hậu không cần thiết chính mình cho là thật."  
-Tại trong tầm mắt của Hàn Lệnh, hắn nhìn thấy ----  
-Khương Vô Hoa dừng lại trong tay cắt hoa động tác, chính giật mình nhìn phía trước một hồi, chỉ nói: "Đây là lòng thành của hắn đối với thiên tử."  
-Hỏi ngươi làm thế nào trả?  
-Khương Vọng lấy Triêu Thiên Khuyết làm binh khí, muốn đánh sụp, càng là Trọng Huyền Tuân đối chính mình thế giới thần hồn chưởng khống.  
-Cứ việc cung điện trên trời trấn thần cung, cứ việc chém vào ta bốn biển.  
-Hắn mặt nghênh Khương Vọng mà đi, khủng bố thể phách thiên chuy bách luyện, tại thiên ý chi sát lãnh ý trùng kích bên trong, có cảm giác đau như kim đâm. Bồng bềnh tay áo lớn phía dưới, trong lòng bàn tay Tinh Luân, Nhật Luân, Nguyệt Luân, nối liền thành đao.  
-Khúc Ý Mai nhánh hoa uyển chuyển, mà có thể chịu lạnh buốt giá, nở tại giữa mùa thu, tàn lụi tại đông chí, cho nên lấy "Khúc ý" tên. Tuy là loại hoa quý, nhưng từ trước đến nay không thế nào chịu nhóm danh sĩ thích, coi là thấp kém. Bất quá trong vườn của Khương Vô Hoa trăm hoa đua nở, ngược lại là cái gì loại hoa đều có.  
-Chuyện kia đã đã qua thật lâu, nhưng giữa mẹ con còn là lần đầu tiên chính thức tán gẫu lên. Nàng không nguyện ý thừa nhận, là nàng năm đó làm ra lựa chọn, tại một số năm sau, làm cho Khương Vô Hoa từ trước đến nay điệu thấp, hận không thể bị tất cả mọi người lãng quên, trước giờ bước vào Thần Lâm.  
-"Tuyệt đối không thể." Khương Vô Hoa yên lặng mà nói: "Từ xưa đến nay nhanh nhất thành tựu Động Chân là Thái Ngu chân nhân Lý Nhất, chân chính Động Chân tuổi tác, cũng đã là 26 tuổi. Khương Vọng năm nay mới 22. Mặc dù nói lịch sử ghi chép chính là dùng để đánh vỡ, nhưng bọn hắn ở vào cùng một thời đại, ta trước mắt cũng không nhìn thấy lý do Khương Vọng về việc tu hành mạnh hơn Lý Nhất."  
-Chương 8: Quát tháo hoàn vũ, há lại không khe hiểm  
-Ngươi phá ta Uẩn Thần Điện, ta cũng phá ngươi Uẩn Thần Điện.  
-Lại nhìn là ai không có thể làm!  
-Chẳng lẽ bắc nha môn không danh bổ? Chẳng lẽ triều chính không năng thần?  
-"Tâm tư của người này đúng là không có cách nào đoán." Đại Tề hoàng hậu lắc lắc đầu: "Coi như hắn cùng quốc chủ nước Trang, thật có thù không đợi trời chung, không thể quay lại. Cần gì phải nóng lòng lúc này? Ngày nào đó ta Đại Tề ngựa đạp Thiên Kinh, chỉ là Trang quốc còn không phải truyền chiếu có thể diệt?"  
-bản cung là thấy nhiều." (đọc tại Qidian-VP.com)  
-Bên trong Uẩn Thần Điện của Trọng Huyền Tuân, còn cất giấu cái gì?  
-Đại Tề thái tử ngũ quan ngày thường chất phác tự nhiên, hoàn toàn không có kế thừa đến Hoàng Đế Hoàng Hậu dung mạo điểm ưu tú, chậm rãi rơi kéo, lại lặp lại nói: "Thời điểm hắn Động Chân, chính là thời điểm hắn đi g·i·ế·t Trang Cao Tiện."  
-Như thế nào Thiên Sắc Vũ Linh?  
-Nhu thuận thái tử phi tiếp tục lấy chủ đề: "Võ An Hầu nếu là đem cá nhân cừu hận thấy nặng như vậy, lấn tại gia quốc. Cái kia rời đi ta Đại Tề cũng là một chuyện tốt. Không phải vậy lấy thân phận của hắn, không tội mà tự tiện g·i·ế·t nước khác chính sóc quốc chủ, chúng ta chẳng phải là để người mượn cớ? Cảnh quốc bọn hắn có thể tìm được cớ rồi!"  
-Cung điện trên trời chuyển vị, là thần cung đổi chủ.  
-Đại Tề hoàng hậu nhất thời nghẹn lại.  
-Hắn thật có thể trước Trọng Huyền Tuân một bước, đánh tan Uẩn Thần Điện của Trọng Huyền Tuân?  
-Lúc này Khương Vọng tung hành bên trong lôi điện, sương trắng khoác trên vai sau mở ra, Nhất Kiếm Hoành Mi.  
-Đạo đồ sát kiếm, cán chùm sao Bắc Đẩu chỉ bắc, Thiên Hạ Đều Đông!  
-Thời thế hiện nay thế hệ trẻ tuổi quân công thứ nhất thanh niên sinh tử đi ở, tác động lòng của quá nhiều người.  
-Quân cờ màu đen loạn bên trong có thứ tự, kết thành trận thế, lặp đi lặp lại xung kích.  
-Chương 8: Quát tháo hoàn vũ, há lại không khe hiểm  
-Thiên Sắc Vũ Linh Tướng của Trọng Huyền Tuân, bị cưỡng ép đẩy ra thế giới thần hồn, bị ngăn trở tại Triêu Thiên Khuyết phía trước, lần nữa cùng Lục D·ụ·c Bồ Tát đứng dưới cửa giằng co.  
-"Ngài có thể không hiểu rõ Võ An Hầu, nhưng không nên không hiểu rõ Thiên Tử." Khương Vô Hoa không có gì gợn sóng mà nói: "Xem ra mẫu hậu vẫn là đối Võ An Hầu khởi động lại Lôi quý phi án một chuyện, canh cánh trong lòng."  
-"Đơn giản là chút tràng bọ ngựa bắt ve, chim sẻ núp đằng sau sự tình. Tra cứu kỹ càng, Trang đình cùng Bạch Cốt đạo thật đúng là phân không ra cái ngươi ta. Chỉ là không có chứng cứ, người nào cũng không thể nói cái gì." Khương Vô Hoa nhàn nhạt mà nói: "Ở trong có lẽ còn có chút khác ẩn tình, nhưng Võ An Hầu chưa hề công khai đề cập, chúng ta cũng chỉ có thể suy đoán."  
-Trọng Huyền Tuân bên trong Thái Dương thần cung, nhìn thấy bầu trời tuyết bay, ánh kiếm che giấu ánh nắng ánh chớp tất cả ánh sáng. (đọc tại Qidian-VP.com)  
-Mà tại trong rừng rậm ánh chớp ngang dọc khuấy động, quốc hầu áo trắng như tuyết, tự mình hướng chỗ cao, mặt nghênh cái kia áo xanh Kiếm Tiên Nhân rơi từ chín tầng trời.  
-Tấm kia phức tạp như biển sao trong bàn cờ, dĩ nhiên quân cờ màu đen gần như vô hạn, không ngừng tăng thêm. Cái kia vẻn vẹn có hai viên quân cờ màu vàng ròng, thực sự tại liên tục không ngừng thần hồn bổ sung phía dưới, không ngừng bành trướng, gấp trăm lần nghìn lần khuếch trương thể tích, phút chốc như núi cao biển rộng.  
-Mạnh như Hàn Lệnh, cũng cảm thấy đinh tai nhức óc. Bên trong tầm mắt tại nào đó một thoáng cũng chỉ có ánh sáng trắng lóa hừng hực!  
-Nàng hiện tại ngược lại là thừa nhận Khương Vọng là thật tâm chào từ giã, mà không phải lấy lui làm tiến, mang công mời thưởng.  
-Khương Vọng phải chăng mang công xin thưởng hoặc là có thể thương thảo, nhưng bây giờ Đại Tề thiên tử, tuyệt đối không phải một cái Đế Quân có thể bị cưỡng ép bức bách.  
-Tống Ninh Nhi không quá chú ý những thứ này, cũng không biết Khương Vọng như thế nào hận Trang Cao Tiện đến nước này, không tiếc vứt bỏ xuống như thế cao vị, cũng muốn hướng mà g·i·ế·t.  
-Nàng chỉ cảm thấy là Khương Vọng sai.  
-"Hắn đã từng gây trở ngại con đường của điện hạ, còn. . ." Thái tử phi nhu thuận nhìn thoáng qua đình ấm: "Theo chúng ta mẫu hậu đối nghịch."  
-Nàng mặc dù chán ghét Khương Vọng, nhưng cũng không thể không thừa nhận. Trừ Khương Vọng, ai còn sẽ vì đã không giá trị có thể nói Lâm thị bé gái mồ côi đòi công đạo? Ai dám trực diện nàng cái này Đại Tề hoàng hậu, đi vì đã c·h·ế·t đi nhiều năm Lâm Huống khôi phục danh dự?  
-Quân cờ màu vàng ròng cao chót vót nhưng bất động, vĩnh hằng bất hủ.  
-"Khương Vọng muốn đi g·iết Trang Cao Tiện." Bên trong cung Trường Nhạc, Khương Vô Hoa ngay tại tu bổ một chậu Khúc Ý Mai, bỗng nhiên nói như vậy.  
-Chính là cái này một ngăn, Khương Vọng lui bước quay người, cầm trong tay giơ cao Triêu Thiên Khuyết lại dựng đứng, lập thành một tấm bia, lập thành một tòa cổng chào. Phản trấn tự thân!  
-Tại song phương ánh mắt đều đang chém g·i·ế·t lẫn nhau lúc này, lấy kiếm thay mắt, thế đầy mùa thu này.  
-Trung Sơn quốc lần kia lâm thời nảy lòng tham luận bàn, chỉ có thể coi là đùa giỡn, cũng không thể nghiệm ra chất lượng.  
-Cái này là năm đó phạt Hạ chiến tranh lúc bắt đầu, tại trên điểm tướng đài vô cùng sống động mà không thể ra hết một kiếm kia.  
-Đã từng chưa gặp gỡ.  
-Oanh!  
-Khương Vô Hoa chỉ cười như không cười nhìn xem nàng: "Chứng cứ tự nhiên là không có, bất quá nhi thần muốn hỏi, mẫu hậu ngài là tin Khương Vọng, vẫn là tin cái kia Trang Cao Tiện đâu?"  
-"Gây trở ngại đường của cô lại có làm sao? Đi theo con đường của cô, bao quát hoàn vũ, há lại không núi cao hiểm khe? Cô lượn quanh một chút, lại đi về phía trước là được. Mặt khác. . ." Khương Vô Hoa quay đầu nhìn xem nàng, ngữ khí ôn nhu: "Hắn từ chưa theo mẫu hậu đối nghịch qua. Ninh nhi về nhà mẹ đẻ cũng không nên nói loạn."  
-Mà có mắt lạnh như sao, chém vọng thấy ta. Nhìn thấy Khương Vọng đạp cửa ra một khe hở khoảng trống chưa được lấp đầy.  
-Khương Vô Hoa cười: "Mẫu hậu a, nhi thần cũng không biết có thể chờ hay không đến ngày đó đây. . . Đoán chừng Võ An Hầu là đợi không được đi."  
-Tống Ninh Nhi thanh tú động lòng người mà nhìn xem hắn: "Đây cũng là điện hạ nghĩ muốn thần sao?"  
-Đưa tay đẩy, nhanh chân nhảy tới!  
-Đại Tề hoàng hậu trên mặt không vui không buồn, chỉ là đem thìa ngọc thả trở về, bỗng nhiên ở giữa không còn muốn ăn.  
-Hắn cảm thấy một loại đã lâu hưng phấn, kia là ngàn đời say cũng vô pháp mang tới liệt ý, làm hắn không khỏi một bước đi ra Thái Dương thần cung, dùng phương thức trực diện nguy hiểm, chân chính cảm thụ một kiếm này lúc trước thắp sáng Dân Tây hành lang.  
-Bất Chu Phong làm quán triệt thiên ý chi sát, hơi xoay tại trên mũi kiếm sáng như tuyết.  
-Tại bên trong biển nguyên thần của Khương Vọng, đầu ngẩng cao triền tinh chi long nhảy lên một cái, ngao du biển sao, giương nanh múa vuốt. Trong mắt rồng, hai đạo ánh sáng vàng như trụ, tại chỗ đánh lên g·i·ế·t vào nơi này Thiên Sắc Vũ Linh Tướng, đem Trọng Huyền Tuân tức muốn trải rộng ra lăng lệ thế công cản trở một chút.  
-Nàng dừng một chút, đột nhiên ngước mắt: "Chẳng lẽ đây là lý do hắn chào từ giã?"  
-Mà Trọng Huyền Tuân lại tại cái này sinh tử quyết đấu thời khắc, hoàn toàn vứt bỏ chính mình sân nhà, g·i·ế·t tiến vào bên trong thế giới thần hồn của Khương Vọng.  
-Tống Ninh Nhi suy nghĩ một chút, lại nói: "Nếu như Võ An Hầu lần này còn sống rời đi, điện hạ lại đối phó hắn sao?"  
-----  
-Hắn không thấy Trường Tương Tư sắc bén đã bao lâu?  
-"Chí ít. . ." Khương Vô Hoa chậm rãi mà nói: "Đây là lý do Thiên Tử không tại chỗ g·i·ế·t hắn."  
-Ta tự đẩy Thiên Môn, từ nông đến sâu!  
-Thần hồn tranh giành dĩ nhiên thay đổi trong nháy mắt, thường thường một ý niệm giao thủ trăm ngàn hiệp. Nhưng hai người bọn họ kia công ta phạt, cũng là chậm chạp phân không ra kết quả.  
-Ngày xưa đấu tại vạn quân, hôm nay còn trước mặt vua nhật luân.  
-Không gì sánh kịp, sảng khoái tràn trề.  
-Thế này cảnh này, luận võ duy nhất, này cũng thiên mệnh!  
-Chiến trường tại thế giới thần hồn, tại ánh mắt của bọn hắn, cũng tại Đắc Lộc Cung này.  
-"Hắn dám?" Đông quốc thái tử tự tay nấu canh tươi ngon vô cùng, âm thanh của Đại Tề hoàng hậu lại rất đạm mạc: "Trang Cao Tiện chính là chính sóc quốc chủ, chịu sắc thừa vị, há có thể không tội mà g·i·ế·t? Tùy tiện đối Trang Cao Tiện động thủ, là khiêu chiến quốc gia thể chế, khiêu chiến hiện thế căn cơ. Thiên Tử quyết không cho phép, bản cung quyết không cho phép. Nếu có việc này, thiên hạ tru diệt, Tề quốc cũng thế!"  
-Thần hồn sát thuật Động Kim Thác!  
-Dạng này đánh cược lên không được.  
-"Thiên hạ là thiên hạ của Thiên Tử, cô cũng là thần của Thiên Tử." Khương Vô Hoa biểu tình hơi nghiêm túc: "Cô không muốn, cũng không cần bất luận kẻ nào, làm thần của cung Trường Nhạc." (đọc tại Qidian-VP.com)  
-Tống Ninh Nhi thè lưỡi: "Ôi, ta đầu óc đần, gần nhất không về nhà mẹ đẻ là được."  
-Lúc này nện mạnh đầu lâu!  
-Tống Ninh Nhi con mắt đi lòng vòng, sinh ra một điểm hiếu kỳ: "Điện hạ nói Võ An Hầu Động Chân liền biết đi g·i·ế·t Trang Cao Tiện, chẳng lẽ hắn hiện tại liền đã có thể Động Chân?"  
+Chương 8: Quát tháo hoàn vũ, há lại không khe hiểm
+
+"Khương Vọng muốn đi g·i·ế·t Trang Cao Tiện." Bên trong cung Trường Nhạc, Khương Vô Hoa đang tu bổ một chậu Khúc Ý Mai, bỗng nhiên nói như vậy.
+
+Khúc Ý Mai cành hoa uyển chuyển, lại có thể chịu lạnh buốt giá, nở giữa mùa thu, tàn lụi vào đông chí, nên lấy "Khúc ý" đặt tên. Tuy là loại hoa quý, nhưng xưa nay không được giới danh sĩ ưa thích, bị coi là thấp kém. Bất quá trong vườn của Khương Vô Hoa trăm hoa đua nở, ngược lại loại hoa nào cũng có.
+
+Trong vườn hoa không có một nô bộc nào.
+
+Chỉ có thái tử phi Tống Ninh Nhi ở một bên nửa ngồi xổm trên mặt đất, nâng bình tưới hoa, cùng với Đại Tề hoàng hậu ngồi trong đình ấm, lấy thìa ngọc miệng nhỏ uống canh.
+
+Thời thế hiện nay, sự sống còn của thanh niên tuấn kiệt đứng đầu lập công của thế hệ trẻ tuổi, tác động đến lòng của quá nhiều người.
+
+Hôm nay Tề quốc, không biết có bao nhiêu người đang chờ đợi kết quả ở Đắc Lộc Cung.
+
+Hoàng hậu, thái tử, thái tử phi trong khu vườn yên tĩnh này, cũng chỉ là một trong số đó.
+
+Đại Tề thái tử ngũ quan ngày thường chất phác tự nhiên, hoàn toàn không kế thừa được điểm ưu tú dung mạo của Hoàng Đế và Hoàng Hậu, chậm rãi lặp lại: "Thời điểm hắn Động Chân, chính là thời điểm hắn đi g·i·ế·t Trang Cao Tiện."
+
+"Hắn dám?" Đông quốc thái tử tự tay nấu canh tươi ngon vô cùng, âm thanh của Đại Tề hoàng hậu lại rất đạm mạc: "Trang Cao Tiện là chính sóc quốc chủ, chịu sắc thừa vị, há có thể vô tội mà g·i·ế·t? Tùy tiện động thủ với Trang Cao Tiện, là khiêu chiến thể chế quốc gia, khiêu chiến căn cơ hiện thế. Thiên Tử quyết không cho phép, bản cung quyết không cho phép. Nếu có việc này, thiên hạ tru diệt, Tề quốc cũng vậy!"
+
+Khương Vô Hoa nghiêm túc nhìn cành mai trong tay: "Mẫu hậu thật cho rằng, hắn hôm nay cáo từ, chỉ là lấy tiến làm lùi, hướng thiên tử yêu cầu thêm sao?"
+
+Ý tứ của hắn hết sức rõ ràng ---- Khương Vọng đã cáo từ, còn có gì không dám?
+
+Khương Vọng lần này nếu thành công rời Tề, nhất cử nhất động của hắn đều chỉ đại biểu cho chính mình, rốt cuộc không đại biểu cho Tề quốc. Hắn làm chuyện gì, khiêu chiến thể chế quốc gia cũng tốt, khiêu chiến trật tự hiện thế cũng được, đều là chính hắn gánh trách nhiệm, không liên lụy đến nước Tề. Vậy thì Đại Tề thiên tử cũng tốt, Đại Tề hoàng hậu cũng tốt, có lý do gì "Quyết không cho phép"? Cùng lắm cũng chỉ là "Nếu có việc này, thiên hạ tru diệt" như nước khác, sau đó bắt g·i·ế·t thôi.
+
+Nhưng Hoàng Hậu chỉ hơi nhíu mày, nàng không cảm thấy Khương Vọng thật sự muốn đi: "Cậy sủng mà kiêu ngạo, mang công mời thưởng, loại người này, các triều đại không thiếu, bản cung thấy nhiều rồi."
+
+"Ngài có thể không hiểu rõ Võ An Hầu, nhưng không nên không hiểu rõ Thiên Tử." Khương Vô Hoa không chút gợn sóng nói: "Xem ra mẫu hậu vẫn còn canh cánh trong lòng về việc Võ An Hầu khởi động lại vụ Lôi quý phi."
+
+Khương Vọng có phải mang công xin thưởng hay không còn có thể thương thảo, nhưng Đại Tề thiên tử bây giờ, tuyệt đối không phải là một vị Đế Quân có thể bị cưỡng ép bức bách.
+
+Đại Tề hoàng hậu trên mặt không vui không buồn, chỉ đặt thìa ngọc trở lại, bỗng nhiên không còn muốn ăn.
+
+Chuyện kia đã qua rất lâu, nhưng giữa mẹ con vẫn là lần đầu tiên chính thức trò chuyện. Nàng không nguyện ý thừa nhận, năm đó nàng đưa ra lựa chọn, khiến Khương Vô Hoa từ trước đến nay điệu thấp, hận không thể bị tất cả mọi người lãng quên, trước giờ bước vào Thần Lâm.
+
+Nàng chỉ cảm thấy Khương Vọng sai.
+
+Chỉ là ngoại thần, quá khinh thường hoàng gia, tự cho là đúng!
+
+Chẳng lẽ Bắc nha môn không có người tài? Chẳng lẽ triều chính không có năng thần?
+
+Dưới gầm trời này người thông minh còn nhiều lắm, hết lần này tới lần khác hắn Khương Vọng, sự tình đã qua nhiều năm như vậy, sớm đã kết thúc, phải lật lại, quấy đến bụi bay mù trời, nhơ nhuốc một mảnh!
+
+Thái tử phi Tống Ninh Nhi ở bên cạnh, nghe nửa ngày, lúc này nghiêng đầu lại, nhỏ giọng nói: "Võ An Hầu cùng quốc chủ nước Trang lại có đại thù đến thế, một ngày cũng đợi không được sao? Ta ngược lại chỉ đọc qua hai thiên 'Mười năm lời buồn' (Thập niên bi ngữ) còn cho là bọn họ nên có chung mối thù."
+
+Nàng nói tất nhiên là bài văn chương truyền hịch thiên hạ xoắn g·i·ế·t Vô Sinh giáo (Vô Sinh giáo) của Khương Vọng trước đó, cùng tế văn Phong Lâm Sinh Linh Bi (Phong Lâm Sinh Linh Bi) do Trang Cao Tiện khắc.
+
+Dưới sự thêm dầu vào lửa của người có tâm, hai thiên văn chương đồng thời xuất hiện, khiến Trang Cao Tiện quân chủ nước Trang và Khương Vọng xuất thân Trang quốc trăm sông đổ về một biển, cùng báo quốc thù, từng được truyền thành giai thoại.
+
+Quốc tướng nước Trang là Đỗ Như Hối (Đỗ Như Hối) khi đó còn tỏ vẻ thông cảm với việc Khương Vọng rời nước, nói "Nam nhi tốt công thành không cần tại cố thổ, đại trượng phu dương danh tự mình có thể tại tha hương", rất khiến người cảm động. Câu nói này đến nay vẫn có người nói chuyện say sưa, được coi là điển hình cho quân thần đại tranh thế gian chim khôn lựa cành. Độ lượng của minh quân hiền tướng, thể hiện hết ở đây.
+
+Tống Ninh Nhi không quá chú ý những thứ này, cũng không biết Khương Vọng hận Trang Cao Tiện đến mức nào, không tiếc vứt bỏ vị trí cao như vậy, cũng muốn đi g·i·ế·t.
+
+"Đơn giản chỉ là chút chuyện tràng bọ ngựa bắt ve, chim sẻ núp đằng sau. Tra cứu kỹ càng, Trang đình cùng Bạch Cốt đạo (Bạch Cốt đạo) thật đúng là không phân biệt được ngươi ta. Chỉ là không có chứng cứ, ai cũng không thể nói gì." Khương Vô Hoa nhàn nhạt nói: "Trong đó có lẽ còn có chút ẩn tình khác, nhưng Võ An Hầu chưa từng công khai đề cập, chúng ta cũng chỉ có thể suy đoán."
+
+Đại Tề hoàng hậu nói: "Không có chứng cứ, vậy chẳng phải mỗi người một ý? Ta cũng chưa thấy nước Trang phụ hắn Khương Vọng. Hôm nay ta Đại Tề đối đãi hắn tốt như vậy, hắn nói đi là đi, ngày nào đó binh qua đảo ngược, đúng sai biết cùng ai nói?"
+
+Nàng hiện tại ngược lại thừa nhận Khương Vọng thật tâm cáo từ, chứ không phải lấy lui làm tiến, mang công mời thưởng.
+
+Khương Vô Hoa chỉ cười như không cười nhìn nàng: "Chứng cứ tự nhiên là không có, bất quá nhi thần muốn hỏi, mẫu hậu ngài tin Khương Vọng, hay là tin Trang Cao Tiện kia?"
+
+Đại Tề hoàng hậu nhất thời nghẹn lại.
+
+Nàng tuy chán ghét Khương Vọng, nhưng không thể không thừa nhận. Trừ Khương Vọng, ai còn vì bé gái mồ côi họ Lâm (Lâm thị) đã không còn giá trị mà đòi công đạo? Ai dám trực diện nàng, Đại Tề hoàng hậu này, để khôi phục danh dự cho Lâm Huống (Lâm Huống) đã c·h·ế·t nhiều năm?
+
+Sau khi Khương Vô Khí (Khương Vô Khí) c·h·ế·t, cung Trường Sinh (Trường Sinh cung) một đêm vắng lặng, cây đổ bầy khỉ tan. Ai còn để ý đến tính mệnh của một Công Tôn Ngu (Công Tôn Ngu) nhỏ bé bên cạnh Khương Vô Khí, dám muốn Đại Tề hoàng hậu này phải trả giá cho cái c·h·ế·t?
+
+Người này đối diện thì thật đáng ghét, nhưng nếu bỏ qua lập trường, đúng là người đáng tin.
+
+"Tâm tư của người này đúng là không thể đoán được." Đại Tề hoàng hậu lắc đầu: "Coi như hắn cùng quốc chủ nước Trang thật có thù không đội trời chung, không thể quay lại. Cần gì phải nóng lòng lúc này? Ngày nào đó ta Đại Tề vó ngựa đạp Thiên Kinh, chẳng phải là Trang quốc chỉ cần truyền chiếu là có thể diệt?"
+
+Khương Vô Hoa cười: "Mẫu hậu à, nhi thần không biết có thể chờ đến ngày đó hay không. . . Đoán chừng Võ An Hầu là không đợi được đâu."
+
+Đại Tề hoàng hậu nghiêm nghị nhìn hắn: "Phụ hoàng ngươi anh minh thần võ, nhất định có thể tiêu trừ cục diện hỗn loạn, khiến thiên hạ yên ổn. Con ta có vĩ lược trong ngực, sao lại không thể vó ngựa đạp Thiên Kinh?"
+
+Khương Vô Hoa cười tủm tỉm nói: "Phụ hoàng đương nhiên là anh minh, nhi thần thì chưa chắc thần võ. Những lời này đóng cửa lại nói thì được, mẫu hậu không cần thiết tự mình cho là thật."
+
+Đại Tề hoàng hậu phẩy tay áo, tức giận đến không thể mở miệng, có ý tiếc rèn sắt không thành thép.
+
+Thái tử phi nhu thuận tiếp tục chủ đề: "Võ An Hầu nếu coi trọng cừu hận cá nhân như vậy, lấn át cả gia quốc, thì việc rời khỏi Đại Tề cũng là một chuyện tốt. Nếu không với thân phận của hắn, vô tội mà tự tiện g·i·ế·t chính sóc quốc chủ nước khác, chẳng phải chúng ta sẽ bị người ta mượn cớ? Cảnh quốc bọn họ có thể tìm được cớ rồi!"
+
+Nàng dừng một chút, đột nhiên ngước mắt: "Chẳng lẽ đây là lý do hắn cáo từ?"
+
+"Ít nhất. . ." Khương Vô Hoa chậm rãi nói: "Đây là lý do Thiên Tử không g·i·ế·t hắn tại chỗ."
+
+Tống Ninh Nhi con mắt đảo quanh, sinh ra một chút hiếu kỳ: "Điện hạ nói Võ An Hầu Động Chân liền biết đi g·i·ế·t Trang Cao Tiện, chẳng lẽ hắn hiện tại đã có thể Động Chân?"
+
+"Tuyệt đối không thể." Khương Vô Hoa yên lặng nói: "Từ xưa đến nay, người thành tựu Động Chân nhanh nhất là Thái Ngu chân nhân Lý Nhất (Lý Nhất), tuổi chân chính Động Chân cũng đã 26. Khương Vọng năm nay mới 22. Dù nói lịch sử ghi chép là để phá vỡ, nhưng bọn họ cùng thời đại, ta trước mắt không thấy lý do Khương Vọng tu hành mạnh hơn Lý Nhất."
+
+"Vậy thì ta không hiểu." Tống Ninh Nhi nhất thời quên tưới nước: "Nếu nhất định phải đi, Võ An Hầu vì sao không đợi đến khi thành tựu Động Chân rồi rời Tề quốc? Với thiên tư hắn thể hiện, dù hơi trái bản tâm, Động Chân ở đây cũng không khó. Hiện tại liền rời Đại Tề, con đường phía trước khó dò, mưa gió lung lay, sao mà hung hiểm?"
+
+Khương Vô Hoa dừng động tác cắt hoa trong tay, ngẩn người nhìn phía trước một hồi, rồi nói: "Đây là lòng thành của hắn đối với thiên tử."
+
+Tống Ninh Nhi thanh tú động lòng người nhìn hắn: "Đây cũng là điều điện hạ muốn sao?"
+
+"Thiên hạ là thiên hạ của Thiên Tử, cô cũng là thần của Thiên Tử." Khương Vô Hoa biểu tình hơi nghiêm túc: "Cô không muốn, cũng không cần bất luận kẻ nào, làm thần của cung Trường Nhạc."
+
+Tống Ninh Nhi suy nghĩ một chút, rồi nói: "Nếu Võ An Hầu lần này còn sống rời đi, điện hạ sẽ đối phó hắn chứ?"
+
+Khương Vô Hoa nhịn không được cười lên: "Cô vì sao phải đối phó hắn?"
+
+"Hắn từng cản trở con đường của điện hạ, còn. . ." Thái tử phi nhu thuận liếc nhìn đình ấm: "Đối nghịch với mẫu hậu chúng ta."
+
+"Cản trở đường của cô thì sao? Trên con đường của cô, bao quát cả hoàn vũ, há lại không có núi cao khe hiểm? Cô vòng một chút, rồi lại đi về phía trước là được. Mặt khác. . ." Khương Vô Hoa quay đầu nhìn nàng, ngữ khí ôn nhu: "Hắn chưa từng đối nghịch với mẫu hậu. Ninh nhi về nhà mẹ đẻ cũng không nên nói loạn."
+
+Tống Ninh Nhi lè lưỡi: "Ôi, ta đầu óc đần, gần đây không về nhà mẹ đẻ là được."
+
+----
+----
+
+Ngày xưa đấu tại vạn quân, hôm nay còn trước mặt vua nhật luân.
+
+Hỏi ngươi làm thế nào trả?
+
+Lúc này nện mạnh đầu lâu!
+
+Ví như Nhật Luân nện trán người, đập không chỉ là trán.
+
+Khương Vọng lấy Triêu Thiên Khuyết (Triêu Thiên Khuyết) làm binh khí, muốn đánh sụp, càng là Trọng Huyền Tuân (Trọng Huyền Tuân) đối với sự chưởng khống thế giới thần hồn của chính mình.
+
+Cung điện trên trời chuyển vị, là thần cung đổi chủ.
+
+Cánh cửa đá cổ xưa chí tôn chí quý kia, như thành vòm trời cụ tượng, không thể né tránh, không thể ngăn cản. Mà đao của Trọng Huyền Tuân, còn bị Khương Vọng lấy Lục Dục Phật Chưởng (Lục Dục Phật Chưởng) bắt được.
+
+Trong thời khắc mấu chốt này, Trọng Huyền Tuân trực tiếp buông tay vứt đao. Mặc cho đao linh thức kia bị bóp thành khói xanh trong lòng bàn tay Khương Vọng, còn hắn đột nhiên nhảy ngang, lấy góc độ xảo trá đến cực điểm, thoát ly tầm mắt Lục Dục Bồ Tát, song song với bầu trời và cánh cửa đá cổ xưa kia.
+
+Mà có mắt lạnh như sao, chém vọng thấy ta. Nhìn thấy Khương Vọng đạp cửa ra một khe hở chưa được lấp đầy.
+
+Đưa tay đẩy, nhanh chân nhảy tới!
+
+Dù cung điện trên trời trấn thần cung, dù chém vào ta bốn biển.
+
+Ta tự đẩy Thiên Môn, từ nông đến sâu!
+
+Một bước này thật sự kinh tuyệt!
+
+Như thế nào Thiên Sắc Vũ Linh (Thiên Sắc Vũ Linh)?
+
+Thế này cảnh này, luận võ duy nhất, đây cũng là thiên mệnh!
+
+Là linh thức sát pháp có khả năng phát huy ưu thế sân nhà nhất.
+
+Mà Trọng Huyền Tuân lại trong thời khắc quyết đấu sinh tử này, hoàn toàn vứt bỏ sân nhà của mình, g·i·ế·t tiến vào thế giới thần hồn của Khương Vọng.
+
+Ngươi phá Uẩn Thần Điện (Uẩn Thần Điện) của ta, ta cũng phá Uẩn Thần Điện của ngươi.
+
+Xem ai không thể làm!
+
+Uẩn Thần Điện của Trọng Huyền Tuân cao rộng, còn chiếu sáng rạng rỡ trong biển sao.
+
+Nhưng bên ngoài Uẩn Thần Điện đã trống rỗng, không còn chút ngăn trở. Cánh cửa mở rộng, chờ Khương Vọng tay cầm Triêu Thiên Khuyết đi phá hủy.
+
+Nhưng hắn thật có thể cùng Trọng Huyền Tuân dùng cái này đánh cược sao?
+
+Hắn thật có thể trước Trọng Huyền Tuân một bước, đánh tan Uẩn Thần Điện của Trọng Huyền Tuân?
+
+Bên trong Uẩn Thần Điện của Trọng Huyền Tuân, còn cất giấu cái gì?
+
+Đối mặt đối thủ như Trọng Huyền Tuân, không có nắm chắc, chẳng khác nào thua.
+
+Không thể đánh cược như vậy.
+
+Trong biển nguyên thần của Khương Vọng, đầu ngẩng cao triền tinh chi long nhảy lên một cái, ngao du biển sao, giương nanh múa vuốt. Trong mắt rồng, hai đạo ánh sáng vàng như trụ, đánh lên Thiên Sắc Vũ Linh Tướng (Thiên Sắc Vũ Linh Tướng) đang g·i·ế·t vào nơi đây, cản trở một chút thế công lăng lệ muốn trải rộng ra của Trọng Huyền Tuân.
+
+Thần hồn sát thuật Động Kim Thác (Động Kim Thác)!
+
+Chính là một ngăn này, Khương Vọng lùi bước quay người, giơ cao Triêu Thiên Khuyết dựng đứng, lập thành một tấm bia, lập thành một tòa cổng chào. Phản trấn tự thân!
+
+Oanh!
+
+Thiên Sắc Vũ Linh Tướng của Trọng Huyền Tuân, bị cưỡng ép đẩy ra khỏi thế giới thần hồn, bị ngăn trở trước Triêu Thiên Khuyết, lần nữa cùng Lục Dục Bồ Tát giằng co dưới cửa.
+
+Khương Vọng thật sự đem hết toàn lực, ngay từ đầu chiến đấu đã muốn đẩy đến chung cuộc. Nhưng Trọng Huyền Tuân sao để hắn toại nguyện?
+
+Tranh giành thần hồn thay đổi trong nháy mắt, thường thường một ý niệm giao thủ trăm ngàn hiệp. Nhưng hai người ngươi công ta phạt, vẫn chưa phân ra kết quả.
+
+Mà với những người khác, đồng thuật dây dưa cũng sau khi Khương Vọng nhóm lửa Tam muội thần hỏa (Tam muội thần hỏa), tiến vào một giai đoạn hoàn toàn mới.
+
+Trong bàn cờ phức tạp như biển sao, quân cờ màu đen gần như vô hạn, không ngừng tăng thêm. Hai quân cờ màu vàng ròng kia, dưới sự bổ sung thần hồn liên tục không ngừng, không ngừng phình to, gấp trăm lần nghìn lần thể tích, chốc lát như núi cao biển rộng.
+
+Quân cờ màu đen loạn trong có thứ tự, kết thành trận thế, lặp đi lặp lại xung kích.
+
+Quân cờ màu vàng ròng cao chót vót nhưng bất động, vĩnh hằng bất hủ.
+
+Lúc thế giới thần hồn và đồng thuật rơi vào giằng co, Trọng Huyền Tuân lấy Thái Dương thần cung (Thái Dương thần cung) đi quanh biển lôi, cuối cùng đối mặt với kiếm của Khương Vọng!
+
+Hắn không thấy Trường Tương Tư (Trường Tương Tư) sắc bén đã bao lâu?
+
+Sau khi chiến tranh phạt Hạ kết thúc, hai bên trên chiến trường vương không thấy vương, không đồng thời ra tay, đừng nói là chính diện đối quyết.
+
+Lần luận bàn nảy lòng tham lâm thời ở Trung Sơn quốc, chỉ có thể coi là đùa giỡn, không thể nghiệm ra chất lượng.
+
+Lúc này Khương Vọng tung hoành trong lôi điện, sương trắng khoác trên vai sau mở ra, Nhất Kiếm Hoành Mi (Nhất Kiếm Hoành Mi).
+
+Lúc hai bên mắt chém g·i·ế·t lẫn nhau, lấy kiếm thay mắt, thế đầy mùa thu này.
+
+Trên cột sáng lôi điện tứ ngược toàn trường kia, bốn ngôi sao liên tiếp sáng lên, tinh lộ thuyền dài kết Bắc Đẩu, rồi một kiếm nghiêng!
+
+Đạo đồ sát kiếm, cán chùm sao Bắc Đẩu chỉ bắc, Thiên Hạ Đều Đông!
+
+Đây là năm đó lúc bắt đầu chiến tranh phạt Hạ, một kiếm sống động mà không thể hiện hết trên điểm tướng đài.
+
+Lần đầu tiên chuẩn bị vì Trọng Huyền Tuân vang lên, đến nay lại gặp gỡ!
+
+Bất Chu Phong (Bất Chu Phong) làm quán triệt thiên ý chi sát, hơi xoay trên mũi kiếm sáng như tuyết.
+
+Trọng Huyền Tuân trong Thái Dương thần cung, thấy tuyết bay, ánh kiếm che giấu ánh nắng ánh chớp tất cả ánh sáng.
+
+Hắn cảm thấy một loại hưng phấn đã lâu, một thứ liệt ý mà ngàn đời say cũng không thể mang tới, khiến hắn không khỏi bước ra khỏi Thái Dương thần cung, dùng phương thức trực diện nguy hiểm, thật sự cảm thụ một kiếm này đã thắp sáng hành lang Dân Tây (Dân Tây) lúc trước.
+
+Đây mới là chém g·i·ế·t!
+
+Không gì sánh kịp, sảng khoái tràn trề.
+
+Chiến trường ở thế giới thần hồn, trong ánh mắt của bọn họ, cũng ở Đắc Lộc Cung này.
+
+Hắn nghênh Khương Vọng mà đi, thể phách khủng bố thiên chuy bách luyện, trong lãnh ý trùng kích của thiên ý chi sát, có cảm giác đau như kim châm. Dưới tay áo lớn bồng bềnh, trong lòng bàn tay Tinh Luân, Nhật Luân, Nguyệt Luân, nối liền thành đao.
+
+Trong tầm mắt của Hàn Lệnh (Hàn Lệnh), hắn thấy ----
+
+Mắt của Trọng Huyền Tuân là một mảnh vàng ròng, mắt của Khương Vọng là đen kịt một màu, hai bên ánh mắt bị hai bên xâm chiếm, hai quốc hầu đều như người mù. Thần hồn của bọn họ gần như không có sóng chấn động, nhưng đã triệu tập tất cả lực lượng thần hồn, chém g·i·ế·t trong chiến trường thần hồn.
+
+Mà trong rừng rậm, ánh chớp ngang dọc khuấy động, quốc hầu áo trắng như tuyết, tự mình hướng chỗ cao, nghênh đón Kiếm Tiên Nhân áo xanh rơi từ chín tầng trời.
+
+Một đao kia đoạt hết nhân gian hào hoa phong nhã cùng một kiếm rủ xuống từ chín tầng trời.
+
+Chưa từng gặp gỡ.
+
+Gặp gỡ giờ khắc này, lại yên tĩnh như vậy.
+
+Oanh!
+
+Mạnh như Hàn Lệnh, cũng cảm thấy đinh tai nhức óc. Trong tầm mắt, trong khoảnh khắc chỉ còn ánh sáng trắng lóa hừng hực!

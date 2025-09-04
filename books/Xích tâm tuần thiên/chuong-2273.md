@@ -2,136 +2,271 @@
 
 ## Tóm tắt chương truyện
 
-Tóm tắt thất bại do giới hạn API (sẽ thử lại sau).
+Khương Vọng, với kinh nghiệm đối phó Hoàng Xá Lợi, nhận ra thời không bị đình trệ trên diện rộng, xuất phát từ một đại trận liên kết với trận hộ quốc của Việt quốc. Cậu không vội vã phản kháng, mà chờ đợi người đứng sau màn lộ diện và tung đòn sát thủ. Khương Vọng tin rằng bất kỳ hành động nào muốn g·iết cậu cũng sẽ tạo ra gợn sóng trong không gian tĩnh lặng này, để cậu phản công. Cậu tiếc nuối vì không thể liên lạc với Thái Hư Huyễn Cảnh để phá vỡ phong tỏa.
+
+Đột nhiên, một la bàn khổng lồ xuất hiện trên bầu trời, làm thay đổi không gian và thời gian. Khương Vọng cảm nhận được lực lượng thời không và coi đó như một cơ hội tu hành. Sau đó, cậu bị ném đến một hành lang mờ ảo trong lãnh thổ Việt quốc, với những nhà tù hai bên và minh văn trên tường. Cậu cảm thấy không gian này chật chội và thần thức bị giới hạn.
+
+Khương Vọng nhận ra nơi này không phải là tạo ra đặc biệt cho cậu. Cậu quan sát tỉ mỉ, xác nhận các minh văn có tác dụng đơn giản và đẩy cửa một phòng giam. Căn phòng trống trải nhưng vẫn còn vương lại "nhân khí". Những đường cong màu đen đột ngột xuất hiện trên tường, tạo thành một chiếc ghế kỳ lạ. Từ đó, một nữ quan thanh nhã hiện ra, chính là Nhậm Thu Ly - người đứng đầu về năng lực tính toán của Nam Đẩu Điện (Nam Dou Palace).
+
+Khương Vọng biết Nhậm Thu Ly không thực sự ở đó. Cậu hỏi về Đấu Chiêu (Dou Zhao), người đã mất tích ở Vẫn Tiên Lâm (Fallen Immortal Forest), và mỉa mai: "Xem ra nàng cũng không có tìm được các ngươi." Nhậm Thu Ly đáp rằng Vẫn Tiên Lâm hiểm trở và Đấu thị (Dou Family) đang bận rộn nên Tống Bồ Đề (Song Puti) không thể tập trung vào việc tìm kiếm.
+
+Khương Vọng hỏi thẳng: "Đấu Chiêu thật c·hết sao?" Nhậm Thu Ly ngạc nhiên vì cậu quan tâm đến Đấu Chiêu hơn là bản thân. Khương Vọng đáp trả rằng đối thủ của cậu là Nhậm Thu Ly, một sự "khinh miệt" lớn. Cậu biết Nhậm Thu Ly từng bị thương nặng và khó có thể tiến xa hơn trong tu luyện.
+
+Khương Vọng bình tĩnh nói: "Ngươi sợ hãi Lục Sương Hà (Luc Suong Ha) sẽ c·hết trong tay ta. Ngươi biết nếu như ngươi không làm chút gì, hắn liền biết c·hết trong tay ta." Nhậm Thu Ly không giận, mà chỉ lạnh nhạt đáp: "Ngươi sớm biết đối thủ là ta?" Khương Vọng lắc đầu, nhưng giờ thì thấy mọi chuyện đều hợp lý. Cậu nhận xét: "Ngươi sợ hãi."
+
+Nhậm Thu Ly phản bác rằng Nam Đẩu Điện ủng hộ Việt quốc và 【Kính Hồ】(Jing Hu) được Trường Sinh Quân (Truong Sinh Quan) và Việt Thái Tông (Viet Thai Tong) giao dịch. Cô hỏi tại sao Khương Vọng lại không nghĩ đến cô khi bước chân vào ván cờ ở Việt quốc. Khương Vọng tán thưởng: "Nguyên lai nơi này chính là Kính Hồ!"
+
+Nhậm Thu Ly giải thích 【Kính Hồ】 (Jing Hu) là động thiên bảo cụ (Dongtian Treasure) trấn áp quốc thế, ngăn cách nhân quả. Nó cũng là một vật chứa hoàn hảo cho "Thời Không Kính Hà Thiên Cơ Trận" (Shi Kong Jing He Tian Ji Tran), giúp cô tách Khương Vọng khỏi thời không tĩnh lặng, ngăn cách nhân quả và làm rối loạn thời gian. Nhờ vậy, cô có đủ thời gian để tính toán và giành lợi thế.
+
+Khương Vọng đáp: "Bởi vì Lục Sương Hà nói qua phải chờ ta đi đến chính ta tán thành cực hạn, lại đi tìm hắn. Nếu ta không có đi đến một bước kia, với hắn mà nói liền không có ý nghĩa." Cậu tin Lục Sương Hà sẽ không ra tay trước, nên không nghĩ đến Nhậm Thu Ly. Nhậm Thu Ly trầm mặc rồi nói: "Nghĩ không ra trên thế giới này, ngươi mới là người kia càng tin tưởng hắn!"
 
 ## Toàn bộ chương
 
-[Dịch thuật thất bại do giới hạn API]
-
 ## Chương 77: Kính Hồ La Bàn
 
-  
-Hắn trầm mặc ở đây, không nỗ lực đối kháng thời không áp chế, không vẻn vẹn tốn lực.  
-Hắn chưa từng có thực sự được gặp nữ nhân này, nhưng ở thấy được nàng đầu tiên nhìn, liền biết nàng là ai.  
-Khương chân nhân cũng không có cái gì gợn sóng, tiện tay đẩy ra bên cạnh cửa phòng.  
-Hắn có thể một mực như thế di động đi xuống, cho đến hắn hiểu thấu đáo thời không huyền bí, chính mình tìm được đường về, đáng tiếc người âm thầm khống cục chẳng phải quan tâm, rất "Thô lỗ " đem hắn ném ra.  
-Khương Vọng bình tĩnh mà nói: "Ngươi sợ hãi Lục Sương Hà sẽ c·hết trong tay ta. Ngươi biết nếu như ngươi không làm chút gì, hắn liền biết c·hết trong tay ta."  
-Thiên hạ quan lại nam giả, Nam Đấu Điện vậy!  
-Tại đỉnh hành lang hơi mờ, có thể nhìn thấy nước lưu động, thậm chí cây rong, tôm cua, đủ loại đồ vật loạn thất bát tao. Có một cái cực lớn trắng bệch sự vật, chính dán đỉnh hành lang, sau đến nó từ từ đi xa, mới để người nhìn rõ ràng, kia là con mắt của một đầu cá lớn.  
-Tin tức có giá trị cứ như vậy nhiều.  
-Cái này hoặc là cũng coi là một cái manh mối.  
-Vẫn Tiên Lâm là Thánh Giả nơi mệnh hóa, liền chư thánh đều vẫn lạc trong đó, tự nhiên chân quân cũng không thể đi ngang. Thậm chí chân quân tại trong đó thăm dò, cũng coi như mạo hiểm. Tống Bồ Đề nếu muốn ở bên trong Vẫn Tiên Lâm bắt đến người, cần chính là vận khí, ngược lại cùng thực lực không quan hệ. Đấu Chiêu xảy ra chuyện, Đấu thị chính là cần chèo chống thời điểm, Tống Bồ Đề dạng này chân quân, không có cách nào đem thời gian tất cả đều ném vào bên trong Vẫn Tiên Lâm. Tựa như lúc trước Ngũ Chiếu Xương cũng là vào Vẫn Tiên Lâm tìm một đoạn thời gian, không thu hoạch được gì, chỉ có thể ôm nuối tiếc rời khỏi.  
-Rất có ý tứ.  
-Bất kỳ thủ đoạn muốn phải g·iết hắn, tất nhiên biết tại bên trong mảnh thời không đứng im này nổi lên gợn sóng, đó cũng là thời khắc Trường Tương Tư không còn đứng im tự do. Liền tại thời khắc sinh tử xem hư thực đi, hắn chưa bao giờ sợ.  
-Nhậm Thu Ly cùng Đấu Chiêu chính diện chém g·iết qua, thậm chí cảm thấy đến loại này tự tin cũng rất bình thường, có lẽ hiện tại tuổi trẻ thiên kiêu chính là có thể như vậy đi.  
-Hắn tại chờ đợi cái kia người dẫn phát bực này biến hóa, chờ đợi chân chính hung ác thủ đoạn, thậm chí là sát pháp --  
-Nhưng thái độ của hắn cũng không ở trên cao nhìn xuống, mà là. . . Đương nhiên.  
-Thời gian cùng không gian, đều bị đình chỉ vào thời khắc này.  
-Nhưng Nhậm Thu Ly. . . Vô pháp đáp lại.  
-Lúc tuổi còn trẻ cũng danh xưng "Thiên kiêu tuyệt thế " Nhậm Thu Ly, lúc này cũng không tức giận, chỉ là lạnh nhạt nói: "Ngươi sớm biết đối thủ là ta?"  
-Hắn càng xác định, người tại đêm nay chờ mình, cùng người đã từng ở tại bên trong gian phòng này, cũng không phải là cùng là một người. Bởi vì phần này "Nhân khí" đủ ác lại không đủ mạnh mẽ.  
-Chương 77: Kính Hồ La Bàn  
-Hắn 23 tuổi đến thật, 27 tuổi đại náo Thiên Kinh Thành, một chân nhân g·iết sáu chân nhân. (đọc tại Qidian-VP.com)  
-Tiên Niệm Tinh Hà ngang qua biển nguyên thần, Trường Tương Tư lâu không phát ra âm thanh tại hiện thế, cũng tại chờ đợi cái kia một tiếng. . . .  
-Chương 77: Kính Hồ La Bàn  
-Tại Khương Vọng trong nhận thức, lúc này thời gian như nước, không gian như lồng.  
-Nhậm Thu Ly cũng không ngại để hắn lý giải, thậm chí rất tình nguyện để Khương Vọng có càng nhiều suy nghĩ. Nàng chắc chắn chính mình ở trên tính toán có ưu thế tuyệt đối, Khương Vọng nghĩ đến càng nhiều, vùi lấp đến càng sâu.  
-Tựa như tại trên đài Quan Hà, Hoàng Xá Lợi đột nhiên nhận thua, hắn còn sửng sốt một chút, cũng không biết mình đã lặp đi lặp lại thắng được thắng lợi.  
-Xốc xếch đường cong giao thoa thành một tấm ghế dựa, cái ghế này cho người cảm thụ thực tế quái dị, có một loại không có chút nào Logic xung đột cảm giác, khiến người gặp mà phiền muộn. Nhưng nghiên cứu nó mạch lạc, lại bện đến mười phần tinh xảo, thể hiện kinh người mức độ tính toán -- như đem cái này màu đen đơn bạc đường cong coi là sợi đằng, hết thảy có lẽ liền biến hợp lý.  
-Như thế nàng liền có đầy đủ thời gian, để phát huy chính mình lấy tính lực tạo dựng ưu thế, hoàn thành cái này khổ tâm trù tính một ván.  
-Cho tới hôm nay lại qua hơn một năm.  
-Nam vực nhân vật thực quyền đều biết. Nhậm Thu Ly trước kia được chí tử tổn thương, sau đến mặc dù dùng đặc thù biện pháp sống sót, nhưng cũng trả giá cực lớn giá phải trả, dẫn đến bản nguyên có thiếu, cơ hồ không có đạo khả năng.  
-Nhậm Thu Ly nhàn nhạt nói: "Nhờ có Vẫn Tiên Lâm phức tạp hung hiểm, cùng với Sở quốc công việc bề bộn, Đấu thị không có diễn chính nhân tài. Đương nhiên ta cũng giấu rất vất vả."  
-Sau đó vòm trời cái kia cực lớn la bàn liền xuất hiện.  
-Khương Vọng lại một lần nữa dò xét hoàn cảnh chung quanh, giọng mang tán thưởng: "Nguyên lai nơi này chính là Kính Hồ!"  
-Không cần quốc thế gia trì, không cần cậy vào hộ quốc đại trận, hắn tuy chỉ thân ở đây, một kiếm mang bên mình, cũng đầy đủ bắt giữ thế giới này chân tướng.  
-Đây là chỗ này không gian, cho Khương Vọng cảm thụ trực tiếp nhất.  
-Khương Mộng Hùng lựa chọn nện hắn mà không phải nện người khác, bản thân cái này chính là thực lực chứng minh.  
-Nàng phi thường bình tĩnh, vì ván này nàng đã chuẩn bị thật lâu, nên tính toán trước đó liền đã tính qua, hiện tại chỉ chờ kết quả.  
-Hắn nhưng biết một cái từ Nam Đấu tiểu thế giới đi đến hiện thế, chém phá tiên thiên hàng rào, thành tựu cả thế gian thật người, đến tột cùng đại biểu cái gì?  
-Sở dĩ nói "Cơ hồ" là bởi vì trên con đường tu hành vốn là không ngừng sáng tạo kỳ tích hành trình. Không có chém phá "Không có khả năng " quyết tâm, cũng không cần nghịch thiên tranh mệnh.  
-Thân là đương thời chân nhân, ở đây thậm chí không cảm giác được thời gian --  
-Khi biết nơi này là động thiên bảo cụ nội bộ về sau, hắn đối chỗ này chỗ lộ ra quái dị hoàn cảnh, có tiến một bước lý giải.  
-Nhưng Khương Vọng cũng hoàn toàn chính xác thong dong!  
-Cuối cùng cùng hiện thế thứ nhất thiên kiêu gặp mặt!  
-Điều này nói rõ chí ít tại trước đó nào đó trong đoạn thời gian, nơi này từng có lại khách. Chỉ là sau đến bởi vì nguyên nhân nào đó biến mất.  
-Trước mắt cái này toàn thành phạm vi bên trong thời không dừng lại, bắt nguồn từ cái nào đó đại trận lực lượng, xảo diệu dính liền Việt quốc hộ quốc đại trận. . . Phát lại vô hình, dùng lại vô danh, khiêu động phạm vi lớn như thế thời không, không thể nói nó không cường đại. Nhưng còn chưa tới cấp độ để Khương Vọng một lòng chỉ nghĩ chạy trốn.  
-Phần này nhân khí là xa lạ, Khương Vọng xác định chính mình trước kia chưa có tiếp xúc qua.  
-Hiện thế vẫn lưu động, không biết bởi vì hắn rời đi mà ngưng hẳn.  
-Gian phòng nhìn một cái không sót gì, không có bất kỳ trang trí, thậm chí liền giường chiếu đều không có -- đương nhiên bên trong cũng không có người.  
-Khương Vọng lúc ấy cảm thấy đại khái dẫn đầu là lão nhân này nói khoác, sau đến lại càng ngày càng tán thành câu này từ bình hàm kim lượng. (đọc tại Qidian-VP.com)  
-Có Hoàng Xá Lợi vị đồng nghiệp này tại, hắn đối thời gian biến hóa rất là mẫn cảm. Tại 【 Nghịch Lữ 】 phát động thời điểm, hắn là không phát hiện được thời gian ngược dòng.  
-Khương Vọng dù bận vẫn ung dung nhìn chăm chú lên đường cong biến hóa.  
-Hắn nhìn xem vị này hiện nay tính lực thứ nhất chân nhân: "Ngươi sợ hãi."  
-Hiện tại kinh biến, chẳng qua là nhận biết lại một lần nghiệm chứng.  
--- « Triêu Thương Ngô »  
-Hắn phát hiện chính mình xuất hiện tại bên trong một cái hành lang hơi mờ, giống như là một cái động vật bị quăng vào trong lồng chờ đợi thưởng thức. Hai bên là từng cái nhà tù gian phòng, cửa phòng đóng chặt.  
-Nhậm Thu Ly không có chính diện đáp lại Khương Vọng câu nói này, chỉ nói là nói: "Nam Đấu Điện mấy ngàn năm nay, đều là người ủng hộ sau lưng Việt quốc. Thậm chí toà này 【 Kính Hồ 】 đậu ở chỗ này, đều là Trường Sinh Quân cùng Việt Thái Tông Văn Trung năm đó giao dịch. Ngươi cũng không phải là ngu xuẩn hạng người, tại sao tại Việt quốc trên đất, một chân bước vào trong cục, trước đó lại không nghĩ tới qua ta?"  
-Cái này để người ta có một loại thân ở trong tranh, đối mặt không biết nhìn chăm chú khủng bố cảm thụ. (đọc tại Qidian-VP.com)  
-Khương Vọng tán thưởng sau đó, hồi đáp: "Bởi vì Lục Sương Hà nói qua phải chờ ta đi đến chính ta tán thành cực hạn, lại đi tìm hắn. Nếu ta không có đi đến một bước kia, với hắn mà nói liền không có ý nghĩa. Hắn lâu như vậy chờ đợi, chính là một chuyện cười. Ta tin tưởng Lục Sương Hà quyết tâm, hắn sẽ không ở cái này phía trước ra tay với ta. Cho nên ta cũng không có nghĩ đến ngươi. Ta xem nhẹ một điểm ngươi dạng này chân nhân, đương nhiên là có ý nghĩ của mình, ngươi cũng sẽ không hoàn toàn tôn trọng ý nguyện của hắn."  
-Khương Vọng đương nhiên không đi đo lường tính toán cái ghế kia quy luật, hắn chỉ nhìn xem nữ nhân trên ghế.  
-Tiếp theo có từng điểm từng điểm ánh sáng nhạt, trong vách tường trắng này phát ra, ngưng tụ tại trên ghế ngồi, hiển hóa ra một cái hình người.  
-Xác nhận những thứ này minh văn tác dụng đều phi thường đơn nhất, cũng không liên quan đến nơi đây căn bản.  
-Kịch chân nhân há có thể dung nhẫn? Lý Nhất các viên há có thể thờ ơ?  
-Nàng tại Động Chân cảnh giới không thể nối tiếp tại cực hạn chiến lực, cũng là bởi vì nguyên nhân này.  
-【 điều này nói rõ nơi này vốn là có một chút đầu mối, nơi này không phải là chuyên vì hắn mà sáng tạo 】.  
-Chí ít không đủ đứng ở trước mặt hắn.  
-Khương Vọng có khả năng lý giải những thứ này, nhưng hắn chỉ là nói: "Nếu là ta trước gặp đến Thiên Cơ chân nhân, không biết các hạ có thể hay không trả lời ta một vấn đề, ta muốn hỏi các ngươi thật lâu-- Đấu Chiêu thật c·hết sao?"  
-Đương nhiên, coi như muốn phải chạy trốn, hiện tại cũng không thể động đậy.  
-Nhậm Thu Ly chưa hề vứt bỏ, cứ việc nàng chưa từng có nhìn thấy hi vọng. Cái này cùng nhau đi tới, cái khác đỉnh cấp chân nhân đều là vì tuyệt đỉnh làm nền, nhìn ra xa siêu thoát, nàng là không có lựa chọn, chỉ có thể tại Động Chân cảnh giới không ngừng thăm dò.  
-Có lẽ qua thật lâu, cũng có lẽ là tại hắn nhìn chăm chú giờ khắc này -- thời gian rốt cuộc ở chỗ này đã mất đi đo lường -- tại chính đối cửa phòng dựa vào tường vị trí, có từng đoạn màu đen đường cong, cứ như vậy đột ngột xuất hiện. Giống như là bị người nào dùng bút họa đi lên.  
-Mặc dù hắn kiên quyết giẫm vào trong cục, ngăn cản Bạch Ngọc Hà t·ự s·át, biểu hiện ra khí phách liếc mắt nước Việt.  
-Tỉ như 【 Kính Hồ 】 tại Việt quốc chủ yếu tác dụng, chính là trấn áp quốc thế, ngăn cách nhân quả. Lúc này mới có như là Trương Giới Phủ loại hình, không cài nhân quả, không thể bị ngược dòng tìm hiểu tử sĩ tồn tại.  
-Thời không đứng im thời điểm, Khương Vọng tư duy còn tại lưu động, tiên niệm còn tại lấp lóe -- điều này nói rõ ngay tại phát sinh khủng bố biến hóa, còn chưa tới cấp độ có khả năng hoàn toàn nghiền ép hắn, thời gian đứng im vô pháp dừng lại suy nghĩ của hắn. Hắn cũng liền đối tiếp xuống phát triển, có dự tính trên sức chống đỡ.  
-【 Kính Hồ 】 tiền thân, là bên trong 36 tiểu động thiên xếp hạng thứ mười "Cực Huyền Đại Nguyên Thiên ".  
-"Còn tại Việt quốc cảnh nội."Khương Vọng trong lòng làm ra phán đoán như vậy.  
-Cái này động thiên bảo cụ một mực mù mịt ánh sáng giấu kỳ, không vì người đời chỗ thấy. Nghĩ không ra lại vì Việt quốc nắm giữ.  
-Hắn thế nhưng là đã từng tham dự đối Khương Mộng Hùng vây công, tại Kiếm Phong Sơn bị Khương Mộng Hùng tính nhắm vào nện c·hết.  
-Động thiên bảo cụ là duy nhất có khả năng ảnh hưởng cao cảnh tu sĩ chiến cuộc đồ vật, động thiên bảo cụ tác dụng, cũng tuyệt không chỉ tại chiến đấu.  
-Trên vách tường điêu khắc lấy đủ loại minh văn. Trên mặt đất mỗi qua một khoảng cách, liền bày biện một cái bồn hoa, bên trong gọi là không nổi danh chữ hoa hoa thảo thảo, phun ra nuốt vào trứ danh vì "Ẩn nấp " khí tức.  
-Nhậm Thu Ly trầm mặc thật lâu, sau đó mới nói: "Nghĩ không ra trên thế giới này, ngươi mới là người kia càng tin tưởng hắn!"  
-Khương Vọng cẩn thận chờ đợi biến hóa.  
-Trong thời gian hơn một năm này, hắn không phải là tại chém g·iết dị tộc Động Chân, chính là tại chém g·iết dị tộc Động Chân trên đường.  
-Mà Hướng Phượng Kỳ, cũng không phải là hắn Khương Vọng điểm cuối cùng.  
-Hắn biết rõ có người đang chờ hắn, nhưng trong tay hắn có kiếm, hắn đối mặt hết thảy.  
-Phong tỏa hắn cái kia một khối nhỏ thời không, bị lực lượng nào đó từ thời không lớn trong phạm vi nhặt ra tới, đầu nhập không biết chỗ khác.  
-Tại bên trong nhân sinh kinh lịch của hắn, người có khả năng ngồi lên xã tắc đứng đầu vị trí, lại chân chính nắm giữ quyền lực chí cao, không có một cái là ngu xuẩn.  
-"Ta sợ cái gì?"Nhậm Thu Ly hỏi.  
-"Ta có cái gì tốt quan tâm?"Khương Vọng hời hợt mà nói: "Đối thủ của ta là ngươi. Đây thật là cực lớn khinh miệt!  
-Dư Bắc Đấu nói: "Ngõ hẹp gặp nhau, trong một tấc chém g·iết, ta đại khái không bằng hắn. Song phương làm dáng lấy thiên địa làm cục, lẫn nhau phân sinh tử, hắn nhất định không bằng ta."  
-Hắn không có lập tức rút kiếm, bởi vì hắn biết rõ, vị này nữ quan cũng không ở trước mắt.  
-Khương Vọng dùng nghiêm túc quan sát, vì chính mình bổ sung hiểu biết. Trong hành lang chậm rãi dậm chân, lại tùy ý nâng lên một ngón tay, nhẹ nhàng bôi qua minh văn trên vách tường.  
-Thế nhưng có thể bắt được nhân khí.  
-Thời gian là sinh mệnh đối vũ trụ nhận biết, vốn cũng không phải là chân chính tồn tại, nói cách khác, hắn hiện tại là đã mất đi đối thời gian cảm thụ, mà không phải đã mất đi "Thời gian ".  
-Hắn lại không có gặp qua cái thứ hai chân nhân, có thể dẫn người giấu vào dòng sông vận mệnh.  
-Thìa đồng chuyển một cái, vật đổi sao dời.  
-Đây là cái vuông vức chật hẹp gian phòng, bốn phía vách tường đều là quét vôi trắng.  
-Hắn cho là hắn đối thủ là người nào?  
-Đương nhiên còn có hiện tại, xem như hoàn mỹ vật chứa, cấu thành cái này "Thời Không Kính Hà Thiên Cơ Trận" đem Khương Vọng từ cái kia đứng im thời không hái ra tới, nhảy vào nơi này, ngăn cách nhân quả, lẫn lộn thời gian. Để Khương Vọng vết tích, không thể bị bất kỳ tồn tại bắt giữ. (đọc tại Qidian-VP.com)  
-Bởi vì Nhậm Thu Ly kém xa Dư Bắc Đấu.  
-Nhưng hắn chưa từng thật khinh thường Văn Cảnh Dụ.  
-Nhân vật phong vân kiêu ngạo có đôi khi hoàn toàn chính xác khiến người thưởng thức, nhưng bị như thế kiêu ngạo mà đối đãi, cái kia tuyệt đối không phải cái gì tốt đẹp cảm thụ.  
-Thế là hắn đến chuyến này lữ trình điểm cuối cùng.  
-Hắn đem đương thời chân nhân sát lực thứ nhất xem như cái gì?  
-Nói câu không nên nói, nếu là Tống Bồ Đề cũng tại Vẫn Tiên Lâm xảy ra điều gì ngoài ý muốn, rực rỡ ba ngàn năm Đấu thị, chỉ sợ muốn trở thành cái thứ nhất bị xoá tên hưởng quốc thế gia.  
-Khương Vọng lắc lắc đầu: "Trước đó ta không nghĩ tới qua ngươi, biến hóa phát sinh thời điểm, ngươi cũng không tại ta hoài nghi trong danh sách, nhưng bây giờ nhìn thấy ngươi, ta lại cảm thấy hết thảy đều rất hợp lý -- "  
-Vừa vặn là người phía sau màn nắm giữ ván cờ, không có nắm chắc điểm đối điểm giam cầm Khương Vọng, mới lựa chọn đối như thế lớn phạm vi một phiến thời không động thủ.  
-Khương chân nhân đặt chân trống rỗng hành lang, nhìn xem rỗng tuếch gian phòng, ấn kiếm không nói, cũng không có rời đi ý tứ.  
-Hắn trải rộng ra thần thức, di động Càn Dương Xích Đồng, đơn giản thăm dò đến biên giới của mảnh không gian này, mà vô pháp lại bên ngoài mở, cũng bắt giữ không đến cái gì tin tức hữu dụng. Thật giống như cái kia tên là "Tin tức " tồn tại, đã bị thanh tẩy qua.  
-Đáng tiếc viết không được.  
-Hắn hiện tại rốt cuộc mạnh cỡ nào chính hắn cũng nói không rõ. Nhưng từ Yêu giới g·iết tới Biên Hoang, từ Biên Hoang g·iết tới Ngu Uyên, không cần nói Yêu Ma Tu La, người đến thật bây giờ không dám ở tiền tuyến độc hành.  
-Chân nhân sở trường tính lực, am hiểu nhất dựa thế bố cục, ngự thiên địa oai mà dùng riêng. Loại này điển hình nhất đại biểu, chính là đã từng Hạ quốc Trận đạo chân nhân Thái Hoa --  
-Quá trình này là thú vị, đối phương nếu là mạnh hơn một chút, hắn đại khái vô pháp cảm thụ tất cả những thứ này. Lúc này lại tinh tế phẩm đọc thời không lực lượng, cũng coi là tu hành. (đọc tại Qidian-VP.com)  
-Nhưng Nhậm Thu Ly mặc dù bị ngăn trở tại đỉnh cao nhất, cũng nhiều lần chứng minh chính mình. Nàng đích xác là đương kim cái niên đại này, đương thời chân nhân bên trong không có chút nào tranh cãi tính lực thứ nhất. Lần này lợi dụng cơ hội vượt qua quốc ván cờ hạ cờ, nhất niệm kinh thiên, cũng coi như dùng dao mổ trâu cắt tiết gà.  
-Quá chật chội!  
-"Bốn mùa đi ác, bát phương quan lại, nay biết nam vậy. "  
-Nhậm Thu Ly ánh mắt vốn như mặt nước phẳng lặng, nhưng thời khắc này bỗng nhúc nhích, nhịn không được ngước mắt nhìn Khương Vọng, giống như lại một lần nữa biết hắn: "Ta không nghĩ tới ngươi bên trong tình cảnh này, vậy mà cũng không quan tâm chính mình. Vấn đề thứ nhất là hỏi Đấu Chiêu. "  
-Nhậm Thu Ly dạng này chân nhân, vì ván này không biết đã bố trí bao lâu, nàng nguy hiểm tuyệt đối không nên bị xem nhẹ.  
-Cho nên Nam Đấu Điện lật úp thời khắc, Trường Sinh Quân đem hi vọng sống sót đặt ở Thiên Đạo vô tình Lục Sương Hà trên thân, mà không phải mong đợi tại đối tông môn còn có tình cảm Nhậm Thu Ly, bởi vì cái sau đi không ra một bước kia.  
-Loại này tự tin quả thực không thể nói lý!  
-"Tống chân quân thân vào Vẫn Tiên Lâm, đã mấy tháng đi qua. . ."Khương Vọng nhìn xem nữ nhân này lợi dụng cơ hội vượt qua quốc bàn cờ hạ cờ, mở miệng nói: "Xem ra nàng cũng không có tìm được các ngươi."  
-Cái kia Chung Ly Viêm không còn tự xưng Sở quốc thứ nhất sao?  
-Cái này nữ quan ngồi trong phòng, chính là thiên hạ chân nhân tính lực thứ nhất, Nam Đấu thiên cơ Nhậm Thu Ly!  
-Khương Vọng đã từng hỏi Dư Bắc Đấu, hắn cùng Hướng Phượng Kỳ ai mạnh hơn.  
-Việt quốc hộ quốc đại trận, ngăn cách hắn cùng Thái Hư Huyễn Cảnh liên hệ, không phải vậy lúc này gọi ra Thái Hư Các Lâu, cũng đầy đủ đánh vỡ mảnh này thời không phong tỏa. Lại hoặc là viết mấy phong thư ra ngoài. . . Hắn Khương người nào đó không qua đường qua Việt quốc, mắt thấy một chút dơ bẩn sự tình, Việt quốc hoàng đế liền muốn g·iết hắn diệt khẩu, cái này còn đem Thái Hư Các để vào mắt sao? Trong lòng còn có Thái Hư Minh Ước sao?  
-Hắn cái gì cũng không biết, lại tự tin như vậy.  
+Chương 77: Kính Hồ La Bàn
+
+"Bốn mùa điêu tàn, tám phương quan lại, nay biết hướng nam vậy."
+-- « Triêu Thương Ngô »
+
+Thời khắc thời không đứng im, tư duy của Khương Vọng vẫn còn lưu động, tiên niệm vẫn còn lóe sáng – điều này cho thấy những biến đổi kinh khủng đang xảy ra, nhưng chưa đến mức độ nghiền ép hoàn toàn cậu, thời gian đứng im không thể dừng lại suy nghĩ của cậu. Nhờ vậy, cậu có sự chuẩn bị nhất định cho những diễn biến tiếp theo.
+
+Có Hoàng Xá Lợi (Huang Xiali) là đồng nghiệp, cậu rất nhạy cảm với những biến đổi về thời gian. Khi 【Nghịch Lữ】 (Ni Lu) được kích hoạt, cậu đã không nhận ra dòng thời gian bị đảo ngược.
+
+Giống như trên đài Quan Hà, Hoàng Xá Lợi đột nhiên nhận thua, cậu còn ngơ ngác một lúc, không biết mình đã lặp đi lặp lại chiến thắng.
+
+Cái gọi là thời không dừng lại trên phạm vi toàn thành trước mắt, bắt nguồn từ sức mạnh của một đại trận nào đó, khéo léo liên kết với hộ quốc đại trận của Việt quốc... Nó vô hình khi phát động, vô danh khi sử dụng, khuấy động một vùng thời không rộng lớn như vậy, không thể nói là không mạnh mẽ. Nhưng vẫn chưa đến mức khiến Khương Vọng chỉ nghĩ đến việc bỏ trốn.
+
+Chính vì kẻ đứng sau màn nắm giữ ván cờ, không đủ tự tin để giam cầm Khương Vọng trực tiếp, nên mới chọn cách động thủ với một vùng thời không rộng lớn như vậy.
+
+Đương nhiên, dù muốn trốn, bây giờ cũng không thể động đậy.
+
+Thời gian và không gian đều bị đóng băng vào khoảnh khắc này.
+
+Khương Vọng cẩn thận chờ đợi biến hóa.
+
+Không cần đến quốc thế gia trì, không cần cậy vào hộ quốc đại trận, cậu dù chỉ ở đây một mình, mang theo một thanh kiếm bên mình, cũng đủ để nắm bắt chân tướng của thế giới này.
+
+Cậu 23 tuổi đến thật, 27 tuổi đại náo Thiên Kinh Thành, một chân nhân g·iết sáu chân nhân.
+
+Đến hôm nay đã hơn một năm trôi qua.
+
+Trong hơn một năm này, cậu không chém g·iết Dị tộc Động Chân, thì cũng đang trên đường chém g·iết Dị tộc Động Chân.
+
+Bản thân cậu hiện tại mạnh đến mức nào, ngay cả cậu cũng không rõ. Nhưng từ Yêu giới g·iết đến Biên Hoang, từ Biên Hoang g·iết đến Ngu Uyên, đừng nói Yêu Ma Tu La, người đến giờ không ai dám độc hành ở tiền tuyến.
+
+Dù cậu kiên quyết giẫm vào ván cờ, ngăn cản Bạch Ngọc Hà (Bai Yuhe) t·ự s·át, thể hiện khí phách liếc mắt nhìn nước Việt.
+
+Nhưng cậu chưa từng thực sự khinh thường Văn Cảnh Dụ (Wen Jingyu).
+
+Trong những trải nghiệm cuộc đời của cậu, những người có thể ngồi lên vị trí đứng đầu xã tắc, lại thực sự nắm giữ quyền lực chí cao, không một ai là ngu ngốc.
+
+Biến cố hiện tại, chẳng qua là một lần nữa nhận biết và kiểm chứng.
+
+Cậu trầm mặc ở đây, không cố gắng chống lại áp chế thời không, không muốn tốn công vô ích.
+
+Cậu đang chờ đợi người dẫn phát loại biến hóa này, chờ đợi những thủ đoạn hung ác thực sự, thậm chí là sát pháp --
+
+Bất kỳ thủ đoạn nào muốn g·iết cậu, chắc chắn sẽ tạo ra gợn sóng trong vùng thời không đứng im này, đó cũng là thời khắc Trường Tương Tư (Chang Xiangsi) không còn đứng im tự do. Hãy xem thực hư vào thời khắc sinh tử, cậu chưa bao giờ sợ hãi.
+
+Hộ quốc đại trận của Việt quốc ngăn cách cậu với Thái Hư Huyễn Cảnh (Tai Xu Huanjing), nếu không lúc này gọi ra Thái Hư Các Lâu (Tai Xu Ge Lou), cũng đủ để phá vỡ phong tỏa thời không này. Hoặc là viết vài bức thư ra ngoài... Cậu Khương nào đó chỉ đi ngang qua Việt quốc, thấy một chút chuyện dơ bẩn, hoàng đế Việt quốc liền muốn g·iết cậu diệt khẩu, vậy còn coi Thái Hư Các ra gì? Trong lòng còn có Thái Hư Minh Ước (Tai Xu Ming Yue) sao?
+
+Kịch chân nhân sao có thể dung nhẫn? Lý Nhất các viên sao có thể thờ ơ?
+
+Đáng tiếc là không viết được.
+
+Tiên Niệm Tinh Hà (Xiannian Xinghe) băng qua biển nguyên thần, Trường Tương Tư im lặng trong hiện thế, cũng đang chờ đợi khoảnh khắc đó.....
+
+Sau đó, chiếc la bàn khổng lồ trên bầu trời xuất hiện.
+
+Thìa đồng chuyển một cái, vật đổi sao dời.
+
+Trong nhận thức của Khương Vọng, lúc này thời gian như nước, không gian như lồng.
+
+Khối thời không nhỏ phong tỏa cậu, bị một sức mạnh nào đó nhặt ra từ phạm vi thời không lớn, ném vào một nơi không biết.
+
+Quá trình này thật thú vị, nếu đối phương mạnh hơn một chút, có lẽ cậu không thể cảm nhận được tất cả những điều này. Lúc này lại tỉ mỉ nghiền ngẫm sức mạnh thời không, cũng coi như là tu hành.
+
+Cậu có thể cứ thế di chuyển mãi, cho đến khi cậu hiểu thấu đáo huyền bí của thời không, tự mình tìm được đường về. Đáng tiếc, người âm thầm khống chế ván cờ chẳng quan tâm, rất "thô lỗ" ném cậu ra.
+
+Thế là cậu đến điểm cuối của chuyến lữ trình này.
+
+"Vẫn còn trong lãnh thổ Việt quốc," Khương Vọng phán đoán như vậy trong lòng.
+
+Cậu phát hiện mình xuất hiện trong một hành lang hơi mờ, giống như một con vật bị ném vào lồng chờ đợi thưởng thức. Hai bên là những gian phòng giam, cửa phòng đóng kín.
+
+Trên vách tường khắc đủ loại minh văn. Trên mặt đất, cứ một khoảng cách lại bày một chậu hoa, bên trong là những loài hoa cỏ không rõ tên, phun ra nuốt vào thứ khí tức mang tên "Ẩn nấp".
+
+Trên đỉnh hành lang hơi mờ, có thể nhìn thấy nước chảy, thậm chí là cây rong, tôm cua, đủ loại đồ vật lộn xộn. Có một vật thể trắng bệch cực lớn, đang dán sát đỉnh hành lang, sau khi nó từ từ đi xa, người ta mới nhìn rõ, đó là con mắt của một con cá lớn.
+
+Quá chật chội!
+
+Đây là cảm nhận trực tiếp nhất mà không gian này mang lại cho Khương Vọng.
+
+Cậu trải rộng thần thức, di động Càn Dương Xích Đồng (Qianyang Chizhong), đơn giản thăm dò đến biên giới của không gian này, nhưng không thể mở rộng ra bên ngoài, cũng không bắt được bất kỳ thông tin hữu ích nào. Giống như cái gọi là "thông tin" đã bị thanh tẩy.
+
+【Điều này cho thấy nơi này vốn có một vài manh mối, nơi này không phải là chuyên vì cậu mà tạo ra】.
+
+Là một chân nhân đương thời, ở đây thậm chí không cảm nhận được thời gian --
+
+Đây hoặc là cũng có thể coi là một manh mối.
+
+Thời gian là sự nhận biết của sinh mệnh đối với vũ trụ, vốn không phải là thứ thực sự tồn tại, nói cách khác, cậu hiện tại đã mất đi cảm giác về thời gian, chứ không phải mất đi "thời gian".
+
+Hiện thế vẫn lưu động, không biết có ngưng hẳn vì sự rời đi của cậu hay không.
+
+Khương Vọng dùng sự nghiêm túc quan sát, để bổ sung hiểu biết cho mình. Cậu chậm rãi bước đi trong hành lang, tùy ý giơ một ngón tay, nhẹ nhàng lau qua minh văn trên vách tường.
+
+Xác nhận những minh văn này đều có tác dụng rất đơn giản, không liên quan đến căn bản của nơi này.
+
+Thông tin có giá trị chỉ có bấy nhiêu.
+
+Khương chân nhân cũng không có chút gợn sóng nào, tiện tay đẩy cánh cửa bên cạnh.
+
+Cậu biết rõ có người đang chờ cậu, nhưng trong tay cậu có kiếm, cậu đối mặt với tất cả.
+
+Đây là một gian phòng vuông vức chật hẹp, bốn phía vách tường đều được quét vôi trắng.
+
+Gian phòng nhìn một cái là thấy hết, không có bất kỳ trang trí nào, thậm chí giường chiếu cũng không có – đương nhiên bên trong cũng không có người.
+
+Nhưng có thể bắt được nhân khí.
+
+Điều này cho thấy ít nhất trong một đoạn thời gian nào đó trước đây, nơi này từng có khách. Chỉ là sau đó biến mất vì một nguyên nhân nào đó.
+
+Nhân khí này xa lạ, Khương Vọng xác định mình chưa từng tiếp xúc trước đây.
+
+Cậu càng xác định, người đang chờ mình đêm nay, và người đã từng ở trong gian phòng này, không phải là cùng một người. Bởi vì nhân khí này đủ ác nhưng không đủ mạnh mẽ.
+
+Ít nhất là không đủ để đứng trước mặt cậu.
+
+Khương chân nhân đặt chân vào hành lang trống rỗng, nhìn những gian phòng trống tuếch, ấn kiếm không nói, cũng không có ý định rời đi.
+
+Có lẽ đã qua rất lâu, cũng có lẽ là ngay tại khoảnh khắc cậu nhìn chăm chú -- thời gian rốt cuộc đã mất đi thước đo ở nơi này -- tại vị trí dựa vào tường đối diện cửa phòng, từng đoạn đường cong màu đen, cứ như vậy đột ngột xuất hiện. Giống như bị ai đó dùng bút vẽ lên.
+
+Điều này khiến người ta có một cảm giác như đang ở trong tranh, đối mặt với sự nhìn chăm chú khủng khiếp không rõ.
+
+Khương Vọng vẫn thong dong nhìn chăm chú vào sự biến đổi của đường cong.
+
+Những đường cong lộn xộn giao nhau thành một chiếc ghế dựa, chiếc ghế này cho người ta cảm giác thực tế kỳ quái, có một loại cảm giác xung đột phi logic, khiến người ta phiền muộn khi nhìn thấy. Nhưng nghiên cứu mạch lạc của nó, lại được bện rất tinh xảo, thể hiện mức độ tính toán kinh người – nếu coi những đường cong màu đen đơn bạc này là sợi mây, có lẽ mọi thứ sẽ trở nên hợp lý.
+
+Tiếp theo, từng điểm từng điểm ánh sáng nhạt phát ra từ vách tường trắng, ngưng tụ trên ghế ngồi, hiển hóa ra một hình người.
+
+Một nữ quan có khuôn mặt đoan chính thanh nhã, tóc mai được ánh sao gột rửa, lẳng lặng ngồi ở đó.
+
+Khương Vọng đương nhiên không đi đo lường tính toán quy luật của chiếc ghế kia, cậu chỉ nhìn người phụ nữ trên ghế.
+
+Cậu chưa từng thực sự gặp người phụ nữ này, nhưng ngay từ cái nhìn đầu tiên, cậu đã biết cô ta là ai.
+
+Cậu không lập tức rút kiếm, bởi vì cậu biết rõ, vị nữ quan này không có ở trước mắt.
+
+Thiên hạ quan lại nam giả, Nam Đấu Điện vậy! (Trong thiên hạ, quan lại là nam thì thuộc về Nam Đấu Điện!)
+
+Rất có ý tứ.
+
+"Tống chân quân (Song Zhenjun) thân vào Vẫn Tiên Lâm (Yunxian Lin), đã mấy tháng trôi qua..." Khương Vọng nhìn người phụ nữ này đang lợi dụng cơ hội vượt qua bàn cờ quốc gia để đánh cờ, mở miệng nói: "Xem ra cô ta vẫn chưa tìm được các người."
+
+Vị nữ quan ngồi trong phòng, chính là người có tính lực mạnh nhất thiên hạ chân nhân, Nam Đấu thiên cơ Nhậm Thu Ly (Ren Qiuli)!
+
+Cô ta vô cùng bình tĩnh, vì ván cờ này cô ta đã chuẩn bị rất lâu, những tính toán cần thiết đã được tính trước, hiện tại chỉ chờ kết quả.
+
+Cuối cùng cũng được gặp người có thiên phú số một hiện thế!
+
+Nhậm Thu Ly nhàn nhạt nói: "Nhờ có Vẫn Tiên Lâm phức tạp hung hiểm, cùng với công việc bề bộn của Sở quốc, Đấu thị không có người tài chính nhân. Đương nhiên, tôi cũng giấu rất vất vả."
+
+Vẫn Tiên Lâm là nơi mà Thánh giả mệnh hóa, ngay cả chư thánh cũng vẫn lạc trong đó, tự nhiên chân quân cũng không thể đi ngang qua. Thậm chí chân quân thăm dò trong đó, cũng coi như mạo hiểm. Tống Bồ Đề (Song Put) nếu muốn bắt người trong Vẫn Tiên Lâm, cần chính là vận khí, ngược lại không liên quan đến thực lực. Đấu Chiêu (Dou Zhao) xảy ra chuyện, Đấu thị đang cần người chèo chống, Tống Bồ Đề dạng này không thể dồn hết thời gian vào Vẫn Tiên Lâm. Giống như Ngũ Chiếu Xương (Wu Zhaochang) trước đây cũng vào Vẫn Tiên Lâm tìm một thời gian, không thu hoạch được gì, chỉ có thể ôm nuối tiếc rời đi.
+
+Nói một câu không nên nói, nếu Tống Bồ Đề cũng gặp chuyện ngoài ý muốn trong Vẫn Tiên Lâm, Đấu thị rực rỡ ba ngàn năm, chỉ sợ sẽ trở thành gia tộc hưởng quốc thế bị xóa tên đầu tiên.
+
+Khương Vọng có thể hiểu được điều này, nhưng cậu chỉ nói: "Nếu tôi gặp Thiên Cơ chân nhân trước, không biết các hạ có thể trả lời tôi một câu hỏi không, tôi muốn hỏi các người đã lâu – Đấu Chiêu thực sự c·hết sao?"
+
+Ánh mắt của Nhậm Thu Ly vốn phẳng lặng như mặt nước, nhưng khoảnh khắc này bỗng nhúc nhích, không nhịn được ngước mắt nhìn Khương Vọng, như thể lại một lần nữa biết cậu: "Tôi không ngờ rằng trong tình cảnh này, cậu lại không quan tâm đến bản thân mình. Câu hỏi đầu tiên là hỏi về Đấu Chiêu."
+
+"Tôi có gì tốt để quan tâm?" Khương Vọng hời hợt nói: "Đối thủ của tôi là cô. Đây thật sự là một sự khinh miệt lớn!"
+
+Nhưng thái độ của cậu không phải là ở trên cao nhìn xuống, mà là... đương nhiên.
+
+Những nhân vật nắm quyền thực sự ở Nam vực đều biết. Nhậm Thu Ly trước kia bị tổn thương chí tử, sau đó dù dùng biện pháp đặc thù để sống sót, nhưng cũng phải trả một cái giá rất lớn, dẫn đến bản nguyên bị thiếu hụt, gần như không còn khả năng thành đạo.
+
+Sở dĩ nói "gần như" là bởi vì con đường tu hành vốn là một hành trình không ngừng tạo ra kỳ tích. Không có quyết tâm chém phá "không thể nào", thì không cần nghịch thiên tranh mệnh.
+
+Nhậm Thu Ly chưa bao giờ từ bỏ, dù cô chưa từng nhìn thấy hy vọng. Trên con đường này, những chân nhân đỉnh cấp khác đều đang làm nền cho sự tuyệt đỉnh, nhìn xa đến siêu thoát, cô không có lựa chọn, chỉ có thể không ngừng thăm dò ở cảnh giới Động Chân.
+
+Cô không thể nối tiếp chiến lực cực hạn ở cảnh giới Động Chân, cũng là vì nguyên nhân này.
+
+Cho nên, khi Nam Đấu Điện lật úp, Trường Sinh Quân (Chang Shengjun) đặt hy vọng sống sót vào Lục Sương Hà (Lu Shuanghe) vô tình của Thiên Đạo, chứ không mong đợi Nhậm Thu Ly còn tình cảm với tông môn, bởi vì người sau không thể bước ra một bước kia.
+
+Nhưng Nhậm Thu Ly dù bị cản trở ở đỉnh cao nhất, cũng nhiều lần chứng minh bản thân. Cô đích thực là người có tính lực số một không thể tranh cãi trong số các chân nhân đương thời. Lần này, lợi dụng cơ hội vượt qua bàn cờ quốc gia để đánh cờ, nhất niệm kinh thiên, cũng coi như dùng dao mổ trâu cắt tiết gà.
+
+Khương Vọng từng hỏi Dư Bắc Đấu (Yu Beidou), cậu và Hướng Phượng Kỳ (Xiang Fengqi) ai mạnh hơn.
+
+Dư Bắc Đấu nói: "Ngõ hẹp gặp nhau, chém g·iết trong tấc gang, ta có lẽ không bằng hắn. Song phương bày trận lấy thiên địa làm bàn cờ, phân định sinh tử, hắn nhất định không bằng ta."
+
+Khương Vọng lúc ấy cảm thấy có lẽ lão già này đang khoác lác, sau này càng ngày càng tán thành hàm lượng vàng trong câu nói này.
+
+Cậu lại chưa từng gặp chân nhân thứ hai, có thể dẫn người giấu vào dòng sông vận mệnh.
+
+Chân nhân sở trường tính lực, am hiểu nhất dựa vào thế cục bố trí, ngự thiên địa uy mà dùng riêng. Đại diện điển hình nhất cho loại này, chính là chân nhân Trận đạo Thái Hoa (Taihua) của Hạ quốc --
+
+Ông ta đã từng tham gia vây công Khương Mộng Hùng (Jiang Menghong), bị Khương Mộng Hùng tính nhắm vào và đập c·hết ở Kiếm Phong Sơn (Jianfengshan).
+
+Việc Khương Mộng Hùng chọn đập ông ta mà không phải người khác, bản thân nó đã là một sự chứng minh thực lực.
+
+Nhậm Thu Ly dạng này, không biết đã bố trí bao lâu cho ván cờ này, sự nguy hiểm của cô tuyệt đối không nên bị xem nhẹ.
+
+Nhưng Khương Vọng hoàn toàn thong dong!
+
+Bởi vì Nhậm Thu Ly kém xa Dư Bắc Đấu.
+
+Mà Hướng Phượng Kỳ, cũng không phải là điểm cuối cùng của cậu Khương Vọng.
+
+Những nhân vật phong vân kiêu ngạo đôi khi khiến người ta thưởng thức, nhưng bị đối đãi một cách kiêu ngạo như vậy, tuyệt đối không phải là một cảm giác tốt đẹp gì.
+
+Nhậm Thu Ly, người khi còn trẻ cũng được mệnh danh là "thiên kiêu tuyệt thế", lúc này cũng không tức giận, chỉ lạnh nhạt nói: "Cậu sớm biết đối thủ là tôi?"
+
+Khương Vọng lắc đầu: "Trước đây tôi không nghĩ đến cô, khi biến cố xảy ra, cô cũng không nằm trong danh sách nghi ngờ của tôi, nhưng bây giờ nhìn thấy cô, tôi lại cảm thấy mọi thứ đều rất hợp lý --"
+
+Cậu nhìn vị chân nhân có tính lực số một hiện nay: "Cô sợ hãi."
+
+"Tôi sợ cái gì?" Nhậm Thu Ly hỏi.
+
+Khương Vọng bình tĩnh nói: "Cô sợ Lục Sương Hà sẽ c·hết trong tay tôi. Cô biết nếu cô không làm gì đó, anh ta sẽ c·hết trong tay tôi."
+
+Cậu cho rằng đối thủ của cậu là ai?
+
+Cậu coi chân nhân có sát lực số một đương thời là gì?
+
+Cậu có biết một người từ Nam Đấu tiểu thế giới (Nandou Xiaoshijie) đi đến hiện thế, chém phá hàng rào tiên thiên, thành tựu cả thế gian thật người, đến tột cùng đại biểu cho điều gì không?
+
+Cậu cái gì cũng không biết, lại tự tin như vậy.
+
+Loại tự tin này quả thực không thể nói lý!
+
+Nhưng Nhậm Thu Ly... không thể đáp lại.
+
+Nhậm Thu Ly đã từng đối đầu với Đấu Chiêu, thậm chí cảm thấy loại tự tin này rất bình thường, có lẽ những thiên kiêu trẻ tuổi hiện tại đều như vậy.
+
+Chung Ly Viêm (Zhong Li Yan) kia chẳng phải vẫn tự xưng là người số một Sở quốc sao?
+
+Nhậm Thu Ly không trực tiếp đáp lại câu nói của Khương Vọng, chỉ nói: "Nam Đấu Điện mấy ngàn năm nay, đều là người ủng hộ sau lưng Việt quốc. Thậm chí tòa 【Kính Hồ】 (Jing Hu) này đậu ở đây, đều là giao dịch năm đó giữa Trường Sinh Quân và Việt Thái Tông Văn Trung (Viet Taisong Wenzhong). Cậu không phải là hạng người ngu ngốc, tại sao trên đất Việt quốc, lại một chân bước vào ván cờ, trước đó lại không nghĩ đến tôi?"
+
+Tiền thân của 【Kính Hồ】, là "Cực Huyền Đại Nguyên Thiên" (Ji Xuan Da Yuan Tian), xếp thứ mười trong 36 tiểu động thiên.
+
+Động thiên bảo cụ này luôn mờ mịt ánh sáng giấu kỳ, không ai biết đến. Không ngờ lại bị Việt quốc nắm giữ.
+
+Khương Vọng lại một lần nữa dò xét hoàn cảnh xung quanh, giọng mang tán thưởng: "Nguyên lai nơi này chính là Kính Hồ!"
+
+Khi biết nơi này là bên trong động thiên bảo cụ, cậu có thêm một bước lý giải về hoàn cảnh kỳ dị nơi này.
+
+Nhậm Thu Ly cũng không ngại để cậu lý giải, thậm chí rất sẵn lòng để Khương Vọng suy nghĩ nhiều hơn. Cô chắc chắn mình có ưu thế tuyệt đối về tính toán, Khương Vọng nghĩ càng nhiều, chôn vùi càng sâu.
+
+Động thiên bảo cụ là thứ duy nhất có thể ảnh hưởng đến chiến cuộc của tu sĩ cảnh giới cao, tác dụng của động thiên bảo cụ, tuyệt đối không chỉ ở chiến đấu.
+
+Ví dụ, tác dụng chủ yếu của 【Kính Hồ】 ở Việt quốc, là trấn áp quốc thế, ngăn cách nhân quả. Lúc này mới có những tồn tại như Trương Giới Phủ (Zhang Jiefu), không cài nhân quả, không thể bị ngược dòng tìm hiểu.
+
+Đương nhiên còn có hiện tại, xem như một vật chứa hoàn mỹ, cấu thành "Thời Không Kính Hà Thiên Cơ Trận" (Shikong Jinghe Tianji Zhen), hái Khương Vọng ra khỏi thời không đứng im kia, ném vào nơi này, ngăn cách nhân quả, lẫn lộn thời gian. Để dấu vết của Khương Vọng, không thể bị bất kỳ tồn tại nào bắt giữ.
+
+Như vậy, cô sẽ có đủ thời gian để phát huy ưu thế về tính lực, hoàn thành ván cờ khổ tâm trù tính này.
+
+Khương Vọng tán thưởng xong, đáp lại: "Bởi vì Lục Sương Hà đã nói phải đợi tôi đi đến cực hạn mà bản thân tôi tán thành, rồi mới đi tìm anh ta. Nếu tôi không đi đến bước đó, với anh ta mà nói thì không có ý nghĩa gì. Anh ta chờ đợi lâu như vậy, sẽ là một trò cười. Tôi tin tưởng quyết tâm của Lục Sương Hà, anh ta sẽ không ra tay với tôi trước đó. Cho nên tôi cũng không nghĩ đến cô. Tôi xem nhẹ một điểm là chân nhân như cô, đương nhiên là có suy nghĩ của mình, cô cũng sẽ không hoàn toàn tôn trọng ý nguyện của anh ta."
+
+Nhậm Thu Ly trầm mặc rất lâu, sau đó mới nói: "Không ngờ trên thế giới này, cậu mới là người tin tưởng anh ta hơn!"

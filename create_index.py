@@ -1,312 +1,276 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Script tạo file index.json cho web đọc truyện
-Tác giả: Script tự động
-Mô tả: Quét thư mục chứa file .md và tạo index.json với danh sách chương
+Script tạo file index.json cho web đọc truyện với giao diện đồ họa (GUI).
+Tác giả: Gemini (dựa trên script gốc)
+Mô tả: Quét thư mục mẹ chứa các thư mục truyện, tự động tạo file index.json
+cho các truyện chưa có, hoặc ghi đè nếu được chọn.
 """
 
 import os
 import json
 import re
+import threading
+import queue
 from pathlib import Path
 from typing import List, Dict, Optional
 from datetime import datetime
-import argparse
+
+# --- Imports cho GUI ---
+import tkinter as tk
+from tkinter import ttk, filedialog, scrolledtext
+
+# ==============================================================================
+# PHẦN LOGIC CỐT LÕI (Không thay đổi nhiều so với bản gốc)
+# ==============================================================================
 
 def extract_title_from_content(file_path: str) -> Optional[str]:
-    """
-    Trích xuất title từ nội dung file markdown
-    Tìm dòng chứa từ khóa 'chương' hoặc 'chapter' (không phân biệt hoa thường)
-    
-    Args:
-        file_path: Đường dẫn đến file markdown
-        
-    Returns:
-        Title nếu tìm thấy, None nếu không tìm thấy
-    """
+    """Trích xuất title từ nội dung file markdown."""
     try:
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
             lines = f.readlines()
-            
-        # Tìm dòng chứa "chương" hoặc "chapter"
         chapter_pattern = re.compile(r'.*(chương|chapter).*', re.IGNORECASE | re.UNICODE)
-        
-        for line in lines[:20]:  # Chỉ tìm trong 20 dòng đầu
+        for line in lines[:20]:
             line = line.strip()
             if not line:
                 continue
-                
-            # Loại bỏ markdown formatting
-            clean_line = re.sub(r'^#+\s*', '', line)  # Loại bỏ # ## ###
-            clean_line = re.sub(r'\*+', '', clean_line)  # Loại bỏ **bold**
-            clean_line = clean_line.strip()
-            
+            clean_line = re.sub(r'^#+\s*', '', line).strip()
             if chapter_pattern.search(clean_line):
                 return clean_line
-                
-    except Exception as e:
-        print(f"Lỗi khi đọc file {file_path}: {e}")
-        
+    except Exception:
+        return None
     return None
 
 def get_title_from_filename(filename: str) -> str:
-    """
-    Tạo title từ tên file
-    
-    Args:
-        filename: Tên file (không bao gồm extension)
-        
-    Returns:
-        Title được format từ tên file
-    """
-    # Loại bỏ extension
+    """Tạo title từ tên file."""
     name = os.path.splitext(filename)[0]
-    
-    # Thay thế dấu gạch ngang và gạch dưới bằng khoảng trắng
     name = re.sub(r'[-_]', ' ', name)
-    
-    # Capitalize các từ
     name = ' '.join(word.capitalize() for word in name.split())
-    
     return name
 
-def scan_folder(folder_path: str) -> List[Dict[str, str]]:
+def scan_folder(folder_path: str, log_queue: queue.Queue) -> List[Dict[str, any]]:
     """
-    Quét thư mục và tạo danh sách chương
-    
-    Args:
-        folder_path: Đường dẫn đến thư mục chứa file .md
-        
-    Returns:
-        Danh sách các chapter với title và file
+    Quét thư mục và tạo danh sách chương.
+    Hàm này đã được sửa để thêm thuộc tính 'index'.
     """
     chapters = []
     folder = Path(folder_path)
-    
     if not folder.exists():
-        print(f"Thư mục không tồn tại: {folder_path}")
+        log_queue.put(f"Lỗi: Thư mục không tồn tại: {folder_path}")
         return chapters
-    
-    # Lấy tất cả file .md và sắp xếp theo số thứ tự tự nhiên
-    md_files = list(folder.glob("*.md"))
-    
-    # Sắp xếp theo số thứ tự tự nhiên thay vì alphabetical
-    def natural_sort_key(file_path):
-        # Trích xuất số từ tên file
-        filename = file_path.stem
-        numbers = re.findall(r'\d+', filename)
-        if numbers:
-            return int(numbers[0])  # Lấy số đầu tiên
-        return 0
-    
-    md_files.sort(key=natural_sort_key)
-    
+
+    md_files = sorted(
+        list(folder.glob("*.md")),
+        key=lambda f: int(re.search(r'\d+', f.stem).group() or 0) if re.search(r'\d+', f.stem) else 99999
+    )
+
     if not md_files:
-        print(f"Không tìm thấy file .md nào trong thư mục: {folder_path}")
+        log_queue.put(f"  -> Cảnh báo: Không tìm thấy file .md nào trong: {folder.name}")
         return chapters
+
+    log_queue.put(f"  -> Tìm thấy {len(md_files)} file markdown. Đang xử lý...")
     
-    print(f"Tìm thấy {len(md_files)} file markdown:")
-    
-    for md_file in md_files:
+    for i, md_file in enumerate(md_files):
         filename = md_file.name
-        print(f"  Đang xử lý: {filename}")
-        
-        # Thử trích xuất title từ nội dung
-        title = extract_title_from_content(str(md_file))
-        
-        if title:
-            print(f"    ✓ Tìm thấy title: {title}")
-        else:
-            # Sử dụng tên file làm title
-            title = get_title_from_filename(filename)
-            print(f"    → Sử dụng tên file: {title}")
+        title = extract_title_from_content(str(md_file)) or get_title_from_filename(filename)
         
         chapters.append({
+            "index": i,  # Thuộc tính index để sắp xếp chính xác
             "title": title,
             "file": filename
         })
-    
     return chapters
 
-def create_index_json(folder_path: str, output_path: Optional[str] = None) -> bool:
+# ==============================================================================
+# PHẦN LOGIC XỬ LÝ BATCH (Đã được sửa đổi)
+# ==============================================================================
+
+def create_index_for_story(story_folder_path: str, log_queue: queue.Queue) -> bool:
     """
-    Tạo file index.json cho thư mục
-    
-    Args:
-        folder_path: Đường dẫn đến thư mục chứa file .md
-        output_path: Đường dẫn output (mặc định là folder_path/index.json)
-        
-    Returns:
-        True nếu thành công, False nếu thất bại
+    Tạo file index.json cho một thư mục truyện cụ thể (không tương tác).
     """
     try:
-        chapters = scan_folder(folder_path)
-        
+        chapters = scan_folder(story_folder_path, log_queue)
         if not chapters:
-            print("Không có chương nào để tạo index.json")
+            log_queue.put(f"  -> Bỏ qua tạo index cho '{os.path.basename(story_folder_path)}' vì không có chương.")
             return False
-        
-        folder_name = os.path.basename(folder_path)
-        
-        # Tự động tạo title và description từ tên folder
+
+        folder_name = os.path.basename(story_folder_path)
         auto_title = get_title_from_filename(folder_name)
-        
-        # Hỏi người dùng nhập thông tin
-        print(f"\n📝 Nhập thông tin cho truyện '{folder_name}':")
-        user_title = input(f"Title (Enter để dùng '{auto_title}'): ").strip()
-        title = user_title if user_title else auto_title
-        
-        description = input(f"Mô tả (Enter để tự động): ").strip()
-        if not description:
-            description = f"Truyện {len(chapters)} chương"
-        
-        # Tạo cấu trúc JSON với metadata đầy đủ
+        description = f"Truyện {len(chapters)} chương"
+
         index_data = {
-            "title": title,
+            "title": auto_title,
             "description": description,
             "folder": folder_name,
             "chapters": chapters,
             "total": len(chapters),
-            "created_by": "auto_script",
+            "created_by": "auto_script_v2",
             "created_at": datetime.now().isoformat(),
             "last_updated": datetime.now().isoformat()
         }
-        
-        # Xác định đường dẫn output
-        if output_path is None:
-            output_path = os.path.join(folder_path, "index.json")
-        
-        # Ghi file JSON
+
+        output_path = os.path.join(story_folder_path, "index.json")
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(index_data, f, ensure_ascii=False, indent=2)
-        
-        print(f"\n✅ Đã tạo thành công: {output_path}")
-        print(f"📖 Title: {title}")
-        print(f"📝 Mô tả: {description}")
-        print(f"📊 Tổng số chương: {len(chapters)}")
-        
+
+        log_queue.put(f"  -> ✅ Đã tạo thành công index.json cho '{folder_name}' với {len(chapters)} chương.")
         return True
-        
     except Exception as e:
-        print(f"❌ Lỗi khi tạo index.json: {e}")
+        log_queue.put(f"  -> ❌ Lỗi khi tạo index cho '{os.path.basename(story_folder_path)}': {e}")
         return False
 
-def main():
-    """Hàm chính của script"""
-    parser = argparse.ArgumentParser(
-        description="Tạo file index.json cho web đọc truyện",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Ví dụ sử dụng:
-  python create_index.py -f "path/to/truyen-folder"
-  python create_index.py -f "truyen-1" -o "custom-index.json"
-  python create_index.py --scan-all
-        """
-    )
+def process_parent_directory(parent_path: str, overwrite: bool, log_queue: queue.Queue):
+    """
+    Hàm chính để quét thư mục mẹ và xử lý các thư mục con.
+    """
+    log_queue.put("="*60)
+    log_queue.put(f"🚀 Bắt đầu quét thư mục: {parent_path}")
+    log_queue.put(f"Tùy chọn ghi đè: {'Bật' if overwrite else 'Tắt'}")
+    log_queue.put("="*60)
+
+    parent = Path(parent_path)
+    if not parent.is_dir():
+        log_queue.put("Lỗi: Đường dẫn đã chọn không phải là một thư mục.")
+        log_queue.put("Hoàn thành với lỗi.")
+        return
+
+    story_folders = [d for d in parent.iterdir() if d.is_dir() and not d.name.startswith('.')]
+    if not story_folders:
+        log_queue.put("Không tìm thấy thư mục truyện nào trong thư mục đã chọn.")
+        log_queue.put("Hoàn thành.")
+        return
+
+    log_queue.put(f"Tìm thấy {len(story_folders)} thư mục truyện. Bắt đầu xử lý...")
+    success_count = 0
+    skipped_count = 0
     
-    parser.add_argument(
-        '-f', '--folder',
-        type=str,
-        help='Đường dẫn đến thư mục chứa file .md'
-    )
-    
-    parser.add_argument(
-        '-o', '--output',
-        type=str,
-        help='Đường dẫn file output (mặc định: folder/index.json)'
-    )
-    
-    parser.add_argument(
-        '--scan-all',
-        action='store_true',
-        help='Quét tất cả thư mục con trong thư mục hiện tại'
-    )
-    
-    args = parser.parse_args()
-    
-    print("=" * 60)
-    print("🚀 Script tạo index.json cho web đọc truyện")
-    print("=" * 60)
-    
-    if args.scan_all:
-        # Quét tất cả thư mục con
-        current_dir = Path('.')
-        folders = [d for d in current_dir.iterdir() if d.is_dir() and not d.name.startswith('.')]
+    for i, folder in enumerate(story_folders, 1):
+        log_queue.put(f"\n({i}/{len(story_folders)}) Đang xử lý thư mục: {folder.name}")
+        index_file = folder / "index.json"
         
-        if not folders:
-            print("Không tìm thấy thư mục con nào.")
+        if index_file.exists() and not overwrite:
+            log_queue.put("  -> index.json đã tồn tại. Bỏ qua.")
+            skipped_count += 1
+            continue
+
+        if create_index_for_story(str(folder), log_queue):
+            success_count += 1
+    
+    log_queue.put("\n" + "="*60)
+    log_queue.put("🎉 Xử lý hoàn tất!")
+    log_queue.put(f"- Tạo/Cập nhật thành công: {success_count} truyện.")
+    log_queue.put(f"- Bỏ qua (đã có index): {skipped_count} truyện.")
+    log_queue.put("="*60)
+
+
+# ==============================================================================
+# PHẦN GIAO DIỆN ĐỒ HỌA (GUI) VỚI TKINTER
+# ==============================================================================
+
+class Application(tk.Frame):
+    def __init__(self, master=None):
+        super().__init__(master)
+        self.master = master
+        self.master.title("Công Cụ Tạo Index Truyện")
+        self.master.geometry("800x600")
+        self.pack(fill="both", expand=True, padx=10, pady=10)
+        
+        self.folder_path = tk.StringVar()
+        self.overwrite_var = tk.BooleanVar(value=False)
+        self.log_queue = queue.Queue()
+        
+        self.create_widgets()
+        self.process_log_queue()
+
+    def create_widgets(self):
+        # --- Frame chọn thư mục ---
+        folder_frame = ttk.LabelFrame(self, text="1. Chọn thư mục mẹ chứa truyện")
+        folder_frame.pack(fill="x", padx=5, pady=5)
+
+        folder_entry = ttk.Entry(folder_frame, textvariable=self.folder_path, state="readonly", width=80)
+        folder_entry.pack(side="left", fill="x", expand=True, padx=5, pady=5)
+
+        browse_btn = ttk.Button(folder_frame, text="Chọn Thư Mục...", command=self.select_folder)
+        browse_btn.pack(side="left", padx=5, pady=5)
+
+        # --- Frame tùy chọn và thực thi ---
+        action_frame = ttk.LabelFrame(self, text="2. Tùy chọn và Thực thi")
+        action_frame.pack(fill="x", padx=5, pady=5)
+        
+        overwrite_check = ttk.Checkbutton(action_frame, text="Ghi đè file index.json đã có", variable=self.overwrite_var)
+        overwrite_check.pack(side="left", padx=5, pady=10)
+        
+        self.run_button = ttk.Button(action_frame, text="Bắt Đầu Quét & Tạo Index", command=self.start_processing)
+        self.run_button.pack(side="right", padx=5, pady=10)
+
+        # --- Frame hiển thị log ---
+        log_frame = ttk.LabelFrame(self, text="3. Tiến trình")
+        log_frame.pack(fill="both", expand=True, padx=5, pady=5)
+        
+        self.log_text = scrolledtext.ScrolledText(log_frame, wrap=tk.WORD, state="disabled", font=("Courier New", 10))
+        self.log_text.pack(fill="both", expand=True, padx=5, pady=5)
+
+    def select_folder(self):
+        path = filedialog.askdirectory(title="Chọn thư mục mẹ chứa các thư mục truyện")
+        if path:
+            self.folder_path.set(path)
+
+    def start_processing(self):
+        path = self.folder_path.get()
+        if not path:
+            self.log("Lỗi: Vui lòng chọn một thư mục trước.", error=True)
             return
+
+        self.log_text.config(state="normal")
+        self.log_text.delete('1.0', tk.END)
+        self.log_text.config(state="disabled")
         
-        print(f"Tìm thấy {len(folders)} thư mục:")
-        for folder in folders:
-            print(f"  📁 {folder.name}")
+        self.run_button.config(state="disabled", text="Đang xử lý...")
         
-        print("\nBắt đầu xử lý...")
-        success_count = 0
-        
-        for folder in folders:
-            print(f"\n📂 Xử lý thư mục: {folder.name}")
-            print("-" * 40)
-            
-            if create_index_json(str(folder)):
-                success_count += 1
-        
-        print(f"\n🎉 Hoàn thành! Đã xử lý thành công {success_count}/{len(folders)} thư mục.")
-        
-    elif args.folder:
-        # Xử lý một thư mục cụ thể
-        folder_path = args.folder
-        
-        if not os.path.exists(folder_path):
-            print(f"❌ Thư mục không tồn tại: {folder_path}")
-            return
-        
-        create_index_json(folder_path, args.output)
-        
-    else:
-        # Interactive mode
-        print("🔍 Chế độ tương tác")
-        print("Các thư mục có sẵn:")
-        
-        current_dir = Path('.')
-        folders = [d for d in current_dir.iterdir() if d.is_dir() and not d.name.startswith('.')]
-        
-        if folders:
-            for i, folder in enumerate(folders, 1):
-                print(f"  {i}. {folder.name}")
-            print(f"  {len(folders) + 1}. Nhập đường dẫn thủ công")
-            print(f"  {len(folders) + 2}. Xử lý tất cả thư mục")
-        
+        # Chạy tác vụ nặng trong một thread riêng để không làm treo GUI
+        thread = threading.Thread(
+            target=self.run_task_in_thread,
+            args=(path, self.overwrite_var.get()),
+            daemon=True
+        )
+        thread.start()
+
+    def run_task_in_thread(self, path, overwrite):
+        """Hàm này sẽ được thực thi trong thread riêng biệt."""
         try:
-            choice = input(f"\nChọn thư mục (1-{len(folders) + 2}): ").strip()
-            
-            if choice == str(len(folders) + 2):
-                # Xử lý tất cả
-                success_count = 0
-                for folder in folders:
-                    print(f"\n📂 Xử lý: {folder.name}")
-                    if create_index_json(str(folder)):
-                        success_count += 1
-                print(f"\n🎉 Hoàn thành! {success_count}/{len(folders)} thư mục.")
-                
-            elif choice == str(len(folders) + 1):
-                # Nhập thủ công
-                folder_path = input("Nhập đường dẫn thư mục: ").strip()
-                create_index_json(folder_path)
-                
-            elif choice.isdigit() and 1 <= int(choice) <= len(folders):
-                # Chọn thư mục
-                selected_folder = folders[int(choice) - 1]
-                create_index_json(str(selected_folder))
-                
-            else:
-                print("❌ Lựa chọn không hợp lệ!")
-                
-        except KeyboardInterrupt:
-            print("\n\n👋 Tạm biệt!")
+            process_parent_directory(path, overwrite, self.log_queue)
         except Exception as e:
-            print(f"❌ Lỗi: {e}")
+            self.log_queue.put(f"\nLỖI NGOẠI LỆ: {e}")
+        finally:
+            # Báo cho main thread biết là đã xong
+            self.log_queue.put("TASK_COMPLETE")
+
+    def process_log_queue(self):
+        """Kiểm tra queue và cập nhật log trên GUI."""
+        try:
+            while True:
+                message = self.log_queue.get_nowait()
+                if message == "TASK_COMPLETE":
+                    self.run_button.config(state="normal", text="Bắt Đầu Quét & Tạo Index")
+                else:
+                    self.log(message)
+        except queue.Empty:
+            pass
+        finally:
+            self.master.after(100, self.process_log_queue)
+
+    def log(self, message: str, error=False):
+        """Ghi log vào ScrolledText widget."""
+        self.log_text.config(state="normal")
+        if error:
+            self.log_text.insert(tk.END, f"LỖI: {message}\n")
+        else:
+            self.log_text.insert(tk.END, f"{message}\n")
+        self.log_text.see(tk.END) # Tự động cuộn xuống cuối
+        self.log_text.config(state="disabled")
 
 if __name__ == "__main__":
-    main()
+    root = tk.Tk()
+    app = Application(master=root)
+    app.mainloop()

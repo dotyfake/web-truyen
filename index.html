@@ -390,16 +390,11 @@
         }
         
         // Hàm sắp xếp chương theo số thứ tự tự nhiên
-        function naturalSort(a, b) {
-            const getNumber = (str) => {
-                const match = (str || '').match(/(\d+)/);
-                return match ? parseInt(match[1], 10) : 0;
-            };
-            const numA = getNumber(a.title || a.file);
-            const numB = getNumber(b.title || b.file);
-            if (numA !== numB) return numA - numB;
-            return (a.title || a.file).localeCompare(b.title || b.file, 'vi');
-        }
+        function sortByIndex(a, b) {
+    // Sắp xếp tăng dần dựa trên thuộc tính 'index'
+    // Nếu a.index không tồn tại, coi nó là 0 để tránh lỗi
+    return (a.index || 0) - (b.index || 0);
+}
         
         // Hiển thị danh sách truyện
         function displayStories() {
@@ -446,7 +441,7 @@
             
             document.getElementById('storyTitle').textContent = currentStory.title;
             
-            const sortedChapters = [...currentStory.chapters].sort(naturalSort);
+            const sortedChapters = [...currentStory.chapters].sort(sortByIndex);
             currentStory.chapters = sortedChapters;
     
             const chapterList = document.getElementById('chapterList');
@@ -468,7 +463,7 @@
             if (!currentStory) return;
 
             // Sắp xếp chương để đảm bảo chỉ số chương là chính xác
-            const sortedChapters = [...currentStory.chapters].sort(naturalSort);
+            const sortedChapters = [...currentStory.chapters].sort(sortByIndex);
             currentStory.chapters = sortedChapters;
             
             // Đảm bảo chỉ số chương hợp lệ

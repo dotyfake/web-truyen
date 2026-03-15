@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 6
-}
-]
+Cuộc đối đầu giữa Mộc Khánh Vân và Mục Trang Nhược bắt đầu bằng một bản kế kèo đầy kịch tính. Trước khi bước vào trận đấu, Mục Trang Nhược đã bị Mộc Khánh Vân lôi kéo vào một vụ cá cược vô cùng nhục nhã: kẻ thua cuộc sẽ phải trở thành "con chó trung thành" (faithful dog) của người thắng. Mục Trang Nhược, vốn tự phụ vào trí tuệ và võ công tuyệt đỉnh của mình, tin rằng bản thân không thể thất bại bởi hắn đang nắm giữ một bí kỹ mà ngay cả những vị Vương cũng phải thèm muốn. Hắn không hề biết rằng bản thân đang bước vào một cái bẫy tâm lý do Mộc Khánh Vân giăng sẵn.
+
+Trên đài quan sát, các vị cao tàng của Thiên Địa Hội bắt đầu đưa ra những nhận định sắc bén. Ngũ Vương Viên Bỉnh Hạc và Tôn Vân đều bàng hoàng khi nhận thấy Mục Trang Nhược đã đạt tới cảnh giới Đỉnh Phong Hậu Kỳ (Pinnacle-stage of Peak Realm) – một thành tựu không tưởng đối với một thiếu niên mười bảy tuổi. Trong khi đó, Mộc Khánh Vân trong mắt họ chỉ là một võ giả Nhất Lưu bình thường. Triệu Âm Cốc Chủ Hàng Diệp Lương thậm chí còn đánh cược với Ảnh Phái Chủ rằng Mục Trang Nhược sẽ kết thúc trận đấu chỉ trong vòng 3 chiêu. Khoảng cách về tu vi dường như đã quá rõ ràng, khiến mọi ánh mắt đều đổ dồn vào một kết thúc chóng vánh cho Mộc Khánh Vân.
+
+Tuy nhiên, khi trận đấu chính thức bắt đầu, mọi dự đoán đều bị đảo lộn. Mục Trang Nhược tung ra chiêu thức "Lưu Thủy Tùy Loạn Thức" với những đòn chưởng biến hóa khôn lường, nhưng Mộc Khánh Vân chỉ với những bước di chuyển đơn giản và uyển chuyển đã né tránh toàn bộ một cách nhẹ nhàng. Sự điềm tĩnh đến đáng sợ của Mộc Khánh Vân khiến các vị Vương phải nghi ngờ rằng hắn đang che giấu tu vi thực sự bằng một loại bí thuật tâm pháp cực kỳ cao cấp. Trận đấu dần đẩy lên cao trào khi Mục Trang Nhược quyết định tung ra át chủ bài: "Hữu Quyền Tả Chưởng" (Right Fist, Left Palm) – khả năng sử dụng hai loại võ công khác biệt bằng hai tay cùng lúc.
+
+Đòn tấn công bất ngờ của Mục Trang Nhược cuối cùng cũng chạm tới Mộc Khánh Vân, đánh trúng vào sườn và ngực hắn. Các vị Vương tin rằng Mộc Khánh Vân đã lãnh trọn những đòn chí mạng và trận đấu coi như ngã ngũ. Thế nhưng, Mộc Khánh Vân lại thản nhiên đứng dậy, bẻ cổ rắc rắc và thừa nhận rằng hắn đã hơi coi thường đối thủ. Kịch tính nổ ra khi Mộc Khánh Vân bắt đầu thực hiện một hành động điên cuồng: hắn bắt đầu bắt chước chính xác bí kỹ "Hữu Quyền Tả Chưởng" của Mục Trang Nhược ngay sau khi vừa nhìn thấy nó lần đầu. Sự kinh hãi tột độ bao trùm lấy quảng trường khi Mộc Khánh Vân bắt đầu vận hành kiếm pháp ở tay phải và quyền pháp ở tay trái, phản công mãnh liệt khiến Mục Trang Nhược hoàn toàn mất kiểm soát.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 32
-}
-]
+Màn đêm buông xuống trong Tàng Bảo Các, nhưng không gian bên trong lại sáng rực bởi luồng tà khí kinh hồn phát ra từ thực thể vừa bước ra khỏi bức họa cổ. Kẻ tự xưng là "Chúa tể Tây Hải" hiện thân dưới hình dáng một người đàn ông trung niên tóc trắng, mang một vẻ uy nghiêm và tà ác vượt xa mọi linh hồn mà Mộc Khánh Vân từng gặp. Theo lời của linh hồn Thanh Linh, đây không phải là một ván cờ tầm thường, bởi thực thể trước mắt chính là một "Linh Thú" (Spirit Beast) – những sinh vật huyền thoại có tuổi thọ hàng vạn năm, đứng ở đỉnh cao của hệ thống tâm linh. Thanh Linh, người vốn luôn kiêu ngạo và tự tin, nay cũng phải run rẩy trong sợ hãi, cảnh báo Mộc Khánh Vân rằng đây là một đối thủ mà con người không thể chiến thắng.
+
+Dù cảm nhận được áp lực ngàn cân đang đè nặng, Mộc Khánh Vân vẫn giữ được thái độ điềm tĩnh đến lạ lùng. Hắn nhận ra rằng dù đã hấp thụ một phần yêu khí rò rỉ, sức mạnh còn lại của Chúa tể Tây Hải vẫn là một biển cả mênh mông mà hắn chỉ là một con thuyền nhỏ nhoi. Thực thể tóc trắng cười nhạo sự nhỏ bé của con người, gọi họ là những "loài sâu bọ" không đáng để tâm. Hắn chỉ cần một cái phất tay đã khiến hai con rối gỗ – nơi chứa đựng linh hồn của Thanh Linh và Quỷ Tô Hà – bay thẳng vào lòng bàn tay mình. Một tình thế cực kỳ ngặt nghèo hiện ra: Chúa tể Tây Hải định dùng hai linh hồn này làm "bữa ăn" để khôi phục lại phần năng lượng đã mất sau hàng nghìn năm bị phong ấn.
+
+Kịch tính lên đến đỉnh điểm khi Chúa tể Tây Hải bắt đầu hấp thụ linh lực của Thanh Linh, khiến nàng thét lên trong đau đớn tột cùng. Mộc Khánh Vân lập tức tấn công hòng giải cứu đồng đội, nhưng mọi nỗ lực của hắn đều trở nên vô nghĩa trước sức mạnh áp đảo. Hắn bị đánh văng, va đập dữ dội vào trần hang rồi ngã xuống sàn với những vết thương chí mạng bên trong. Tuy nhiên, thay vì sợ hãi, Mộc Khánh Vân lại nở một nụ cười lạnh lẽo trên khuôn mặt đầy máu. Sự tò mò về một thực thể tối cao đã lấn át cả bản năng sinh tồn của hắn.
+
+Vào đúng lúc nghìn cân treo sợi tóc, một biến số mới xuất hiện: Trưởng lão Dương Mộ Nguyên – người canh giữ Tàng Bảo Các – lao tới sau khi nghe thấy những tiếng động kinh hoàng. Ông bàng hoàng trước sự hiện diện của một cao thủ không xác định bên trong khu vực cấm. Chúa tể Tây Hải toan ra tay hạ thủ Dương Mộ Nguyên, nhưng hắn đột ngột bị đẩy lùi bởi chính đường kẻ màu đỏ trên sàn nhà – một phong ấn tinh vi được tạo ra bởi một kẻ mà hắn gọi là "Kẻ ba mắt". Lợi dụng khoảnh khắc này, Thanh Linh và Quỷ Tô Hà đã thoát ra ngoài ranh giới phong ấn, nhưng Mộc Khánh Vân lại bị Chúa tể Tây Hải tóm gọn trở lại. Bị kẹt trong không gian chết chóc với một Linh Thú đang điên tiết, Mộc Khánh Vân bất ngờ đưa ra một đề nghị táo bạo: Hắn muốn thỏa thuận với thực thể tà ác này hòng tìm một con đường sống trong cõi chết.
+
 
 ## Toàn bộ chương
 

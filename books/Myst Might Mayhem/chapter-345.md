@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] API error threshold reached. Rotated token. Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 5
-}
-]
+## Tóm tắt chương truyện
+
+Cái chết thê lương và vặn vẹo của Đường Nhân Hải không khơi dậy ngọn lửa hận thù trong lòng môn đồ Đường gia, mà thay vào đó là một bóng đen u ám của sự thất vọng và nhục nhã. Khi tấm mặt nạ của vị Gia chủ anh minh bị xé nát, để lộ một linh hồn hèn nhát và tàn độc, những người con của Đường môn bỗng chốc rơi vào trạng thái mất phương hướng. Sự im lặng bao trùm sân sau Đường phủ không phải là sự tôn nghiêm, mà là sự thừa nhận cay đắng cho một triều đại sụp đổ từ bên trong. Tuy nhiên, cơn ác mộng vẫn chưa kết thúc. Mộc Khánh Vân đứng đó, giữa vũng máu tanh nồng, đôi mắt mang theo sát ý lạnh lẽo vẫn chưa hề có ý định dừng lại. Hắn muốn dùng máu của toàn bộ Đường gia để làm một màn tế lễ xứng đáng gửi đến vong linh người ông quá cố.
+
+Giữa lúc ngàn cân treo sợi tóc, khi hai thanh ma kiếm của Mộc Khánh Vân bắt đầu tỏa ra luồng năng lượng hắc ám chuẩn bị cho một cuộc thảm sát diện rộng, Moo-jin đã xuất hiện. Dù vết thương nơi lồng ngực vẫn còn nhức nhối và cơ thể chưa thể phát huy tối đa sức mạnh của "Vòng Trấn Lực", Moo-jin vẫn đứng ra như một bức tường thành cuối cùng để bảo vệ tôn nghiêm của Đường môn. Cuộc đối đầu giữa hai kẻ mạnh nhất tại hiện trường mang theo sự căng thẳng tột độ, khi Moo-jin hối hận vì đã từng tin tưởng vào lòng nhân từ của Mộc Khánh Vân, còn Mộc Khánh Vân lại coi việc tiêu diệt Moo-jin chỉ là một bước đi tất yếu để hoàn tất cuộc báo thù.
+
+Thế nhưng, một bước ngoặt bất ngờ đã xảy ra khi Đường Nhân Hủ – chỉ huy đội hộ vệ của Gia chủ – bước ra với tư cách là người đại diện mới cho những kẻ còn sống. Bằng sự chân thành khẩn thiết và nhãn quan thực tế, Nhân Hủ đã vạch rõ cho Mộc Khánh Vân thấy rằng tất cả môn đồ ở đây đều là nạn nhân bị Đường Nhân Hải bỏ rơi và lừa dối. Lão cầu xin Mộc Khánh Vân hãy để cho Đường môn một con đường sống, đổi lại họ sẵn sàng chấp nhận mọi điều kiện trừng phạt. Trước sự hèn mọn và nỗi sợ hãi tột cùng của cả một đại gia tộc hùng mạnh, Mộc Khánh Vân bỗng nảy sinh một ý tưởng trừng phạt còn tàn khốc hơn cả cái chết. Hắn yêu cầu Đường môn phải thực hiện "Phong môn" trong vòng sáu mươi năm – một khoảng thời gian đủ dài để hai thế hệ võ giả bị giam cầm trong bóng tối, và cũng đủ để cái tên Đường môn lùi vào dĩ vãng của giới võ lâm.
+
+Đứng trước sự lựa chọn giữa sự hủy diệt toàn bộ và sự nhục nhã kéo dài, các vị trưởng lão và môn đồ Đường gia đã phải cúi đầu chấp nhận. Đường Nhân Hủ, đại diện cho danh dự cuối cùng của Tứ Xuyên Đường môn, đã phải lớn tiếng tuyên cáo trước trời đất về sự thất bại nhục nhã này. Khi được hỏi về danh xưng của kẻ đã khuất phục toàn bộ gia tộc, Mộc Khánh Vân đã thản nhiên thốt lên hai chữ: "Thiên Ma". Tiếng hét tuyên cáo của Đường Nhân Hủ vang vọng khắp thung lũng, đánh dấu một cột mốc lịch sử đau đớn: Đường môn Tứ Xuyên – một trong bảy đại gia tộc quyền lực nhất Trung Nguyên – chính thức rút khỏi giang hồ, phong tỏa cổng môn trong sáu mươi năm để trả giá cho tội lỗi của kẻ cầm đầu, dưới cái uy danh chấn động của Thiên Ma.
+
 
 ## Toàn bộ chương
 

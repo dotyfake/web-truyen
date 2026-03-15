@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 44
-}
-]
+## Tóm tắt chương truyện
+
+Chương truyện mở đầu bằng việc Mộc Khánh Vân giải thích về sự sáng tạo kiếm pháp của mình cho Thanh Linh: "trong cốt lõi của sự giản đơn chính là sự phức tạp cực hạn". Hắn nhận ra mình chưa thể đạt tới cảnh giới "giản đơn" như lão giả cầm cần câu, nên đã chọn cách tạo ra một thức kiếm bao quát toàn bộ các quỹ đạo lý tưởng để diệt địch, một sự kết hợp giữa trí tưởng tượng phong phú và thực lực đang thăng tiến vượt bậc. Thanh Linh, vốn là một bậc thầy kiếm đạo, cũng phải ngậm ngùi thừa nhận rằng tư chất của thiếu niên này đã vượt xa nàng. Đây chính là dấu mốc khẳng định Mộc Khánh Vân không còn là kẻ đi sau, mà đang dần trở thành người dẫn dắt trong cuộc chơi võ học đầy biến ảo này.
+
+Chuyến hành trình của họ tiếp tục khi cả nhóm tiến vào Khai Phong – kinh đô rực rỡ và sầm uất bậc nhất. Quy mô khổng lồ của thành phố với những bức tường thành cao vút và dòng người tấp nập đã để lại ấn tượng mạnh mẽ cho toàn đội. Trong khi U Bồng tách ra để thực hiện các kết nối chính trị, Can Dương dẫn Mộc Khánh Vân và những người còn lại đến "Hồng Bảng Nhục" – lò mổ gia súc lớn nhất kinh thành. Mục tiêu của họ là gặp gỡ "Thợ thủ công", một bậc thầy trong việc chế tạo mặt nạ da người (nhân bì diện cụ) ẩn mình dưới lớp vỏ bọc của một đồ tể. Lò mổ này không chỉ cung cấp thịt cho dân chúng mà còn là nguồn cung chính cho hoàng cung, biến nó thành một trung tâm thông tin và vận chuyển bí mật cực kỳ quan trọng.
+
+Tại Hồng Bảng Nhục, Mộc Khánh Vân đã có cuộc chạm trán gián tiếp đầu tiên với lực lượng Cẩm Y Vệ (Jinyiwei) khi họ đang kiểm tra chất lượng thịt cung cung. Trong số đó, một vị Thiên Hộ đeo mặt nạ mang đôi mắt xanh biếc (người Tây Vực) đã thu hút sự chú ý đặc biệt của hắn. Mộc Khánh Vân, với khả năng nhìn thấy dòng chảy của khí, đã phát hiện ra vị quan này đang tự phong tỏa các huyệt đạo để che giấu một thực lực kinh hồn, vượt xa vẻ bề ngoài của mình. Sự hiện diện của một người ngoại tộc có võ công thâm hậu trong hàng ngũ cận vệ hoàng gia Thiên triều là một chi tiết đầy nghi vấn, gợi mở cho những âm mưu phức tạp bên trong cung cấm.
+
+Chương truyện khép lại khi nhóm người bước chân vào mật đạo ngầm của lò mổ, nơi mùi máu tanh nồng và tiếng gào rít của gia súc tạo nên một không gian u ám, rợn người. Mộc Khánh Vân đã bắt đầu cảm nhận được luồng khí tức của những kẻ mạnh và sự hiện diện của những biến số mới có thể làm đảo lộn kế hoạch. Cuộc chơi tại Khai Phong không còn chỉ là đột nhập và bắt cóc, mà đã trở thành một bàn cờ đa phương diện với sự tham gia của những quan viên hoàng tộc, những cao thủ Tây Vực và cả những thợ thủ công tài ba bậc nhất. Mỗi bước đi của Mộc Khánh Vân giờ đây đều phải thận trọng hơn bao giờ hết, khi hắn đang tiến gần hơn tới trái tim của quyền lực và những bí mật đen tối của đế quốc.
+
 
 ## Toàn bộ chương
 

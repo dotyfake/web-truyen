@@ -2,26 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-**Tóm tắt chương 336:**
+## Tóm tắt chương truyện
 
-Tang In-hae nhận ra Guyang Sa-oh, đối thủ lâu năm của mình, đang che mặt và làm việc với phe đối địch. Guyang Sa-oh tuyên bố sẽ đấu tay đôi với Tang In-hae và cấm những người khác can thiệp. Tang In-hae bất đắc dĩ phải chấp nhận giao chiến với Guyang Sa-oh. Cả hai đều tung ra các kỹ thuật độc công mạnh mẽ, tạo nên một trận chiến hủy diệt.
+Giữa thung lũng hoang vu, một trận đại chiến mang tính quyết định vận mệnh đã nổ ra với những diễn biến nghẹt thở. Tâm điểm của sự chú ý đổ dồn vào cuộc kỳ phùng địch thủ giữa Gia chủ Đường tộc – Đường Nhân Hải và đối thủ lâu năm Cửu Dương Xà Ô. Dù đã ẩn mình dưới lớp mặt nạ da người tinh vi, Xà Ô vẫn bị Đường Nhân Hải nhận diện nhờ luồng độc khí xanh biếc và thanh xà trượng tám đầu rắn trứ danh. Xà Ô tuyên bố đây là trận chiến cuối cùng để khép lại mọi ân oán trong quá khứ, biến không gian xung quanh thành một vùng tử địa nơi độc khí tím ngắt của Đường môn và độc lục của Cửu Dương gia tranh phong gay gắt, khiến cỏ cây hoa lá đều héo úa và mặt đất chuyển sang màu đen kịt.
 
-Trong khi đó, Moo-jin và Mok Gyeong-un giao chiến ác liệt. Moo-jin mở khóa vòng tay trấn áp sức mạnh (Force Suppressing Bracelet) đến tầng thứ ba và sử dụng các kỹ thuật mạnh mẽ, dồn ép Mok Gyeong-un. Mok Gyeong-un đáp trả bằng tốc độ và kiếm pháp điêu luyện. Moo-jin phá hủy mặt đất để hạn chế di chuyển của Mok Gyeong-un, sau đó tung ra chiêu thức "Phi Long Xoay Chuyển" (Revolving Flying Dragon), tạo ra một cơn lốc xoáy.
+Trong một diễn biến khác, Mộc Khánh Vân đang phải đối đầu với một thử thách cam go chưa từng có mang tên Moo-jin. Moo-jin đã chính thức giải phóng tầng thứ ba của "Vòng tay trấn áp lực lượng", biến cơ thể thành một cỗ máy chiến tranh thực thụ với sức mạnh vượt xa giới hạn con người. Hắn thi triển "Địa Phá Sát", một chiêu thức kinh thiên động địa đánh nát toàn bộ mặt đất trong phạm vi ba mươi trượng, tạo ra một trận mưa đá vụn sắc lẹm để cầm chân bộ pháp thần lôi của Mộc Khánh Vân. Không dừng lại ở đó, Moo-jin tiếp tục tung ra "Phi Long Xoay Chuyển", tạo thành một cơn bão lốc xoáy mang lực hút vạn cân, hòng nuốt chửng và nghiền nát đối thủ trong tâm bão.
 
-Mok Gyeong-un lợi dụng cơn lốc xoáy, dùng kiếm tạo ra một lối đi và tấn công Moo-jin. Moo-jin dễ dàng bắt được lưỡi kiếm, tin rằng mình đã nắm chắc phần thắng. Tuy nhiên, Mok Gyeong-un phun ra máu đen, cho thấy hắn đã bị thương nặng do sử dụng các kỹ thuật quá sức. Khi Moo-jin mất cảnh giác, Mok Gyeong-un đã bí mật dồn sức mạnh vào thanh ma kiếm và đâm lén Moo-jin từ phía sau. Hóa ra, việc Mok Gyeong-un trở thành "mồi nhử" chỉ là một phần trong kế hoạch của hắn để dồn ép Moo-jin và tung ra đòn tấn công chí mạng.
+Mộc Khánh Vân đã chứng minh bản thân không chỉ có ma tâm đáng sợ mà còn sở hữu một trí tuệ võ học siêu việt. Thay vì tìm cách thoát khỏi lực hút tử thần, hắn đã thực hiện một bước đi táo bạo: lao thẳng vào tâm cơn lốc. Bằng cách thi triển "Nghịch Truy Đuổi Toàn Phong Kiếm" với chiều xoay cùng hướng với lốc xoáy của Moo-jin, Mộc Khánh Vân đã khéo léo tạo ra một khe hở không gian, xuyên qua lớp phòng ngự bão tố để áp sát đối thủ. Hắn sử dụng các thanh Ma kiếm làm điểm tựa vô hình giữa không trung, di chuyển như một bóng ma len lỏi giữa những mảnh vụn đá bay.
 
-## Toàn bộ chương
+Chương truyện khép lại với màn đấu trí đỉnh cao. Khi Moo-jin đắc thắng tin rằng đã tóm gọn được lưỡi kiếm của Mộc Khánh Vân và nắm giữ sinh mạng đối thủ trong tay, hắn đã rơi vào cái bẫy hoàn hảo. Mộc Khánh Vân phun ra một ngụm máu đen, giả vờ trọng thương và kiệt sức để Moo-jin nảy sinh tâm lý chủ quan. Ngay trong khoảnh khắc sơ hở ngắn ngủi đó, Mộc Khánh Vân đã dồn toàn bộ ma lực và chân khí vào một đòn đâm hiểm hóc từ vị trí không ngờ tới. Sự thật được hé lộ: Mộc Khánh Vân đã dùng chính mình làm mồi nhử, chấp nhận chịu thương tổn để đổi lấy một cơ hội duy nhất hạ gục gã khổng lồ Moo-jin, mở ra một cục diện mới cho trận chiến tại thung lũng.
 
-[FAIL_RATE_LIMIT_TRANSLATION] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 30
-}
-]
 
 # Myst, Might, Mayhem-Chapter 336
 

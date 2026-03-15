@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 2
-}
-]
+## Tóm tắt chương truyện
+
+Tại khu vực kho lương thực hoàng cung, một màn kịch đầy ân oán và những tiết lộ chấn động về huyết thống đã diễn ra giữa những làn khói xám của cổng dịch chuyển không gian. Mộc Khánh Vân, trong nỗ lực duy trì lối thoát hiểm duy nhất, đã phát hiện ra "Thoán Sát Kiếm" không đơn thuần là một vật vô tri. Khi Tô Vận Hương ra tay, thanh ma kiếm này đã truyền vào não bộ hắn những ảo ảnh về một mối thâm thù đại hận trong quá khứ chống lại chính dòng dõi kiếm pháp của nàng. Sự căm hờn truyền đời của ma kiếm đối với di duệ của "Chân Huyết" đã khiến cuộc giao tranh trở nên điên cuồng, khi Mộc Khánh Vân vừa phải áp chế tà tính của kiếm, vừa phải đối phó với những chiêu thức "Hổ Nha Kiếm Thức" đầy dũng mãnh của Tô Vận Hương.
+
+Không gian bỗng chốc đông đặc sát khí khi Lục Huyết Thánh Đàm Bạch Hà ra mặt. Khi Tô Vận Hương sử dụng "Đạn Chỉ Thần Thông" – một tuyệt kỹ hiếm có dựa trên kình lực đầu ngón tay – để uy hiếp, Đàm Bạch Hà không những không e sợ mà còn nhận ra ngay hơi thở của cố nhân. Một khoảnh khắc chấn động đã xảy ra ngay giữa trận chiến: Tô Vận Hương nhận diện ra Đàm Bạch Hà chính là vị "Huyết Ma" huyền thoại đã bị giam cầm hàng thế kỷ, trong khi Đàm Bạch Hà lại gọi tên "Kim tộc" (Jin Clan) với một sự xúc động nghẹn ngào. Hóa ra, đằng sau lớp áo Cẩm Y Vệ của Tô Vận Hương là dòng máu của những vị thần linh đã thăng thiên, cùng cội nguồn với niềm tin mà Đàm Bạch Hà tôn thờ. Sự thù hận giữa quan quân và tù nhân bỗng chốc tan biến, nhường chỗ cho một sự liên kết huyết thống sâu sắc vượt thời gian.
+
+Kịch tính của chương truyện được đẩy lên cao trào khi Lâm Quý Nguyệt, vị Ty chủ đang tháo chạy trối chết trước sự truy đuổi của các "Nhân hình đồng nhân" từ đáy vực, đã nhìn thấy cổng dịch chuyển. Hắn gào thét thảm thiết cầu xin sự cứu mạng từ Tô Vận Hương, tin rằng tình đồng môn sẽ giúp hắn thoát khỏi cái chết trong gang tấc. Thế nhưng, trong một hành động khiến Mộc Khánh Vân cũng phải bất ngờ, Tô Vận Hương đã lựa chọn bảo vệ bí mật về "Huyết Ma" và dòng tộc của mình. Thay vì đưa tay cứu giúp, nàng đã phóng ra "Trúc Á Hồi Kiếm", tạo nên một trận bão kiếm khí bịt kín lối vào, đánh bật Lâm Quý Nguyệt và những cỗ máy bằng đồng trở lại vào bóng tối sâu thẳm của hầm ngục đang sụp đổ.
+
+Chương truyện kết thúc khi cánh cửa dịch chuyển khép lại hoàn toàn, cắt đứt sự sống của Lâm Quý Nguyệt và chôn vùi mọi dấu vết của Địa ngục vĩnh cửu. Sự lựa chọn tàn nhẫn nhưng quyết liệt của Tô Vận Hương cho thấy nàng đã chính thức từ bỏ nghĩa vụ đối với triều đình để dấn thân vào con đường đầy bất định cùng Mộc Khánh Vân và "người em gái" truyền đời của mình. Với sự gia nhập của hai nữ cao thủ mang dòng dõi huyền thoại, Mộc Khánh Vân giờ đây đã nắm giữ trong tay những quân bài mạnh nhất để đối đầu với các thế lực ẩn mình trong hoàng cung Khai Phong. Một chương mới đẫm máu về sự trỗi dậy của ma đạo và những di duệ chân truyền chính thức được mở ra giữa lòng kinh đô đang rúng động.
+
 
 ## Toàn bộ chương
 

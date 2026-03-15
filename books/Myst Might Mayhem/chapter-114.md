@@ -2,15 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-}
-]
+Cuộc tranh cãi nảy lửa giữa Minh Đao Vương Tôn Vân và Lôi Điện Quyền Vương Viên Bỉnh Hạc về việc ai sẽ là người thu nhận Mộc Khánh Vân đã đẩy bầu không khí tại Hủ Huyết Cốc lên cao trào. Cốc chủ Lý Chi Khiêm dù rất muốn can thiệp để buổi lễ tiếp tục nhưng cũng không dám mạo phạm hai vị quyền thế bậc nhất này. May thay, Ảnh Phái Chủ đã lên tiếng hòa giải, nhắc nhở cả hai rằng theo luật lệ của Thiên Địa Hội, học viên giành vị trí Thủ khoa (Top Disciple) sẽ có quyền tự chọn người dẫn dắt mình. Điều này tạm thời dập tắt ngọn lửa xung đột, bởi tất cả đều ngầm hiểu rằng với thiên phú kinh người vừa thể hiện, Mộc Khánh Vân gần như đã nắm chắc vị trí đứng đầu.
+
+Trận đấu tiếp theo diễn ra giữa Mộ Hạ Lăng (Ma Hỏa Đường) và Diễn Võ Hùng (Bí Cảnh Môn). Đây là một cuộc đối đầu thú vị giữa sự linh hoạt tuyệt đối và sức mạnh thâm trầm. Diễn Võ Hùng sử dụng "Thiết Huyệt Quyền" – một loại ngoại gia võ công khiến cơ thể cứng như đá thép, trong khi Mộ Hạ Lăng vận dụng bộ pháp sát thủ nhanh như chớp giật. Mộc Khánh Vân bình thản quan sát và dự đoán chính xác chiến thắng sẽ thuộc về Mộ Hạ Lăng. Đúng như hắn nghĩ, Mộ Hạ Lăng đã tìm ra kẽ hở tại huyệt nách – điểm yếu chưa hoàn thiện trong tà công của Diễn Võ Hùng – và kết thúc trận đấu bằng những sợi kim ty bạc sắc lẹm, buộc đối thủ phải quỳ gối đầu hàng.
+
+Một khoảnh khắc gây sốc diễn ra ngay sau trận đấu khi Mục Trang Nhược tỉnh lại. Thay vì tức giận hay phục thù, hắn đã lặng lẽ tiến đến bên cạnh Mộc Khánh Vân và cúi đầu xưng "Chủ nhân" (Master). Đây là kết quả của vụ cá cược trước đó, nhưng hành động phục tùng tuyệt đối của một thiên tài kiêu ngạo như Mục Trang Nhược khiến Mộc Vũ Thiên đứng cạnh đó phải rùng mình kinh hãi. Sự kinh hoàng của Mộc Vũ Thiên càng tăng lên khi nhận ra không chỉ Mục Trang Nhược, mà cả Viêm Gia và sau đó là Mộ Hạ Lăng cũng đều ngầm bày tỏ sự trung thành đáng sợ với Mộc Khánh Vân.
+
+Chương truyện kết thúc bằng một biến số mới khi Mộc Khánh Vân đột ngột nghe thấy một giọng nói bí ẩn thì thầm trực tiếp vào tai mình. Đây là bí kỹ "Truyền Âm Nhập Mật" – một loại âm công cao cấp mà người ngoài không thể nghe thấy. Mộc Khánh Vân nhanh chóng nhận diện được người đang liên lạc chính là Triệu Âm Cốc Chủ Hàng Diệp Lương. Ánh mắt liếc nhìn sắc lẹm của hắn trúng thẳng vào vị trí của nàng trên đài quan sát, khiến nàng không khỏi thơi thới vì đã tìm thấy một món "đồ chơi" thực sự thú vị và đáng giá để tranh đoạt.
+
 
 ## Toàn bộ chương
 

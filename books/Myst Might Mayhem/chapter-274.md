@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 22
-}
-]
+## Tóm tắt chương truyện
+
+Cuộc thư hùng giữa Mộc Khánh Vân và Lục Huyết Thánh đã bước sang một giai đoạn khốc liệt và đẫm máu chưa từng có trong lòng địa lao Khai Phong. Lục Huyết Thánh, với hơn 160 năm tuổi thọ và ý chí sắt đá vượt qua hàng thập kỷ tuyệt thực, đã hoàn toàn bàng hoàng khi thuật ảo giác tối thượng của mình bị vô điệu hóa trước một thiếu niên chưa đầy đôi mươi. Nàng nghi ngờ rằng sự giải thoát này chỉ là một màn kịch thâm độc khác của triều đình nhằm bẻ gãy ý chí trung kiên của nàng. Sự ngờ vực này đã biến thành cơn thịnh nộ tàn độc khi nàng thi triển tà thuật thôi miên, biến một vị Tổng Kỳ Cẩm Y Vệ vừa xuất hiện thành một con rối điên cuồng lao vào tấn công Mộc Khánh Vân.
+
+Sự tàn nhẫn và quyết đoán của Mộc Khánh Vân đã được phô diễn trọn vẹn khi hắn thản nhiên dùng chính gã lính canh làm lá chắn sống và vật hy sinh để tạo ra sơ hở. Giữa màn sương máu khi Lục Huyết Thánh xé nát gã lính canh, Mộc Khánh Vân đã tung ra một đòn kiếm chỉ xé toạc vai đối phương. Thế nhưng, một cảnh tượng kinh hoàng đã phơi bày trước mắt hắn: vết thương trên vai nàng không hề chảy máu mà lại bốc khói xì xì và tự lành lại với tốc độ siêu nhiên. Khả năng siêu tái tạo dựa trên luồng lôi điện xanh biếc đã biến Lục Huyết Thánh thành một thực thể gần như bất tử, thách thức mọi quy luật sinh học và võ học thông thường, khiến ngay cả ma công của Mộc Khánh Vân cũng phải gặp khó khăn trong việc gây ra sát thương vĩnh viễn.
+
+Trận chiến trở nên nghẹt thở khi cả hai bước vào cuộc đấu thực lực trực diện. Lục Huyết Thánh thi triển "Huyết Ngọc Thủ", biến hai bàn tay thành những khối ngọc đỏ rực rỡ mang sức mạnh nghiền nát đá tảng và xé toạc sắt thép. Đáp trả lại, Mộc Khánh Vân cũng không còn giữ kẽ, hắn giải phóng toàn bộ chân khí đen kịt đầy tử khí để đối chọi với luồng sấm sét xanh biếc. Sau hàng loạt chiêu thức trao đổi chớp nhoáng, cả hai đều phải thừa nhận đối phương là những "quái vật" hiếm có của thời đại. Lục Huyết Thánh bàng hoàng nhận ra thực lực của thiếu niên trước mặt đã đạt đến ngưỡng tiệm cận "Huyền Cảnh", một cảnh giới mà ngay cả trong thời đại huy hoàng của võ học cũ cũng cực kỳ hiếm thấy.
+
+Chương truyện kết thúc với màn phô diễn tuyệt kỹ khinh công "Phong Thần Bộ" của Mộc Khánh Vân, khiến cơ thể hắn như phân thân thành hai ảnh thực hư lao vào tấn công. Ánh mắt Lục Huyết Thánh hiện rõ sự kinh ngạc trước một chiêu thức vốn đã thất truyền hoặc chỉ lưu truyền trong những bí mật tối cao của triều đình. Sự va chạm giữa ma khí đen kịt và lôi điện xanh biếc rầm rộ hứa hẹn một vụ nổ năng lượng kinh thiên động địa, có thể san bằng cả căn phòng giam số 126 và lật tung những bí mật sâu kín nhất đang bị che giấu dưới lòng kinh thành Khai Phong. Một cuộc chiến không còn đường lui, nơi kẻ thắng sẽ nắm giữ chìa khóa của sự hỗn loạn sắp tới.
+
 
 ## Toàn bộ chương
 

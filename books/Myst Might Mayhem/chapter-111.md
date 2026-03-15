@@ -2,16 +2,18 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 9
-}
-]
+"Minh Đao Vương" Tôn Vân không khỏi sững sờ khi nhớ lại lần đầu gặp Mộc Khánh Vân – khi đó hắn chỉ là một thiếu niên với tu vi tam lưu yếu ớt từ phái chính đạo. Ông từng đưa hắn về Thiên Địa Hội chỉ vì tò mò về "Nguyệt Môn Kiếm Pháp" đã thất truyền trăm năm, nhưng sau đó đã bỏ mặc hắn vào Hủ Huyết Cốc – nơi mà tỷ lệ sống sót chỉ chưa đầy 20%. Tôn Vân đã từng đinh ninh rằng Mộc Khánh Vân chắc chắn sẽ bỏ mạng, nhưng báo cáo về việc đệ tử út Diệp Vĩ Tiên bị đánh bại nhục nhã đã buộc ông phải đích thân đến kiểm tra. Khi quan sát Mộc Khánh Vân từ xa, Tôn Vân nhận xét tu vi của hắn dường như chỉ ở mức Nhất Lưu (First-rate), điều này khiến ông vô cùng thắc mắc làm thế nào một kẻ yếu hơn lại có thể đánh bại một cao thủ Siêu Phàm như Diệp Vĩ Tiên.
+
+Trong khi đó, Mộc Khánh Vân vẫn đang bình thản quan sát các vị cao tàng trên đài. Hắn được Thanh Linh giải thích về sự nguy hiểm khôn lường của âm công – một loại võ công vô cùng khó chịu vì nó tấn công diện rộng, không phân biệt địch ta. Mộc Khánh Vân đang âm thầm chờ đợi một người quan trọng nhất đối với kế hoạch của mình: "Tuyệt Độc Vương" Bạch Sa Hà. Theo lời Cốc chủ Lý Chi Khiêm, Bạch Sa Hà là người nắm giữ manh bối về "Quỷ Đao" – kẻ thù giết ông nội của hắn. Tuy nhiên, sự vắng mặt của vị Vương này khiến Mộc Khánh Vân bắt đầu phải tính đến phương án dự phòng đầy mạo hiểm.
+
+Kỳ sát hạch cuối cùng (The Final Gate) chính thức được công bố dưới hình thức một giải đấu đối kháng (tournament). Với chỉ 6 học viên còn sót lại, việc bốc thăm chia bảng trở nên vô cùng quan trọng vì sẽ có hai người may mắn được tiến thẳng vào vòng trong mà không cần đấu trận đầu. Kết quả bốc thăm mang lại những cung bậc cảm xúc trái ngược:
+1. Mộc Vũ Thiên (người em họ của Mộc Khánh Vân) bốc được số 6 – tiến thẳng vào vòng sau.
+2. Diễn Võ Hùng (Bí Cảnh Môn) bốc số 4 – đối đầu với Mộ Hạ Lăng (số 3).
+3. Mộc Khánh Vân bốc được số 2 – đối đầu với Mục Trang Nhược (số 1).
+4. Viêm Gia (người bị ác tăng chiếm hữu) bốc số 5 – đấu trực tiếp với Mộc Vũ Thiên ở vòng sau.
+
+Căng thẳng bùng phát khi Mục Trang Nhược – kẻ vốn luôn tự tin vào trí tuệ và võ công của mình – tiến đến bắt tay Mộc Khánh Vân với ý định thăm dò. Mộc Khánh Vân không ngần ngại tung ra đòn tâm lý chiến, tuyên bố rằng hắn sẽ "nương tay" để trận đấu không quá nhàm chán, khiến Mục Trang Nhược vốn điềm tĩnh cũng phải lặng người vì tức giận. Một cuộc đối đầu không chỉ bằng sức mạnh mà còn bằng những toan tính thâm sâu đang chuẩn bị khai màn.
+
 
 ## Toàn bộ chương
 

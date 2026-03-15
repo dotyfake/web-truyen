@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 8
-}
-]
+## Tóm tắt chương truyện
+
+Những tiếng cầu xin nức nở của Thánh Nữ Bái Hỏa Giáo dành cho đứa cháu gái Dạ Tùng A đã mở đầu cho một chương truyện đầy ám ảnh. Giữa bầu không khí u ám của sự thù hận, nhà sư phá giới Giả Kim Tĩnh và Ma La Hiền vẫn lạnh lùng thực thi mệnh lệnh của Mộc Khánh Vân, ngăn cản mọi sự tiếp cận không cho phép. Trong khi đó, vị hộ vệ Moo-jin đang phải vật lộn với vết thương lòng khó lành, khi một luồng ma khí quái ác từ Mộc Khánh Vân vẫn cứng đầu đeo bám, ngăn cản sự hồi phục của cơ thể mạnh mẽ. Những âm thanh thê lương vang lên từ thung lũng Đường môn đã buộc Moo-jin phải rời bỏ trạng thái tĩnh tọa để chứng kiến màn hạ màn tàn khốc nhất.
+
+Tại trung tâm của Đường phủ, Đường Nhân Hải rơi vào trạng thái bàng hoàng tột độ khi thấy Mộc Khánh Vân bình thản bước đi giữa vùng kịch độc Vô Hình do chính mình phát động. Mọi nỗ lực vẫy vùng, mọi mệnh lệnh gào thét của vị Gia chủ hèn hạ đều rơi vào hư không khi các môn đồ Đường gia giờ đây chỉ nhìn lão bằng ánh mắt khinh miệt và thù hận sâu sắc. Mộc Khánh Vân, với phong thái của một bậc quân chủ ma đạo, đã tiết lộ sự thật kinh thiên động địa về cơ thể mình. Sau bao năm được ông nội Jang Mun-no tôi luyện bằng vô số danh dược và kịch độc, máu của hắn đã không còn là dòng máu nhân loại bình thường mà đã hóa thành cốt tủy của vạn độc, một thực thể tương khắc tuyệt đối với mọi loại công phu của Đường môn.
+
+Màn trả thù cuối cùng diễn ra theo một cách thức kỳ dị nhất mà võ lâm từng chứng kiến. Mộc Khánh Vân không dùng đao kiếm, mà dùng chính dòng máu của mình để kết liễu kẻ thù. Hắn bóp nghẹt miệng Đường Nhân Hải, ép lão phải nuốt lấy những giọt máu độc đỏ sẫm. Ngay lập tức, một thảm cảnh rùng rợn bắt đầu: máu của Mộc Khánh Vân khi đi vào cơ thể Đường Nhân Hải đã gây ra một phản ứng dây chuyền kinh hoàng. Huyết quản trên khắp cơ thể lão Gia chủ phình to như những con giun đất rồi nổ tung liên tiếp, xương cốt bên trong bắt đầu vặn xoắn, gãy vụn với những tiếng kêu rắc rắc khô khốc đầy ám ảnh.
+
+Giữa cơn đau thấu tận linh hồn, trí óc của Đường Nhân Hải bỗng hiện về hình ảnh Jang Mun-no của nhiều năm về trước với lời cảnh báo đầy hàm ý về cái giá mà lão phải trả. Hóa ra, ông nội của Mộc Khánh Vân đã tính toán từ trước rất lâu, bồi dưỡng Mộc Khánh Vân không chỉ để báo thù mà còn biến hắn thành một khắc tinh hoàn hảo nhất, một lưỡi gươm độc đạo hướng thẳng vào tim gan của Đường Nhân Hải. Chương truyện kết thúc khi cái xác vặn vẹo, biến dạng của vị Gia chủ Đường môn đổ gục xuống đất, hơi thở cuối cùng trôi đi trong sự hối hận muộn màng. Mộc Khánh Vân ngước mặt nhìn lên bầu trời xanh thẳm, âm thầm gửi lời tri ân đến người ông quá cố đã sắp đặt một màn báo thù sòng phẳng và mỹ mãn đến nhường này. Bầu không khí Đường phủ giờ đây chỉ còn lại sự tĩnh lặng của cái chết, đánh dấu sự sụp đổ hoàn toàn của một triều đại dối trá.
+
 
 ## Toàn bộ chương
 

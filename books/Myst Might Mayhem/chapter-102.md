@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 40
-}
-]
+Chương truyện tiếp nối màn đấu trí đầy kịch tính giữa Mộc Khánh Vân và Vệ Tố Nghiên trong không gian thâm nghiêm của Tàng Bảo Các. Sau khi Mộc Khánh Vân dùng mưu mẹo khiến Diệp Vĩ Tiên buộc phải phá vỡ lệnh cấm khẩu của Vệ Tố Nghiên, hắn đã khéo léo đẩy nàng vào thế "há miệng mắc quai". Vệ Tố Nghiên, với lòng kiêu hãnh của một truyền nhân Hội chủ, vốn cực kỳ coi trọng lời nói của mình. Nàng đã tuyên bố sẽ giết chết bất cứ ai dám mở miệng lần nữa, và giờ đây kẻ đó lại chính là thuộc hạ trung thành nhất của nàng.
+
+Tuy nhiên, thay vì nổi giận, Vệ Tố Nghiên lại bật cười. Một tràng cười sảng khoái sau lớp khăn voan che mặt, thể hiện sự thán phục trước một kẻ có trí tuệ "vay đao giết người" (tá đao sát nhân) thâm sâu như Mộc Khánh Vân. Nàng nhận ra rằng thiếu niên này không chỉ có võ học cao cường mà còn sở hữu một bộ óc nhạy bén, thứ còn hiếm gặp hơn cả các thiên tài võ học. Thay vì xuống tay với Diệp Vĩ Tiên, nàng đã chọn một phương án trung hòa đầy bất ngờ: trao cho Mộc Khánh Vân một miếng ngọc bội mang tên "Thiên Địa Hội" cùng danh tính của nàng – một vật phẩm đại diện cho lời hứa sẽ thực hiện một yêu cầu của hắn trong tương lai, miễn là yêu cầu đó nằm trong khả năng của nàng.
+
+Hành động này không chỉ là sự đền bù cho Mộc Khánh Vân mà còn là một khoản "đầu tư" thông minh của Vệ Tố Nghiên. Nàng chính thức bày tỏ ý định muốn chiêu mộ hắn vào phe phái của mình trong cuộc chiến giành ngôi vị Hội chủ đang diễn ra âm thầm nhưng khốc liệt. Để thể hiện sự chân thành, nàng thậm chí đã gỡ bỏ nón lá, để lộ dung nhan tuyệt mỹ của mình. Khoảnh khắc ấy, cả Mộc Khánh Vân và linh hồn Thanh Linh đều bàng hoàng. Vệ Tố Nghiên sở hữu vẻ đẹp chim sa cá lặn, nhưng điều đáng nói nhất chính là khuôn mặt nàng giống Thanh Linh đến kỳ lạ, như thể hai chị em sinh đôi hoặc là hiện thân của nhau ở hai thời đại khác nhau. Sự giống nhau này khiến Thanh Linh nảy sinh một tham niệm: nàng muốn chiếm đoạt cơ thể của Vệ Tố Nghiên để có thể sống lại một lần nữa.
+
+Bất chấp lời mời gọi đầy hấp dẫn về địa vị và sự ưu đãi, Mộc Khánh Vân đã đưa ra một quyết định khiến tất cả phải ngỡ ràng: hắn từ chối lời mời của Vệ Tố Nghiên. Hắn lấy lý do mình là kẻ ghét tranh đấu, nhưng thực chất sâu bên trong, Mộc Khánh Vân đang toan tính một quân cờ chắc chắn hơn. Hắn hiểu rằng việc đứng vào phe của Vệ Tố Nghiên – người hiện đang có thế lực yếu nhất trong ba đệ tử – đồng nghĩa với việc đối đầu với 80% sức mạnh còn lại của giáo phái. Với mục tiêu duy nhất là trả thù cho ông nội, hắn không muốn mạo hiểm đi vào con đường đầy chông gai khi chưa chắc chắn thắng lợi.
+
+Vệ Tố Nghiên dù thất vọng nhưng cũng không ép buộc, nàng để lại một lời nhắn nhủ đầy bí ẩn vào tai hắn trước khi rời đi, đồng thời hào phóng tặng thêm cho hắn một giờ đồng hồ để nghiên cứu bí kíp làm bù cho thời gian bị gián đoạn. Trong khi đó, Diệp Vĩ Tiên rời đi với lòng thù hận sôi sục, thề sẽ trả mối nhục này gấp trăm lần. Mộc Khánh Vân, sau khi tiễn khách, lại tiếp tục đắm mình vào biển tàng thư, chuẩn bị cho những bước đi táo bạo hơn trên con đường phục thù đầy máu và nước mắt.
+
 
 ## Toàn bộ chương
 

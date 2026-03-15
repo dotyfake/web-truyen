@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 56
-}
-]
+## Tóm tắt chương truyện
+
+Chương truyện này đưa người đọc vào một không gian võ học huyền bí và đầy triết lý, nơi Mộc Khánh Vân được tận mắt chứng kiến sự tinh túy của "Vô Nguyệt Hư Không Kiếm" qua màn trình diễn của lão giả thần bí. Không chỉ đơn thuần là những chiêu thức vật lý, lão giả đã thi triển kiếm pháp theo ba giai đoạn tượng trưng cho các hình thái của vầng trăng: từ sự huy hoàng, phức tạp của trăng tròn đến sự giản đơn, súc tích của trăng khuyết và cuối cùng là sự vô hình, tối giản của trăng mới. Mỗi lần thanh Tà Giới Kiếm vung lên là một lần quỹ đạo của nó tiệm cận với sự hoàn mỹ, khiến ngay cả linh hồn Thanh Linh cũng phải đạt được những ngộ tính mới về kiếm đạo.
+
+Một điểm nhấn quan trọng trong chương là cuộc đối thoại đầy ẩn ý giữa lão giả và Mộc Khánh Vân. Khi được hỏi về việc ghi nhớ chiêu thức, Mộc Khánh Vân đã trả lời rằng mình "đã quên hết tất cả". Đây không phải là sự yếu kém về trí nhớ, mà là đỉnh cao của sự giác ngộ võ học – sự rũ bỏ những khuôn mẫu cứng nhắc để nắm giữ lấy cái cốt lõi, tinh thần của kiếm pháp. Câu trả lời này đã nhận được sự tán thưởng nồng nhiệt từ lão giả, người vốn dĩ đã nhìn thấy tiềm năng vô hạn trong tâm thức của thiếu niên này. Lão giả sau đó đã biến mất một cách huyền bí ngay giữa dòng sông dữ, để lại Mộc Khánh Vân trong trạng thái thiền định sâu sắc nhằm hấp thụ toàn bộ những gì vừa chứng kiến.
+
+Trong khi những người đồng hành như Nhiếp Xuân hay Mông Vũ Nhược vẫn còn chìm trong giấc ngủ sâu do uy áp từ lão giả, một bí mật khác lại được hé lộ ở phần sau của chương. Đó là cuộc gặp gỡ giữa lão giả và oán hồn Hà Doãn. Thông qua cuộc trò chuyện này, người đọc biết được lão giả là một nhân vật huyền thoại đã sống hơn một trăm năm, định kỳ mười năm lại quay về chăm sóc phần mộ cho cố nhân. Đặc biệt, lời khẳng định của lão rằng tư chất của Mộc Khánh Vân có thể vượt xa cả những bậc thiên tài đời trước đã tạo nên một dự cảm về sự trỗi dậy của một thế lực mới trong giới vũ lâm.
+
+Chương truyện kết thúc với hình ảnh con thuyền dần cập bến, nhưng những dư âm từ bài học kiếm pháp và những bí mật về lai lịch của lão giả vẫn còn đọng lại mạnh mẽ. Mộc Khánh Vân giờ đây không chỉ mang theo mình những kỹ năng sát thủ, mà còn mang trong mình mầm mống của một kiếm đạo đỉnh cao, thứ có thể giúp hắn chém đứt mọi rào cản trên con đường chinh phục sức mạnh. Sự giao thoa giữa quá khứ lẫy lừng của lão giả và tương lai đầy biến động của Mộc Khánh Vân đã tạo nên một bức tranh võ hiệp đa chiều, đầy lôi cuốn, báo hiệu cho những sự kiện chấn động sẽ diễn ra trong những chương tiếp theo khi nhóm người tiến vào kinh đô Khai Phong.
+
 
 ## Toàn bộ chương
 

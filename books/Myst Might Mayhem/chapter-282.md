@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 59
-}
-]
+## Tóm tắt chương truyện
+
+Sau khi cánh cửa dịch chuyển khép lại hoàn toàn, cắt đứt hy vọng sống sót của Lâm Quý Nguyệt và chôn vùi Địa ngục vĩnh cửu vào hư không, một bầu không khí trang nghiêm và đầy xúc động đã bao trùm lấy kho lương thực hoàng cung. Đàm Bạch Hà, vị Lục Huyết Thánh lẫy lừng của Cửu Huyết Giáo, đã không ngần ngại quỳ xuống và phủ phục trước ty chủ Tô Vận Hương. Nàng khẳng định chắc chắn rằng Tô Vận Hương chính là di duệ cuối cùng mang dòng máu của Kim tộc – dòng dõi linh thiêng vốn nắm giữ ngôi vị giáo chủ của Cửu Huyết Giáo trong quá khứ. Mong muốn cháy bỏng của Đàm Bạch Hà là được phụng sự nàng để khôi phục lại vinh quang của giáo phái sau hàng thế kỷ bị triều đình đàn áp. Thế nhưng, trước sự tôn sùng đó, Tô Vận Hương lại tỏ ra vô cùng khắc khoải và kiên quyết từ chối, khẳng định bản thân chỉ muốn sống với danh phận hiện tại và không đủ tư cách để gánh vác đại nghiệp của tổ tiên.
+
+Mộc Khánh Vân đã khéo léo can thiệp vào cuộc đoàn viên đầy nghịch lý này bằng cách tiết lộ một sự thật tàn khốc: Ma Ra-hyeon, người đệ tử và cũng là cánh tay phải của Tô Vận Hương, bấy lâu nay đã bị Phó chỉ huy sứ Sang Ik-seo dùng Độc cổ khống chế và uy hiếp. Thông tin này như một nhát dao đâm vào lòng tự trọng và tình cảm của Tô Vận Hương, khiến nàng rơi vào trạng thái tự trách sâu sắc khi nhận ra sự vô tâm của mình đã để mặc người thân cận nhất phải chịu cảnh dày vò. Mặc dù Ma Ra-hyeon đã cố tình che giấu sự thật rằng người đang nắm giữ mệnh mạch của mình hiện giờ chính là Mộc Khánh Vân để tránh làm sư phụ lo lòng, nhưng Tô Vận Hương vẫn nhận ra rằng nàng đang mắc nợ vị "Tiểu Ma Đầu" này một món nợ ân nghĩa không thể tính đếm: hắn đã cứu mạng Ma Ra-hyeon, giải thoát Đàm Bạch Hà và bảo vệ Chu Vận Hương khỏi cái chết chắc chắn dưới lòng đất.
+
+Đứng trước những ân huệ chồng chất, Tô Vận Hương – người phụ nữ vốn mang khí chất thanh cao và kiêu hãnh của một ty chủ Cẩm Y Vệ – đã chính thức cúi đầu hành lễ cảm tạ Mộc Khánh Vân. Nàng cam kết sẽ dùng mọi quyền lực và khả năng của mình để đáp đền ân tình này. Mộc Khánh Vân, vốn luôn là kẻ thực dụng, đã lập tức yêu cầu nàng hỗ trợ để đưa nhóm người của hắn rời khỏi hoàng cung một cách êm thấm giữa lúc kinh thành Khai Phong đang chìm trong đại loạn sau cái chết của Kinh Vương. Tuy nhiên, một bước ngoặt lớn đã xảy ra khi Tô Vận Hương tuyên bố sẽ không rời bỏ hoàng cung hay đi theo Đàm Bạch Hà để khôi phục Huyết giáo như mong đợi của vị tiền bối.
+
+Chương truyện khép lại với tiết lộ chấn động về lý tưởng thực sự của Tô Vận Hương và Chu Vận Hương. Nàng lựa chọn tiếp tục ẩn mình trong lòng địch không phải vì sự trung thành với hoàng đế, mà là để thực hiện một kế hoạch mưu phản thâm sâu: lật đổ vương triều thối nát hiện tại từ ngay bên trong bộ máy quyền lực nhất. Viễn cảnh về một cuộc cách mạng đẫm máu từ bên trong Cẩm Y Vệ đã hé lộ một mục tiêu chung đầy bất ngờ giữa nàng và Mộc Khánh Vân. Dù đi trên hai con đường khác nhau, nhưng cả hai đều là những kẻ mang tham vọng thiêu rụi trật tự cũ, hứa hẹn một sự hợp tác ngầm đầy nguy hiểm có thể thay đổi hoàn toàn cục diện chính trị của toàn bộ Trung Nguyên trong tương lai.
+
 
 ## Toàn bộ chương
 

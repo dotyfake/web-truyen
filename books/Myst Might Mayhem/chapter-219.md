@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 39
-}
-]
+## Tóm tắt chương truyện
+
+Chương truyện là một chuỗi các sự kiện diễn ra dồn dập, đẩy mâu thuẫn giữa Mộc Khánh Vân, Thiên Địa hội và lực lượng Cẩm Y Vệ lên đến đỉnh điểm. Tại lò mổ Hồng Bảng Nhục, sự lo lắng bao trùm khi Mộc Khánh Vân đột ngột mất tích để truy đuổi đoàn xe triều đình. Can Dương lo ngại rằng sự bốc đồng của vị "thiếu chủ" này sẽ phá hỏng toàn bộ nhiệm vụ, nhưng Nhiếp Xuân và Mông Vũ Nhược lại đặt niềm tin vào bản lĩnh của hắn. Một tin chấn động nổ ra khi Tống Nhi – người được cho là con gái vị thợ thủ công – bị bắt giữ. Tuy nhiên, sự thật bắt đầu hé lộ khi đại sư Ja Geum-jeong nhận ra điểm bất thường: Tống Nhi thực chất chính là người thợ tài hoa nhất, và người bị chặt tay chỉ là một kẻ đóng thế để bảo vệ bí mật của cô.
+
+Bên trong chiếc xe ngựa, cuộc hội thoại giữa vị Thiên Hộ đeo mặt nạ và Tống Nhi đã lột trần những toan tính thâm sâu của Cẩm Y Vệ. Với khả năng quan sát tinh tường, Thiên Hộ đã nhận ra đôi tay của Tống Nhi mới là bằng chứng xác thực nhất cho danh tính thợ thủ công của cô – những vết sẹo và chai sần do hóa chất để lại. Thay vì trừng phạt, hắn lại đưa ra một thỏa thuận ngầm: tự do cho cô và cha nếu cô chế tạo cho hắn một chiếc mặt nạ da người đặc biệt. Điều này chứng tỏ vị Thiên Hộ này đang mưu tính một kế hoạch riêng, tách biệt hoàn toàn với lợi ích của triều đình, biến Tống Nhi trở thành một quân cờ quý giá trong tay mình.
+
+Phía bên ngoài, Mộc Khánh Vân đã âm thầm thực hiện một cuộc thảm sát lặng lẽ. Chỉ trong chớp mắt, hắn đã hạ gục toàn bộ đội ngũ bảo vệ xung quanh đoàn xe bằng "Myeonghyeon Suweolbo" (Minh Hiền Thủy Nguyệt Bộ) đỉnh cao. Tốc độ của hắn nhanh đến mức không một ai kịp phát ra tín hiệu cầu cứu, tạo nên một hiện trường chết chóc tĩnh lặng giữa rừng cây. Sự áp đảo về thực lực của Mộc Khánh Vân đã buộc vị Thiên Hộ mặt nạ phải rời khỏi xe ngựa để đối mặt trực diện. Đây không còn là cuộc truy đuổi giành lấy đôi bàn tay, mà đã trở thành một trận chiến kiểm định thực lực giữa hai kẻ mạnh nhất trong bàn cờ Khai Phong.
+
+Chương truyện kết thúc với hình ảnh Thiên Hộ bước ra khỏi xe ngựa, đối mặt với Mộc Khánh Vân giữa đống đổ nát của lực lượng hộ tống. Ánh mắt xanh biếc của hắn gặp gỡ sát khí lạnh lẽo của Mộc Khánh Vân, tạo nên một bầu không khí nghẹt thở. Thiên Hộ nhận ra rằng mình đang đối diện với một con quái vật thực sự, kẻ không màng đến uy danh của Jinyiwei mà sẵn sàng dẫm đạp lên tất cả để đạt được mục đích. Trận chiến sắp tới không chỉ quyết định số phận của Tống Nhi mà còn là khởi đầu cho sự sụp đổ của trật tự an ninh triều đình dưới tay Mộc Khánh Vân, kẻ đang dần chứng minh rằng không có bức tường thành hay thế lực nào có thể ngăn cản bước chân của mình.
+
 
 ## Toàn bộ chương
 

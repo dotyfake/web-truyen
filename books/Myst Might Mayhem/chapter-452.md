@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 18
-}
-]
+## Tóm tắt chương truyện
+
+Đứng trước sự hiện diện của Tấn Vân Huy – vị tổ tiên huyền thoại với danh hiệu "Kiếm Tiên" và "Huyết Ma", Mộc Khánh Vân lần đầu tiên cảm nhận được sức nặng của một huyền thoại thực thụ. Dù mang diện mạo trẻ trung, nhưng đôi mắt của Tấn Vân Huy lại chứa đựng sự thâm trầm của nghìn năm lịch sử, đôi khi shimmering rực rỡ với hai màu huyết sắc và kim quang đầy huyền ảo. Qua lời kể đầy run rẩy của Thanh Linh, Mộc Khánh Vân mới biết rằng mình đang đối diện với người duy nhất trong lịch sử từng trảm sát được "Giao Long Ma Vương" – một thực thể thần thoại vượt tầm hiểu biết của nhân gian. Tuy nhiên, Tấn Vân Huy đã đính chính một sự thật quan trọng: ông hiện tại chỉ là một "tàn niệm" (thought-form), một phần linh hồn được gửi gắm vào cõi thẻ tre để chờ đợi kẻ mang vận mệnh đặc biệt.
+
+Cuộc đối thoại giữa hai thực thể mạnh nhất của hai thời đại diễn ra trong một không khí đầy căng thẳng. Tấn Vân Huy không ngần ngại chỉ thẳng vào bản chất của Mộc Khánh Vân, gọi hắn là một thực thể "Ma" (Demon) đang ẩn mình trong lốt người. Vị tiên nhân này tiết lộ rằng việc Mộc Khánh Vân học được "Bát Tưởng Phá Tâm" không phải là ngẫu nhiên, mà là một phần của sự sắp đặt đầy toan tính nhằm kiểm tra xem liệu ý chí phàm trần của hắn có đủ mạnh mẽ để chế ngự ma tính nguyên thủy hay không. Tấn Vân Huy thừa nhận rằng, nếu Mộc Khánh Vân bị ma tính nuốt chửng, ông đã sẵn sàng dùng toàn bộ sức mạnh của huyễn cảnh để giam cầm hắn vĩnh viễn, ngăn chặn một tai họa diệt thế có thể bùng phát từ chính bản thân hắn. Sự kiên định của Mộc Khánh Vân khi khẳng định "Ta chỉ sống theo ý chí của chính mình" đã trở thành chìa khóa để vị tổ tiên này quyết định đặt niềm tin.
+
+Bí ẩn về việc tại sao "Bát Tưởng Phá Tâm" lại rơi vào tay Mộc Can – thủ lĩnh Tổ chức Bí mật – cũng đã được hé lộ dưới một góc nhìn chấn động. Tấn Vân Huy tiết lộ đó là một mưu kế để gieo rắc sự hỗn loạn bên trong cơ thể của Mộc Can, nơi hai ý chí điên cuồng đang tranh giành quyền kiểm soát. Việc truyền dạy bộ tuyệt học này cho kẻ thù chính là cách để trì hoãn thời điểm thực thể hỗn mang ra đời, bởi khi hai ý chí đó hoàn toàn đồng hóa, Trung Nguyên sẽ phải đối mặt với một cuộc đại hủy diệt không thể cứu vãn. Sự sắp đặt nghìn năm của Tấn Vân Huy thực chất là một cuộc chạy đua với thời gian để tìm kiếm một đối trọng đủ mạnh.
+
+Cuối chương truyện, khi huyễn cảnh bàn trà tan biến, Tấn Vân Huy đeo lại chiếc mặt nạ quỷ và để lại một lời cảnh báo lạnh lùng nhưng chân thực. Ông khẳng định rằng thảm họa diệt thế là không thể tránh khỏi và bản thân ông, một bóng ma của quá khứ, không thể can thiệp trực tiếp. Sứ mệnh bảo vệ những người thân yêu và ngăn chặn sự hủy diệt hoàn toàn thuộc về Mộc Khánh Vân – kẻ đang sống trong hiện tại và mang trong mình sức mạnh của Thiên Ma. Cuộc gặp gỡ này không chỉ là sự trao truyền võ học, mà còn là sự chuyển giao vận mệnh của cả một thời đại lên đôi vai của một thiếu niên mang trái tim đầy thù hận nhưng mang ý chí kiên định hơn bất cứ ai.
+
 
 ## Toàn bộ chương
 

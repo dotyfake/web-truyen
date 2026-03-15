@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 26
-}
-]
+## Tóm tắt chương truyện
+
+Những họa tiết Ngũ Hành khắc trên sườn cuộn thẻ tre đã mở ra một chân trời võ học mới cho Mộc Khánh Vân, nhưng cũng đồng thời mang đến một bài toán hóc búa. Kim, Mộc, Thủy, Hỏa, Thổ – những quy luật cơ bản của vũ trụ dường như chính là chìa khóa để giải mã mật mã ba mươi ký tự của "Bát Tưởng Phá Tâm". Mộc Khánh Vân nhận ra rằng khẩu quyết này đã được xắp xếp một cách cố ý lệch lạc, như một mê cung tinh thần nhằm ngăn cản những kẻ không đủ duyên nợ hoặc trí tuệ có thể chạm đến tinh hoa. Giữa lúc hắn đang đắm chìm trong dòng suy tưởng, Tấn Yết Lâm và Ác Tâm Bà Bà Thiết Tú Liên đã buộc hắn phải tiết lộ sự thật về nguồn gốc của những kiến thức này. Cuộc đối thoại đã hé lộ một sự thực kinh hoàng: Mộc Khánh Vân không chỉ biết về bộ tuyệt học này, mà còn từng đối đầu sinh tử với phân thân của Mộc Can – đại đầu mục của Tổ chức Bí mật, kẻ mang con mắt thứ ba đầy ma quái và là thủ phạm chính gây ra thảm kịch cho gia tộc Jin.
+
+Luồng thông tin về việc Mộc Can đã hòa nhập linh hồn với một "Imaemangyang" và có khả năng điều khiển nhiều phân thân cùng lúc như một mạng lưới ý thức chung đã khiến hai người phụ nữ rùng mình kinh hãi. Sự phẫn nộ bùng lên trong lòng Tấn Yết Lâm khi biết rằng bộ tuyệt kỹ "Bát Tưởng Phá Tâm" vốn là niềm kiêu hãnh của dòng tộc giờ đây lại nằm trong tay kẻ thù số một. Mộc Khánh Vân, với phong thái lạnh lùng của một kẻ đứng ngoài đại cuộc, đã buộc họ phải ưu tiên mục tiêu trước mắt: cấm thuật và sự an nguy trước khi trận pháp sụp đổ hoàn toàn. Thế nhưng, vận mệnh trớ trêu luôn mang đến những biến số không ngờ tới. Khi Mộc Khánh Vân vừa nhận được cuốn bí kíp cấm thuật từ Thiết Tú Liên, một cơn chấn động kinh hoàng đã xé toạc không gian trận pháp.
+
+Sự sụp đổ của cột trụ trung tâm trong căn nhà tranh đã đánh dấu một thảm cảnh mới. Ngay giây phút Mộc Khánh Vân định trao lại cuộn thẻ tre cho Tấn Yết Lâm, một kẽ hở không gian đột ngột xuất hiện và nuốt chửng linh thể của hắn vào một cõi hư vô xa lạ. Tại thực tại, căn nhà tranh bị xẻ làm đôi, để hiện ra một kẻ mang con mắt thứ ba trên trán với nụ cười ngạo nghễ đang chắp tay sau lưng – chính là Mộc Can. Trong khi đó, Mộc Khánh Vân tỉnh dậy trên một đỉnh núi cô độc treo lơ lửng giữa một vực thẳm đen kịt vô biên. Cảnh tượng kỳ vĩ và rùng rợn đó cho thấy hắn đã rơi vào một huyễn cảnh hoặc một chiều không gian do tổ tiên gia tộc Jin kiến tạo để bảo vệ di tản cuối cùng.
+
+Khi đang loay hoay tìm đường thoát khỏi đỉnh núi lơ lửng giữa hư vô, một giọng nói trầm mặc vang lên ngay phía sau lưng đã khiến Mộc Khánh Vân sởn gai ốc. Dù sở hữu trực giác của một cao thủ đỉnh cấp, hắn vẫn không hề nhận ra sự hiện diện của đối phương. Quay phắt lại, hắn thấy một người mang mặt nạ quỷ đang thản nhiên ngồi trên một tảng đá, như thể đã chờ đợi hắn từ nghìn năm trước. Người mang mặt nạ quỷ đó là ai? Là vong hồn của vị tiền nhân huyền thoại hay là một thử thách cuối cùng để Mộc Khánh Vân có thể trở thành chủ nhân thực sự của "Thiên Độn Tinh Minh Kiếm Pháp"? Chương truyện khép lại trong sự huyền ảo tột cùng, mở ra một hành trình khám phá bản ngã và sức mạnh vượt tầm nhân gian của Mộc Khánh Vân.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] API error threshold reached. Rotated token. Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 36
-}
-]
+## Tóm tắt chương truyện
+
+Trận thư hùng giữa Mộc Khánh Vân và vị Thiên Hộ Cẩm Y Vệ đeo mặt nạ đã đẩy cao đến mức không thể vãn hồi. Ngay khi bước ra khỏi xe ngựa, vị Thiên Hộ đã phải đối mặt với một áp lực tinh thần cực lớn từ những lời đe dọa mang tính quỷ dữ của Mộc Khánh Vân. Cuộc chiến nổ ra với tốc độ chóng mặt, nơi vị Thiên Hộ phô diễn bộ pháp khinh công đỉnh cao, vượt qua cả cảm quan của Mộc Khánh Vân để chiếm lấy vị trí phía sau lưng hắn. Đây là lần đầu tiên kể từ khi rời khỏi mật thất của giáo hội, Mộc Khánh Vân gặp phải một đối thủ có thể áp đảo mình về phương diện tốc độ, khiến hắn không khỏi nảy sinh lòng hiếu kỳ tột độ.
+
+Diễn biến trận đấu xoay quanh sự kết hợp nhuần nhuyễn giữa "Địa Huyệt Quyền" và "Tống Vân Chưởng" của vị Thiên Hộ. Hắn đã thành công trong việc giáng những đòn đánh sấm sét vào cằm và ngực của Mộc Khánh Vân, đẩy lùi hắn và làm tan vỡ chiếc xe ngựa triều đình thành muôn vàn mảnh vụn. Tuy nhiên, sự tự tin của vị Thiên Hộ đã sụp đổ hoàn toàn khi chứng kiến Mộc Khánh Vân bước ra từ đống đổ nát mà không hề hấn gì. Sự kinh ngạc chưa dừng lại ở đó, Mộc Khánh Vân đã thể hiện một năng lực "copy-paste" võ học kinh hoàng khi ngay lập tức sử dụng chính bộ pháp khinh công độc môn của vị Thiên Hộ để phản công. Khả năng thấu hiểu quy luật vận khí và chuyển động của đối phương chỉ trong chớp mắt đã biến Mộc Khánh Vân thành một con quái vật không có đối thủ.
+
+Trong màn phản đòn tàn khốc, Mộc Khánh Vân đã dùng "Kiếm Chỉ" xuyên thủng lớp phòng ngự và làm vỡ nát chiếc mặt nạ của vị Thiên Hộ. Danh tính thực sự của viên quan triều đình này đã bị phơi bày: một kẻ mang dòng máu lai với đôi mắt xanh biếc và những đường nét phương Tây đặc trưng, vốn là một sự sỉ nhục trong mắt giới quý tộc Trung Nguyên thời bấy giờ. Sự hổ thẹn và phẫn nộ hiện rõ trên khuôn mặt của vị Thiên Hộ khi bí mật thầm kín nhất bị phơi bày trước mặt một kẻ lạ mặt và cô gái thợ thủ công Tống Nhi. Trận chiến này không chỉ là sự đo lường về võ công, mà còn là sự lột trần những góc tối và nỗi đau của những kẻ đang phải sống dưới lớp mặt nạ trong cung cấm.
+
+Chương truyện kết thúc với hình ảnh Mộc Khánh Vân đứng sừng sững, tay cầm túi da chứa đôi bàn tay của vị thợ thủ công, nhìn xuống đối thủ đang gục ngã với một ánh mắt đầy miệt thị pha lẫn sự thú vị. Hắn đã không chỉ giành chiến thắng về mặt vật lý, mà còn nghiền nát lòng tự trọng của vị Thiên Hộ. Tống Nhi đứng nhìn trân trân, không thể tin được rằng vị "anh hùng" mang tâm hồn quỷ dữ này lại có thể làm được những điều phi thường đến thế. Cuộc gặp gỡ định mệnh này đã đặt nền móng cho những biến cố chấn động Khai Phong sắp tới, khi Mộc Khánh Vân bắt đầu thọc sâu hơn vào những bí mật hoàng gia và sử dụng những kẻ bị xã hội ruồng bỏ để phục vụ cho tham vọng bá chủ của mình.
+
 
 ## Toàn bộ chương
 

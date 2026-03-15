@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 47
-}
-]
+## Tóm tắt chương truyện
+
+Chương truyện đi sâu vào việc phân tích cục diện quyền lực phức tạp tại hoàng cung Khai Phong và mối quan hệ đầy toan tính giữa Thiên Địa hội với Tây Phi – mẫu thân của Thái tử đương triều. Qua lời kể của Can Dương, người đọc thấy được một bức tranh chính trị đa tầng, nơi Tây Phi không còn là một quân cờ dễ sai khiến mà đã trở thành một đối trọng quyền lực thực thụ. Nàng yêu cầu hội phải cử những cao thủ bậc Hậu Kỳ tham gia kỳ thi Cẩm Y Vệ một cách công khai, một nước cờ tinh quái nhằm bắt hội phải cùng gánh chịu trách nhiệm và ngăn chặn việc bị bỏ rơi nếu nhiệm vụ thất bại. Mộc Khánh Vân đã nhanh chóng thấu hiểu được bản chất "satisfy hunger" (no bụng) của Tây Phi – khi một người đã đạt được quyền lực, họ sẽ tìm cách xóa bỏ những dấu vết nhơ bối trong quá khứ.
+
+Song song với những âm mưu chính trị là một bước đột phá chấn động về võ học của Mộc Khánh Vân. Sau khi quan sát kiếm pháp của lão giả thần bí trên thuyền, hắn đã tự mình đúc kết và sáng tạo ra một thức kiếm hoàn toàn mới, phá vỡ mọi quy tắc võ học truyền thống. Trong khi Thanh Linh cố gắng cải tiến Nguyệt Môn Kiếm Pháp dựa trên sự bổ sung các kỹ thuật, thì Mộc Khánh Vân lại thực hiện một hành động "điên rồ": kết hợp toàn bộ 24 quỹ đạo kiếm pháp không trùng lặp vào trong duy nhất một thức kiếm. Đây là một sự sáng tạo vượt quá tầm hiểu biết của giới võ lâm, đòi hỏi một sự phối hợp thần sầu giữa cơ bắp, hơi thở và kiếm ý để thực hiện hàng chục động tác trong cùng một khoảnh khắc.
+
+Sự kinh ngạc của Thanh Linh khi chứng kiến thức kiếm này đã nói lên tất cả về tài năng thiên bẩm của Mộc Khánh Vân. Hắn không chỉ nhớ chiêu thức, mà còn thấu hiểu được quy luật của chúng để tái cấu trúc lại theo cách hiệu quả và tàn khốc nhất. Mỗi đường kiếm vẽ ra như một nét bút thần, tạo nên một mạng lưới sát cơ không có kẽ hở. Tuy nhiên, cái giá phải trả cho một thức kiếm như vậy là sự tiêu tốn thể lực và áp lực cực lớn lên cơ thể, khiến ngay cả Mộc Khánh Vân cũng phải run rẩy sau khi thi triển. Hắn nhận ra rằng đây là loại vũ khí bí mật cần được tôi luyện thêm để có thể sử dụng mượt mà trong thực chiến, nơi mà một sai sót nhỏ cũng có thể dẫn đến cái chết.
+
+Chương truyện khép lại với sự chuẩn bị cuối cùng của nhóm trước khi tiến vào kinh thành. Mộc Khánh Vân giờ đây không chỉ là một sát thủ mang tâm hồn quỷ dữ, mà đã bắt đầu hình thành nên một phong cách kiếm đạo mang dấu ấn riêng của mình – một loại kiếm đạo của sự hủy diệt và hiệu quả tuyệt đối. Sự kết hợp giữa mưu đồ chính trị của Thiên Địa hội và sức mạnh cá nhân đang thăng tiến vượt bậc của Mộc Khánh Vân hứa hẹn sẽ tạo nên một cơn địa chấn thực sự tại Khai Phong. Những bóng ma của quá khứ và những cao thủ triều đình sắp tới sẽ phải đối mặt với một lưỡi kiếm mà họ chưa từng thấy trong đời, một lưỡi kiếm mang tên Mộc Khánh Vân.
+
 
 ## Toàn bộ chương
 

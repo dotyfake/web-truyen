@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 51
-}
-]
+## Tóm tắt chương truyện
+
+Tại kho lương thực hoàng cung, một cuộc luận đàm sâu sắc về bản chất của "Đại Họa" đã mở ra những góc nhìn chưa từng có về thảm kịch đã làm thay đổi hoàn toàn lịch sử võ học Trung Nguyên. Đàm Bạch Hà, nhân chứng sống từ thời kỳ rực rỡ nhất của Cổ Võ Lâm, bùi ngùi kể lại sự kiện chấn động khi hơn 80% cao thủ lẫy lừng đồng loạt ngã xuống, khiến mạch truyền thừa của vô số tông môn bị cắt đứt vĩnh viễn và trình độ võ học toàn thiên hạ thoái lui hàng trăm năm. Nàng khẳng định rằng thảm họa ngày đó không chỉ là sự trỗi dậy của một con quái vật bốn đầu đơn lẻ, mà là một cuộc tổng tấn công đồng loạt của hàng loạt linh thú kỳ hình dị trạng trên khắp các địa phương, biến Trung Nguyên thành một bãi chiến trường đẫm máu không lối thoát. Tô Vận Hương cũng góp thêm manh mối về con "Hỏa Kỳ Lân" – sinh vật mang theo lửa đỏ từ dung nham đã thảm sát người dân Khai Phong trước khi mất hút vào bóng tối, để lại những hồ sơ quân sự đầy bí ẩn mà triều đình luôn cố tình lấp liếm.
+
+Mộc Khánh Vân, với trí tuệ sắc sảo và kinh nghiệm về các thuật pháp ngoại đạo, đã đưa ra một giả thuyết lạnh sống lưng. Hắn cho rằng sự xuất hiện đồng loạt của những quái vật vốn có bản tính độc hành và phân chia lãnh thổ nghiêm ngặt như vậy không thể là ngẫu nhiên. Theo Mộc Khánh Vân, đây chính là một "Sự cuồng loạn nhân tạo" (Artificial Rampage) quy mô lớn. Hắn phân tích rằng việc điều khiển hàng chục dị thú bằng thuật thao túng linh hồn là điều không tưởng, nhưng việc tạo ra những điều kiện môi trường hoặc ma pháp mang tính kích thích mạnh để đẩy chúng vào trạng thái điên cuồng tập thể lại là điều hoàn toàn có thể thực hiện được bởi một thế lực có quyền năng ma pháp thượng thừa.
+
+Manh mối then chốt cuối cùng đã được Tô Vận Hương hé lộ qua mảnh giấy cháy sém mà cha nàng đã bảo vệ bằng mạng sống. Mảnh giấy chứa đựng những ký tự dở dang của một loại mật chú pháp thuật cao cấp: "Cấp cấp như..." (Geup-geup-yeo...), minh chứng cho việc có một pháp trận hoặc lệnh triệu hồi kinh khủng đã được kích hoạt. Sự biến mất bí ẩn của toàn bộ các thầy tướng số và phương sư tại Khai Phong ngay sau cái chết của cha Tô Vận Hương đã củng cố thêm cho nhận định về một chiến dịch xóa sạch dấu vết cực kỳ tàn nhẫn và chuyên nghiệp của một tổ chức giấu mặt đầy quyền lực.
+
+Chương truyện khép lại với phát hiện mang tính đột phá của Mộc Khánh Vân. Khi cẩn thận quan sát mặt sau của mảnh giấy bùa chú, hắn bắt gặp một ký hiệu tối mật: một đường gạch thẳng đứng đâm xuyên qua tâm của chữ "Nhị" (二). Ký hiệu này không thuộc về bất kỳ tông môn chính đạo hay tà giáo nào đã biết, nhưng nó lại mang hơi hướm của một tổ chức có cấu trúc chặt chẽ và tham vọng vô cùng tận. Phát hiện này không chỉ mở ra một hướng điều tra mới cho Tô Vận Hương mà còn chính thức kéo Mộc Khánh Vân vào cuộc chơi của những kẻ nắm giữ vận mệnh thiên hạ. Bóng ma của Đại Họa năm xưa giờ đây đã có một hình hài cụ thể, và Mộc Khánh Vân chính là người đang giữ trong tay chìa khóa để lật mở bức màn nhung đen tối ấy.
+
 
 ## Toàn bộ chương
 

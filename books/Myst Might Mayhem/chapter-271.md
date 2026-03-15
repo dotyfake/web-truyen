@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 30
-}
-]
+## Tóm tắt chương truyện
+
+Giữa bóng tối đặc quánh và không khí sực mùi tử khí của Địa ngục vĩnh cửu, những âm mưu thâm độc của triều đình đã đẩy các thực tập sinh vào vòng xoáy của sự hủy diệt. Chu Vận Hương, sau khi rơi xuống hố chông do cạm bẫy sập, đã phải trải qua những giây phút sinh tử nghẹt thở. Nhờ sự khổ luyện tuyệt kỹ "Phong Vân Bộ", anh đã thực hiện một cú chống tay lộn ngược trên đỉnh những mũi chông sắt để giữ lấy mạng sống. Dù lòng bàn tay bị xé rách kinh hoàng và máu tuôn xối xả, Chu Vận Hương vẫn giữ được sự tỉnh táo đáng kinh ngạc, dùng thuốc giải độc và vải áo băng bó vết thương để ngăn chặn chất độc sắt lâu ngày ngấm vào máu. Anh phải dùng mưu mẹo buộc dây vào giày để kích hoạt các cơ quan từ xa, nhọc nhằn tiến bước trong một môi trường mà mỗi tấc đất đều có thể là mồ chôn.
+
+Trong khi đó, Diễm Khánh – đệ tử của phái Hoa Sơn – lại rơi vào một tình cảnh quái dị và đầy ma mị. Đi theo tấm bản đồ giả, gã đã lạc bước vào một hành lang bị ngăn cách bởi một vạch đỏ đầy ám ảnh. Tiếng cào xé ghê rợn từ trong bóng tối đã dẫn dụ Diễm Khánh đến trước căn phòng giam số "126", nơi một tù nhân bị xiềng xích, bịt mắt và bịt miệng đang tỏa ra một luồng áp lực vô hình. Chỉ trong chớp mắt, Diễm Khánh đã rơi vào trạng thái bị thôi miên, đôi mắt trở nên trống rỗng và đờ đẫn. Gã bắt đầu hành động như một kẻ mất hồn, lần tìm những ký tự bí ẩn trên chấn song sắt để giải phóng cho thực thể đáng sợ bên trong. Sự bí hiểm của những tù nhân tại tầng sâu nhất này cho thấy Địa ngục vĩnh cửu không chỉ là nơi giam giữ thể xác, mà còn là nơi tồn tại của những cấm thuật và tâm linh đen tối.
+
+Trái ngược hoàn toàn với sự chật vật của Chu Vận Hương hay sự mê muội của Diễm Khánh, Mộc Khánh Vân lại đang tiến bước với một sự thản nhiên đầy ngạo nghễ. Trong diện mạo của thực tập sinh An Chung Hữu, hắn lướt đi giữa các tầng hầm như một bóng ma không thể nắm bắt. Mọi cạm bẫy cơ khí tinh vi nhất của Cẩm Y Vệ, từ mưa tên từ trần nhà đến những lưỡi đao vạn cân ẩn trong vách đá, đều trở nên vô nghĩa trước thực lực tuyệt đối bạt quần của hắn. Mộc Khánh Vân dùng chân khí vĩ đại để điều khiển hướng bay của ám khí, búng tay để bẻ gãy những cơ quan bằng sắt thép một cách nhẹ nhàng. Ngay cả làn khói độc chết người đang bao phủ hành lang cũng không thể gây ra một chút mảy may ảnh hưởng nào đến cơ thể vạn độc bất xâm của vị "Tiểu Ma Đầu".
+
+Hắn thản nhiên ngáp dài giữa trung tâm của hệ thống phòng vệ cung đình, cảm thấy những thử thách này thật tẻ nhạt và không xứng tầm với bản thân. Ánh mắt hắn lạnh lùng hướng về phía sâu thẳm của địa lao, nơi căn phòng số 130 đang chờ đợi. Sự đối lập giữa nỗ lực sinh tồn của kẻ khác và sự thong dong của Mộc Khánh Vân đã lột tả rõ nét uy lực của kẻ nắm giữ sức mạnh quỷ dữ. Một khi Mộc Khánh Vân tiếp cận được mục tiêu, trật tự của Địa ngục vĩnh cửu chắc chắn sẽ bị phá vỡ, và đêm kinh hoàng thực sự của kinh thành Khai Phong mới chính thức bắt đầu, nơi mọi xiềng xích và bẫy rập đều sẽ phải vỡ vụn dưới bàn chân của hắn.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 7
-}
-]
+## Tóm tắt chương truyện
+
+Tại trung tâm của biến loạn trong lòng địa lao Khai Phong, Mộc Khánh Vân và Thánh nữ Bái Hỏa giáo đã trải qua một cuộc đấu trí đầy căng thẳng về triết lý thiện ác. Với nhãn quan sắc bén và thực dụng, Mộc Khánh Vân đã bóc trần sự thật nghiệt ngã rằng tiêu chuẩn của chính nghĩa vốn do kẻ mạnh và đa số định đoạt, khiến một giáo phái đang lụi tàn như Bái Hỏa giáo nghiễm nhiên trở thành "tà đạo" trong mắt thế gian. Tuy nhiên, để thu phục lòng tin của người phụ nữ mang sứ mệnh thánh khiết này, hắn đã trình ra chiếc nhẫn tông môn của Giám mục Dạ Tiên – một nhân vật quyền lực trong bóng tối của Thiên Địa Hội. Sự xác nhận này đã biến Mộc Khánh Vân từ một kẻ lạ mặt đầy ma tính thành vị cứu tinh duy nhất mà Thánh nữ có thể bấu víu giữa hầm ngục tăm tối.
+
+Cơn ác mộng thực sự bắt đầu khi "Cơ quan cuối cùng" của Địa ngục vĩnh cửu bị kích hoạt, tạo nên một trận động đất kinh hoàng làm rung chuyển tận gốc rễ kinh thành. Toàn bộ tầng địa chất chứa địa lao đã tách rời và bắt đầu rơi tự do xuống một hố sâu thăm thẳm bên dưới. Đội trưởng Lâm Quý Nguyệt ở phía trên chỉ còn biết gào thét trong tuyệt vọng khi nhận ra rằng một khi tầng hầm này chạm đáy vực, mọi lối thoát lên trên sẽ bị đất đá vĩnh viễn vùi lấp. Đây là một cơ chế tự hủy tàn khốc của triều đình nhằm chôn vùi mọi bí mật và tội ác dưới lòng đất, đồng thời giải phóng 36 cỗ máy sát thủ bằng đồng để thực hiện cuộc thảm sát cuối cùng đối với những kẻ còn sống sót.
+
+Trong bối cảnh ngàn cân treo sợi tóc đó, Lục Huyết Thánh Đàm Bạch Hà đã kịp thời xuất hiện cùng với Chu Vận Hương đang trong trạng thái hôn mê sâu. Nàng đã chứng tỏ thực lực đáng sợ khi vừa khống chế được sự điên cuồng của ma kiếm, vừa bảo vệ được mạng sống cho tân binh này mà không cần dùng đến sát chiêu. Dù đang vô cùng thịnh nộ vì sự liều lĩnh của Mộc Khánh Vân đã khiến cả nhóm rơi vào cảnh thập tử nhất sinh, nhưng nàng cũng không khỏi bàng hoàng trước thái độ thản nhiên của hắn. Mộc Khánh Vân dường như không hề quan tâm đến việc mặt đất đang sụp đổ, ánh mắt hắn vẫn chăm chú nhìn vào thanh "Thoán Sát Kiếm" với ý định chiếm đoạt báu vật ma đạo này.
+
+Chương truyện khép lại với màn trình diễn thuật pháp không gian không tưởng của Mộc Khánh Vân. Trước đôi mắt kinh ngạc của Đàm Bạch Hà và Thánh nữ, hắn thi triển một loại bí thuật cổ xưa, xoay chuyển không gian để tạo ra một lối vào hư ảo dẫn đến một chiều không gian khác. Hành động này không chỉ phơi bày tu vi đạo thuật thượng thừa của "Tiểu Ma Đầu" mà còn mở ra một hy vọng thoát hiểm đầy kỳ tích giữa lúc cái chết đang cận kề. Mộc Khánh Vân như một vị thần cai quản bóng tối, biến sự sụp đổ của địa lao thành một sân khấu cho sự vĩ đại của riêng mình, khẳng định rằng không một xiềng xích hay cạm bẫy vật lý nào có thể trói buộc được một linh hồn đã vượt thoát khỏi ranh giới của con người.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 5
-}
-]
+## Tóm tắt chương truyện
+
+Giữa lúc kinh thành Khai Phong đang rung chuyển bởi những cơn địa chấn từ lòng đất, một âm mưu động trời đã được Mộc Khánh Vân dàn dựng hoàn hảo để đẩy triều đình vào cảnh hỗn loạn cực độ. Tại Băng Cung, đại quân Cẩm Y Vệ dưới sự chỉ huy của Sang Ik-seo và cao thủ Huyền Thuận đã phải chứng kiến một cảnh tượng kinh hoàng: Kinh Vương gào thét cáo buộc Cẩm Y Vệ mưu sát rồi nhảy lầu tự tận. Đứng sau màn kịch tàn độc này chính là linh thể Thanh Linh, kẻ đã dùng linh lực của Cửu Vĩ Hồ để thao túng tâm trí vị vương gia, biến cái chết của ông thành một bản án chính trị treo lơ lửng trên đầu lực lượng mật thám triều đình. Sự kiện này đã thành công rực rỡ trong việc đánh lạc hướng toàn bộ sự chú ý của quân đội, tạo điều kiện cho một cuộc đào thoát không tưởng từ Địa ngục vĩnh cửu.
+
+Trong khi đó, tại một kho lương thực hẻo lánh của hoàng cung, Thiên hộ Ma Ra-hyeon đang đứng ngồi không yên sau khi nhận được tín hiệu đỏ về vụ vượt ngục. Thế nhưng, bí mật của ông đã bị ty chủ Tô Vận Hương tình cờ phát giác. Giữa lúc sự nghi ngờ giữa hai thầy trò đang đẩy lên cao trào, một hiện tượng kỳ quái vượt xa hiểu biết của võ học thông thường đã xảy ra. Một cổng không gian bện bằng khói xám bất ngờ mở ra giữa kho lương, lôi cuốn theo những luồng chân khí hỗn loạn. Đây chính là diệu dụng của báu vật không gian mà Mộc Khánh Vân đã đoạt được từ tay đệ tử của Thái Vĩ Lão Tiên, cho phép hắn thực hiện một cú nhảy vọt qua ranh giới địa tầng để xuất hiện ngay giữa lòng hoàng cung.
+
+Mộc Khánh Vân bước ra từ cổng không gian cùng với Đàm Bạch Hà, Thánh nữ Bái Hỏa giáo và Chu Vận Hương đang trong trạng thái bất tỉnh. Sự xuất hiện của nhóm người này trong trang phục tù nhân đã khiến Tô Vận Hương chết lặng vì kinh ngạc. Tuy nhiên, điều làm nàng rúng động hơn cả chính là luồng ma khí đen kịt phát ra từ thanh Thoán Sát Kiếm trên tay Mộc Khánh Vân. Trong một khoảnh khắc đối lực, nàng đã nhận diện ra thứ kình lực quen thuộc đã từng xuất hiện tại y quán – nơi nàng tin rằng người bạn của mình đã bỏ mạng. Sự thật chấn động về việc Mộc Khánh Vân vẫn còn sống giờ đây đã phơi bày ngay trước mắt nàng dưới một diện mạo hoàn toàn khác.
+
+Chương truyện khép lại với cuộc chạm trán đầy kịch tính giữa Mộc Khánh Vân và Tô Vận Hương. Dù mang trong mình tình cảm bằng hữu, nhưng trong bối cảnh sinh tử, Mộc Khánh Vân đã buộc phải dùng uy lực của ma kiếm để đánh bạt Tô Vận Hương sang một bên, nhằm bảo vệ con đường thoát hiểm duy nhất. Sự lộ diện của hắn không chỉ chấm dứt màn kịch giả chết kéo dài bấy lâu mà còn đặt Tô Vận Hương vào một vị trí vô cùng hiểm nghèo giữa lòng trung thành với triều đình và mối quan hệ với một đại ma đầu. Cuộc đại náo kinh thành giờ đây mới thực sự bắt đầu, khi mọi quân cờ đã được sắp đặt vào vị trí và Mộc Khánh Vân chính thức trở lại với sức mạnh kinh hồn bạt vía.
+
 
 ## Toàn bộ chương
 

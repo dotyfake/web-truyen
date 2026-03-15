@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 19
-}
-]
+## Tóm tắt chương truyện
+
+Màn đêm u tối bao trùm lấy thung lũng Đường môn, nơi Mộc Khánh Vân đang thực hiện một cuộc thanh trừng đầy bạo liệt và tàn nhẫn. Sau khi dẫm đạp lên sự kiêu hãnh của Đường Nhân Hải, Mộc Khánh Vân ra lệnh cho Diệp Xuân lục soát cỗ xe ngựa bí mật mà lão Gia chủ định dùng để đào thoát. Bên trong, họ không chỉ tìm thấy những hòm vũ khí và kịch độc quý hiếm mà còn phát hiện ra một thiếu nữ đang bị điểm huyệt hôn mê – Dạ Tùng A, cháu gái của Thánh Nữ Bái Hỏa Giáo. Sự xuất hiện của cô gái trẻ này chính là mảnh ghép cuối cùng giúp Mộc Khánh Vân lật tẩy toàn bộ âm mưu đen tối của Đường Nhân Hải. Bằng nhãn lực phi thường, Mộc Khánh Vân nhận diện được Dạ Tùng A chính là người thừa kế thực sự của khả năng tiên tri vĩ đại, một bí mật mà ngay cả giới cấp cao của Bái Hỏa Giáo cũng ra sức che giấu. Sự tham lam vô độ của Đường Nhân Hải khi muốn chiếm đoạt "món quà của thần linh" này để củng cố quyền lực đã khiến Mộc Khánh Vân nảy sinh một trò chơi mèo vờn chuột đầy ác nghiệt.
+
+Đường Nhân Hải, dù đang bị dẫm dưới chân, vẫn âm thầm nuôi dưỡng hy vọng cuối cùng. Lão tin chắc rằng Mộc Khánh Vân đã trúng phải "Vô Hình Độc" – tuyệt kịch độc không có thuốc giải của Đường gia – trong lần đối chưởng trước đó. Lão cố gắng nhẫn nhịn sự đau đớn từ những chiếc xương sườn bị bẻ gãy, chờ đợi khoảnh khắc chất độc phát tác để lật ngược thế cờ. Thế nhưng, Mộc Khánh Vân dường như thấu thị mọi suy tính trong đầu lão. Hắn không những không hề có dấu hiệu trúng độc mà còn liên tục nhục mạ Đường Nhân Hải như một loài sâu bọ hèn kém, tước đoạt đi chút tôn nghiêm cuối cùng của một trong bát đại cao thủ võ lâm.
+
+Đỉnh điểm của sự tàn khốc diễn ra khi Mộc Khánh Vân giả vờ ban cho Đường Nhân Hải "ân huệ cuối cùng" – một cuộc đấu tay đôi sòng phẳng. Ánh mắt tràn đầy thù hận và hy vọng của lão lộ rõ khi lão vận dụng toàn bộ chân khí còn sót lại để phát động chiêu thức Vô Hình Độc tối thượng. Thế nhưng, ngay khi lão vừa lao mình về phía trước, một tia sáng đen kịt lóe lên và trong nháy mắt, hai chân của Đường Nhân Hải đã bị chém đứt lìa khỏi cơ thể. Cơn đau thấu xương cùng sự bàng hoàng tột độ khiến lão quỵ xuống, đôi mắt trừng trừng nhìn về phía kẻ đang đứng sừng sững trước mặt.
+
+Chương truyện kết thúc với nụ cười lạnh lùng và tiếng cười khẩy của Mộc Khánh Vân. Hắn thản nhiên thừa nhận rằng toàn bộ sự hy vọng và nỗ lực của Đường Nhân Hải từ nãy đến giờ chỉ là một phần trong trò tiêu khiển của hắn. "Ta đang đùa giỡn với ngươi đó" – câu nói như một bản án tử hình đánh sập hoàn toàn ý chí kháng cự của vị Gia chủ đường đường một thời. Giờ đây, Đường Nhân Hải không khác gì một đống thịt vụn đang chờ đợi màn tế lễ đẫm máu mà Mộc Khánh Vân đã chuẩn bị sẵn để dâng lên vong linh người thân của mình. Một bầu không khí u ám, chết chóc bao trùm lấy toàn bộ thung lũng, báo hiệu một cái kết không thể thảm khốc hơn cho kẻ chủ mưu gian ác.
+
 
 ## Toàn bộ chương
 

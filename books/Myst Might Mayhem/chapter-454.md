@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 12
-}
-]
+## Tóm tắt chương truyện
+
+Hy vọng của Tấn Yết Lâm tựa như ngọn nến trước gió khi cuộn thẻ tre – vật dẫn cuối cùng để Mộc Khánh Vân trở lại – bị phân thân của Mộc Can cướp mất và nghiền nát thành bụi cám ngay trước mắt cô. Sự tuyệt vọng bao trùm lấy rừng trúc khi Mộc Can, với nụ cười vặn vẹo của một kẻ thắng cuộc, hạ lệnh kết liễu huyết mạch cuối cùng của gia tộc Jin. Hắn bóp nghẹt cổ Tấn Yết Lâm, trong khi Quỷ Kiếm đã gục ngã với gương mặt biến dạng và một cánh tay bị chặt đứt. Mộc Can đắc ý cho rằng mọi sự sắp đặt nghìn năm đã chấm dứt tại đây, và bí kíp cấm thuật đã thuộc về tay mình. Thế nhưng, vận mệnh luôn có những ngã rẽ mà ngay cả "con mắt thứ ba" nhìn thấu thiên cơ cũng không thể lường trước.
+
+Ngay tại vị trí những mảnh vỡ của cuộn thẻ tre rơi xuống, không gian bỗng nhiên rung động dữ dội rồi rách toạc ra một khe nứt đen ngòm. Một đường kiếm đen kịt như bóng tối vĩnh hằng xé toạc không khí, chuẩn xác đến mức rùng mình khi chặt đứt lìa cổ tay của Mộc Can đang kề sát cổ Tấn Yết Lâm. Trong một chớp mắt, Mộc Khánh Vân xuất hiện giữa làn khói mờ ảo, ôm lấy Tấn Yết Lâm đang hấp hối và lướt đi như một cơn gió, đặt cô vào nơi an toàn cách đó hàng chục trượng. Sự hiện diện của hắn không còn mang vẻ u ám của ma tính bình thường, mà tỏa ra một áp lực trầm mặc nhưng uy nghiêm, báo hiệu một sự lột xác hoàn toàn về cảnh giới sau cuộc hội ngộ với vị tiền nhân Tấn Vân Huy.
+
+Cuộc tái đấu giữa Mộc Khánh Vân và phân thân Mộc Can nổ ra trong sự kinh ngạc tột độ của kẻ thù. Mộc Can, vốn tự tin vào sức mạnh của phân thân mới này – kẻ có thể điều khiển linh hồn và sở hữu chân khi vượt xa phàm nhân – đã điên cuồng lao vào tấn công. Hắn tin rằng chiến thắng tại Thiên Địa Hội của Mộc Khánh Vân chỉ là nhờ may mắn khi phân thân trước đó chưa hoàn thiện. Tuy nhiên, thực tế tàn khốc đã giáng một đòn mạnh vào lòng kiêu ngạo của hắn. Dù Mộc Can đã vận dụng tối đa sức mạnh của con mắt trên trán để nắm bắt từng dao động nhỏ nhất của không gian, hắn vẫn không tài nào nhìn thấy được đường kiếm của Mộc Khánh Vân.
+
+Chương truyện kết thúc với một hình thái sức mạnh mới mang tên "Chí Tôn". Mộc Khánh Vân không còn cần những chiêu thức hoa mỹ hay những vòng xoáy chân khí cuồng bạo; mỗi bước đi của hắn giờ đây như hòa vào nhịp đập của trời đất. Chỉ bằng một nhát chém đơn giản, hắn đã khiến Mộc Can phải khiếp nhược lùi lại, để lại vệt máu dài trên cổ tay vừa mới phục hồi. Câu hỏi "Ngươi sợ sao? Tại sao lại giữ khoảng cách?" vang lên như một lời phán xét cuối cùng, khẳng định vị thế của một bậc quân vương sắp sửa lập lại trật tự cho võ lâm, biến phân thân vốn dĩ là cơn ác mộng của mọi cao thủ trở thành một con mồi tội nghiệp dưới lưỡi kiếm của Thiên Ma.
+
 
 ## Toàn bộ chương
 

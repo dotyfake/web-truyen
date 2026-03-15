@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 13
-}
-]
+## Tóm tắt chương truyện
+
+Một bầu không khí tĩnh lặng đến rợn người bao trùm lấy sân sau của Đường phủ sau cái chết kinh thiên động địa của Phó gia chủ Đường Thiết Long. Hình ảnh chiếc đầu và cột sống bị xé toạc đã trở thành cơn ác mộng hiện hữu, khiến hàng trăm võ giả Đường môn – những kẻ vốn đã quen với đao quang kiếm ảnh và độc dược chết người – cũng phải nghẹn họng nôn mửa vì kinh hãi. Mộc Khánh Vân đứng giữa vũng máu, điềm nhiên như một vị thần chết đang tận hưởng màn trình diễn của mình. Khi một môn đồ dũng cảm đứng ra lên án sự tàn bạo của hắn, Mộc Khánh Vân đã thi triển khinh công đạt đến cảnh giới cực hạn, xuất hiện ngay sau lưng đối phương như một bóng ma, khiến kẻ đó chết lặng trong nỗi sợ hãi tột cùng trước khi kịp thốt thêm lời nào.
+
+Kịch tính tiếp tục đẩy cao khi Đường Tu Vũ, một cao thủ thuộc hàng ngũ ngũ đại tông sư của Đường gia, cố gắng tung ra đòn đánh lén mang theo hy vọng cuối cùng. Tuy nhiên, chiêu thức "Tuyệt Độc Bát Chưởng" trứ danh của Đường môn đã hoàn toàn bị Mộc Khánh Vân bắt bài. Với tốc độ mà nhãn lực thường nhân không thể theo kịp, Mộc Khánh Vân đã bẻ gãy và xé toạc hai cánh tay của Tu Vũ, sau đó kết liễu lão bằng một cú vặn cổ đầy tàn nhẫn. Máu phun trào như suối, tưới đẫm lên mái tóc và khuôn mặt mang mặt nạ da người của Mộc Khánh Vân, biến hắn thành một hình hài quỷ dữ thực thụ đang lếm láp hương vị của sự trả thù. Sự bạo liệt này đã bóp nghẹt ý chí chiến đấu của tất cả những ai có mặt tại hiện trường.
+
+Để phá nát chút lòng trung thành còn sót lại của môn đồ Đường gia đối với vị Gia chủ hèn hạ, Mộc Khánh Vân đã thi triển một loại tà thuật vô tiền khoáng hậu. Chỉ bằng một cú giậm chân, luồng chân khí ma quái đã len lỏi vào tâm trí những kẻ trung thành nhất, khiến họ bỗng chốc hóa điên. Cảnh tượng các võ giả Đường môn tự móc mắt, tự rạch họng và đập đầu vào đá cho đến khi óc não văng tung tóe đã biến Đường phủ thành một địa ngục trần gian. Mộc Khánh Vân còn gửi lời nhắn nhủ đầy ác độc qua thần thức tới Đường Nhân Hải, bày tỏ sự phấn khích khi được chứng kiến cảnh cốt nhục tương tàn đẫm máu.
+
+Trước sự tàn khốc không giới hạn của Mộc Khánh Vân, Đường Nhân Hải cuối cùng đã hoàn toàn sụp đổ. Để cứu vãn những mạng người còn lại và chấm dứt màn điên loạn này, lão đã phải gào lên thú nhận toàn bộ sự thật nhơ nhục trước mặt tất cả môn đồ. Lão thừa nhận đã sát hại ông nội của Mộc Khánh Vân bằng Vô Hình Độc để chiếm đoạt khả năng tiên tri của Dạ Tùng A, đồng thời thú nhận sự hèn hạ khi định bỏ rơi gia tộc để đào thoát một mình. Những lời thú tội này như những nhát dao đâm nát niềm tin và lòng kính trọng của toàn bộ thành viên Đường gia dành cho vị Gia chủ của mình. Chương truyện kết thúc trong sự tĩnh lặng ghê rợn, Mộc Khánh Vân đứng đó với nụ cười ngạo nghễ, hắn không chỉ tiêu diệt thể xác kẻ thù mà còn khiến chúng phải tự tay xé nát danh dự và sự tôn nghiêm của bản thân trước khi bước vào cõi chết.
+
 
 ## Toàn bộ chương
 

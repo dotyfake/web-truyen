@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 35
-}
-]
+Cuộc đối đầu âm thầm nhưng đầy kịch tính giữa Mộc Khánh Vân và thực thể tà ác bên trong chiếc hộp gỗ cũ kỹ tiếp diễn với những diễn biến nghẹt thở. Sinh vật tự xưng là "Chúa tể của Tây Hải" liên tục đưa ra những lời dẫn dụ ngọt ngào về quyền năng và danh vọng hòng lừa Mộc Khánh Vân phá vỡ phong ấn. Nhưng hắn, với một trái tim đã chai sạn sau những biến cố gia đình, chỉ đáp lại bằng nụ cười khinh miệt. Hắn nhận ra chiếc hộp gỗ này được làm từ "Thần Linh Mộc" – một loại gỗ linh thiêng có khả năng giam giữ những thực thể mạnh mẽ nhất, nhưng bản thân chiếc hộp lại đang có một vết nứt chí mạng.
+
+Bằng một hành động cực kỳ cuồng ngạo, Mộc Khánh Vân đặt lòng bàn tay lên vết nứt và vận chuyển một loại bí thuật cấm kỵ. Thay vì giải thoát cho sinh vật bên trong, hắn bắt đầu điên cuồng hấp thụ yêu khí đang rò rỉ ra ngoài. Luồng năng lượng đen tối, tinh khiết và mạnh mẽ tương đương với sinh mạng của hơn 50 thường nhân tràn vào cơ thể hắn, khiến đôi mắt hắn lóe lên tia sáng đầy hung hiểm. Chúa tể Tây Hải kinh hãi tột độ khi nhận ra mình đang bị một "con người hạ đẳng" coi như nguồn cung cấp năng lượng. Nó cố gắng gầm thét, đe dọa, nhưng sức lực ngày một suy kiệt dưới sự tham lam không đáy của Mộc Khánh Vân.
+
+Khi yêu khí đã bị hút cạn đến mức sinh vật bên trong không còn đủ sức chống cự, Mộc Khánh Vân quyết định phá hủy hoàn toàn chiếc hộp. Hắn ngưng tụ "Tử khí" nơi đầu ngón tay – một loại năng lượng đối nghịch hoàn toàn với sinh mệnh – khiến chiếc hộp làm từ gỗ quý nghìn năm cũng phải mủn nát như tro bụi. Từ đống tro tàn, một cuộn tranh trục cổ xưa hiện ra, lơ lửng giữa không trung. Cuộn tranh tự động mở ra, lộ ra một bức họa sơn thủy tuyệt mỹ với những ngọn núi mờ ảo trong sương khói, hoa cỏ khoe sắc như chốn bồng lai tiên cảnh. Nhưng điểm kỳ dị nhất chính là một người đàn ông trung niên tóc trắng đang ngồi xếp bằng, nhắm mắt tĩnh tọa trên đỉnh núi cao nhất trong tranh.
+
+Khoảnh khắc người đàn ông trong bức họa mở mắt, một luồng áp lực vô hình và tàn khốc ập đến, khiến Mộc Khánh Vân cảm thấy một luồng điện lạnh chạy dọc sống lưng lần đầu tiên trong đời. Đó không còn là yêu khí tầm thường, mà là sức mạnh của một "Linh Thú" (Spirit Beast) – những thực thể đã sống hàng vạn năm, đứng ở đỉnh cao của hệ thống tâm linh mà con người không thể chạm tới. Ngay cả Thanh Linh, người vốn luôn tự tin với kiến thức và sức mạnh của mình, cũng phải thốt lên trong sự kinh hãi trước sự hiện diện của một thực thể ở cấp độ huyền thoại này. Người đàn ông tóc trắng từ từ bước ra khỏi bức tranh, mỗi bước chân của ông ta như đạp lên sương khói, mang theo một vùng không gian chết chóc và uy nghiêm bao trùm lấy toàn bộ căn phòng. Mộc Khánh Vân hiểu rằng hắn vừa vô tình mở ra chiếc hộp Pandora, đối mặt với một sự tồn tại có thể thay đổi hoàn toàn vận mệnh của hắn và cả giang hồ.
+
 
 ## Toàn bộ chương
 

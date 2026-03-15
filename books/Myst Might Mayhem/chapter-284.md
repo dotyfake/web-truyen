@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 54
-}
-]
+## Tóm tắt chương truyện
+
+Tại kho lương thực hoàng cung, một màn kịch đầy bi kịch và những nút thắt ân oán từ quá khứ đã được hé mở qua đôi mắt của Thiên hộ Ma Ra-hyeon. Nhìn vào dung mạo già nua của Thánh nữ Bái Hỏa giáo, những ký ức đau thương bị vùi lấp từ thuở thiếu thời của ông bỗng chốc ùa về như thác lũ. Ma Ra-hyeon nhớ lại người cha là giáo sĩ Tây phương – Mayera, người đã bỏ lại gia đình để theo chân một người phụ nữ mang quyền trượng ngọc bích đi vào cõi vô định. Sự ra đi đó đã biến cuộc đời Ma Ra-hyeon thành một cơn địa ngục: mẹ ông chết vì u uất, bản thân ông bị bán làm nô lệ và phải chịu bao tủi nhục của kiếp con lai. Khi nhận ra người đàn bà đứng trước mặt chính là kẻ đã phá nát tổ ấm của mình, ngọn lửa thù hận trong lòng vị Thiên hộ bùng lên dữ dội, khiến không khí trong kho lương trở nên đông đặc sát khí.
+
+Đúng lúc Ma Ra-hyeon định lao tới để thanh toán món nợ máu năm xưa, Mộc Khánh Vân đã có một hành động đầy xoay chuyển. Hắn bất ngờ buông bỏ ma kiếm và thi triển "Vô Nguyệt Hư Kiếm" – một tuyệt học mang ý cảnh thanh cao thoát tục. Những đường kiếm của Mộc Khánh Vân vẽ nên những quỹ đạo hoàn hảo, vừa giản đơn như hơi thở nhưng lại chứa đựng những tầng lớp sát chiêu tinh vi vượt xa mọi quy luật vật lý. Uy lực và thần thái của bộ kiếm pháp này lớn đến nỗi nó ngay lập tức dập tắt sát tâm của Ma Ra-hyeon, buộc ông phải khựng lại để chiêm ngưỡng thứ đỉnh cao võ học mà đời người hiếm khi được nhìn thấy. Trong khoảnh khắc đó, Ma Ra-hyeon không những không ra tay mà còn rơi vào trạng thái "thiền định đốn ngộ", buông bỏ mọi tạp niệm để hấp thụ tinh túy từ đường kiếm của Mộc Khánh Vân.
+
+Sự bàng hoàng không chỉ dừng lại ở đó. Tô Vận Hương và Lục Huyết Thánh Đàm Bạch Hà đứng cạnh đó cũng phải nín thở vì kinh ngạc. Đàm Bạch Hà, người từng tận mắt chứng kiến vị "Lão nhân cần trúc" ra tay vào thời Đại Họa, đã nhận ra rằng chiêu thức của Mộc Khánh Vân không chỉ là mô phỏng, mà là sự kế thừa hoàn hảo và thậm chí là có sự sáng tạo vượt bậc. Việc Mộc Khánh Vân xác nhận hắn được vị "Lão nhân" truyền thụ trực tiếp đã biến hắn từ một kẻ lạ mặt đầy ma tính thành vị truyền nhân duy nhất của vị cứu tinh huyền thoại trong mắt hai nữ cao thủ.
+
+Chương truyện kết thúc với cảnh tượng đầy biểu tượng: Đàm Bạch Hà quỳ xuống hành lễ với Mộc Khánh Vân với tất cả sự tôn kính và trung thành đại diện cho di duệ của Cổ Võ Lâm. Sự thừa nhận này đã chính thức gắn kết vận mệnh của nhóm người lại với nhau dưới sự dẫn dắt của Mộc Khánh Vân. Những ân oán cá nhân của Ma Ra-hyeon hay nỗi đau gia tộc của Tô Vận Hương giờ đây đã hòa chung vào một dòng chảy lớn hơn: cuộc hành trình tìm lại sự thật về Đại Họa và lật đổ sự thối nát của hoàng triều. Một liên minh mạnh mẽ và đầy nguy hiểm đã chính thức được hình thành giữa lòng hoàng cung Khai Phong đang chìm trong loạn lạc.
+
 
 ## Toàn bộ chương
 

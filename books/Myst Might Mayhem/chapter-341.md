@@ -2,16 +2,18 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 16
-}
-]
+## Tóm tắt chương truyện
+
+Những tiếng gào thét đau đớn và mùi máu tanh nồng nặc bao trùm lấy thung lũng Đường môn, nơi Mộc Khánh Vân đang viết nên những trang sử đẫm máu nhất của cuộc phục thù. Sau khi chém đứt lìa hai chân của Đường Nhân Hải, Mộc Khánh Vân không hề có ý định kết liễu lão một cách nhanh chóng. Thay vào đó, hắn tận hưởng sự đau đớn và nhục nhã của kẻ thù. Bằng kỹ thuật "Nhất Chỉ Thần Thông" đầy biến ảo, Mộc Khánh Vân búng những đồng xu sắc lạnh găm thẳng vào những vết thương chưa kịp khép miệng trên đùi Đường Nhân Hải, biến lão thành một tấm bia sống cho những trò tiêu khiển quái ác của mình. Những lời khiêu khích về danh dự võ sĩ của Đường Nhân Hải chỉ nhận được những tiếng cười khẩy đầy ngạo nghễ từ Mộc Khánh Vân, kẻ đã thấu thị rằng đối với một con quỷ đã bò lên từ địa ngục, danh dự hay lòng nhân từ chỉ là những khái niệm xa xỉ và vô nghĩa.
+
+Nỗi sợ hãi tột cùng bao trùm lấy Đường Nhân Hải khi lão nhận ra sự thật kinh hoàng: "Vô Hình Độc" – niềm tự hào và là vũ khí tối thượng của Đường gia – hoàn toàn vô tác dụng đối với Mộc Khánh Vân. Dù đã có những cú va chạm trực diện, nhưng luồng ma khí thâm sâu và chân khí mênh mông như đại dương của hắn đã tạo ra một bức tường ngăn cách tuyệt đối, khiến kịch độc không thể xâm nhập vào kinh mạch. Sự bất lực này khiến lão hiểu rằng mình không chỉ đối đầu với một cao thủ võ lâm, mà là một thực thể siêu nhiên đang thực hiện sứ mệnh thanh trừng sòng phẳng cho những tội ác mà Đường môn đã gây ra suốt ba thế hệ.
+
+Để đẩy sự tàn khốc lên đến đỉnh điểm, Mộc Khánh Vân đã thực hiện một hành động mang tính hủy diệt cả về thể xác lẫn tinh thần của kẻ thù. Hắn dùng sức mạnh chân khí hất văng thân xác què quặt của Đường Nhân Hải rơi thẳng xuống ngay giữa sân sau của Đường phủ, nơi hàng trăm võ giả và các trưởng lão đang tề tựu. Hình ảnh vị Gia chủ oai nghiêm thường ngày giờ đây chỉ còn là một đống thịt vụn đẫm máu, quằn quại dưới đất trước mắt bao nhiêu người, đã giáng một đòn chí mạng vào lòng tự trọng và sĩ khí của toàn bộ gia tộc.
+
+Khi phó gia chủ Đường Thiết Long, người anh em trung thành nhất của Đường Nhân Hải, vẫn còn can đảm định bước lên bảo vệ lão, Mộc Khánh Vân đã ra tay như một vị thần chết không nhân tính. Hắn thản nhiên vạch trần sự hèn nhát tột cùng của Đường Nhân Hải – kẻ đã bỏ rơi toàn bộ dòng tộc để tìm đường thoát thân một mình – trước mặt tất cả môn đồ. Để dập tắt hoàn toàn chút hy vọng và lòng trung thành mù quáng còn sót lại, Mộc Khánh Vân đã xuống tay xé toạc đầu và cột sống của Đường Thiết Long ngay trước sự chứng kiến của Đường Nhân Hải.
+
+Chương truyện khép lại trong không gian tĩnh lặng đầy chết chóc của Đường phủ, nơi những giọt máu tươi vẫn còn nóng hổi đang tưới đẫm mặt đất. Mộc Khánh Vân đứng sừng sững như một ác ma bước ra từ cõi u minh, tuyên bố rằng mọi thảm kịch, mọi cái chết sắp tới của thành viên Đường tộc đều là cái giá mà họ phải trả vì tội lỗi của kẻ đứng đầu: Đường Nhân Hải. Đây không chỉ là một cuộc báo thù, mà là một màn tế lễ đẫm máu và sòng phẳng, nơi mỗi mạng người Đường gia ngã xuống đều là một nén hương dâng lên vong linh của những người đã bị họ sát hại hèn hạ trong quá khứ.
+
 
 ## Toàn bộ chương
 

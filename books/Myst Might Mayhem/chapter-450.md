@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 23
-}
-]
+## Tóm tắt chương truyện
+
+Giữa huyễn cảnh bao la trên đỉnh núi cô độc lơ lửng giữa vực thẳm vĩnh hằng, một cuộc đối đầu vô tiền khoáng hậu đã nổ ra giữa Mộc Khánh Vân và kẻ mang mặt nạ quỷ huyền bí. Sự hiện diện của thực thể này là một bài toán hóc búa đối với trực giác vốn dĩ nhạy bén hơn người của Mộc Khánh Vân; dù đang đối diện trực tiếp, hắn vẫn cảm thấy đối phương giống như một hư ảnh vô linh, không hề có chút hơi thở hay chân khí dao động. Đáng kinh ngạc hơn, kẻ đeo mặt nạ quỷ có thể nghe thấu cả những lời truyền âm nhập mật giữa Mộc Khánh Vân và Thanh Linh, đồng thời chỉ ra bản chất ma đạo trong sát ý của hắn bằng một thái độ thản nhiên đến rợn người.
+
+Trận chiến bắt đầu bằng một đòn "Vô Hình Kiếm" mang sức mạnh xé toạc không gian của Mộc Khánh Vân, nhưng kẻ bí ẩn chỉ cần phất tay đã khiến luồng chân khí cực hạn ấy tan biến như làn khói. Tiếp sau đó là màn phối hợp ảo diệu của các phân thân và những chiêu thức từ "Kinh Chuyển Chân Khí" được thi triển ở cấp độ thoát thai hoán cốt. Mộc Khánh Vân, kẻ vừa mới áp đảo Ác Tâm Bà Bà, lần đầu tiên nếm trải cảm giác bị phản chấn bởi chính chiêu thức của mình, cơ thể bị đánh lún sâu xuống lòng đất nhiều trượng. Sát tính trong huyết quản của hắn bùng nổ, biến chân khí thành một màu đen kịt cuồng bạo như nhiệt ảnh, đánh dấu sự trỗi dậy của "Ma tính" nguyên thủy.
+
+Trong khoảnh khắc cao trào, thanh ma kiếm "Phách Sát Kiếm" bỗng dưng rung động gào thét, phát ra một luồng thù hận sâu sắc hướng về phía kẻ đeo mặt nạ quỷ. Mộc Khánh Vân, như hòa làm một với linh hồn của thanh kiếm, đã tung ra một nhát chém mang sức mạnh chẻ đôi đỉnh quân sơn, khiến mặt đất vỡ vụn và vực thẳm rúng động. Thế nhưng, kẻ bí ẩn không hề tỏ ra nao núng; hắn gọi tên Phách Sát Kiếm như một cố nhân lâu ngày gặp lại, để lộ một sự thật chấn động rằng hắn không chỉ biết mà có thể còn chính là chủ nhân thực sự của những thanh kiếm huyền thoại này từ hàng nghìn năm trước.
+
+Trận chiến bước vào hồi kết khi Mộc Khánh Vân sử dụng "Ngự Kiếm Thuật" đỉnh cao, điều khiển Phách Sát Kiếm từ trên không trung lao xuống trong khi bản thân áp sát để tung ra đòn chí mạng bằng "Ác Ma Kiếm". Đây là một thế gọng kìm hoàn hảo mà ngay cả thần tiên cũng khó lòng thoát khỏi. Tuy nhiên, khi Phách Sát Kiếm chỉ còn cách đối thủ một gang tay, một thanh đoản kiếm trắng muốt bỗng xuất hiện, vẽ nên một đường cung tuyệt mỹ và đánh chệch quỹ đạo tấn công của ma kiếm một cách nhẹ nhàng. Sự xuất hiện của thanh kiếm thứ hai và kỹ năng điều khiển không gian tài tình của kẻ đeo mặt nạ quỷ đã khẳng định một điều: Mộc Khánh Vân đang đối đầu với một tồn tại vượt trên mọi giới hạn võ học, một người nắm giữ chìa khóa tối thượng của "Thiên Độn Tinh Minh Kiếm Pháp" và toàn bộ bí ẩn về sự sắp đặt nghìn năm.
+
 
 ## Toàn bộ chương
 

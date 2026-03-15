@@ -2,16 +2,13 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 1
-}
-]
+Trong bóng đêm mịt mù của một cơn bão kinh hoàng trên dòng sông đang cuộn trào sóng dữ, Mộc Khánh Vân cùng nhóm người của mình đang đối mặt với một tình cảnh ngặt nghèo trên di thuyền. Giữa lúc gió rít và mưa xối xả, một sự hiện diện đầy ám ảnh đã xuất hiện, khiến ngay cả một kẻ vốn điềm tĩnh và tàn nhẫn như Mộc Khánh Vân cũng phải cảm thấy lạnh sống lưng. Một lão giả thần bí, người từng xuất hiện thoáng qua bên bờ sông với chiếc cần câu trúc đơn sơ, nay đã hiện diện ngay sau lưng hắn mà không một tiếng động.
+
+Sự xuất hiện của lão nhân này là một đòn giáng mạnh vào sự tự tin của Mộc Khánh Vân. Hắn, một kẻ vốn sở hữu cảm quan nhạy bén và sự hỗ trợ từ linh hồn Thanh Linh, lại hoàn toàn không hay biết lão đã bước chân lên thuyền từ lúc nào. Điều này chứng tỏ thực lực của lão giả đã vượt xa khỏi tầm hiểu biết của hắn, thậm chí có thể so sánh với những đỉnh cấp cao thủ đứng đầu võ lâm. Áp lực tỏa ra từ lão không phải là sự hung bạo của sát khí, mà là một sự hư vô, tĩnh lặng đến đáng sợ, như thể lão không thuộc về thế giới này.
+
+Cuộc đối thoại giữa hai người diễn ra trong bầu không khí nghẹt thở. Lão giả điềm nhiên nhắc lại việc Mộc Khánh Vân đã quan sát mình từ trước, chứng tỏ mọi hành động của hắn đều nằm trong tầm kiểm soát của lão. Kinh khủng hơn, lão nhân này có thể nhìn thấu mọi luồng năng lượng phức tạp đang ẩn giấu trong cơ thể Mộc Khánh Vân: từ Tử khí liệm người chết, Hàn khí thấu xương, Độc khí chí mạng cho đến cả Ma khí của những thực thể hắc ám. Sự thấu thị này là điều chưa từng có tiền lệ, khiến Mộc Khánh Vân nhận ra mình đang đứng trước một "con quái vật" thực thụ mà mọi chiêu thức võ học hắn từng học được đều trở nên nhỏ bé và vô nghĩa.
+
+Ngay cả Thanh Linh, vị tiền bối ẩn thân trong con rối gỗ, cũng phải run sợ trước uy áp của lão giả. Nàng nhận ra rằng Mộc Khánh Vân đang ở trong trạng thái căng thẳng tột độ, điều chưa từng xảy ra ngay cả khi đối đầu với những kẻ thù hùng mạnh nhất. Lão giả dường như mang đến một mục đích nào đó nằm ngoài sự tranh đấu thông thường, nhắc về những "ân huệ" và "ký ức cũ" liên quan đến ngôi đình và những linh hồn khuất mặt. Chương truyện kết thúc trong sự hoang mang tột độ của Mộc Khánh Vân, khi hắn nhận ra mình vừa chạm trán một nhân vật có thể thay đổi hoàn toàn định mệnh của hắn trong tương lai. Đây không chỉ là một cuộc gặp gỡ tình cờ, mà là sự giao thoa giữa một thiếu niên mang linh hồn quỷ dữ và một bậc tiền nhân mang theo những bí thuật viễn cổ. Mỗi lời nói của lão giả như một mũi kim đâm xuyên qua những tầng bảo vệ của Mộc Khánh Vân, buộc hắn phải đối diện với sự thật về sức mạnh và bản chất thực sự của mình trong thế giới võ học đầy rẫy những biến số này. Chuyến hành trình trên thuyền không còn đơn thuần là vượt sông, mà là một cuộc khảo nghiệm linh hồn đầy cam go.
 
 ## Toàn bộ chương
 

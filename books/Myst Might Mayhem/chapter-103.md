@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 38
-}
-]
+Sau khi Vệ Tố Nghiên và Diệp Vĩ Tiên rời đi, Tàng Bảo Các trở lại vẻ yên bình nhưng đầy u uất vốn có. Mộc Khánh Vân, với một giờ đồng hồ quý giá được tặng thêm, đã không lãng phí một giây phút nào. Hắn tiếp tục chìm đắm vào trạng thái "vô ngã", nơi hắn không chỉ đọc sách mà còn như đang sống lại cuộc đời và tâm cảnh của những vị tiền nhân đã viết nên những bộ bí kíp ấy. Tuy nhiên, sự tập trung của hắn bắt đầu bị xao nhãng bởi một hiện tượng kỳ quái mà ngay cả linh hồn Thanh Linh cũng phải chú ý tới: cơ thể của Mộc Khánh Vân đang biến đổi. Những khối cơ bắp của hắn rung động nhẹ nhàng, mật độ xương khớp thay đổi như thể hắn đang thực sự luyện tập các chiêu thức trong tâm trí. Sức mạnh của ý chí và niềm tin đã tác động trực tiếp lên xác thân, một hiện tượng gần như siêu nhiên mà chỉ những kẻ có tinh thần lực cực kỳ mạnh mẽ mới có thể đạt tới.
+
+Trong khi đang miệt mài nghiên cứu tại tầng ba, Mộc Khánh Vân đột ngột nghe thấy những âm thanh lạ lùng phát ra từ một góc khuất, nơi có một đường kẻ màu đỏ ranh giới ngăn cách. Đây chính là khu vực mà Trưởng lão Dương Mộ Nguyên đã cảnh báo là cực kỳ nguy hiểm và đầy rẫy những điều kinh khủng. Thế nhưng, trí tò mò của một kẻ không sợ trời không sợ đất như Mộc Khánh Vân đã trỗi dậy, nhất là khi hắn nghe thấy tiếng gọi của ông nội – người đã khuất từ lâu – vang lên từ bên trong hốc tối đó. Tiếng gọi tha thiết "Khánh Vân... Khánh Vân... hãy cứu ta" khiến trái tim hắn thắt lại, dù lý trí tỉnh táo mách bảo rằng đó chỉ là ảo giác.
+
+Tiến sâu vào bên trong, vượt qua ranh giới cấm kỵ, hắn tìm thấy một chiếc hộp gỗ cổ xưa nằm trên kệ sách cao nhất. Từ chiếc hộp, một luồng yêu khí cực kỳ mạnh mẽ và tà ác tỏa ra, không phải là âm khí của người chết mà là thứ năng lượng đen tối của những loài yêu quái sinh ra từ thuở hồng hoang. Một giọng nói vang lên từ trong hộp, tự xưng là "Chúa tể của Tây Hải", hứa hẹn sẽ ban cho hắn bất cứ điều gì nếu hắn phá vỡ phong ấn giải thoát cho nó. Nó đánh vào điểm yếu tâm lý của hắn bằng cách giả giọng ông nội, nhưng Mộc Khánh Vân, với sự lạnh lùng đến tàn nhẫn, đã ngay lập tức nhìn thấu chiêu trò này.
+
+Thanh Linh cũng cảm thấy sự bất thường, nàng nhận ra rằng sinh vật bên trong chiếc hộp này không hề đơn giản. Dù bị phong ấn, nó vẫn có thể truyền âm ra ngoài thông qua một vết nứt nhỏ trên vỏ hộp. Mộc Khánh Vân, thay vì sợ hãi, lại nảy sinh một ý định táo bạo: thay vì giải cứu hay tiêu diệt, hắn muốn "ăn" sạch nguồn năng lượng này để biến sinh vật tà ác đó thành "linh hồn hầu cận" (Servant Spirit) tiếp theo của mình. Hắn bắt đầu sử dụng một bí thuật để hấp thụ yêu khí đang rò rỉ, biến thứ sức mạnh đen tối ấy thành chất dinh dưỡng cho bản thân. Cuộc đối đầu giữa một thiếu niên mang tâm thế phục thù và một thực thể tà ác từ thượng cổ bắt đầu nổ ra trong bóng tối của Tàng Bảo Các, hứa hẹn một sự kết hợp sức mạnh khủng khiếp và đầy rẫy tai ương trong tương lai.
+
 
 ## Toàn bộ chương
 

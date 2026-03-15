@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 48
-}
-]
+## Tóm tắt chương truyện
+
+Tại trung tâm của kinh thành Khai Phong đang chìm trong bóng tối của lệnh giới nghiêm, Mộc Khánh Vân đã có một khám phá rúng động về quy mô của thế lực mà hắn đang đối đầu. Khi nhận diện ký hiệu đường thẳng dọc xuyên qua chữ "Nhị" (二) – một biểu tượng vốn gắn liền với cái chết của ông nội mình – lại xuất hiện trên manh mối về "Đại Họa" từ thời Cổ Võ Lâm, hắn hiểu rằng mình đang chạm vào một tổ chức cổ xưa đã thao túng lịch sử từ bóng tối. Sự thật này buộc Mộc Khánh Vân phải nhìn nhận lại kế hoạch trả thù của mình không còn là một cuộc viễn chinh cá nhân, mà là một cuộc chiến quy mô lớn đòi hỏi hắn phải sở hữu nhiều "quân bài" sức mạnh hơn, từ võ học đỉnh cao cho đến những liên minh bí mật trong lòng địch.
+
+Cuộc đào thoát khỏi vòng vây nghẹt thở của hoàng cung được tiến hành theo một phương thức đầy nhục nhã nhưng mang tính thực dụng cao độ: ẩn nấp trong những chiếc xe chở thức ăn thừa và chất thải hữu cơ. Mộc Khánh Vân cùng hai thuộc hạ thân tín là Nhiếp Xuân và Mông Vũ Nhạc đã cải trang thành những phu dịch rẻ mạt, âm thầm đẩy những chiếc xe bốc mùi nồng nặc để vượt qua các chốt chặn. Bên trong những thùng chứa hôi thối ấy, Lục Huyết Thánh Đàm Bạch Hà và Thánh nữ Bái Hỏa giáo phải nén mình chịu đựng sự ô uế, dùng mùi vị nồng nặc của rác tưởi để che giấu đi luồng chân khí mạnh mẽ của những cao thủ đang bị săn đuổi gắt gao. Đây là một màn trình diễn của sự kiên nhẫn và quyết tâm vượt khỏi ranh giới của lòng tự trọng vì đại cục.
+
+Kịch tính được đẩy lên đến đỉnh điểm khi đoàn xe rác bị chặn lại tại Trung Môn bởi lực lượng thái giám Tây Xưởng và quân Cẩm Y Vệ đang trong trạng thái cảnh giác cao độ. Viên thái giám giám sát, với bản tính đa nghi và tàn độc, không chỉ dừng lại ở việc quan sát bên ngoài mà còn yêu cầu binh lính dùng kiếm đâm liên hồi vào sâu trong những lớp rác tưởi để kiểm tra. Trong khoảnh khắc ngàn cân treo sợi tóc, khi lưỡi kiếm tử thần sắp xuyên qua thùng chứa của Thánh nữ, Đàm Bạch Hà đã buộc phải dùng đến bí thuật linh hồn độc môn. Một cú búng tay của nàng đã tạo ra một luồng sóng xung kích vô hình, khiến phần lớn quân canh gác ngã gục ngay lập tức trong tình trạng vô tri vô giác.
+
+Chương truyện khép lại bằng màn xử lý tàn bạo và nhanh gọn của Mộc Khánh Vân đối với viên thái giám cầm đầu còn sót lại. Không để cho đối phương có cơ hội phát tín hiệu cầu cứu, Mộc Khánh Vân đã áp sát và bẻ gãy cổ hắn bằng một lực đạo kinh hồn, kết thúc sự sống của kẻ cản đường trong thầm lặng. Với xác chết cuối cùng được giấu kín dưới đống rác tưởi, nhóm người của Mộc Khánh Vân đã vượt qua được cửa ải nguy hiểm nhất của nội đô. Cuộc tháo chạy giữa lòng hoàng cung không chỉ phơi bày sự thối nát của hệ thống phòng thủ triều đình mà còn minh chứng cho sự phối hợp ăn ý giữa Mộc Khánh Vân và những nữ cao thủ huyền thoại, sẵn sàng cho những biến động lớn hơn sẽ nổ ra ngay khi họ đặt chân ra khỏi tường thành Khai Phong.
+
 
 ## Toàn bộ chương
 

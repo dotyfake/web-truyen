@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 12
-}
-]
+Buổi sparring (đấu tập) tối muộn đã dập tắt mọi hy vọng báo thù hay giành lại tự do bằng sức mạnh của Mộ Hạ Lăng. Cô bàng hoàng nhận ra rằng Mộc Khánh Vân không chỉ mạnh lên, mà thực sự đã bước sang một đẳng cấp hoàn toàn khác – một cảnh giới mà ngay cả cha cô, đường chủ của Ma Hỏa Đường, cũng khó lòng chạm tới. Mộc Khánh Vân, mặc dù chưa tiêu thụ viên "Moonlight Pill" (Thiên Địa Đan), nhưng sức mạnh tinh thần và linh lực của hắn đã đạt đến sự thâm thúy vượt bậc nhờ những biến cố kỳ ngộ trong Tàng Bảo Các. Hắn đã thực sự đặt chân vào cảnh giới Siêu Phàm (Transcendent Realm), nơi mà mọi chuyển động của đối thủ đều trở nên chậm chạp một cách nực cười trong mắt hắn. Tuy nhiên, thay vì tự mãn, Mộc Khánh Vân vẫn cảm nhận được sự nhắc nhở từ Thanh Linh rằng con đường phía trước còn rất dài, bởi đối thủ cuối cùng của cuộc báo thù có thể là một kẻ đã chạm tới ngưỡng cửa của sự giác ngộ (Enlightenment).
+
+Ngày hôm sau, bầu không khí tại Hủ Huyết Cốc trở nên vô cùng căng thẳng với sự chuẩn bị cho buổi lễ tốt nghiệp và kỳ sát hạch cuối cùng (The Final Gate). Tại quảng trường phía sau khu cư xá, sự xuất hiện của những thực khách không mời từ nội thành đã khiến ngay cả Cốc chủ Lý Chi Khiêm cũng phải dè chừng. Đáng chú ý nhất chính là sự hiện diện của những nhân vật huyền thoại: Ảnh Phái Chủ bí ẩn, Lôi Điện Quyền Vương Viên Bỉnh Hạc uy phong lẫm liệt, và đặc biệt là sự xuất hiện đầy khiêu khích của "Triệu Âm Cốc Chủ" Hàng Diệp Lương – một mỹ nhân xinh đẹp nhưng có tính cách thất thường, thường xuyên dùng tiếng đàn tỳ bà chứa đựng chân khí để quấy nhiễu và gây thương tích cho những kẻ có nội công thâm hậu kém hơn.
+
+Sự xuất hiện của Hàng Diệp Lương với chiếc kiệu bốn người khiêng và tiếng đàn xuyên thấu màng nhĩ đã tạo nên một không gian đầy áp lực. Nàng liên tục phớt lờ những lời cảnh báo của Lý Chi Khiêm, cho đến khi "Minh Đao Vương" Tôn Vân – một trong Ngũ Vương với ngoại hình cao lớn, đầy sẹo và mang theo một thanh đại đao khổng lồ – bước tới can thiệp. Mối quan hệ cơm chẳng lành canh chẳng ngọt giữa Tôn Vân và Hàng Diệp Lương được thể hiện rõ nét qua những lời đối thoại gay gắt, nhưng sự hiện diện của Minh Đao Vương đã tạm thời ổn định lại tình hình, cho phép buổi lễ tiếp tục diễn ra.
+
+Điều khiến mọi người bất ngờ nhất chính là lý do Minh Đao Vương Tôn Vân đến dự buổi lễ này. Vốn dĩ ông đã có những đệ tử xuất sắc như Vũ Hổ Lang, nhưng sau khi nghe tin đệ tử út Diệp Vĩ Tiên bị đánh bại nhục nhã bởi một học viên vô danh, ông đã không thể ngồi yên. Ánh mắt hình viên đạn của Tôn Vân găm chặt vào Mộc Khánh Vân – lúc này đang đứng tĩnh lặng giữa hàng ngũ học viên. Một cuộc đối đầu trực diện giữa một vị "Vương" lão luyện và một thiên tài Siêu Phàm mới nổi đang dần thành hình, hứa hẹn một kỳ sát hạch cuối cùng đầy rẫy bão táp và những biến số khó lường.
+
 
 ## Toàn bộ chương
 

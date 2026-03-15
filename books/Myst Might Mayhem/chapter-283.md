@@ -2,16 +2,13 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 56
-}
-]
+Tại kho lương thực hẻo lánh của hoàng cung, không gian như ngưng đọng khi những bí mật kinh thiên động địa về thời đại "Đại Họa" được hé lộ qua lời kể của những người trong cuộc. Tô Vận Hương đã trải lòng về cái chết đầy uẩn khúc của cha mình – Tấn Vĩnh Nhân, vị tộc trưởng uy vũ của Tô tộc, người đã bị sát hại dã man ngay tại kinh thành Khai Phong khi đang trên đường tìm kiếm manh mối về thảm kịch đã xóa sổ Cổ Võ Lâm. Nàng mang trong mình di nguyện cuối cùng và toàn bộ chân khí truyền đời của cha, âm thầm ẩn mình trong hàng ngũ Cẩm Y Vệ để chờ đợi ngày tìm ra kẻ thủ ác đứng sau bức màn nhung của hoàng triều.
+
+Lục Huyết Thánh Đàm Bạch Hà, nhân chứng sống duy nhất từ thời đại hỗn mang đó, đã tái hiện lại ký ức kinh hoàng về con quái thú bốn đầu từng biến năm thành phố thành đống tro tàn. Nàng kể về một vị tuyệt thế cao thủ mang kiếm pháp ma quỷ, kẻ đã ra tay hạ gục quái vật chỉ để cướp đoạt tinh hoa linh thú rồi quay sang thảm sát toàn bộ giới võ lâm đồng minh nhằm xóa sạch dấu vết. Giữa lúc cái chết cận kề, một vị "Lão nhân" mang cốt cách thư sinh, cầm theo chiếc cần câu trúc đơn sơ đã xuất hiện như một vị thần cứu thế, đẩy lùi kẻ thủ ác và cứu mạng Đàm Bạch Hà. Hình bóng vị lão nhân đó chính là sợi dây liên kết duy nhất còn sót lại giữa hai thời đại võ học.
+
+Sự kịch tính được đẩy lên đến đỉnh điểm khi Mộc Khánh Vân nhận ra những đặc điểm miêu tả về vị lão nhân cầm cần câu trúc hoàn toàn trùng khớp với người ông già bí ẩn mà hắn đã gặp trên chuyến đò đêm mưa bão. Không cần lời giải thích dài dòng, Mộc Khánh Vân lướt bước, dùng ngón tay thay kiếm thi triển một chiêu thức mang tên "Vô Nguyệt Hư Kiếm". Những đường kiếm vẽ nên những vòng tròn bạc tinh khiết như trăng rằm, mang theo một luồng ý cảnh hư ảo và thoát tục, khiến cả Tô Vận Hương và Đàm Bạch Hà đều phải chấn động đến mức không thể thốt nên lời.
+
+Chương truyện khép lại với sự bàng hoàng tột độ của hai nữ cao thủ khi nhận ra Mộc Khánh Vân chính là truyền nhân chân truyền của vị tiền bối huyền thoại. Đối với Tô Vận Hương, chiêu thức này không chỉ là võ học đỉnh cao mà còn là ký ức thiêng liêng về gia tộc vốn đã bị chôn vùi. Việc Mộc Khánh Vân sở hữu tuyệt kỹ của vị "Lão nhân cần trúc" đã biến hắn thành tâm điểm của mọi sự chú ý, một thực thể mang trong mình chìa khóa của quá khứ và sức mạnh có thể thay đổi tương lai. Mối quan hệ giữa họ giờ đây đã vượt xa khỏi những toan tính lợi ích thông thường, gắn kết họ vào một định mệnh chung để đối đầu với thế lực bóng tối đã gây ra "Đại Họa" năm xưa.
 
 ## Toàn bộ chương
 

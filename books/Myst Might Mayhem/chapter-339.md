@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 21
-}
-]
+## Tóm tắt chương truyện
+
+Cuộc chiến tại thung lũng Đường môn đã bước vào giai đoạn hạ màn với những màn lật tẩy đầy kịch tính. Ngay giữa thời điểm hai đại lão độc công là Đường Nhân Hải và Cửu Dương Xà Ô chuẩn bị thi triển đòn quyết định "lưỡng bại câu thương", Mộc Khánh Vân đã can thiệp một cách đầy ngạo nghễ. Hắn không chỉ dùng sức mạnh áp đảo để hất văng Cửu Dương Xà Ô ra khỏi vòng chiến, cứu lão một mạng khỏi đòn hy sinh, mà còn trực tiếp đối chưởng với Đường Nhân Hải. Cú va chạm khiến Đường Nhân Hải bị đẩy lui, ngũ tạng rung chuyển, nhưng lão lại lộ ra nụ cười thâm độc khi tin rằng Mộc Khánh Vân đã trúng phải "Vô Hình Độc" – tuyệt độc chấn phái vô phương cứu chữa của Đường gia. Lão nín thở chờ đợi cái chết của Mộc Khánh Vân, nhưng lại không biết rằng mình đang đối mặt với một thực thể vượt xa hiểu biết thông thường về con người.
+
+Trong khi đó, kịch tính chuyển sang màn đấu trí giữa Đường Nhân Hải và vị hộ vệ Moo-jin. Đường Nhân Hải cố gắng lật ngược thế cờ bằng cách vu khống Mộc Khánh Vân là thành viên của Bái Hỏa Giáo – một tà giáo chuyên lừa mị dân chúng. Lão nỗ lực khơi gợi sự thù hận trong Moo-jin đối với tà phái để kéo hắn trở lại phe mình. Tuy nhiên, Moo-jin với nhãn quan sắc bén đã nhận ra những mâu thuẫn đầy rẫy trong lời nói của lão. Moo-jin chất vấn tại sao Đường Nhân Hải lại biết quá chi tiết về lai lịch của Mộc Khánh Vân và cả cái chết của người nuôi nấng hắn, dù những thông tin này chưa hề được công bố. Sự lúng túng của lão càng được đẩy lên đỉnh điểm khi Moo-jin tung ra câu hỏi chí mạng: "Tại sao khi tôi đang liều mình chiến đấu vì Đường môn, thì ông – kẻ đứng đầu dòng họ – lại đang âm thầm chuẩn bị hành trang để bỏ trốn một mình?"
+
+Lời buộc tội của Moo-jin đã xé nát tấm mặt nạ đạo đức giả của Đường Nhân Hải, phơi bày sự hèn nhát và ích kỷ tột cùng của một vị Gia chủ. Khi nhận ra mọi mưu chước dối trá đều đã bại lộ và sự chi viện từ vị hộ vệ huyền thoại đã hoàn toàn chấm dứt, Đường Nhân Hải rơi vào trạng thái hoảng loạn tột độ. Lão định dùng chút tàn lực cuối cùng để phát động Vô Hình Độc hòng liều chết một phen, nhưng Mộc Khánh Vân đã không cho lão cơ hội đó.
+
+Chương truyện kết thúc bằng một cảnh tượng đầy kinh hoàng và sòng phẳng. Mộc Khánh Vân áp sát với tốc độ ma quỷ, tóm lấy đầu Đường Nhân Hải và dập mạnh xuống mặt đất bằng một lực đạo ngàn cân, khiến toàn bộ khuôn mặt của kẻ chủ mưu bị chôn sâu dưới lớp đất đá. Hành động này không chỉ là sự trừng phạt về thể xác mà còn là sự sỉ nhục tối cao dành cho kẻ đã sát hại người thân của hắn. Khung cảnh thung lũng trở nên tĩnh lặng một cách đáng sợ khi Mộc Khánh Vân tuyên bố chính thức tiếp quản cuộc thanh trừng, đánh dấu sự sụp đổ hoàn toàn của một triều đại Đường môn dựa trên sự dối trá và tàn độc.
+
 
 ## Toàn bộ chương
 

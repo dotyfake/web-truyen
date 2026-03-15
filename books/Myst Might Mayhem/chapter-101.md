@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 43
-}
-]
+Sự xuất hiện đột ngột và uy thế áp đảo của Vệ Tố Nghiên – đệ tử thứ ba của Thiên Địa Hội chủ – đã khiến bầu không khí tại Tàng Bảo Các trở nên căng thẳng tột độ. Ngay khi danh tính của nàng được tiết lộ, Mộc Khánh Vân không khỏi kinh ngạc. Hắn hiểu rằng trước mặt mình không chỉ là một mỹ nhân tuyệt thế mà còn là một trong những ứng cử viên sáng giá nhất cho vị trí thủ lĩnh tương lai của Thiên Địa Hội, kẻ nắm giữ quyền sinh quyền sát trong tay. Vệ Tố Nghiên sở hữu thiên phú võ học nghìn năm có một, và dù tuổi đời còn rất trẻ, tu vi của nàng đã đạt tới cảnh giới khiến các tiền bối cũng phải nể sợ.
+
+Ngay tại chỗ, Vệ Tố Nghiên đã trực tiếp trừng phạt Diệp Vĩ Tiên – kẻ đã mượn uy thế của nàng để vào Tàng Bảo Các rồi tạo ra hỗn loạn. Không một chút nương tay, nàng bẻ gãy cổ tay của hắn như một lời cảnh cáo đanh thép về việc làm hư hại những bí kíp võ học quý giá. Diệp Vĩ Tiên, dù đau đớn đến mức suýt ngất đi, vẫn phải cắn răng chịu đựng, không dám thốt lên một lời oán thán trước uy lực của "Tiểu thư". 
+
+Sau khi dẹp loạn, Vệ Tố Nghiên bắt đầu chuyển sự chú ý sang Mộc Khánh Vân. Dưới lớp khăn voan mỏng, ánh mắt sắc sảo của nàng không ngừng quan tâm đến thiếu niên có vẻ ngoài thanh tú nhưng nội lực lại thâm trầm bất định này. Nàng nhận thấy ở hắn một tiềm năng vô hạn, một quân cờ quý giá có thể giúp nàng trong cuộc chiến tranh giành quyền lực sắp tới. Với phong thái của một bậc quân chủ, nàng không ngần ngại đề nghị chiêu mộ Mộc Khánh Vân về dưới trướng, hứa hẹn một tương lai rạng rỡ và sự che chở tuyệt đối.
+
+Tuy nhiên, Mộc Khánh Vân không phải là kẻ dễ dàng bị khuất phục bởi danh lợi hay sắc đẹp. Hắn phản ứng một cách vô cùng bình thản, thậm chí có phần ngông cuồng khi đòi hỏi "sự đền bù xứng đáng" cho việc suýt bị Diệp Vĩ Tiên ám hại. Hắn táo bạo yêu cầu lấy mạng của Diệp Vĩ Tiên để trả giá cho sự vô lễ đó. Đáp lại sự ngông cuồng này, Vệ Tố Nghiên đã tung ra một đòn tâm lý hiểm hóc: nàng đồng ý cho hắn giết Diệp Vĩ Tiên, nhưng với điều kiện hắn phải tự mình gánh chịu cơn thịnh nộ của Minh Đao Vương – sư phụ của Diệp Vĩ Tiên. Đây là một ván bài lật ngửa, một lời thách thức xem liệu Mộc Khánh Vân có đủ gan góc và bản lĩnh để đối đầu với một trong Ngũ Vương hay không.
+
+Trò chơi trí tuệ này kéo dài trong sự hồi hộp của cả những kẻ chứng kiến. Diệp Vĩ Tiên từ thế chủ động ban đầu giờ đây chỉ như một con chó hoang đáng thương, nằm co rốm chờ đợi phán quyết. Trong khi đó, Mộc Khánh Vân lại thể hiện một trí tuệ sắc bén không kém gì võ công của hắn. Nhận ra ý đồ thử thách của Vệ Tố Nghiên, hắn đã dùng một hành động đầy mưu mẹo: tung một cú đá khiến Diệp Vĩ Tiên phải mở miệng kêu la, phá vỡ lệnh cấm khẩu mà Vệ Tố Nghiên đã đưa ra trước đó. Bằng cách này, hắn dồn Vệ Tố Nghiên vào thế phải thực hiện lời hứa "xử lý kẻ phá luật" của chính mình. Sự táo bạo và thông minh này của Mộc Khánh Vân đã mang lại cho hắn không chỉ sự sống mà còn là sự tôn trọng nhất định từ phía nữ tử đầy quyền lực kia, đồng thời biến cuộc gặp gỡ tình cờ này thành một màn đấu trí đỉnh cao giữa hai tâm hồn đầy tham vọng.
+
 
 ## Toàn bộ chương
 

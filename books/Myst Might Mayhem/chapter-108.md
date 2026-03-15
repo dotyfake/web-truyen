@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 17
-}
-]
+Mộc Khánh Vân sau trận chiến sinh tử với Linh Thú "Chúa tể Tây Hải" đã trải qua một quá trình biến đổi thần kỳ mang tên "Thoát Thai Hoán Cốt". Lớp da cũ nứt nẻ và bong tróc như vỏ cây khô, để lộ ra một làn da mới bóng bẩy và tràn đầy sức sống. Đây là hiện tượng hiếm gặp vốn chỉ xảy ra khi một võ giả đạt tới cảnh giới Hóa Cảnh (Transformation Realm), nhưng Mộc Khánh Vân đã đạt được nó sớm hơn nhờ hấp thụ lượng yêu khí khổng lồ từ Linh Thú. Cơ thể hắn giờ đây không chỉ lành lặn mọi vết thương mà còn nhẹ nhõm vô cùng, sức mạnh linh lực trong đan điền đã vượt xa mọi giới hạn trước đó, chính thức đưa hắn bước chân vào ngưỡng cửa của cảnh giới Siêu Phàm (Transcendent Realm).
+
+Linh hồn Thanh Linh, dù đang ở trong trạng thái vô cùng suy yếu và đứng trước nguy cơ bị tan biến vĩnh viễn (extinguished), vẫn không khỏi kinh ngạc trước sự phát triển lệch chuẩn của Mộc Khánh Vân. Nàng nhận thấy con đường tu luyện của thiếu niên này hoàn toàn khác biệt với các võ giả thông thường; hắn tích tụ tử khí và vận hành công lực theo chiều nghịch, tạo nên một loại sức mạnh tà dị nhưng vô cùng uy mãnh. Chứng kiến Mộc Khánh Vân hồi sinh một cách ngoạn mục, Thanh Linh nảy sinh một tia hy vọng rằng hắn thực sự có thể đạt tới đỉnh cao của võ đạo trong thời gian ngắn như hắn từng tuyên bố.
+
+Trong khoảnh khắc Thanh Linh sắp tan biến, Mộc Khánh Vân đã có một hành động đầy bất ngờ: hắn nắm lấy tay nàng và truyền một lượng lớn yêu khí mà hắn vừa chiếm đoạt được từ Linh Thú. Hành động này vô cùng nguy hiểm bởi thông thường các linh hồn oán hận (vengeful spirits) khó có thể dung nạp yêu khí cấp cao, nhưng nhờ sợi dây liên kết "linh hồn hầu cận", Thanh Linh đã không những hồi phục mà còn thăng cấp vượt bậc. Từ một Thanh Linh oán hồn trăm năm, nàng đã tiến hóa lên cấp độ "U Linh" (Indigo Spirit) – một thực thể tâm linh mang sức mạnh tương đương với các yêu quái cao cấp, có khả năng tác động trực tiếp lên thế giới vật chất một cách mạnh mẽ.
+
+Sự thăng tiến này không chỉ dành riêng cho Thanh Linh mà còn lan sang cả Quỷ Tô Hà. Sau khi nhận được sự ban phát linh lực từ chủ nhân, Quỷ Tô Hà cũng thăng cấp từ Lục Linh lên Thanh Linh, khiến sức mạnh của cả nhóm tăng lên đáng kể. Sau khi thu xếp mọi dấu vết tại Tàng Bảo Các, Mộc Khánh Vân quyết định để Quỷ Tô Hà (đang chiếm hữu cơ thể Trưởng lão Dương Mộ Nguyên) ở lại để canh giữ cuộn tranh phong ấn Linh Thú, đề phòng kẻ có dự mưu quay lại tìm kiếm. Khi Mộc Khánh Vân bước ra khỏi kho báu và gặp lại Quách Văn Kỹ, người dẫn đường đã không khỏi bàng hoàng khi nhận thấy khí chất của thiếu niên này đã hoàn toàn thay đổi, trở nên thâm trầm và khó đoán định hơn bao giờ hết.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 3
-}
-]
+Toàn bộ quảng trường chìm trong sự kinh ngạc tột độ khi chứng kiến Mộc Khánh Vân thực hiện bí kỹ "Hữu Quyền Tả Chưởng" – một kỹ thuật phân tâm nhị dụng vô cùng khó nhằn mà Mục Trang Nhược đã khổ luyện bao năm. Mộc Vũ Thiên, vốn luôn coi thường người anh họ, nay cũng phải bật dậy khỏi vị trí vì không tin vào mắt mình. Sự kinh hoàng còn lớn hơn đối với các vị cao tàng nội thành như Hàng Diệp Lương và Ảnh Phái Chủ; họ nhận ra mình đang đối mặt với một quái kiệt có khả năng sao chép võ học chỉ qua một lần quan sát – một loại thiên phú nghìn năm có một.
+
+Trận đấu xoay chuyển nhanh chóng khi Mộc Khánh Vân bắt đầu áp đảo Mục Trang Nhược. Tay phải của hắn vận hành "Nguyệt Môn Kiếm Pháp" với những biến hóa đầy ảo diệu, liên tục đánh thẳng vào các huyệt đạo hiểm yếu như huyệt Nhật Nguyệt và Tiểu Hải trên cơ thể đối thủ. Trong khi đó, tay trái hắn thực hiện quyền pháp đơn giản nhưng vô cùng mạnh mẽ, khóa chặt mọi đường lui của Mục Trang Nhược. Mục Trang Nhược hoàn toàn mất phương hướng, đầu óc quay cuồng vì không thể cùng lúc đối phó với hai luồng sức mạnh vừa tinh vi vừa mãnh liệt của Mộc Khánh Vân.
+
+Cao trào của trận đấu diễn ra khi Mục Trang Nhược liều lĩnh tung ra những mảnh đá vụn tẩm chân khí làm ám khí để thoát thân. Thế nhưng, Mộc Khánh Vân đã thực hiện một động tác uốn lượn đầy ảo diệu như một bóng ma, trượt sát mặt đất để né tránh và ngay lập tức phản đòn bằng chiêu "Toàn Phong Cước" từ bộ bộ pháp U Minh. Một cú đá sấm sét trúng thẳng vào cằm Mục Trang Nhược, khiến não bộ hắn chấn động và ngất lịm ngay tại chỗ. Mộc Gyeong-un kết thúc trận đấu một cách gọn gàng, nhưng thực chất hắn đã phải cố tình kìm hãm 80% sức mạnh của mình để không để lộ thực lực ở cảnh giới Siêu Phàm (Transcendent Realm) trước mặt các vị cao tàng đang quan sát.
+
+Chiến thắng của Mộc Khánh Vân không chỉ định đoạt số phận của Mục Trang Nhược mà còn châm ngòi cho một cuộc "tranh giành đệ tử" nảy lửa giữa các vị Vương. Minh Đao Vương Tôn Vân và Lôi Điện Quyền Vương Viên Bỉnh Hạc bắt đầu đấu khẩu gay gắt, ai cũng muốn thu nạp Mộc Khánh Vân về dưới trướng của mình. Viên Bỉnh Hạc thậm chí sẵn lòng bỏ rơi ứng cử viên từ Bí Cảnh Môn để tập trung vào Mộc Khánh Vân, trong khi Tôn Vân dùng uy thế của mình để ép buộc. Sự căng thẳng giữa hai kẻ quyền lực nhất nhì Ngũ Vương khiến cả quảng trường nín thở, đẩy sự kiện tốt nghiệp vốn bình thường trở thành một màn kịch đầy rẫy những toan tính chính trị và quyền lực.
+
 
 ## Toàn bộ chương
 

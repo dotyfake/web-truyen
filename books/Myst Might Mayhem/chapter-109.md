@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 15
-}
-]
+Tại Tàng Bảo Các, Quỷ Tô Hà trong hình hài Trưởng lão Dương Mộ Nguyên đang bận rộn dọn dẹp các mảnh vụn và xóa sạch dấu vết của cuộc đại chiến vừa qua. Nàng cảm thấy vô cùng hưng phấn không chỉ vì linh lực được thăng cấp mà còn vì có cơ hội hiếm hoi được tiếp cận với kho tàng bí kíp võ học vô tận tại đây. Tuy nhiên, một hiện tượng kỳ lạ đã thu hút sự chú ý của nàng: chiếc hộp gỗ đựng cuộn tranh phong ấn Linh Thú, vốn đã bị phá hủy thành tro bụi trước đó, bỗng nhiên tự hồi phục về trạng thái nguyên vẹn như thể thời gian bị đảo ngược. Mộc Khánh Vân, sau khi chứng kiến điều này, đã quyết định để lại cuộn tranh tại vị trí cũ và giao cho Quỷ Tô Hà nhiệm vụ quan sát bất kỳ kẻ nào có ý định tìm kiếm nó, đặc biệt là kẻ mang danh "Ba Mắt" từng được Linh Thú nhắc đến.
+
+Cùng lúc đó, tại một dinh thự xa hoa ở nội thành Thiên Địa Hội, một cuộc gặp gỡ bí mật diễn ra giữa hai cao tầng quyền lực: Lôi Điện Quyền Vương (Viên Bỉnh Hạc) – một trong Ngũ Vương, và Ảnh Phái Chủ (Shadow Clan Master) – một trong Tam Đại Thủ Lĩnh. Ảnh Phái Chủ là một nhân vật vô cùng bí ẩn, luôn xuất hiện với lớp mặt nạ da người và giọng nói ái nam ái nữ lạ kỳ, người duy nhất biết được diện mạo thật của hắn chính là Hội chủ. Lôi Điện Quyền Vương mang đến một bình rượu quý "Hỏa Thạnh Tửu" 25 năm làm quà biếu, hòng nhờ vả Ảnh Phái Chủ nhường quyền thu nhận một học viên tài năng từ Bí Cảnh Môn (Esoteric Realm Gate) trong buổi lễ tốt nghiệp ngày mai tại Hủ Huyết Cốc (Corpse Blood Valley).
+
+Viên Bỉnh Hạc tiết lộ rằng ông đang khao khát tìm kiếm một hậu duệ có tư chất phù hợp để truyền lại tuyệt kỹ "Chân Nguyên Lôi Điện Quyền" của mình, sau khi đệ tử trước đó đã thất bại và bị tàn phế. Ảnh Phái Chủ vui vẻ chấp nhận lời đề nghị và thú nhận rằng bản thân hắn cũng đang nhắm tới một thiên tài khác: một cô gái đến từ Ma Hỏa Đường (Demon Fire Hall). Cuộc trao đổi này cho thấy những toan tính ngầm giữa các cao tầng nhằm củng cố thế lực cho riêng mình thông qua việc chiêu mộ các nhân tài trẻ tuổi vừa hoàn thành khóa huấn luyện tử thần.
+
+Trở lại với Mộc Khánh Vân, hắn gọi Mộ Hạ Lăng (cô gái đến từ Ma Hỏa Đường, người đã thề trung thành như một "con chó" của hắn) đến để yêu cầu một buổi đấu tập. Mộc Khánh Vân muốn kiểm tra thực lực mới của mình sau khi thăng cấp lên cảnh giới Siêu Phàm. Hắn đưa ra một lời hứa đầy cám dỗ: nếu Mộ Hạ Lăng có thể khuất phục được hắn, hắn sẽ trao trả thuốc giải độc. Mộ Hạ Lăng, với bản tính của một sát thủ, đã lập tức tung ra những đòn tấn công sở trường bằng đoản đao ẩn giấu trong ống tay áo. Thế nhưng, cô đã hoàn toàn bàng hoàng khi nhận ra tốc độ của Mộc Khánh Vân đã đạt tới mức không thể nhìn thấy bằng mắt thường. Chưa đầy một hơi thở, ngón tay của Mộc Khánh Vân đã chạm sát cổ họng cô, khiến một sát thủ tài ba như Mộ Hạ Lăng lần đầu tiên cảm nhận được sự tuyệt vọng và khoảng cách mênh mông về thực lực giữa hai người.
+
 
 ## Toàn bộ chương
 

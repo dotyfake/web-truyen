@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 28
-}
-]
+## Tóm tắt chương truyện
+
+Khi nắp hộp gỗ cũ kỹ bật mở, vận mệnh của toàn bộ võ lâm dường như đã được định đoạt qua hai món cổ vật nằm im lìm bên trong. Tấn Yết Lâm, hậu duệ cuối cùng của Vô Thượng Thành, đã không thốt nên lời khi nhìn thấy dòng chữ "Thiên Độn Tinh Minh Kiếm Pháp". Đây là một cái tên vừa quen thuộc vừa xa lạ, bởi Tinh Minh Kiếm Pháp vốn là linh hồn của Jin gia, nhưng tiền tố "Thiên Độn" lại là một bí ẩn mà ngay cả cha cô cũng chưa từng nhắc đến. Ác Tâm Bà Bà Thiết Tú Liên, người canh giữ di sản này qua bao thăng trầm, đầy xúc động cho biết đây là kết tinh của sự thấu thị thiên cơ từ vị tổ tiên huyền thoại – người đã tiên liệu được sự viếng thăm của hậu duệ mình từ hàng chục năm về trước.
+
+Thế nhưng, thay vì vui mừng, Tấn Yết Lâm lại để lộ sự đau đớn và phẫn uất tột cùng. Trong tâm trí cô, lời hứa về sự "sắp đặt" của tổ tiên dường như quá mỉa mai khi Vô Thượng Thành và Huyết Tộc đã bị hủy diệt trong thảm kịch kinh hoàng vừa qua. Cô gào thét trong nước mắt, oán trách rằng tại sao một bậc vĩ nhân thấu thị thiên cơ lại có thể để mặc cho con cháu bị thảm sát đến mức chỉ còn lại một mình cô cô độc trên cõi đời này. Những lời sỉ nhục hướng về bậc tiền nhân của Tấn Yết Lâm đã bị Thiết Tú Liên chặn lại bằng một sự nghiêm khắc lạnh lùng. Lão bà đã chỉ ra một chân lý tàn khốc của đạo trời: tổ tiên đã để lại cho hậu duệ một cơ đồ vĩ đại và võ học đỉnh cao, việc còn lại là do nhân định; không thể mong chờ một người đã khuất phải gánh vác mọi tai ương của ròng rã nhiều thế hệ. Sự thức tỉnh đau đớn này khiến Tấn Yết Lâm hoàn toàn sụp đổ, bóng dáng một "Băng Hoa" lạnh lùng tan chảy trong vòng tay an ủi của Thiết Tú Liên, hé lộ một tâm hồn chịu quá nhiều tổn thương đang khao khát một điểm tựa.
+
+Sự lãng mạn của nỗi đau bị cắt ngang bởi sự thực tế lạnh lùng của Mộc Khánh Vân. Hắn nhắc nhở rằng kẻ thù từ Tổ chức Bí mật vẫn đang lảng vảng ngoài kia, và mọi giây phút bi lụy đều là cái giá phải trả bằng máu. Tấn Yết Lâm thu hồi cuốn bí kíp và tiếp tục khám phá vật phẩm thứ hai: một cuộn thẻ tre mang theo hơi thở của thời đại. Trên đó khắc ba mươi kỹ tự hỗn loạn mà cả cô và Thiết Tú Liên đều không thể hiểu nổi. Tuy nhiên, dưới nhãn quan của một thiên tài kiếm đạo, Mộc Khánh Vân đã nhận ra ngay lập tức đây chính là khẩu quyết tối thượng của "Bát Tưởng Phá Tâm" – bộ mật tịch từng khiến võ lâm nhuộm máu.
+
+Tận dụng tình thế, Mộc Khánh Vân đã đưa ra một cuộc trao đổi đầy táo bạo và sòng phẳng với Thiết Tú Liên. Hắn yêu cầu được truyền thụ cấm thuật "Dung hợp linh hồn" – thứ mà giới tà đạo thèm khát, đổi lại hắn sẽ giải mã cuộn thẻ tre cho Tấn Yết Lâm. Mặc dù không muốn truyền thụ tà thuật, nhưng vì sự an nguy của hậu duệ gia tộc Jin, Thiết Tú Liên đã chấp nhận. Chương truyện khép lại trong căn nhà tranh tĩnh lặng, nơi Mộc Khánh Vân bắt đầu nghiên cứu những họa tiết Ngũ Hành khắc trên thẻ tre, nhận ra rằng đây không chỉ là một bộ võ công, mà là một quy luật vận hành của vạn vật, mở ra một chân trời quyền năng mới cho "Thiên Ma" tương lai. Những mảnh ghép của quá khứ và hiện tại đang dần hòa quyện, báo hiệu một cơn bão táp sắp giáng xuống giới võ lâm.
+
 
 ## Toàn bộ chương
 

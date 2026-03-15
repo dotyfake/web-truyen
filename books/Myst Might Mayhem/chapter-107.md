@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 20
-}
-]
+Mộc Khánh Vân đã thực hiện một nước cờ liều lĩnh tột độ khi tự gây thương tích cho bản thân để dụ "Chúa tể Tây Hải" đến gần. Chiến thuật này đã thành công rực rỡ khi thực thể tà ác, vì quá nôn nóng muốn giữ cho Mộc Khánh Vân sống sót để phá giải phong ấn, đã vô tình rơi vào cái bẫy hấp thụ linh lực của hắn. Thông qua bí thuật "Khốn Linh Quyết", Mộc Khánh Vân bắt đầu điên cuồng hút lấy yêu khí khổng lồ từ lòng bàn tay của Chúa tể Tây Hải. Luồng năng lượng này mạnh mẽ và tinh khiết đến mức không thể so sánh với bất kỳ sinh vật nào hắn từng gặp trước đây, dù thực thể này đang ở trong trạng thái suy yếu nhất sau hàng nghìn năm bị giam cầm.
+
+Trong khi đó, linh hồn Thanh Linh dù đã cạn kiệt linh lực sau màn đối đầu trước đó, vẫn cố gắng gượng dậy để hỗ trợ Mộc Khánh Vân. Nàng bàng hoàng trước sự táo bạo và khả năng chịu đựng của hắn – một kẻ sẵn sàng đặt cược tính mạng vào một ván bài lừa lọc mang tính quyết định. Thanh Linh dùng chút linh tủy cuối cùng để một lần nữa mở ra "Huyết Giới", tạo ra những sợi dây xích bằng máu bền bỉ như da thuộc để trói chặt tay chân của Chúa tể Tây Hải. Sự can thiệp này đã ngăn cản thực thể tà ác dùng tay còn lại để chặt đứt cánh tay đang bị Mộc Khánh Vân bám dính.
+
+Chúa tể Tây Hải điên cuồng gào thét, liên tục slam (đập) cơ thể Mộc Khánh Vân xuống sàn đá Tàng Bảo Các hòng khiến hắn bất tỉnh để dừng quá trình hấp thụ. Sàn nhà nứt vỡ, máu tươi của Mộc Khánh Vân văng tung tóe, xương cốt hắn gãy vụn dưới những cú va đập kinh hồn. Thế nhưng, ánh mắt của thiếu niên ấy vẫn không hề tắt lịm, trái lại nó còn rực cháy một ý chí sắt đá khiến ngay cả một Linh Thú thượng cổ cũng phải cảm thấy một luồng điện lạnh chạy dọc sống lưng. Cảm giác sợ hãi lần đầu tiên len lỏi vào tâm trí Chúa tể Tây Hải khi hắn nhìn chằm chằm vào đôi mắt tràn đầy sát khí và sự tỉnh táo của Mộc Khánh Vân.
+
+Để chấm dứt ván cờ đầy nguy hiểm này, Chúa tể Tây Hải quyết định sử dụng chiêu thức cuối cùng: xuất khiếu linh hồn để chiếm lấy thân xác Mộc Khánh Vân. Tuy nhiên, khi linh thể của hắn xâm nhập vào tâm thức của thiếu niên, hắn đã gặp phải một thứ gì đó vô cùng kinh khủng đang ẩn náu sâu bên trong Mộc Khánh Vân – một thực thể mà ngay cả Linh Thú cũng không thể chống lại. Ngay lúc đó, phong ấn từ cuộn tranh cổ đột ngột kích hoạt trở lại, những sợi xích ánh sáng trắng kéo tuột Chúa tể Tây Hải về lại bức họa sơn thủy. Mộc Khánh Vân, trong khoảnh khắc cận kề cái chết, đã trải qua quá trình "Thoát Thai Hoán Cốt" (Rebirth through transformation), lớp da cũ vỡ vụn và một cơ thể mới với sức mạnh vượt bậc bắt đầu lộ diện.
+
 
 ## Toàn bộ chương
 

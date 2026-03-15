@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] API error threshold reached. Rotated token. Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 42
-}
-]
+## Tóm tắt chương truyện
+
+Trận thư hùng tại Nam Môn của hoàng cung Khai Phong đã chính thức bùng nổ, phơi bày sức mạnh hủy thiên diệt địa của Cẩu Thành Bách – vị "Bắc Phái Đao Vương" lừng danh và là một trong Lục Đại Kỳ Nhân của thời đại. Chỉ với một chiêu vung đao "Kim Hi Nguyệt", hắn đã tạo ra một luồng đao khí xanh biếc chẻ dọc mặt đất dài hơn mười trượng, nổ tung cung điện và khiến những cao thủ tầm cỡ như Ma Ra-hyeon phải kinh hoàng lùi bước. Mộc Khánh Vân, trong một nỗ lực công kích từ phía sau bằng bộ pháp thần tốc, đã phải trả giá khi thanh kiếm của một lính Cẩm Y Vệ thông thường trên tay hắn vỡ vụn thành từng mảnh sau cú va chạm với luồng chân khí hộ thể của Đao Vương. Sự kiện này minh chứng cho khoảng cách mênh mông giữa một tông sư đã "vượt qua bức tường" và một huyền thoại đang đứng ở đỉnh cao của võ đạo.
+
+Dù phải đối mặt với một quái vật thực thụ, sự phối hợp giữa ba nhân vật chính đã tạo nên một màn trình diễn võ học mãn nhãn. Lục Huyết Thánh Đàm Bạch Hà dốc toàn bộ công lực vào "Huyết Ngọc Thủ", thậm chí còn kích hoạt cả lôi điện lực để làm tê liệt đối phương, buộc Cẩu Thành Bách phải dùng đến thủ pháp mượn lực đả lực để giải tỏa áp lực. Tô Vận Hương cũng không hề kém cạnh khi dùng kiếm khí thanh thoát của mình để hỗ trợ, tạo thành một gọng kìm bủa vây vị Đao Vương. Tuy nhiên, Cẩu Thành Bách với sự điềm tĩnh đáng sợ đã thi triển "Địa Phá Sát", biến toàn bộ mảnh vụn kiến trúc xung quanh thành những ám khí mang đao ý, đẩy cả ba vào thế phòng thủ bị động giữa tiếng nổ chát chúa như sấm sét rền vang khắp kinh thành.
+
+Khi tình thế trở nên tuyệt vọng bởi sự bao vây của hàng ngàn quân cấm vệ và thái giám các xưởng đang đổ dồn về phía Nam Môn, một hiện tượng tâm linh kinh khủng đã xảy ra, biến chiến trường thành một địa ngục thực sự. Cáo tiên Thanh Linh, với linh lực của một thực thể siêu nhiên, đã thực hiện chiêu thức "Huyết Vũ Nghịch Lưu", khiến máu từ mặt đất bốc lên và tạo thành những bức tường thác máu khổng lồ bao vây lấy khu vực chiến đấu. Những giọt máu nóng hổi bay ngược lên không trung không chỉ che khuất tầm nhìn mà còn hoàn toàn cắt đứt sự chi viện của quan quân triều đình, nhốt Cẩu Thành Bách vào một không gian biệt lập đầy u khí.
+
+Chương truyện khép lại trong sự ngưng đọng đầy chết chóc bên trong bức màn máu đỏ thẫm. Đứng trước sự cô lập hoàn toàn, Cẩu Thành Bách vẫn giữ vững phong thái của một bậc quân vương võ học, đao đặt trên vai đầy ngạo nghễ. Thế nhưng, Mộc Khánh Vân đã chính thức tuyên chiến bằng một lời khẳng định đầy lạnh lùng rằng tất cả những gì vừa diễn ra mới chỉ là màn dạo đầu. Với sự hỗ trợ của linh thể Thanh Linh và sự liều mạng của hai nữ cao thủ, Mộc Khánh Vân chuẩn bị tung ra những quân bài tẩy cuối cùng của ma đạo để công phá vị trí của một trong Lục Thiên, biến cuộc đào thoát này thành một thiên anh hùng ca đẫm máu lưu danh sử sách võ lâm.
+
 
 ## Toàn bộ chương
 

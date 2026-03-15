@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 50
-}
-]
+## Tóm tắt chương truyện
+
+Cuộc đối đầu tại miếu Quan Vũ nhanh chóng đi đến hồi kết khi Mộc Khánh Vân thể hiện thực lực áp đảo, trực tiếp trấn áp U Bồng – cao thủ khinh công của nhóm Tiền Đội – chỉ bằng một đòn đánh tàn khốc. Hành động dứt khoát của hắn đã dập tắt mọi ý định phản kháng và buộc nhóm Tiền Đội phải nhìn nhận lại vị thế của mình. Sự kiêu ngạo của những kẻ cựu binh đã hoàn toàn bị nghiền nát dưới chân vị "Tiểu Ma Đầu", mở đường cho một cuộc họp bàn nghiêm túc về kế hoạch sắp tới. Bầu không khí trong ngôi miếu giờ đây tràn ngập sự phục tùng và kính sợ dành cho Mộc Khánh Vân.
+
+Sau khi ổn định tình hình, danh tính thật sự của các thành viên nhóm Hậu Đội được tiết lộ, gây ra một sự chấn động không hề nhỏ đối với Can Dương và đồng bọn. Việc giáo hội phái đi con trai của Phó Giáo Chủ – Mông Vũ Nhược, thủ lĩnh cận vệ Nhiếp Xuân và đệ tử của Quỷ Phái Chủ – Mộc Khánh Vân cho thấy tầm quan trọng cực lớn của nhiệm vụ lần này. Nhóm Tiền Đội nhận ra rằng đây không phải là một chiến dịch thông thường mà là một nhiệm vụ mang tính sống còn, nơi mà bất kỳ sai sót nào cũng sẽ dẫn đến thảm họa cho cả giáo hội lẫn bản thân họ. Quyền chỉ huy giờ đây mặc nhiên thuộc về Mộc Khánh Vân, kẻ sở hữu cả danh phận lẫn sức mạnh vượt trội.
+
+Nhiệm vụ bí mật cuối cùng cũng được hé lộ: đột nhập vào đại lao ngầm "Kim Ngọc" ngay trong lòng hoàng cung tại kinh đô Khai Phong để abduct (bắt cóc) Thánh Hộ Pháp của Hỏa Minh Giáo. Đây là một mục tiêu điên rồ và đầy rẫy nguy hiểm, đòi hỏi sự phối hợp hoàn hảo. Kế hoạch được vạch ra là lợi dụng kỳ thi tuyển Cẩm Y Vệ để thâm nhập sâu vào hệ thống an ninh của triều đình. Sự táo bạo của kế hoạch này khiến ngay cả đại sư Ja Geum-jeong cũng phải thán phục trước tham vọng của giáo hội. Tuy nhiên, thử thách lớn nhất nằm ở việc thuyết phục Tây Phi – một nội ứng quyền lực trong cung nhưng đang có dấu hiệu muốn tách khỏi sự kiểm soát của giáo hội.
+
+Chương truyện khép lại với cái nhìn sắc sảo của Mộc Khánh Vân về bản chất của quyền lực và lòng người. Hắn nhận ra rằng Tây Phi không còn là một quân cờ dễ sai khiến, mà đã trở thành một đối trọng đầy mưu mô. Cuộc chơi tại kinh thành sẽ không chỉ dựa vào kiếm pháp đỉnh cao, mà còn là một cuộc đấu trí căng thẳng giữa các thế lực. Nhóm người bắt đầu thu xếp hành trang, chuẩn bị tiến vào "hang hùm" Khai Phong, nơi những âm mưu hoàng tộc và những trận chiến khốc liệt đang chờ đón họ phía sau những bức tường thành kiên cố. Trận chiến thực sự giờ đây mới chính thức bắt đầu, với Mộc Khánh Vân là nhân vật trung tâm điều khiển ván bài sinh tử này.
+
 
 ## Toàn bộ chương
 

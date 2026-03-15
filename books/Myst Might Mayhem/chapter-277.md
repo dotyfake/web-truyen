@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 13
-}
-]
+## Tóm tắt chương truyện
+
+Tại khu vực sâu thẳm và u tối nhất của Địa ngục vĩnh cửu, một màn kịch tâm lý đẫm máu đã được dàn dựng bởi bàn tay xảo quyệt của Mộc Khánh Vân. Đứng trước phòng giam số 130, hắn đã diện kiến Thánh nữ của Bái Hỏa giáo – một bà lão với dáng vẻ héo hon nhưng đôi mắt vẫn long lanh sự thông tuệ. Bà ta khẳng định sự xuất hiện của Mộc Khánh Vân là do định mệnh đã được định đoạt qua "Khải huyền của Thánh hỏa". Để kiểm chứng thực hư và dồn đối phương vào chân tường, Mộc Khánh Vân đã dùng chân khí khắc lên chấn song sắt ký hiệu bí mật của tổ chức ngầm mang dấu ấn số hai gạch dọc. Sự bàng hoàng và sợ hãi hiện rõ trên khuôn mặt Thánh nữ đã gián tiếp xác nhận sự hiện diện của "Linh Châu" – vật báu tôn giáo tối cao đang bị triều đình che giấu.
+
+Kịch tính được đẩy lên đến đỉnh điểm khi Tổng chỉ huy Cẩm Y Vệ, Mặc Tiệm, bất thình lình xuất hiện. Mặc Tiệm không chỉ là một đại diện quyền lực của triều đình mà còn là thành viên Nhị đẳng của tổ chức bí ẩn nọ. Trước một đối thủ mang kình lực bạt sơn cửu đỉnh, Mộc Khánh Vân không hề lúng túng mà ngược lại, hắn đã tận dụng chính hệ thống thứ bậc nghiêm ngặt của tổ chức để thực hiện một cú lừa ngoạn mục. Hắn tự xưng là thành viên Nhất đẳng, dùng ma khí đen kịt bao phủ không gian và ngôn ngữ mập mờ về những lãnh đạo cấp cao để uy hiếp tinh thần đối phương. Sự tự tin tuyệt đối và khí chất áp đảo của "Tiểu Ma Đầu" đã khiến một kẻ lão luyện như Mặc Tiệm phải nao núng và mất đi khả năng phán đoán.
+
+Trong một khoảnh khắc của sự phục tùng mù quáng, Mặc Tiệm đã tin rằng mình đang đối diện với một vị thượng cấp vô danh. Gã quỳ xuống, buông kiếm và chắp tay hành lễ một cách thành khẩn, cầu xin đại nhân tha thứ cho sự thất kính ban đầu. Thế nhưng, trong thế giới của Mộc Khánh Vân, sự tôn trọng và lòng tin chỉ là những công cụ để dẫn đến sự hủy diệt. Hắn lướt đến gần Mặc Tiệm với một nụ cười lạnh lùng, và trong một chớp mắt nhanh hơn cả suy nghĩ, một luồng ánh sáng hắc ám đã xẹt qua không trung.
+
+Chương truyện khép lại với hình ảnh kinh hoàng: hai cánh tay của Mặc Tiệm, vốn đang thành kính chắp lễ, đã bị chém đứt lìa và rơi xuống sàn đá địa lao. Máu phun ra xối xả nhuộm đỏ cả nền đất lạnh lẽo trong khi Mặc Tiệm vẫn còn đang bàng hoàng chưa hiểu chuyện gì đang xảy ra. Sự tàn độc của Mộc Khánh Vân không chỉ nằm ở việc tước đoạt sức mạnh của đối thủ, mà còn là sự sỉ nhục tối thượng đối với niềm tin của họ. Với việc loại bỏ kẻ ngáng đường quyền lực nhất, Mộc Khánh Vân đã chính thức làm chủ phân khu 130, mở ra con đường đoạt lấy Linh Châu và chuẩn bị cho một cuộc đại náo địa lao chấn động kinh thành.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 42
-}
-]
+## Tóm tắt chương truyện
+
+Chương truyện bắt đầu với sự trao đổi đầy ẩn ý giữa Thanh Linh và Mộc Khánh Vân về vị Thiên Hộ mang đôi mắt xanh biếc. Qua cái nhìn sâu sắc, Mộc Khánh Vân nhận định rằng người ngoại tộc này đang che giấu một thực lực kinh người bằng cách tự phong tỏa huyệt đạo, một hành động đầy nghi ngờ trong lòng hoàng cung Khai Phong. Tuy nhiên, mục tiêu chính của họ lúc này không phải là Jinyiwei, mà là vị "Thợ thủ công" bí ẩn. Nhóm được dẫn dắt xuyên qua những dãy chuồng lợn hôi thối để tiến xuống một mật đạo ngầm được ngụy trang cực kỳ tinh vi. Sự tương phản giữa mùi uế tạp phía trên và một xưởng chế tác chuyên nghiệp bên dưới đã cho thấy sự cẩn trọng của những kẻ đang hành nghề ngoài vòng pháp luật.
+
+Tại xưởng chế tác, họ bàng hoàng phát hiện vị thợ thủ công đang nằm trong vũng máu với đôi bàn tay đã bị chặt đứt lìa. Thủ phạm chính là nhóm Cẩm Y Vệ vừa dẫn đầu rời đi, họ không chỉ tàn phá khả năng hành nghề của thợ mà còn mang theo đôi tay ấy như một thứ chiến lợi phẩm kỳ quái. Trong tình cảnh ngặt nghèo khi máu không ngừng tuôn chảy, Mộc Khánh Vân đã thể hiện kiến thức y thuật thần sầu. Hắn nhận ra mùi dược liệu cầm máu bị dùng sai và nhanh chóng dùng châm cứu để cứu mạng vị thợ. Hành động này không chỉ giúp giữ lại mạng sống cho thợ thủ công mà còn khẳng định vị thế dẫn dắt của Mộc Khánh Vân trong nhóm khi đối mặt với những biến cố bất ngờ.
+
+Nhiệm vụ chế tạo mặt nạ da người rơi vào bế tắc nếu đôi bàn tay không được lấy lại. Bất chấp sự ngăn cản và lo sợ của Can Dương về việc đối đầu với triều đình, Mộc Khánh Vân đã quyết định một mình truy đuổi đoàn xe Jinyiwei. Thân pháp của hắn nhanh đến mức chỉ để lại những tàn ảnh như khói, vượt qua cả sự quan sát của những đồng đội đi cùng. Tại một đoạn đường rừng vắng vẻ ngoại thành, Mộc Khánh Vân đã chặn đứng đoàn xe và có cuộc va chạm đầu tiên với các quan viên triều đình. Sự áp đảo về thực lực của hắn được thể hiện qua hành động dùng ngón trỏ chặn đứng lưỡi đao của một Bách Hộ, khiến cả đoàn xe phải rung động trong sự khiếp sợ.
+
+Chương truyện kết thúc với sự xuất hiện đầy kịch tính của Mộc Khánh Vân trước chiếc xe ngựa chở vị Thiên Hộ đeo mặt nạ. Hắn không chỉ đến để lấy lại những gì đã mất cho vị thợ thủ công, mà còn để đối mặt với kẻ mạnh thực sự đang ẩn mình sau lớp vỏ quan chức kia. Cuộc truy đuổi nghẹt thở giữa rừng sâu đã đẩy mâu thuẫn giữa giáo hội và triều đình lên đỉnh điểm, mở đầu cho một trận chiến không khoan nhượng. Với đôi bàn tay đang nắm giữ sinh mệnh của vị thợ thủ công bên trong xe ngựa, Mộc Khánh Vân đã sẵn sàng bước vào một cuộc chơi mạo hiểm nhất từ trước tới nay, nơi hắn sẽ chứng minh rằng bóng tối của giáo hội mới là thứ đáng sợ nhất dưới bầu trời Khai Phong.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 58
-}
-]
+## Tóm tắt chương truyện
+
+Giữa cơn bão dữ trên di thuyền, Mộc Khánh Vân đang phải trải qua những giây phút căng thẳng nhất trong cuộc đời võ học của mình. Lão giả thần bí với chiếc cần câu trúc không chỉ sở hữu thực lực thâm sâu khôn lường mà còn mang theo một phong thái áp đảo mọi sự tồn tại xung quanh. Dù Mộc Khánh Vân đã cố gắng sử dụng tuyệt kỹ khinh công đỉnh cao để tạo khoảng cách, nhưng lão nhân ấy vẫn xuất hiện sau lưng hắn như một hình với bóng, phớt lờ mọi nỗ lực phòng thủ. Sự chênh lệch về đẳng cấp khiến Mộc Khánh Vân nhận ra rằng mọi chiêu số mà hắn dày công khổ luyện bấy lâu nay đều trở nên vô nghĩa trước mặt bậc đại năng này.
+
+Lão giả với gương mặt hiền từ như một vị Nho sĩ nhưng đôi mắt lại sắc lẹm như kiếm quang, tiết lộ mình là cố nhân của vong linh Hà Doãn. Lão bày tỏ lòng cảm ơn đối với Mộc Khánh Vân vì đã vô tình giải tỏa oán hận cho người bạn quá cố bằng việc san phẳng dinh thự họ Woo. Để đáp lại món ân tình này, lão nhân đã thực hiện một hành động khiến Mộc Khánh Vân phải chấn động: lão nhẹ nhàng thu lấy Tà Giới Kiếm – thanh ma kiếm đầy hung tính vốn cực kỳ khó bảo – và khuất phục nó chỉ trong một cái liếc mắt. Sự cộng hưởng giữa thanh kiếm và lão giả mạnh mẽ đến mức khiến linh hồn Thanh Linh ẩn trong con rối gỗ cũng phải kinh hãi thốt lên.
+
+Ngay sau đó, lão giả bắt đầu thi triển một bộ kiếm pháp mang tên "Vô Nguyệt Hư Không Kiếm" – một trong Ngũ Đại Kiếm Pháp vang dội từ thời cổ đại. Từng đường kiếm của lão đi qua như vẽ nên những quỹ đạo bán nguyệt tuyệt mỹ giữa màn mưa, thanh thoát nhưng mang theo uy lực xé toạc hư không. Đây không còn là những chiêu thức vật lý thông thường mà là sự kết hợp giữa kiếm ý và quy luật của thiên địa. Mộc Khánh Vân đứng nhìn trân trân, tâm trí hắn như bị cuốn vào những đường kiếm ấy, từng lỗ chân lông đều mở ra để cảm nhận sự tinh túy của một cảnh giới võ học mà hắn chưa từng dám mơ tới.
+
+Chương truyện khắc họa rõ nét sự thức tỉnh trong tâm hồn Mộc Khánh Vân. Hắn không chỉ nhìn thấy một bộ kiếm pháp, mà là thấy được sự hữu hạn của bản thân trước cái vô hạn của võ học đỉnh cao. Sự rung động của Tà Giới Kiếm dưới bàn tay lão giả như một bản nhạc ca ngợi sức mạnh của sự thuần khiết, thứ có thể áp chế hoàn toàn ma tính hắc ám. Kết thúc chương là hình ảnh Mộc Khánh Vân hoàn toàn chìm đắm trong sự giác ngộ, nhận ra rằng cuộc gặp gỡ này chính là bước ngoặt định mệnh giúp hắn phá bỏ những giới hạn cuối cùng để tiến tới một tầm cao mới. Từng hơi thở, từng nhịp đập của hắn giờ đây đều hòa chung với nhịp điệu của Vô Nguyệt Hư Không Kiếm, mở ra một tương lai đầy biến số nhưng cũng đầy hứa hẹn cho vị "Tiểu Ma Đầu" đang dần trưởng thành này. Mọi âm thanh của cơn bão dường như lùi xa, chỉ còn lại tiếng kiếm minh thanh thoát và sự khai mở của một trí tuệ võ học phi phàm.
+
 
 ## Toàn bộ chương
 

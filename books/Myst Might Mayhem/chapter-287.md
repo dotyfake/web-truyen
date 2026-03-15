@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 45
-}
-]
+## Tóm tắt chương truyện
+
+Giữa đống đổ nát hoang tàn của Địa ngục vĩnh cửu, một biến cố chưa từng có trong lịch sử hoàng triều đã xảy ra khi đích thân hoàng đế xuất hiện để thẩm tra vụ vượt ngục kinh thiên động địa. Sự hiện diện của ngài mang theo một sát khí áp đảo, được bảo vệ bởi Nam trấn phủ sứ Cẩu Thành Bách – một cái tên khiến cả giới võ lâm phải run sợ. Cẩu Thành Bách không chỉ là một viên quan mật thám cao cấp mà còn là vị "Bắc Phái Đao Vương" lừng danh, một trong "Lục Thiên" (Sáu bầu trời) – những thực thể đứng trên đỉnh cao nhất của kim tự tháp võ học Trung Nguyên. Với sự tự tin tuyệt đối vào bản lĩnh của mình, hắn cam đoan trước hoàng đế sẽ lật tung từng tấc đất của hoàng cung để lôi cổ những kẻ to gan lớn mật ra ánh sáng trong thời gian ngắn nhất.
+
+Trong khi đó, nhóm của Mộc Khánh Vân đang chạy đua với thời gian để thực hiện cuộc đào thoát theo kế hoạch "xe rác" đầy nhơ nhớp nhưng hiệu quả. Giữa những khoảnh khắc nghỉ ngơi ngắn ngủi, một sự kiện quan trọng về truyền thừa võ học đã diễn ra. Lục Huyết Thánh Đàm Bạch Hà, nhận thấy Tô Vận Hương mang trong mình dòng máu tinh khiết của tộc trưởng năm xưa, đã quyết định truyền dạy bộ "Hư Ảnh Kinh" (Illusion Sutra) – một loại thần thông thao túng nhận thức và tạo ra ảo ảnh linh hồn. Đây là một hành động tri ân đầy xúc động đối với hậu duệ của vị ân nhân đã cứu mạng nàng trong thời Đại Họa, đồng thời cũng là sự chuyển giao sức mạnh cần thiết để đối mặt với những hiểm nguy trùng điệp đang bủa vây phía trước.
+
+Thế nhưng, mọi hy vọng về một cuộc tháo chạy thầm lặng đã hoàn toàn tan biến khi họ tiến đến gần Nam Môn của ngoại thành. Cẩu Thành Bách đã đứng đó, im lìm như một pho tượng thần chết nhưng tỏa ra một luồng khí thế nặng nề như núi Thái Sơn ép xuống. Luồng chân khí vĩ đại của một vị trong Lục Đại Kỳ Nhân đã khiến những thuộc hạ như Ma Ra-hyeon, Nhiếp Xuân và Mông Vũ Nhạc gần như tê liệt, trí óc chìm vào sự sợ hãi bản năng trước một tồn tại quá đỗi vượt trội. Cẩu Thành Bách, với nhãn lực có thể nhìn thấu tâm can, đã ngay lập tức chỉ ra ba kẻ đang ẩn mình trong nhóm phu dịch đã đạt đến cảnh giới "vượt qua bức tường" – ám chỉ thực lực kinh người của Mộc Khánh Vân , Đàm Bạch Hà và Tô Vận Hương.
+
+Chương truyện khép lại với khoảnh khắc Cẩu Thành Bách chậm rãi rút thanh đao mang theo uy danh thiên hạ của mình. Ánh thép lạnh lẽo của "Bắc Phái Đao Vương" dường như đã phân tách không gian, báo hiệu một trận chiến sinh tử không cân sức. Đối với Mộc Khánh Vân, đây chính là thử thách lớn nhất kể từ khi hắn bước chân vào giang hồ. Đối đầu với một trong Lục Thiên không chỉ đòi hỏi ma công tuyệt luân mà còn cần một ý chí sắt đá để không bị nghiền nát dưới chân khí của vị tông sư này. Cuộc chiến giữa những kẻ vượt ngục và vị hộ vệ vĩ đại nhất của hoàng gia hứa hẹn sẽ làm rung chuyển toàn bộ kinh thành Khai Phong, mở đầu cho một kỷ nguyên của những biến động không thể vãn hồi.
+
 
 ## Toàn bộ chương
 

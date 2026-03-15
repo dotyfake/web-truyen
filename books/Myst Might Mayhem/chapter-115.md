@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] API error threshold reached. Rotated token. Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 57
-}
-]
+Triệu Âm Cốc Chủ Hàng Diệp Lương vô cùng kinh ngạc trước khả năng cảm nhận nhạy bén của Mộc Khánh Vân khi hắn ngay lập tức xác định được vị trí của nàng dù nàng đang sử dụng bí thuật truyền âm từ xa. Khát khao chiếm hữu một thiên tài hiếm có như vậy trỗi dậy mạnh mẽ trong lòng mỹ nhân đầy cá tính này. Nàng quyết định chủ động tiếp cận bằng cách dạy cho Mộc Khánh Vân tuyệt kỹ "Truyền Âm Nhập Mật" (Secret Voice Transmission). Bất chấp sự lạnh lùng ban đầu của thiếu niên, Hàng Diệp Lương vẫn kiên nhẫn giải thích các nguyên lý vận hành chân khí qua huyệt Yến Quan. Với trí tuệ siêu việt, Mộc Khánh Vân đã nắm bắt và thực hiện thành công bí thuật này ngay trong lần thử đầu tiên, tạo nên một cuộc hội thoại bí mật giữa hai người ngay giữa quảng trường đông đúc.
+
+Hàng Diệp Lương không ngần ngại bày tỏ ý định muốn Mộc Khánh Vân trở thành đệ tử chân truyền của mình. Nàng tung ra những lời mời gọi đầy cám dỗ, từ việc hứa hẹn một cuộc sống vương giả như hoàng đế giữa dàn mỹ nữ tại Triệu Âm Cốc cho đến việc truyền dạy "Xung Kiếm Thuật" – một loại kiếm pháp đỉnh cao có thể bù đắp những thiếu sót trong võ công hiện tại của hắn. Để thuyết phục Mộc Khánh Vân, nàng còn không ngần ngại nói xấu các vị Vương khác, tiết lộ những góc khuất như việc đệ tử của Lôi Điện Quyền Vương bị tàn phế hay sự cạnh tranh nội bộ khốc liệt dưới trướng Minh Đao Vương.
+
+Tuy nhiên, Mộc Khánh Vân vẫn giữ một thái độ điềm tĩnh và xa cách đến đáng sợ. Hắn bình thản từ chối mọi lời cám dỗ, coi những thông tin nàng cung cấp chỉ là tài liệu tham khảo chứ không để chúng lay động quyết định của mình. Sự cứng đầu của Mộc Khánh Vân bắt đầu khiến Hàng Diệp Lương mất kiên nhẫn. Nàng chuyển sang chiến thuật đe dọa, tuyên bố sẽ thu nhận người em họ Mộc Vũ Thiên làm học giả để hành hạ, thậm chí là phế bỏ hoặc giết chết nếu Mộc Khánh Vân không chịu quy phục. Nàng tin rằng sợi dây tình thân sẽ là điểm yếu chí mạng buộc hắn phải nhượng bộ.
+
+Phản ứng của Mộc Khánh Vân trước lời đe dọa mang tính tàn độc này đã khiến Hàng Diệp Lương hoàn toàn chết lặng. Hắn không hề tỏ ra lo lắng hay giận dữ, trái lại còn nở một nụ cười rạng rỡ đầy chân thành và bảo nàng hãy "cứ làm theo ý mình" (do as you please). Hắn thản nhiên nói rằng nếu việc giết chết hay hành hạ Mộc Vũ Thiên có thể khiến Cốc chủ vui lòng thì đó là điều đáng mừng. Sự lạnh lùng và máu lạnh đến cực điểm của Mộc Khánh Vân khiến một kẻ vốn nổi tiếng thất thường như Hàng Diệp Lương cũng phải cảm thấy ớn lạnh và tự hỏi liệu bản thân đang đối diện với một con người hay là một ác quỷ thực thụ.
+
 
 ## Toàn bộ chương
 

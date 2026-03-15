@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 27
-}
-]
+## Tóm tắt chương truyện
+
+Tại văn phòng của Cẩm Y Vệ, một bầu không khí u ám bao trùm khi Thống lĩnh Mặc Tiệm và Đội trưởng ngàn người Lâm Quý Nguyệt nhận ra một sai lầm mang tính thảm họa. Tấm bản đồ giả vốn dùng để tiễn biệt các tân binh vào chỗ chết lại vô tình dẫn họ đến khu vực cấm kỵ nhất của Địa ngục vĩnh cửu – phân khu số 120. Đây là nơi giam giữ những thực thể đáng sợ nhất lịch sử triều đình, trong đó có căn phòng số 126 chứa đựng "Lục Huyết Thánh" của Cửu Huyết Giáo. Nhân vật này là một huyền thoại sống với danh hiệu "Bất tử", người đã tồn tại hơn ba mươi năm trong tình trạng tuyệt thực hoàn toàn. Khả năng tà thuật của kẻ này nằm ở việc mê hoặc tâm trí thông qua thính giác và thị giác, biến bất kỳ ai tiếp cận thành những con rối ngoan ngoãn.
+
+Sự hãi hùng đã trở thành hiện thực khi Chu Vận Hương, trong nỗ lực sinh tồn, đã bị dẫn dụ đến một hố sâu tử thần. Tại đây, anh bị thao túng bởi những ảo ảnh và vô tình nắm lấy một thanh ma kiếm bí ẩn cắm trên vách đá trường tồ. Ngay lập tức, hàng ngàn tiếng thét oán than và sát khí ngùn ngụt từ thanh kiếm đã tràn vào đại não, phá vỡ mọi tầng phòng ngự tâm linh của Chu Vận Hương. Với đôi mắt rực lên luồng sáng quỷ dị, anh đã hoàn toàn bị thanh kiếm nọ đoạt xá, trở thành một cỗ máy giết chóc không còn nhân tính. Chu Vận Hương điên cuồng tiến về phía phòng giam số 129, dùng thanh ma kiếm chém nát những chấn song sắt nghìn năm để giải phóng một thực thể tà ác khác, bất chấp mọi lời cảnh báo bằng máu trên vách tường.
+
+Cùng lúc đó, Mộc Khánh Vân trong diện mạo của An Chung Hữu đang lặng lẽ quan sát màn kịch tại phòng giam số 126. Hắn nhìn thấy Diễm Khánh của phái Hoa Sơn, với đôi mắt đờ đẫn của một kẻ bị thôi miên, đang run rẩy rút từng chiếc đinh phong tỏa khỏi cơ thể của Lục Huyết Thánh. Mỗi khi một chiếc đinh rơi xuống, một chấn động năng lượng cực lớn lại bùng phát, làm rung chuyển cả không gian hầm ngục. Dưới "Quỷ Nhãn" của Mộc Khánh Vân, luồng chân khí của Lục Huyết Thánh hiện lên như những tia sét màu xanh biếc rực rỡ, lan tỏa rậm rạp như những rễ cây cổ thụ sau cơn mưa bão. Đây là một loại khí công dị chủng, mang hơi thở của thời đại cũ và sức mạnh siêu nhiên mà ngay cả Mộc Khánh Vân cũng phải cảm thấy hiếu kỳ.
+
+Chương truyện khép lại trong bối cảnh Địa ngục vĩnh cửu đang dần sụp đổ dưới sức mạnh của những đại ma đầu vừa thức tỉnh. Mộc Khánh Vân dù ban đầu chỉ hướng tới phòng 130 để tìm Thánh nữ Bái Hỏa giáo, nhưng sự xuất hiện của những luồng thần khí xanh biếc và thanh ma kiếm bí ẩn đã khiến trái tim của kẻ mang linh hồn ma quỷ không khỏi rung động. Cuộc hội ngộ giữa Ma vương trẻ tuổi và những tàn dư bất tử của quá khứ hứa hẹn sẽ biến lòng đất Khai Phong thành một bể máu, nơi mọi trật tự của triều đình sẽ bị xóa sổ hoàn toàn trước sự trỗi dậy của những thực thể vượt ngoài tầm kiểm soát của con người.
+
 
 ## Toàn bộ chương
 

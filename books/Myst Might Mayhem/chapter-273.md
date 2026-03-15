@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 24
-}
-]
+## Tóm tắt chương truyện
+
+Giữa tâm điểm của Địa ngục vĩnh cửu, một cuộc hội ngộ định mệnh giữa hai thế hệ Ma đạo đã diễn ra, biến căn phòng giam số 126 thành một chiến trường của những thực lực siêu nhiên. Mộc Khánh Vân, với "Quỷ Nhãn" có khả năng thấu thị bản chất của năng lượng, đã bàng hoàng chứng kiến luồng lôi điện màu xanh biếc rực rỡ tỏa ra từ cơ thể của phạm nhân đang bị xiềng xích. Đây là một loại sức mạnh mang hơi thở của thiên nhiên, vượt xa khỏi sự cân bằng ngũ hành thông thường của võ học Trung Nguyên. Nhận thấy thực tập sinh Diễm Khánh đang bị tà thuật điều khiển để giải khai phong ấn, Mộc Khánh Vân đã ra tay đánh ngất gã, đồng thời đưa ra một quyết định táo bạo: dùng kiếm chỉ chém đứt xiềng xích để giải phóng thực thể này, biến nàng thành một "quân cờ" náo loạn nhằm đánh lạc hướng quân triều đình.
+
+Khi những xiềng xích nghìn năm vỡ vụn, diện mạo thật sự của Lục Huyết Thánh đã phá tan mọi dự đoán. Thay vì một bà lão già nua theo dòng thời gian, kẻ bước ra lại là một mỹ nhân mang vẻ đẹp chín muồi và đầy mê hoặc, dường như thời gian ba mươi năm giam cầm không hề để lại dấu vết trên làn da nàng. Tuy nhiên, sự hiểu lầm về bộ đồng phục Cẩm Y Vệ mà Mộc Khánh Vân đang mặc đã khơi mào cho một cuộc truy sát tàn khốc. Lục Huyết Thánh thi triển những chiêu thức trảo pháp mang theo kình lực lôi điện, nhanh và mạnh đến mức có thể xé nát vách đá địa lao. Mộc Khánh Vân đã phải vận dụng tuyệt kỹ khinh công "Minh Hiển Thủy Nguyệt Bộ" để di chuyển với tốc độ cực đại, tạo nên một màn rượt đuổi nghẹt thở trong không gian hẹp.
+
+Trận chiến bước vào giai đoạn kịch tính khi Lục Huyết Thánh quyết định sử dụng tuyệt chiêu "Ảo thuật" tâm linh để khống chế đối thủ. Nàng cố ý tạo ra một khoảng cách gần, dùng ánh mắt và âm thanh từ cái búng tay để xâm nhập vào tâm trí Mộc Khánh Vân, với ý định biến hắn thành một con rối giết chóc. Nàng hoàn toàn tự tin vào bản lĩnh đã giúp nàng tồn tại trong bóng tối hàng thập kỷ, tin rằng không một võ giả trẻ tuổi nào có thể kháng cự. Thế nhưng, thực tế đã giáng một đòn nặng nề vào lòng kiêu hãnh của nàng. Mộc Khánh Vân không những không rơi vào ảo ảnh, mà còn thản nhiên mỉa mai ý định của nàng trước khi tung ra một cú húc đầu sấm sét thẳng vào mặt mỹ nhân họ Lục.
+
+Sự bàng hoàng hiện rõ trên gương mặt của Lục Huyết Thánh khi nàng phải ôm lấy chiếc mũi đau đớn và lùi lại. Lần đầu tiên trong đời, tà thuật của nàng bị vô hiệu hóa một cách triệt để bởi một kẻ có ý chí còn sắt đá và ma mị hơn cả chính mình. Mộc Khánh Vân đứng sừng sững, ánh mắt lạnh lẽo nhìn vào thực thể bất tử vừa tỉnh giấc, khẳng định vị thế của một Ma vương thế hệ mới không hề e sợ bất kỳ tàn dư nào của quá khứ. Cuộc đối đầu này không chỉ lột trần thực lực của cả hai, mà còn đặt nền móng cho một sự hỗn loạn chưa từng có sắp sửa tràn ra khắp các tầng hầm của kinh thành Khai Phong, nơi những xiềng xích của triều đình sẽ phải run rẩy trước sự trỗi dậy của những con quái vật thực sự.
+
 
 ## Toàn bộ chương
 

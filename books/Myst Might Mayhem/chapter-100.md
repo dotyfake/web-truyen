@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 46
-}
-]
+Giữa không gian thâm nghiêm của Tàng Bảo Các thuộc Huyết Thi Cốc, không khí dường như đặc quánh lại bởi sự tĩnh lặng đến tột cùng. Mộc Khánh Vân, thiếu niên mang trong mình những bí mật kinh thiên, đang chìm sâu vào trạng thái "Vọng Ngã" – một cảnh giới thiền định tối cao mà bất cứ kẻ tu hành nào cũng khao khát. Trong trạng thái này, linh hồn hắn lìa khỏi xác thân, hòa quyện cùng tinh hoa của các bí kíp võ học xung quanh, tâm trí đạt tới sự thuần khiết tuyệt đối. Thế nhưng, sự thanh tịnh ấy lại trở thành miếng mồi ngon cho kẻ ác tâm. Diệp Vĩ Tiên, đệ tử chân truyền của Minh Đao Vương – một trong Ngũ Vương danh trấn giang hồ, đã lặng lẽ tiến tới với ánh mắt hừng hực lòng đố kỵ. Hắn nhận ra Mộc Khánh Vân đang ở thời khắc mong manh nhất, chỉ cần một tác động nhỏ cũng đủ khiến khí huyết nghịch chuyển, rơi vào cảnh tẩu hỏa nhập ma vạn kiếp bất phục.
+
+Thanh Linh, linh hồn hầu cận đang nấp trong mộc ngẫu, chứng kiến tất cả với sự phẫn nộ và lo âu tột độ. Nàng hiểu rằng nếu Mộc Khánh Vân gặp chuyện, số phận của nàng cũng sẽ bị định đoạt. Đúng lúc Diệp Vĩ Tiên vươn tay định tung đòn hiểm, Mộc Khánh Vân đột ngột bừng tỉnh. Sát khí tích tụ bấy lâu trong cơ thể hắn đột ngột thu liễm, đôi mắt vốn đang vô hồn bỗng bừng lên thần quang sắc lẹm, sâu thẳm như hố đen vũ trụ. Không một lời thừa thãi, hắn lập tức phản kích, dùng hai ngón tay nhắm thẳng vào yết hầu của đối phương với tốc độ nhanh đến mức mắt thường không thể theo kịp.
+
+Diệp Vĩ Tiên, kẻ vốn tự phụ với tu vi Đỉnh Phong của mình, hoàn toàn kinh ngạc trước sức mạnh bộc phát của gã thanh niên mà hắn vẫn coi thường. Hắn buộc phải thi triển bộ pháp tinh diệu để thoát thân, nhưng Mộc Khánh Vân không để hắn có cơ hội thở dốc. Những cú đá đầy uy lực từ Ảnh Thiểm Thiểm Điện Cước liên tiếp giáng xuống, buộc Diệp Vĩ Tiên phải rút ra thanh cự đao uy trấn thiên hạ để chống đỡ. Tuy nhiên, đòn thế của Mộc Khánh Vân không chỉ mạnh mà còn ẩn chứa những biến hóa khôn lường sau khi đạt được sự giác ngộ trong thiền định. Đao khí của Diệp Vĩ Tiên chém đứt những kệ sách cổ, phá hủy vô số bí kíp quý giá, nhưng lại không tài nào chạm được vào vạt áo của đối thủ.
+
+Trong khoảnh khắc cao trào, khi Mộc Khánh Vân ngưng tụ đao khí nơi đầu ngón tay – một dấu hiệu của tu vi đạt đến độ thượng thừa – để tung đòn kết liễu, thì một biến cố bất ngờ xảy ra. Một nữ tử thanh mảnh, đội nón lá tre, che mặt sau lớp khăn voan mỏng manh đột ngột xuất hiện. Chỉ với một động tác nhẹ nhàng nhưng chứa đựng nội lực thâm hậu vô song, nàng đã nắm lấy cổ tay của cả hai, hóa giải toàn bộ sát khí trong không gian. Diệp Vĩ Tiên ngay lập tức bị ép quỳ xuống đất trong sự đau đớn và sợ hãi. Sự uy nghiêm toát ra từ nữ tử này khiến ngay cả Thanh Linh cũng phải kiêng dè. Nàng chính là Vệ Tố Nghiên, đệ tử thứ ba của Thiên Địa Hội chủ, một nhân vật mang tầm ảnh hưởng cực lớn trong tổ chức. Sự can thiệp của nàng không chỉ cứu vãn một vụ án mạng mà còn đánh dấu sự khởi đầu cho một mối quan hệ phức tạp và đầy nguy hiểm đối với Mộc Khánh Vân tại Huyết Thi Cốc. Trận chiến kết thúc trong sự im lặng đáng sợ, mở ra những toan tính mới của các thế lực đang ẩn mình trong bóng tối.
+
 
 ## Toàn bộ chương
 

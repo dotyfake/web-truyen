@@ -2,25 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-**Myst, Might, Mayhem - Chương 446**
+## Tóm tắt chương truyện
 
-So Ye-rin, Tư lệnh Lục cục, đến gần rừng trúc và thấy một trận chiến ác liệt đang diễn ra giữa những người cố thủ không cho ai vào rừng và những kẻ muốn đột phá. Một bên đông đảo, một bên chỉ là nhóm nhỏ nhưng toàn cao thủ vượt bậc.
+Bầu trời phía trên rừng trúc bị xé toạc bởi những luồng chân khí cuồng bạo khi cuộc chiến giữa phe cố thủ của Mộc Khánh Vân và lực lượng đông đảo của Tổ chức Bí mật bước vào giai đoạn khốc liệt nhất. Sự xuất hiện của Sở Ye-rin, Tư lệnh Lục cục, như một cơn gió lốc cuốn phăng đi hàng loạt cao thủ của địch quân, mang lại hy vọng cho nhóm người của Ma La Hiền và Quỷ Kiếm đang oằn mình chống đỡ. Thế nhưng, mục tiêu của Sở Ye-rin không chỉ là giải vây; cô mang theo một sứ mệnh quan trọng hơn – ngăn chặn cấm thuật thao túng linh hồn rơi vào tay đại đầu mục của Tổ chức Bí mật. Khi bước qua khe hở không gian do Diệt Thế Đại Đế tạo ra, cô đã được chứng kiến một cảnh tượng vượt xa mọi sự tưởng tượng về võ học nhân gian.
 
-Ma Ra-hyeon nhận ra So Ye-rin. Cô nhanh chóng hạ gục những kẻ tấn công Ma Ra-hyeon và hỏi về Dam Baek-ha. Ma Ra-hyeon ngạc nhiên vì họ đến đây để ngăn chặn bí kíp cấm thuật rơi vào tay tổ chức bí mật (Secret Society). Mok Gyeong-un đã đi vào rừng trúc trước để ngăn chặn kẻ địch.
+Giữa bãi cỏ tan hoang, hai luồng áp lực vô hình từ Mộc Khánh Vân và Ác Tâm Bà Bà va chạm vào nhau, tạo ra những cơn địa chấn tâm linh khiến cả không gian rung chuyển. Nhận ra đối thủ của Mộc Khánh Vân chính là Thiết Tú Liên – vị danh sư huyền thoại từng phục vụ tổ tiên mình, Sở Ye-rin đã không ngần ngại thi triển "Đại Huyết Ma Công", biến mái tóc thành màu đỏ rực như máu để chứng minh thân phận hậu duệ Vô Thượng Thành. Cô tự xưng là Tấn Yết Lâm, nỗ lực dùng danh nghĩa gia tộc để hòa giải cuộc xung đột giữa những kẻ vốn dĩ không nên là kẻ thù của nhau.
 
-So Ye-rin hạ gục những kẻ đột nhập và nghe thấy tiếng giao tranh từ bên trong. Cô thấy Ghost Blade đang chiến đấu với những con quái thú tâm linh (spiritual beasts) từ khe hở không gian do Destruction Emperor tạo ra. Ghost Blade từ chối sự giúp đỡ của cô và bảo cô đi vào bên trong giúp người đã vào trước, vì "kẻ điều hành cao nhất" của tổ chức bí mật đang ở trong đó.
+Thế nhưng, sự can thiệp của Tấn Yết Lâm đã hoàn toàn thất bại trước cơn cuồng nộ đang thiêu đốt lý trí của Mộc Khánh Vân. Trong tâm trí hắn lúc này chỉ còn lại lời tuyên bố độc địa của Thiết Tú Liên về việc Thanh Linh đã tan biến. Hắn lạnh lùng hất văng Tấn Yết Lâm sang một bên, dồn toàn bộ sát ý hắc ám vào một chiêu "Vô Hình Kiếm" nhắm thẳng vào tim lão bà. Sức mạnh của Mộc Khánh Vân lúc này đã đạt đến cảnh giới đáng sợ, hoàn toàn áp đảo một Thiết Tú Liên dù đã dồn hết chân nguyên vào đôi bàn tay bọc trong "Vô Hình Trảo". Những vết nứt bắt đầu xuất hiện trên đôi trảo quang rực rỡ, báo hiệu sự sụp đổ của một huyền thoại trước gót chân của kẻ kế thừa sát đạo.
 
-Bước vào khe hở không gian, So Ye-rin thấy một bãi cỏ tan hoang và một người đàn ông bất tỉnh. Mok Gyeong-un đang đối đầu với một người phụ nữ có khí thế kinh người. Cô kinh ngạc trước sức mạnh của cả hai người. Mok Gyeong-un cầm một thanh kiếm vô hình (formless sword).
+Trong khoảnh khắc ngàn cân treo sợi tóc, khi lưỡi kiếm vô hình chỉ còn cách cổ họng một tấc, Thiết Tú Liên đã thốt ra sự thật cuối cùng để tự cứu mạng mình: "Vong linh đó không hề bị tiêu diệt, cô ấy đang bị giam trong căn nhà tranh đằng kia!". Câu nói ấy như một phép màu nhiệm, ngay lập tức đóng băng toàn bộ sát khí đang bao phủ không gian. Mộc Khánh Vân rút kiếm, không thèm liếc nhìn lão bà đang ngã quỵ hay Tấn Yết Lâm đang bàng hoàng, mà lao đi nhanh như một tia chớp về phía ngôi nhà tranh cũ nát. Khuôn mặt vốn lạnh lẽo, vô cảm của hắn bỗng chốc rạng rỡ một niềm hy vọng tột cùng, bỏ lại sau lưng đống đổ nát của trận chiến để tìm lại linh hồn duy nhất đã khiến hắn phải điên cuồng đến thế. Trận chiến sinh tử giữa các đỉnh cấp cao thủ khép lại trong một sự im lặng kỳ lạ, nhường chỗ cho cuộc hội ngộ mang tính định mệnh.
 
-So Ye-rin nhận ra người phụ nữ đó là Wicked Heart Granny (Wicked Heart Granny Cheol Su-ryeon) và lao vào can ngăn. Cô sử dụng Grand Blood Expansive All-Overseeing Heavens Art, tóc biến thành màu đỏ máu. Cô tự giới thiệu mình là Jin Ye-rin, con gái của Jin Yeong-in, và bày tỏ sự kính trọng với Cheol Su-ryeon.
-
-Jin Ye-rin định nói rằng Mok Gyeong-un có liên hệ với gia tộc Jin, nhưng Mok Gyeong-un bất ngờ tấn công. Jin Ye-rin bị đánh bay sang một bên. Mok Gyeong-un lao vào tấn công Wicked Granny.
-
-Wicked Granny cố gắng chống đỡ, nhưng thanh kiếm của Mok Gyeong-un chứa đầy sát khí và năng lượng hắc ám. Bà ta dần bị đẩy lùi, những vết nứt xuất hiện gần lòng bàn tay. Wicked Granny dồn hết chân khí vào tay, nhưng Mok Gyeong-un vẫn áp đảo bà.
-
-Jin Ye-rin cố gắng can ngăn, nhưng Wicked Granny nói rằng đánh nhau như vậy là vô nghĩa vì Jin Ye-rin có liên hệ huyết thống. Mok Gyeong-un đáp trả rằng đây là sự trừng phạt vì đã hủy diệt "cô ấy". Wicked Granny hỏi về "vong linh báo oán" (vengeful spirit) đó. Mok Gyeong-un đáp: "Mạng của bà là cái giá phải trả". Wicked Granny nói rằng vong linh đó không bị tiêu diệt mà bị giam trong căn nhà tranh đằng kia.
-
-Ngay lập tức, Mok Gyeong-un thu hồi sức mạnh và bay về phía căn nhà tranh. Jin Ye-rin ngơ ngác nhìn theo, không hiểu chuyện gì đang xảy ra. Khuôn mặt lạnh lùng của Mok Gyeong-un bỗng bừng sáng.
 
 ## Toàn bộ chương
 

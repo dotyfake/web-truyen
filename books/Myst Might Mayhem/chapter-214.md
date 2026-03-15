@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 53
-}
-]
+## Tóm tắt chương truyện
+
+Chương truyện mở đầu với việc con thuyền cập bến sau chuyến hành trình vượt sông đầy bão táp. Mộc Khánh Vân cùng đồng bọn đã an toàn sang bờ bên kia, một chiến tích khó tin đối với bất kỳ ai chứng kiến dòng nước lũ hung hãn lúc bấy giờ. Tại đây, hắn đã có cuộc trò chuyện ngắn với oán hồn Hà Doãn, cố gắng dò khảo về danh tính của lão giả thần bí trước đó. Dù Hà Doãn giữ lời hứa và phủ nhận sự quen biết, nhưng qua phản ứng của ông ta, Mộc Khánh Vân đã chắc chắn rằng lão nhân mang cần câu trúc kia chính là một nhân vật có tầm ảnh hưởng cực lớn đến những linh hồn nơi đây. Hắn không truy cứu thêm mà nhanh chóng cùng nhóm của mình tiến về điểm hẹn tại một miếu Quan Vũ bỏ hoang.
+
+Tại miếu Guan Vũ, không gian yên tĩnh bị phá vỡ bởi sự xuất hiện của nhóm "Hậu Đội" do Mộc Khánh Vân dẫn đầu. Họ gặp gỡ nhóm "Tiền Đội" đã chờ sẵn từ trước, gồm Can Dương, Ngọc Cơ và U Bồng. Sự khác biệt về thái độ và đẳng cấp lập tức tạo nên một bầu không khí đối đầu gay gắt. Nhóm Tiền Đội, với sự tự phụ của những kẻ đã hoạt động lâu năm tại kinh thành, tỏ ý coi thường Mộc Khánh Vân và các đồng đội. Ngọc Cơ, kẻ hung hãn nhất trong nhóm Tiền Đội, đã không ngần ngại rút kiếm chỉ trích sự xuất hiện của thành viên thứ tư – đại sư Ja Geum-jeong, kẻ bị Mộc Khánh Vân giới thiệu một cách đầy mỉa mai là "hạ nhân" của mình.
+
+Căng thẳng leo thang khi Ngọc Cơ buông lời nhục mạ năng lực của Mộc Khánh Vân, dẫn đến việc Ja Geum-jeong ra tay trừng phạt một cách tàn nhẫn. Hình ảnh đại sư bóp nghẹt cổ và bẻ gãy cổ tay Ngọc Cơ chỉ bằng một tay đã khiến nhóm Tiền Đội phải sững sờ trước thực lực áp đảo của cái gọi là "hạ nhân" này. Chính lúc này, Mộc Khánh Vân đã bộc lộ bản chất lạnh lùng và tàn nhẫn của mình khi đề nghị giết chết Ngọc Cơ để "khớp" với số lượng người mà giáo hội đã thông báo. Lời đề nghị này, đi kèm với nụ cười thản nhiên, đã gieo rắc một nỗi sợ hãi sâu sắc vào lòng đối phương, đồng thời khẳng định quyền uy tuyệt đối của hắn trong nhóm.
+
+Chương truyện khép lại với sự im lặng đáng sợ trong ngôi miếu cổ, báo hiệu cho một cuộc hợp tác đầy khó khăn và những âm mưu sắp tới khi họ tiến vào kinh đô. Mộc Khánh Vân đã thành công trong việc trấn áp sự kiêu ngạo của nhóm Tiền Đội, ép buộc họ phải nhìn nhận lại thực lực của nhóm mình. Đây không chỉ là một cuộc gặp gỡ, mà là sự thiết lập lại trật tự quyền lực trước khi thực hiện nhiệm vụ bí mật đầy rẫy hiểm nguy tại hoàng cung. Những biến số mới đã xuất hiện, và vị thế của Mộc Khánh Vân giờ đây đã trở nên vững chắc hơn bao giờ hết, sẵn sàng cho những thử thách cam go đang chờ đón phía trước.
+
 
 ## Toàn bộ chương
 

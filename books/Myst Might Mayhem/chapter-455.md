@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] API error threshold reached. Rotated token. Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 9
-}
-]
+## Tóm tắt chương truyện
+
+Trận thư hùng giữa Mộc Khánh Vân và phân thân mạnh nhất của Mộc Can đã đẩy rừng trúc vào một cơn địa chấn của sức mạnh nguyên thủy. Phân thân này vốn là cơ thể của "Khốc Tử Kiếm" In-seop – một trong ngũ đại cao thủ lừng danh từ 40 năm trước, nay đã hoàn toàn đồng hóa với ý chí ma quái của Mộc Can. Sự ngạo nghễ của một bậc tiền nhân kết hợp với tà thuật viễn cổ đã tạo nên một áp lực khủng khiếp, khiến ngay cả Tấn Yết Lâm cũng phải bàng hoàng nhận ra bấy lâu nay kẻ thù vẫn luôn che giấu thực lực thật sự. Mộc Can thi triển cảnh giới "Vô Hình Kiếm" (Invisible Sword) – đỉnh cao mà mọi kiếm khách đều khao khát, tạo ra những lưỡi kiếm trong suốt từ chân khí thuần túy để tấn công Mộc Khánh Vân với uy lực dời non lấp biển.
+
+Đỉnh điểm của cuộc tấn công là tuyệt kỹ "Kiếm Nha Bạo Phát" (Sword Fang Eruption), một đòn đâm mang theo sức mạnh của cả một dãy núi khổng lồ, muốn nghiền nát mọi thứ trên đường đi của nó. Thế nhưng, trước sự ngỡ ngàng của tất cả, Mộc Khánh Vân không hề lùi bước hay né tránh. Hắn vung kiếm, một đường kiếm đơn giản nhưng chứa đựng chân lý của vũ trụ, trực tiếp chẻ đôi luồng kiếm khí khổng lồ của Mộc Can như thể chẻ đôi một thác nước hùng vĩ. Sự áp đảo về mặt cảnh giới của Mộc Khánh Vân lúc này đã vượt xa khỏi những gì mà võ học thông thường có thể giải thích. Hắn không còn là một thiếu niên mang đầy oán hận, mà đã trở thành một thực thể tiệm cận Thần Ma, kẻ sở hữu quyền năng điều khiển nguồn năng lượng nguyên sơ nhất của đất trời.
+
+Mộc Can điên cuồng tấn công bằng hàng loạt chiêu thức Vô Hình Kiếm cấp cao, nhằm tìm kiếm một khe hở dù là nhỏ nhất. Tuy nhiên, mỗi đường kiếm của Mộc Khánh Vân giờ đây đều mang theo một áp lực trầm mặc, biến mọi nỗ lực của đối phương trở nên nực cười. Mộc Can nghi ngờ Mộc Khánh Vân đã bí mật nuốt chửng linh đan của ngũ đại thần thú – những thực thể sinh ra từ tinh hoa của Ngũ Hành – để đạt được sức mạnh kinh thiên động địa này. Thế nhưng, sự thật còn đáng sợ hơn thế; Mộc Khánh Vân đã tự mình phá vỡ xiềng xích của phàm nhân, tìm thấy con đường dẫn đến "Chí Tôn" bằng chính ý chí sắt đá và sự giác ngộ độc lập, không cần đến bất kỳ ngoại vật hay sự dẫn dắt nào.
+
+Chương truyện khép lại bằng một khoảnh khắc kinh động tâm can. Khi Mộc Can nhận ra thất bại là điều không thể tránh khỏi và định dùng chiêu "Đồng Quy Vu Tận" để phá hủy linh hồn cùng thể xác đối phương, thế giới trong mắt hắn bỗng dưng nghiêng ngả. Mộc Khánh Vân đã ra tay với một tốc độ vượt ngoài khả năng thấu thị của "con mắt thứ ba" trên trán Mộc Can. Chiếc đầu của kẻ tự xưng là đại diện của Tổ chức Bí mật lăn lông lốc dưới đất, để rồi bị Mộc Khánh Vân xách ngược lên bằng mái tóc. Với nụ cười lạnh lùng ẩn chứa uy quyền tối thượng, hắn buông lời tuyên cáo: "Cảm ơn. Nhờ ngươi mà ta đã chạm đến Chí Tôn Kiếm". Đó không chỉ là cái chết của một phân thân, mà là sự khai sinh của một huyền thoại mới – Chí Tôn Thiên Ma, kẻ nắm giữ vận mệnh của Trung Nguyên trong tay.
+
 
 ## Toàn bộ chương
 

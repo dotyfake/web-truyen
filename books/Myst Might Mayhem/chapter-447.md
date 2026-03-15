@@ -2,16 +2,14 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 31
-}
-]
+## Tóm tắt chương truyện
+
+Trong không gian u tối của căn nhà tranh, linh thể của Thanh Linh đang mỏng manh như một sợi tơ trước gió. Sau khi tiêu tốn toàn bộ chân nguyên để phá vỡ trận pháp hỗ trợ Mộc Khánh Vân, cô đã rơi vào trạng thái cận tử, ý thức dần chìm vào bóng tối vĩnh hằng. Nỗi sợ lớn nhất của cô không phải là sự tan biến hoàn toàn của một linh hồn không có kiếp sau, mà là nỗi nuối tiếc khôn nguôi khi không được nhìn thấy "người phàm" của mình lần cuối. Nhưng ngay khi bóng tối chuẩn bị nuốt chửng tất cả, cánh cửa nhà tranh bị đạp tan, Mộc Khánh Vân xông vào như một vị thần hộ mệnh cuồng nộ. Với đôi tay trần, hắn nghiền nát ngục gỗ bạc và xé toạc những lá bùa chú đáng nguyền rủa, giải phóng Thanh Linh khỏi xiềng xích nghìn năm. Khoảnh khắc được bao bọc trong vòng tay rắn rỏi của Mộc Khánh Vân, Thanh Linh đã bật khóc – những giọt nước mắt của sự yếu đuối, tình yêu và lòng biết ơn tột cùng. Mộc Khánh Vân ôm chặt cô, lời hứa bảo vệ vĩnh viễn của hắn như một liều thuốc thần kỳ hồi sinh lại ý chí đã lụi tàn của cô, đánh dấu một cam kết sinh tử giữa kẻ phàm trần và một linh hồn phiêu dạt.
+
+Phía bên ngoài, Ác Tâm Bà Bà Thiết Tú Liên vẫn chưa hết bàng hoàng trước sức mạnh mang tính hủy diệt của Mộc Khánh Vân. Bà nhận ra rằng kiếm chiêu của hắn không còn nằm trong phạm vi võ học thông thường, mà đã chạm đến bản thể của sự tàn sát, một thứ quyền năng có thể chẻ đôi cả vận mệnh. Dù mang thân phận huyền thoại, Thiết Tú Liên vẫn phải cay đắng thừa nhận mình vừa thoát chết dưới lưỡi kiếm của một "Ma vương tại thế". Khi Tấn Yết Lâm quỳ xuống, dùng cả tôn nghiêm của hậu duệ Vô Thượng Thành để cầu xin sự giúp đỡ cho đại cục võ lâm, Thiết Tú Liên đã tiết lộ một bí mật đau đớn về quá khứ của mình. Bà bị giam giữ tại đây bởi lời thề với vị anh hùng năm xưa, một sự tự nguyện sám hối cho những tội liên quan đến máu của vô số người vô tội mà bà đã sát hại để duy trì sự sống. Lời thề "không rời bước khỏi nơi này" chính là cái xiềng xích linh hồn mà bà không bao giờ dám phá bỏ.
+
+Tuy nhiên, sự xuất hiện của Mộc Khánh Vân và Tấn Yết Lâm dường như đã nằm trong tiên liệu của người xưa. Thiết Tú Liên dẫn họ vào sâu trong căn nhà tranh, nơi Thanh Linh đã chủ động ẩn mình vào hình nhân gỗ để hồi phục linh lực. Tại đây, lão bà lấy ra một chiếc hộp gỗ cũ kỹ – di vật cuối cùng được để lại cho hậu thế. Khi Tấn Yết Lâm với đôi tay run rẩy mở nắp hộp, một luồng hào quang cổ xưa dường như bừng sáng. Bên trong là cuốn bí kíp mang tựa đề "Thiên Độn Tinh Minh Kiếm Pháp" – tuyệt học tối thượng được coi là linh hồn của Luminous Star, một sức mạnh có thể xoay chuyển càn khôn. Sự xuất hiện của cuốn bí kíp này không chỉ mở ra một chân trời võ học mới cho Mộc Khánh Vân mà còn là khởi đầu cho một hành trình định mệnh, nơi những oán cừu nghìn năm và những bí mật về tổ chức bí mật sẽ dần được đưa ra ánh sáng. Bước ngoặt này chính thức khép lại chương về Ác Tâm Bà Bà và mở ra một kỷ nguyên mới của Thiên Ma.
+
 
 ## Toàn bộ chương
 

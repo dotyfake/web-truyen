@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 16
-}
-]
+## Tóm tắt chương truyện
+
+Giữa những hành lang u tối và nồng nặc tử khí của Địa ngục vĩnh cửu, Mộc Khánh Vân và Lục Huyết Thánh Đàm Bạch Hà đang tiến bước trong một bầu không khí đầy chiêm nghiệm về sinh tử. Sự thấu thị của Mộc Khánh Vân về bản chất của sự trường sinh – coi đó là một "lời nguyền" tàn khốc vì phải chứng kiến những người thân yêu lần lượt tan thành cát bụi trong khi bản thân vẫn tồn tại vĩnh cửu – đã chạm đến tầng sâu nhất trong linh hồn của Đàm Bạch Hà. Nàng nhớ lại nguồn gốc của sự bất tử của chính mình, khi vô tình nuốt phải máu của linh thú lôi điện dưới sự chứng kiến của một vị nho sĩ bí ẩn. Lời cảnh báo về "độc dược" trường sinh năm xưa giờ đây vang vọng lại trong những lời nhận định sắc sảo của vị "Tiểu Ma Đầu" trước mặt, tạo nên một sự kết nối tâm linh kỳ lạ giữa hai thực thể kỳ dị này.
+
+Tuy nhiên, những giây phút chiêm nghiệm ngắn ngủi đã bị phá vỡ bởi một luồng sát khí đen kịt và oán hận ngút trời đang cuồn cuộn đổ về từ phía trước. Chu Vận Hương bước ra từ bóng tối, nhưng linh hồn anh dường như đã bị nuốt chửng hoàn toàn. Đôi mắt anh phát ra luồng sáng quỷ dị, toàn thân tỏa ra ma khí đặc quánh, nuốt chửng mọi dấu vết của chân khí chính tông trước đây. Sự biến đổi kinh hoàng này không đến từ việc tẩu hỏa nhập ma thông thường, mà nguồn cơn chính là vật thể đang nằm trong bàn tay run rẩy của anh – một thanh kiếm mang hình thù quái dị, tỏa ra kình lực âm hàn như thể nó được đúc từ những linh hồn bị nguyền rủa.
+
+Đàm Bạch Hà, với kiến thức uyên thâm từ thời đại huy hoàng của võ học cũ, đã lập tức nhận diện được lai lịch của vũ khí nọ và không khỏi rùng mình kinh hãi. Đó chính là "Thoán Sát Kiếm" – một tuyệt tác ma đạo được rèn bởi chính Âu Dã Tử, vị thợ rèn huyền thoại của lịch sử. Đây không phải là một thanh binh khí thông thường, mà là một thực thể ma quái có khả năng đoạt xá người sử dụng, biến họ thành vật tế thần để thỏa mãn cơn khát máu vô tận của nó. Sự hiện diện của thanh kiếm nọ trong lòng địa lao không chỉ là một sự trùng hợp, mà dường như là một phần của chuỗi cạm bẫy tàn khốc đã được giăng sẵn để tiêu diệt bất tấc ai dám xâm phạm vào tầng sâu nhất của kinh thành Khai Phong.
+
+Chương truyện khép lại với sự đối đầu nghẹt thở giữa một bên là liên minh của Mộc Khánh Vân và Lục Huyết Thánh, và bên kia là một Chu Vận Hương đã hoàn toàn mất đi nhân tính dưới sự thao túng của ma kiếm Âu Dã Tử. Sức mạnh của Thoán Sát Kiếm, với khả năng chém sắt như bùn và hấp thụ sinh khí của đối thủ, đặt ra một thử thách cực đại ngay cả với những cao thủ tiệm cận cảnh giới tối cao. Mộc Khánh Vân, kẻ luôn coi thường mọi quy luật của thế gian, giờ đây phải đối mặt với một loại sức mạnh tà ác cổ xưa có thể đe dọa đến chính linh hồn ma quỷ của hắn. Cuộc chiến này sẽ là minh chứng cho việc liệu ma tính của con người hay tà khí của binh khí mới là thứ thống trị thực sự trong hố sâu tuyệt vọng của Địa ngục vĩnh cửu.
+
 
 ## Toàn bộ chương
 

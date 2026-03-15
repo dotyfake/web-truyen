@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 15
-}
-]
+## Tóm tắt chương truyện
+
+Giữa huyễn cảnh bao la của bậc tiền nhân, Mộc Khánh Vân đã đưa ra một câu trả lời khiến ngay cả vị tổ tiên huyền thoại Tấn Vân Huy cũng phải sững sờ. Trước lời mời gọi trở thành vị cứu tinh cho Trung Nguyên, ngăn chặn thảm họa diệt thế đang cận kề, Mộc Khánh Vân đã lạnh lùng cự tuyệt. Hắn khẳng định bản thân không phải là kẻ theo đuổi chính nghĩa hay lòng hiệp nghĩa cao cả; lý do duy nhất khiến hắn cầm kiếm là để phục thù và bảo vệ những người thân thuộc. Thái độ ngang tàng, bất tuân mệnh trời của hắn không những không làm Tấn Vân Huy tức giận mà còn khơi gợi lại hình ảnh ngạo nghễ của chính vị "Huyết Ma" năm xưa. Nhận ra Mộc Khánh Vân không phải là một quân cờ có thể điều khiển, Tấn Vân Huy đã từ bỏ ý định dẫn dắt hắn theo kịch bản đã định sẵn, mà thay vào đó là sự tôn trọng đối với một ý chí độc lập tuyệt đối.
+
+Cuộc đối thoại tiếp tục xoáy sâu vào bản chất của sức mạnh. Tấn Vân Huy đề nghị truyền thụ "Tiên Đạo" để giúp Mộc Khánh Vân dung hợp hoàn toàn Ngũ Hành, hoàn thiện tầng thứ cao nhất của "Bát Tưởng Phá Tâm". Thế nhưng, một lần nữa, Mộc Khánh Vân lại từ chối sự giúp đỡ mang tính định hướng này. Hắn tin rằng con đường tiến tới sức mạnh tối thượng của mình không cần sự hòa hợp với tự nhiên, mà cần một ý chí sắt đá có thể chẻ đôi mọi rào cản. Sự thấu hiểu về "sức mạnh thuần túy" và "kiếm đạo tuyệt đối" của Mộc Khánh Vân đã minh chứng rằng hắn là một thiên tài thoát thai hoán cốt, kẻ tự tạo ra quy luật thay vì tuân theo chúng. Tấn Vân Huy, với nụ cười ẩn hiện sau lớp mặt nạ quỷ, đã chấp nhận để hắn rời khỏi cõi thẻ tre, mang theo những mảnh ghép cuối cùng của sự sắp đặt nghìn năm về thực tại.
+
+Trái ngược với sự tĩnh lặng trong huyễn cảnh, thực tại ngoài rừng trúc là một thảm cảnh đẫm máu. Trận pháp bảo vệ sụp đổ đã phơi bày sự tàn khốc của Tổ chức Bí mật. Phân thân của Mộc Can không chỉ có một, mà là một mạng lưới ý thức đa dạng và đầy quyền năng. Ác Tâm Bà Bà Thiết Tú Liên, vì để bảo vệ huyết mạch cuối cùng của gia tộc Jin, đã buộc phải đánh đổi bằng việc tiết lộ cấm thuật và dùng cả chân nguyên cuối đời để mở ra một con đường máu cho Tấn Yết Lâm. Sự hy sinh cao cả của lão bà huyền thoại là một nốt nhạc bi tráng trong bản hùng ca diệt môn. Tuy nhiên, hy vọng vừa nhen nhóm đã sớm bị dập tắt khi Tấn Yết Lâm và Quỷ Kiếm đối mặt với phân thân thứ ba của Mộc Can – kẻ mang sức mạnh áp đảo hoàn toàn.
+
+Chương truyện khép lại trong sự bế tắc tột cùng của phe chính nghĩa. Quỷ Kiếm trọng thương mất đi một cánh tay, Tấn Yết Lâm kiệt quệ chân khí dưới gót chân của phân thân Mộc Can. Thế nhưng, ngay trong khoảnh khắc tử thần cận kề, cuộn thẻ tre "Bát Tưởng Phá Tâm" giấu trong lồng ngực Tấn Yết Lâm bỗng nhiên rung động dữ dội, phát ra những luồng hào quang huyền bí. Đó là dấu hiệu cho sự trở lại của Thiên Ma Mộc Khánh Vân sau cuộc hội ngộ với tổ tiên, hay là sự thức tỉnh của một quyền năng cổ xưa được ẩn giấu bấy lâu? Cơn bão táp thực sự chuẩn bị giáng xuống, hứa hẹn một cuộc chuyển mình đầy máu và lửa của kẻ mang vận mệnh xoay chuyển càn khôn.
+
 
 ## Toàn bộ chương
 

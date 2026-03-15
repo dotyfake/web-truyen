@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 27
-}
-]
+## Tóm tắt chương truyện
+
+Trận thư hùng giữa Mộc Khánh Vân và Moo-jin đã tạm thời lắng xuống sau một đòn đánh đầy mưu mẹo và tàn nhẫn của ma đạo. Bằng cách dồn toàn bộ chân khí và linh lực vào một điểm duy nhất trên thanh ma kiếm, Mộc Khánh Vân đã xuyên thủng lớp phòng ngự kiên cố như kim cương bất hoại của Moo-jin, đâm thẳng vào trái tim đối thủ. Dù bị trọng thương chí mạng, Moo-jin vẫn thể hiện một sức sống mãnh liệt đến mức đáng sợ, hắn dùng hơi tàn cuối cùng để tung ra một cú đá đẩy lui Mộc Khánh Vân trước khi ngã quỵ. Tuy nhiên, thay vì kết liễu đối thủ ngay lập tức, Mộc Khánh Vân đã bị thu hút bởi những lời lẩm bẩm trong cơn đau đớn của Moo-jin qua kỹ thuật đọc môi: "Kẻ Ba Mắt" (Three-Eyed).
+
+Cái tên "Kẻ Ba Mắt" chính là nút thắt then chốt mở ra một chương mới trong cuộc đối thoại giữa hai kẻ vừa mới sinh tử tương tàn. Moo-jin tiết lộ rằng gia tộc của hắn có một mối thâm thù huyết hải với một thực thể mang con mắt thứ ba trên trán – kẻ đã để lại vết sẹo vĩnh viễn không thể chữa lành trên ngực của cha hắn bằng một loại năng lượng tà ác tương đồng với ma khí mà Mộc Khánh Vân đang sở hữu. Sự nhầm lẫn này suýt chút nữa đã khiến Moo-jin phải bỏ mạng, nhưng nó cũng vô tình tạo ra một điểm chung bất ngờ: Cả hai đều coi "Kẻ Ba Mắt" là kẻ thù không đội trời chung, kẻ đã cướp đi sinh mạng của người thân và để lại những nỗi đau không thể gột rửa.
+
+Mộc Khánh Vân, với bản tính xảo quyệt và luôn tìm kiếm lợi ích tối đa, đã quyết định rút thanh ma kiếm ra khỏi lồng ngực Moo-jin và tạm thời kiềm chế ma đang tàn phá nội tạng đối thủ. Hắn muốn khai thác thêm thông tin từ Moo-jin, người duy nhất cho đến nay cung cấp manh mối thực sự về tung tích và quyền năng của kẻ bí ẩn mang con mắt thứ ba. Tuy nhiên, sự kiêu hãnh của Moo-jin trong việc bảo vệ Đường tộc đã vấp phải một gáo nước lạnh tạt thẳng vào mặt từ phía Mộc Khánh Vân.
+
+Chương truyện kết thúc bằng một sự thực phũ phàng khiến Moo-jin hoàn toàn câm lặng. Khi hắn cố gắng viện dẫn lý do huyết thống để bảo vệ Đường môn, Mộc Khánh Vân đã tiết lộ rằng người nuôi nấng hắn – người mà hắn coi như cha mẹ – cũng là thành viên của Đường tộc nhưng đã bị chính Gia chủ Đường tộc hiện tại sát hại một cách hèn hạ bằng Vô Hình Độc. Tiết lộ này không chỉ phơi bày sự thối nát và tàn nhẫn của Đường môn mà còn đẩy Moo-jin vào một tình thế khó xử tột cùng: Phải lựa chọn giữa việc bảo vệ một huyết thống đầy tội lỗi hay đứng về phía kẻ mang ma tâm nhưng lại cùng chung một mục tiêu phục thù kẻ bí ẩn Ba Mắt. Mối quan hệ giữa họ giờ đây đã vượt xa khỏi sự thù địch thông thường, trở thành một liên minh lỏng lẻo nhưng đầy rẫy những toan tính đen tối giữa lòng thung lũng đẫm máu.
+
 
 ## Toàn bộ chương
 

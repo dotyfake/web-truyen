@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 19
-}
-]
+## Tóm tắt chương truyện
+
+Giữa lòng Địa ngục vĩnh cửu đang chìm trong khói lửa và sự hỗn loạn, một màn kịch đầy trớ trêu và tinh vi đã diễn ra, đánh dấu sự trỗi dậy của một liên minh ma quái. Đội trưởng ngàn người Lâm Quý Nguyệt cùng toán lính tinh nghệ đang phải chật vật chống lại sự nổi loạn của các tù nhân điên cuồng, trong khi Thống lĩnh Mặc Tiệm âm thầm tiến sâu vào khu vực cấm. Sự mất kiểm soát của hệ thống lao ngục triều đình là minh chứng cho sự thất bại thảm hại của những âm mưu hèn hạ mà Lâm Quý Nguyệt đã dựng lên nhằm hãm hại các tân binh. Tuy nhiên, điều đáng sợ nhất không nằm ở sự nổi loạn bên ngoài, mà nằm ở cuộc đối thoại sinh tử bên trong căn phòng giam số 126.
+
+Lục Huyết Thánh, Đàm Bạch Hà – một thực thể bất tử đã tồn tại hơn 160 năm, bỗng chốc thu hồi toàn bộ sát khí lôi điện và hành lễ một cách đầy cung kính trước Mộc Khánh Vân. Nguyên nhân của sự chuyển biến kinh ngạc này chính là bộ pháp khinh công "Phong Thần Bộ" mà Mộc Khánh Vân vừa thi triển. Trong ký ức và truyền thừa của nàng, đây là tuyệt kỹ chỉ thuộc về dòng dõi "Chân Huyết" – những vị thần linh mang họ Kim hoặc họ Tô mà sư phụ của nàng luôn tôn thờ. Sự tôn sùng mù quáng và hy vọng tìm lại cội nguồn sau hàng thập kỷ bị giam cầm đã khiến Đàm Bạch Hà lầm tưởng Mộc Khánh Vân chính là vị chủ nhân huyền thoại mà nàng hằng tìm kiếm.
+
+Mộc Khánh Vân, với bản năng của một kẻ thao túng bậc thầy, đã lập tức nắm bắt lấy cơ hội ngàn vàng này. Thay vì phủ nhận hoàn toàn, hắn đã khéo léo thêu dệt nên một câu chuyện về "vị sư phụ họ Ma" bí ẩn, người đã dạy hắn võ công và luôn căn dặn phải tôn trọng các dòng họ thần thánh kia. Lời nói dối tinh vi này đã củng cố niềm tin tuyệt đối của Đàm Bạch Hà, khiến nàng từ một ác ma khát máu trở thành một kẻ hầu cận trung thành, sẵn sàng xả thân để bảo vệ kẻ mà nàng tin là có mối liên kết với Chân Huyết. Sự ngây thơ của một đại ma đầu sống lâu năm trước những âm mưu của "Tiểu Ma Đầu" đã tạo nên một cục diện hoàn toàn có lợi cho Mộc Khánh Vân.
+
+Chương truyện kết thúc với hình ảnh Đàm Bạch Hà run rẩy vì xúc động, khẩn cầu Mộc Khánh Vân dẫn đường đến gặp vị sư phụ huyền thoại, trong khi hắn nở một nụ cười lạnh lùng trong bóng tối. Mộc Khánh Vân giờ đây đã sở hữu một "quân cờ" mang sức mạnh lôi điện vô song, một trợ thủ đắc lực có thể càn quét sạch mọi chướng ngại vật trên đường tiến đến phòng giam số 130. Tham vọng đoạt lấy Thánh nữ của Bái Hỏa giáo giờ đây đã nằm trong tầm tay, và Mộc Khánh Vân đã chứng minh rằng trong thế giới cá lớn nuốt cá bé này, kẻ mạnh nhất không chỉ là kẻ có võ công cao nhất, mà là kẻ biết biến niềm tin và nỗi đau của kẻ khác thành bàn đạp cho sự vĩ đại của chính mình.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 32
-}
-]
+## Tóm tắt chương truyện
+
+Giữa lòng địa lao Khai Phong u uất và đầy ám khí, một cuộc đi săn đẫm máu đang diễn ra trong thầm lặng. Mộc Khánh Vân, trong lốt thực tập sinh "Bae Ji-seok", đang lầm lũi đi sâu vào những tầng hầm rợn người, nơi không khí đặc quánh mùi máu tanh và phân người. Tại tầng sâu nhất – Địa ngục vĩnh cửu, Chu Vận Hương và Diễm Khánh đang phải đối mặt với một tình thế ngặt nghèo khi các cơ quan cơ khí liên tục được kích hoạt. Chu Vận Hương dù sở hữu võ công cao cường nhưng cũng không thể lường trước được sự tráo trở của những tấm bản đồ bị chỉnh sửa tinh vi. Trong một khoảnh khắc sơ hở, anh đã bị rơi xuống một cái bẫy sập sâu thẳm, để lại nụ cười đắc thắng của những viên Cẩm Y Vệ đang âm thầm giám sát từ bóng tối.
+
+Tại tầng ba, bi kịch cũng nổ ra với thực tập sinh An Chung Hữu. Vì tin tưởng vào tấm bản đồ trong tay, gã đã bước thẳng vào khu vực bẫy tên và bị ghim đầy những mũi tên chí mạng. Mộc Khánh Vân xuất hiện tại hiện trường với gương mặt lạnh lùng như băng sương. Hắn không hề có ý định cứu giúp mà trái lại, dùng kiến thức y thuật để chấm dứt sự đau đớn của đồng đội bằng một mũi châm cứu, đồng thời nhận ra âm mưu "gậy ông đập lưng ông" của Thống lĩnh Mặc Tiệm. Lão đã phát bản đồ giả cho toàn bộ thực tập sinh để tạo ra một vụ tai nạn tập thể, nhằm xóa sổ Mộc Khánh Vân và Chu Vận Hương mà không để lại bất kỳ dấu vết nghi ngờ nào.
+
+Tuy nhiên, Mặc Tiệm đã đánh giá thấp con quái vật mà lão đang đối đầu. Mộc Khánh Vân đã thực hiện một kế hoạch tráo đổi gương mặt đầy kinh dị và tinh vi. Khi các viên Tiểu Kỳ Cẩm Y Vệ tiếp cận thi thể mà họ tin là của "Bae Ji-seok", họ đã vô cùng vui mừng khi thấy mục tiêu đã chết. Nhưng sự kinh hoàng ập đến khi lớp da mặt của cái xác bắt đầu xê dịch, lộ ra gương mặt thật của An Chung Hữu bên dưới lớp mặt nạ da người. Mộc Khánh Vân đã biến cái xác của đồng đội thành vật thế mạng hoàn hảo, xóa sạch mọi dấu vết về sự hiện diện của danh tính "Bae Ji-seok" trong hệ thống ghi chép của Cẩm Y Vệ.
+
+Chương truyện khép lại với một màn trả thù đầy tàn nhẫn và quái dị. Mộc Khánh Vân đột ngột xuất hiện sau lưng viên Tiểu Kỳ đang bàng hoàng, dùng sức mạnh áp đảo để bẻ cổ gã và ném thẳng vào cái bẫy tên gần đó. Hình ảnh xác chết mang mặt nạ giả vẫy tay chào kẻ sắp chết trong màn mưa tên đã lột tả sự tàn nhẫn và tâm lý biến thái của vị "Tiểu Ma Đầu". Mộc Khánh Vân giờ đây đã thực sự tự do trong bóng tối của địa lao, không còn bị ràng buộc bởi bất kỳ danh phận hay sự giám sát nào. Hắn bắt đầu cuộc hành trình tiến sâu xuống tầng cuối cùng, nơi những bí mật lớn nhất của triều đình và những thực thể nguy hiểm đang chờ đợi để diện kiến một Ma vương thực thụ đang bước đến từ bóng đêm sâu thẳm.
+
 
 ## Toàn bộ chương
 

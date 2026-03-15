@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 20
-}
-]
+## Tóm tắt chương truyện
+
+Cuộc đối đầu trên đỉnh núi ảo mộng bước vào giai đoạn khốc liệt nhất khi kẻ đeo mặt nạ quỷ bắt đầu phô diễn những tầng thứ võ học vượt ngoài quy luật tự nhiên. Thanh đoản kiếm trắng muốt mang tên "Tố Đạm Kiếm" dường như có linh tính riêng, tự động bay lượn và phát ra những tia sét trắng xóa để đánh chệch quỹ đạo của đòn "Tập Trung Quyền Năng" từ Mộc Khánh Vân. Sức mạnh của đối phương khủng khiếp đến mức chỉ một cú dậm chân đã tạo ra phản lực kinh người, hất văng Mộc Khánh Vân đi xa hàng chục trượng, buộc hắn phải sử dụng "Hư Không Bộ" để trụ vững giữa không trung.
+
+Kẻ bí ẩn tiếp tục thi triển "Chân Truy Thuyết Kiếm" – một chiêu thức trong Tinh Minh Kiếm Pháp mà Tấn Yết Lâm từng sử dụng, nhưng ở tầm vóc hoàn mỹ hơn gấp bội với những vòng xoáy kiếm khí nghịch đảo, triệt tiêu mọi điểm yếu cốt tử. Mộc Khánh Vân, trong nỗ lực phá giải, đã huy động toàn bộ "Vô Hình Kiếm" tạo thành một lá chắn hình cối xay gió, đồng thời thi triển "Hư Không Định Thần" từ Bát Tưởng Phá Tâm để hút lấy kiếm thế của đối phương. Thế nhưng, kẻ đeo mặt nạ quỷ đã đáp trả bằng một tuyệt kỹ chấn động thiên địa: "Thiên Lôi Độn - Thần Đạo Tinh Minh Kiếm Pháp". Những tia sét từ thanh không trung bị kéo xuống, quấn lấy thanh sắt kiếm "Nam Thiên", tạo ra một vụ nổ lôi đình thiêu cháy và san phẳng cả đỉnh núi đơn độc.
+
+Sự thích ứng thần sầu của Mộc Khánh Vân khi tận dụng những mảnh vỡ của đỉnh núi đang sụp đổ làm điểm tựa để tấn công đã khiến kẻ đeo mặt nạ quỷ phải thực sự rúng động và phấn khích. Hắn thừa nhận rằng đã từ rất lâu rồi mới có một đối thủ khiến ý chí chiến đấu của mình bừng cháy mạnh mẽ đến vậy. Giữa lúc trận chiến đang chuẩn bị bước vào giai đoạn sinh tử, không gian xung quanh đột ngột xoay chuyển một cách kỳ ảo. Thác nước từ lòng đất phun trào, gột rửa đi bầu không khí nồng nặc mùi máu và thuốc súng, để hiện ra một đồng cỏ xanh mướt với một bàn trà thanh tịnh giữa hư vô.
+
+Trong sự tĩnh lặng đột ngột đầy quái dị, Mộc Khánh Vân đứng đối mặt với kẻ bí ẩn đang thản nhiên rót trà. Với nhãn quan sắc bén, hắn đã xâu chuỗi mọi manh mối: từ bộ Tinh Minh Kiếm Pháp thoát thai hoán cốt, khả năng thấu thị Bát Tưởng Phá Tâm cho đến chiếc mặt nạ quỷ giống hệt thứ từng xuất hiện trong tàn niệm của tổ sư Thiếu Lâm. Khi Mộc Khánh Vân buông lời chất vấn về thân phận thực sự, người đàn ông ấy đã từ tốn tháo bỏ chiếc mặt nạ quỷ. Dưới lớp mặt nạ là một diện mạo tuấn mỹ phi phàm với đôi mắt mang hai màu đỏ máu và vàng kim song hành – một biểu tượng của sự cân bằng giữa chính và tà, giữa ma tính và tiên đạo. Người đàn ông ấy mỉm cười, chính thức thừa nhận danh tính: **Tấn Vân Huy (Jin Woon-hwi)**, vị tổ tiên huyền thoại từng lừng danh thiên hạ với cả hai danh hiệu "Huyết Ma" và "Kiếm Tiên". Cuộc gặp gỡ này không phải là ngẫu nhiên, mà chính là nút thắt cuối cùng trong sự sắp đặt nghìn năm của một vĩ nhân thấu thị thiên cơ, dành riêng cho kẻ kế thừa danh hiệu Thiên Ma.
+
 
 ## Toàn bộ chương
 

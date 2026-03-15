@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 24
-}
-]
+## Tóm tắt chương truyện
+
+Bên ngoài lãnh địa Đường môn Tứ Xuyên, trên một đỉnh núi cao mây phủ, một đôi mắt mang sắc thái xám xịt của sự huyền bí đang lặng lẽ quan sát cuộc tàn sát dưới thung lũng. Đó là Xuân Chu (Chunchu), một nữ cao thủ mang vẻ đẹp liêu trai với mái tóc hai màu đen trắng, đi cùng một bà lão lưng còng mang quyền trượng. Chứng kiến trận thư hùng giữa Mộc Khánh Vân và gã khổng lồ Moo-jin, Xuân Chu không giấu nổi sự phấn khích tột độ trước sức mạnh đã vượt thoát khỏi phạm vi của nhân loại. Nàng bộc lộ bản tính thất thường của kẻ đứng đầu một thế lực ẩn danh khi tuyên bố bỏ qua kế hoạch "ngư ông đắc lợi" để tập trung vào mục tiêu mới: thu phục Mộc Khánh Vân làm nô lệ cho riêng mình. Sự tò mò của nàng đối với ma đạo công phu của Mộc Khánh Vân đã trở thành một nỗi ám ảnh đầy nguy hiểm, hứa hẹn những biến số khó lường trong cuộc chơi quyền lực này.
+
+Dưới chiến trường rực lửa, Mộc Khánh Vân đã chính thức hạ gục sự phòng thủ tâm lý cuối cùng của Moo-jin. Bằng cách phơi bày sự thực phũ phàng về cái chết của ông nội mình – một thành viên chi nhánh Đường tộc bị chính Gia chủ Đường môn sát hại bằng Vô Hình Độc – Mộc Khánh Vân đã biến niềm tin bảo vệ dòng họ của Moo-jin thành một nỗi nhục nhã ê chề. Hắn không ngần ngại thi triển độc khí tím ngắt của Đường môn ngay trước mặt vị hộ vệ, minh chứng cho việc hắn sở hữu tinh hoa võ học của dòng họ này còn thuần khiết hơn cả những kẻ đang nắm quyền. Moo-jin, kẻ vốn coi việc bảo vệ Đường môn là lý tưởng sống duy nhất theo di huấn tổ tiên, giờ đây hoàn toàn sụp đổ khi nhận ra mình đang đổ máu để bảo vệ một tên sát nhân tàn độc, kẻ đã ra tay hạ sát chính người thân trong cùng huyết thống.
+
+Ở một góc khác, cuộc đấu độc kinh thiên động địa giữa Đường Nhân Hải và Cửu Dương Xà Ô đã bước vào giai đoạn sinh tử. Sau khi trao đổi hàng trăm chiêu thức khiến rừng cây xung quanh bị tan chảy và héo rũ dưới nồng độ kịch độc, cả hai lão quái vật đều quyết định tung ra đòn quyết định. Đường Nhân Hải vận dụng đến tuyệt học chấn phái "Vô Hình Độc", khiến toàn bộ không gian xung quanh chao đảo như ảo mộng, một loại độc không mùi không sắc có thể kết liễu đối thủ trong tích tắc. Đối trọng lại là Cửu Dương Xà Ô với "Cửu Dương Xà Độc" đã đạt đến cảnh giới lô hỏa thuần thanh, biến toàn thân hắn thành một khối kịch độc xanh lục đậm đặc.
+
+Chương truyện kết thúc với một cú đột phá không gian đầy ấn tượng của Mộc Khánh Vân. Ngay giữa lúc hai bậc thầy độc công chuẩn bị tung ra đòn chí mạng, Mộc Khánh Vân đã đáp xuống như một vị thần chết, mang theo Moo-jin đang tàn hơi bên cạnh. Sự xuất hiện của hắn không chỉ làm gián đoạn trận chiến của hai lão quái mà còn giáng một đòn chí mạng vào tinh thần của Đường Nhân Hải. Nhìn thấy vị hộ vệ huyền thoại của gia tộc mình thảm bại dưới tay một hậu bối mang ma tính, Đường Nhân Hải hiểu rằng ngày tàn của Đường môn đã cận kề. Cuộc đối đầu trực diện giữa Mộc Khánh Vân và kẻ thù sát hại ông nội mình chính thức bắt đầu, hứa hẹn một cuộc thanh trừng đẫm máu và sòng phẳng ngay trên mảnh đất Tứ Xuyên linh thiêng.
+
 
 ## Toàn bộ chương
 

@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 11
-}
-]
+## Tóm tắt chương truyện
+
+Những lời thú tội nhục nhã của Đường Nhân Hải đã tạo ra một cơn địa chấn tâm lý khủng khiếp trong nội bộ Đường môn Tứ Xuyên. Sự đoàn kết dựa trên huyết thống bấy lâu nay bỗng chốc sụp đổ hoàn toàn trước sự thật phũ phàng về một vị Gia chủ hèn hạ, kẻ đã không ngần ngại sát hại chính những thành viên kiệt xuất của chi phái như Jang Mun-no và định bỏ mặc cả dòng tộc để tìm đường thoát thân. Sự phẫn nộ bùng lên mạnh mẽ nhất từ phía các chi hệ và bàng hệ, những người vốn bấy lâu nay đã âm thầm chịu đựng sự kỳ thị của dòng chính. Những lời bào chữa của các thành viên trực hệ về một "khổ nhục kế" hay "cạm bẫy của kẻ thù" đều trở nên lố bịch và vô nghĩa trước bằng chứng thép là cỗ xe ngựa đầy đủ trang bị đào thoát đang đợi sẵn bên ngoài. Đường môn, một trong những đại gia tộc kiêu hãnh nhất võ lâm, giờ đây đang tự xé nát chính mình trong sự ngờ vực và thù hận lan tỏa nhanh hơn cả kịch độc.
+
+Trong cơn tuyệt vọng và sự sụp đổ hoàn toàn về danh dự, Đường Nhân Hải đã đưa ra một quyết định tàn độc nhất trong cuộc đời. Với mục tiêu duy nhất là kéo Mộc Khánh Vân cùng xuống địa ngục, lão đã phát động tuyệt kỹ tối thượng của Vô Hình Độc mang tên "Độc Nguyên Cực". Đây là một đòn tấn công diện rộng khủng khiếp, phóng ra hàng vạn tia độc khí không màu, không mùi với tốc độ còn nhanh hơn cả ám khí. Thế nhưng, cái giá phải trả cho chiêu thức này là sự tàn sát không phân biệt địch ta. Đường Nhân Hải, kẻ vừa mới đây còn cầu xin sự tha thứ, đã lạnh lùng hy sinh mạng sống của hàng chục môn đồ trung thành đang đứng xung quanh mình để đổi lấy một cơ hội hạ gục đối thủ.
+
+Cảnh tượng diễn ra sau đó đã biến Đường phủ thành một địa ngục trần gian thực sự. Toàn bộ võ giả trong phạm vi hai mươi trượng đều bị kịch độc xâm nhập. Tiếng gào thét xé tâm can vang động cả bầu trời khi da thịt của họ bắt đầu thối rữa, tan chảy ngay trước mắt đồng môn. Vô Hình Độc tàn phá cơ thể với tốc độ kinh hồn, biến những cao thủ Đường môn oai phong thành những xác sống đang quằn quại trong cơn đau thấu xương, trơ ra cả những bộ xương trắng hếu giữa vũng mủ độc đen kịt. Đường Nhân Hải sau khi dồn toàn bộ tàn lực vào chiêu thức đã ngã quỵ xuống đất, hơi thở đứt quãng, thầm mong rằng sự thảm sát cốt nhục này sẽ mang lại kết quả như ý.
+
+Tuy nhiên, định mệnh lại giáng một đòn chí mạng nhất vào tâm trí của lão Gia chủ hèn hạ. Khi làn khói độc đen đặc dần tan biến, giữa đống xác thân đang tan chảy và tiếng khóc than vang vọng khắp thung lũng, hình bóng của Mộc Khánh Vân dần hiện ra. Hắn đứng sừng sững, bình thản, mái tóc không hề rối và tà áo không vướng một hạt bụi độc. Mộc Khánh Vân hoàn toàn không hề hấn gì trước "Độc Nguyên Cực" – niềm hy vọng cuối cùng của Đường gia. Sự tĩnh lặng của hắn giữa địa ngục do chính lão tạo ra chính là lời khẳng định hùng hồn nhất cho sự chênh lệch đẳng cấp không thể san lấp. Chương truyện kết thúc trong sự bàng hoàng và tuyệt vọng tột độ của Đường Nhân Hải khi nhận ra mình vừa tự tay hủy diệt gia tộc, sát hại những môn đồ trung thành nhất chỉ để chứng kiến sự vô vọng của chính mình trước một đối thủ vượt tầm nhân thế.
+
 
 ## Toàn bộ chương
 

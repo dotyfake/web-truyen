@@ -2,16 +2,16 @@
 
 ## Tóm tắt chương truyện
 
-[FAIL_RATE_LIMIT_SUMMARY] API error threshold reached. Rotated token. Rate limit hit during chunk 1: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
-}
-, links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, retry_delay {
-  seconds: 10
-}
-]
+## Tóm tắt chương truyện
+
+Tại khu vực sâu nhất của Địa ngục vĩnh cửu, một màn tra tấn và thực hành tà thuật đầy hãi hùng đã diễn ra dưới bàn tay lạnh lùng của Mộc Khánh Vân. Sau khi chém đứt lìa hai tay của Tổng chỉ huy Mặc Tiệm, hắn tiếp tục triệt hạ mọi khả năng phản kháng của đối thủ bằng cách đá nát hàm thiếc và đánh vỡ đan điền, khiến võ công đời người của một cao thủ Nhị đẳng tan thành mây khói trong phút chốc. Mục tiêu tối thượng của Mộc Khánh Vân không chỉ là mạng sống của Mặc Tiệm, mà là phá vỡ bức tường bảo mật tuyệt đối bao quanh danh tính của thủ lĩnh tổ chức bí ẩn. Để đối phó với nguyền chú nổ đầu tàn khốc vốn tự kích hoạt khi bí mật bị tiết lộ, Mộc Khánh Vân đã thi triển một nghi lễ đạo thuật cổ xưa đầy quái dị.
+
+Hắn sử dụng máu tươi của nạn nhân để vẽ bùa chú hộ mệnh, đồng thời nhổ bỏ những chiếc răng của Mặc Tiệm để thực hiện "Thi Giải Thuật" – một loại cấm thuật dùng vật tế để đánh lừa cõi âm. Mộc Khánh Vân biến đôi giày của Mặc Tiệm thành những thực thể tâm linh thay thế, hy vọng rằng chúng sẽ gánh chịu thay đòn trừng phạt của nguyền chú. Trước sự đau đớn tột cùng và lời hứa hươu vượn về việc phục hồi cơ thể của Mộc Khánh Vân, Mặc Tiệm trong cơn tuyệt vọng đã thốt ra danh hiệu tối cao của kẻ đứng đầu: "Mục Ngân" (目艮). Những tiếng nổ liên tiếp từ đôi giày cho thấy tà thuật đang giao tranh quyết liệt, nhưng cuối cùng, luồng oán lực quá mạnh mẽ đã khiến đầu của Mặc Tiệm nổ tung, kết thúc một mạng sống trong sự thê thảm cực độ.
+
+Mộc Khánh Vân thản nhiên lau những vệt máu bắn lên tay áo, trong ánh mắt không có sự hối lỗi mà chỉ có sự tiếc nuối về việc nghi lễ không thành công hoàn toàn. Hắn nhận ra rằng kẻ đứng sau lời nguyền này sở hữu đạo hạnh và tu vi vượt xa tầm hiểu biết thông thường, một đối thủ đáng gờm đang ẩn mình trong bóng tối của hoàng cung. Cái tên "Mục Ngân" – Con mắt thứ ba – chính là manh mối quý giá nhất mà hắn thu thập được từ đống đổ nát của linh hồn Mặc Tiệm. Ngay sau đó, hắn chuyển sự chú ý sang phòng giam số 130, nơi Thánh nữ Bái Hỏa giáo đang tĩnh tọa quan sát mọi chuyện với một thái độ bình thản đến lạ lùng.
+
+Cuộc đối thoại giữa vị "Tiểu Ma Đầu" và người phụ nữ mang sứ mệnh thánh khiết đã hé mở những góc khuất tăm tối về bản chất của Mộc Khánh Vân. Khi bị gặng hỏi về bí mật của Linh Châu, Thánh nữ không hề run sợ trước kẻ vừa sát hại đồng môn của mình một cách dã man. Bà nhìn sâu vào đôi mắt mang sát khí của hắn và đưa ra một lời phán xét khiến không gian như đông cứng lại. Theo bà, giáo lý của Bái Hỏa giáo là tôn thờ ngọn lửa thánh để thiêu rụi cái ác, nhưng Mộc Khánh Vân lại chính là hiện thân của cái ác thuần túy nhất, một tồn tại không thuộc về bất kỳ quy tắc đạo đức nào của thế gian. Chương truyện khép lại với sự đối đầu thái cực giữa niềm tin tôn giáo và ma tính nguyên thủy, báo hiệu rằng cuộc hành trình của Mộc Khánh Vân sẽ còn đẫm máu và u ám hơn nữa khi hắn bắt đầu chạm tay vào những báu vật có thể thay đổi vận mệnh thiên hạ.
+
 
 ## Toàn bộ chương
 

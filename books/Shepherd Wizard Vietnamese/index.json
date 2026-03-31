@@ -1,0 +1,931 @@
+{
+  "title": "Shepherd Wizard Vietnamese",
+  "description": "Truyện 184 chương",
+  "folder": "Shepherd Wizard Vietnamese",
+  "chapters": [
+    {
+      "index": 0,
+      "title": "﻿# Chương 1",
+      "file": "chapter-1.md"
+    },
+    {
+      "index": 1,
+      "title": "﻿# Chương 2",
+      "file": "chapter-2.md"
+    },
+    {
+      "index": 2,
+      "title": "Chương 3",
+      "file": "chapter-3.md"
+    },
+    {
+      "index": 3,
+      "title": "Chương 4",
+      "file": "chapter-4.md"
+    },
+    {
+      "index": 4,
+      "title": "Chương 5",
+      "file": "chapter-5.md"
+    },
+    {
+      "index": 5,
+      "title": "Chương 6",
+      "file": "chapter-6.md"
+    },
+    {
+      "index": 6,
+      "title": "Chương 7",
+      "file": "chapter-7.md"
+    },
+    {
+      "index": 7,
+      "title": "Chương 8",
+      "file": "chapter-8.md"
+    },
+    {
+      "index": 8,
+      "title": "Chương 9",
+      "file": "chapter-9.md"
+    },
+    {
+      "index": 9,
+      "title": "Chương 10",
+      "file": "chapter-10.md"
+    },
+    {
+      "index": 10,
+      "title": "Chương 11",
+      "file": "chapter-11.md"
+    },
+    {
+      "index": 11,
+      "title": "Chương 12",
+      "file": "chapter-12.md"
+    },
+    {
+      "index": 12,
+      "title": "Chương 13",
+      "file": "chapter-13.md"
+    },
+    {
+      "index": 13,
+      "title": "Chương 14",
+      "file": "chapter-14.md"
+    },
+    {
+      "index": 14,
+      "title": "Chương 15",
+      "file": "chapter-15.md"
+    },
+    {
+      "index": 15,
+      "title": "Chương 16",
+      "file": "chapter-16.md"
+    },
+    {
+      "index": 16,
+      "title": "Chương 17",
+      "file": "chapter-17.md"
+    },
+    {
+      "index": 17,
+      "title": "Chương 18",
+      "file": "chapter-18.md"
+    },
+    {
+      "index": 18,
+      "title": "Chương 19",
+      "file": "chapter-19.md"
+    },
+    {
+      "index": 19,
+      "title": "Chương 20",
+      "file": "chapter-20.md"
+    },
+    {
+      "index": 20,
+      "title": "Chương 21",
+      "file": "chapter-21.md"
+    },
+    {
+      "index": 21,
+      "title": "Chương 22",
+      "file": "chapter-22.md"
+    },
+    {
+      "index": 22,
+      "title": "Chương 23",
+      "file": "chapter-23.md"
+    },
+    {
+      "index": 23,
+      "title": "Chương 24",
+      "file": "chapter-24.md"
+    },
+    {
+      "index": 24,
+      "title": "Chương 25",
+      "file": "chapter-25.md"
+    },
+    {
+      "index": 25,
+      "title": "Chương 26",
+      "file": "chapter-26.md"
+    },
+    {
+      "index": 26,
+      "title": "Chương 27",
+      "file": "chapter-27.md"
+    },
+    {
+      "index": 27,
+      "title": "Chương 28",
+      "file": "chapter-28.md"
+    },
+    {
+      "index": 28,
+      "title": "Chương 29",
+      "file": "chapter-29.md"
+    },
+    {
+      "index": 29,
+      "title": "Chương 30",
+      "file": "chapter-30.md"
+    },
+    {
+      "index": 30,
+      "title": "Chương 31",
+      "file": "chapter-31.md"
+    },
+    {
+      "index": 31,
+      "title": "Chương 32",
+      "file": "chapter-32.md"
+    },
+    {
+      "index": 32,
+      "title": "Chương 33",
+      "file": "chapter-33.md"
+    },
+    {
+      "index": 33,
+      "title": "Chương 34",
+      "file": "chapter-34.md"
+    },
+    {
+      "index": 34,
+      "title": "Chương 35",
+      "file": "chapter-35.md"
+    },
+    {
+      "index": 35,
+      "title": "Chương 36",
+      "file": "chapter-36.md"
+    },
+    {
+      "index": 36,
+      "title": "Chương 37",
+      "file": "chapter-37.md"
+    },
+    {
+      "index": 37,
+      "title": "Chương 38",
+      "file": "chapter-38.md"
+    },
+    {
+      "index": 38,
+      "title": "Chương 39",
+      "file": "chapter-39.md"
+    },
+    {
+      "index": 39,
+      "title": "Chương 40",
+      "file": "chapter-40.md"
+    },
+    {
+      "index": 40,
+      "title": "Chương 41",
+      "file": "chapter-41.md"
+    },
+    {
+      "index": 41,
+      "title": "Chương 42",
+      "file": "chapter-42.md"
+    },
+    {
+      "index": 42,
+      "title": "Chương 43",
+      "file": "chapter-43.md"
+    },
+    {
+      "index": 43,
+      "title": "Chương 44",
+      "file": "chapter-44.md"
+    },
+    {
+      "index": 44,
+      "title": "Chương 45",
+      "file": "chapter-45.md"
+    },
+    {
+      "index": 45,
+      "title": "Chương 46",
+      "file": "chapter-46.md"
+    },
+    {
+      "index": 46,
+      "title": "Chương 47",
+      "file": "chapter-47.md"
+    },
+    {
+      "index": 47,
+      "title": "Chương 48",
+      "file": "chapter-48.md"
+    },
+    {
+      "index": 48,
+      "title": "Chương 49",
+      "file": "chapter-49.md"
+    },
+    {
+      "index": 49,
+      "title": "Chương 50",
+      "file": "chapter-50.md"
+    },
+    {
+      "index": 50,
+      "title": "Chương 51",
+      "file": "chapter-51.md"
+    },
+    {
+      "index": 51,
+      "title": "Chương 52",
+      "file": "chapter-52.md"
+    },
+    {
+      "index": 52,
+      "title": "Chương 53",
+      "file": "chapter-53.md"
+    },
+    {
+      "index": 53,
+      "title": "Chương 54",
+      "file": "chapter-54.md"
+    },
+    {
+      "index": 54,
+      "title": "Chương 55",
+      "file": "chapter-55.md"
+    },
+    {
+      "index": 55,
+      "title": "Chương 56",
+      "file": "chapter-56.md"
+    },
+    {
+      "index": 56,
+      "title": "Chương 57",
+      "file": "chapter-57.md"
+    },
+    {
+      "index": 57,
+      "title": "Chương 58",
+      "file": "chapter-58.md"
+    },
+    {
+      "index": 58,
+      "title": "Chương 59",
+      "file": "chapter-59.md"
+    },
+    {
+      "index": 59,
+      "title": "Chương 60",
+      "file": "chapter-60.md"
+    },
+    {
+      "index": 60,
+      "title": "Chương 61",
+      "file": "chapter-61.md"
+    },
+    {
+      "index": 61,
+      "title": "Chương 62",
+      "file": "chapter-62.md"
+    },
+    {
+      "index": 62,
+      "title": "Chương 63",
+      "file": "chapter-63.md"
+    },
+    {
+      "index": 63,
+      "title": "Chương 64",
+      "file": "chapter-64.md"
+    },
+    {
+      "index": 64,
+      "title": "Chương 65",
+      "file": "chapter-65.md"
+    },
+    {
+      "index": 65,
+      "title": "Chương 66",
+      "file": "chapter-66.md"
+    },
+    {
+      "index": 66,
+      "title": "Chương 67",
+      "file": "chapter-67.md"
+    },
+    {
+      "index": 67,
+      "title": "Chapter 68",
+      "file": "chapter-68.md"
+    },
+    {
+      "index": 68,
+      "title": "Chapter 69",
+      "file": "chapter-69.md"
+    },
+    {
+      "index": 69,
+      "title": "Chapter 70",
+      "file": "chapter-70.md"
+    },
+    {
+      "index": 70,
+      "title": "Từ những chương sau, tôi cũng sẽ điều chỉnh cách phiên âm của một số địa danh để khớp với cách viết mà tác giả sử dụng.",
+      "file": "chapter-71.md"
+    },
+    {
+      "index": 71,
+      "title": "Chapter 71",
+      "file": "chapter-72.md"
+    },
+    {
+      "index": 72,
+      "title": "Chapter 72",
+      "file": "chapter-73.md"
+    },
+    {
+      "index": 73,
+      "title": "Chapter 73",
+      "file": "chapter-74.md"
+    },
+    {
+      "index": 74,
+      "title": "Chapter 74",
+      "file": "chapter-75.md"
+    },
+    {
+      "index": 75,
+      "title": "Chapter 75",
+      "file": "chapter-76.md"
+    },
+    {
+      "index": 76,
+      "title": "Chapter 76",
+      "file": "chapter-77.md"
+    },
+    {
+      "index": 77,
+      "title": "Chapter 77",
+      "file": "chapter-78.md"
+    },
+    {
+      "index": 78,
+      "title": "Chapter 78",
+      "file": "chapter-79.md"
+    },
+    {
+      "index": 79,
+      "title": "Chapter 79",
+      "file": "chapter-80.md"
+    },
+    {
+      "index": 80,
+      "title": "Chapter 80",
+      "file": "chapter-81.md"
+    },
+    {
+      "index": 81,
+      "title": "Chapter 81",
+      "file": "chapter-82.md"
+    },
+    {
+      "index": 82,
+      "title": "Chapter 82",
+      "file": "chapter-83.md"
+    },
+    {
+      "index": 83,
+      "title": "Chapter 83",
+      "file": "chapter-84.md"
+    },
+    {
+      "index": 84,
+      "title": "Chapter 84",
+      "file": "chapter-85.md"
+    },
+    {
+      "index": 85,
+      "title": "Chapter 85",
+      "file": "chapter-86.md"
+    },
+    {
+      "index": 86,
+      "title": "Chapter 86",
+      "file": "chapter-87.md"
+    },
+    {
+      "index": 87,
+      "title": "Chapter 87",
+      "file": "chapter-88.md"
+    },
+    {
+      "index": 88,
+      "title": "﻿# Chương 88",
+      "file": "chapter-89.md"
+    },
+    {
+      "index": 89,
+      "title": "﻿# Chương 89",
+      "file": "chapter-90.md"
+    },
+    {
+      "index": 90,
+      "title": "﻿# Chương 90",
+      "file": "chapter-91.md"
+    },
+    {
+      "index": 91,
+      "title": "﻿# Chương 91",
+      "file": "chapter-92.md"
+    },
+    {
+      "index": 92,
+      "title": "﻿# Chương 92",
+      "file": "chapter-93.md"
+    },
+    {
+      "index": 93,
+      "title": "﻿# Chương 93",
+      "file": "chapter-94.md"
+    },
+    {
+      "index": 94,
+      "title": "Chương 94",
+      "file": "chapter-95.md"
+    },
+    {
+      "index": 95,
+      "title": "Chương 95",
+      "file": "chapter-96.md"
+    },
+    {
+      "index": 96,
+      "title": "Chương 96",
+      "file": "chapter-97.md"
+    },
+    {
+      "index": 97,
+      "title": "Chương 97",
+      "file": "chapter-98.md"
+    },
+    {
+      "index": 98,
+      "title": "Chương 98",
+      "file": "chapter-99.md"
+    },
+    {
+      "index": 99,
+      "title": "Chương 99",
+      "file": "chapter-100.md"
+    },
+    {
+      "index": 100,
+      "title": "Chương 100",
+      "file": "chapter-101.md"
+    },
+    {
+      "index": 101,
+      "title": "Chương 101",
+      "file": "chapter-102.md"
+    },
+    {
+      "index": 102,
+      "title": "Chương 102",
+      "file": "chapter-103.md"
+    },
+    {
+      "index": 103,
+      "title": "Chương 103",
+      "file": "chapter-104.md"
+    },
+    {
+      "index": 104,
+      "title": "Chương 104",
+      "file": "chapter-105.md"
+    },
+    {
+      "index": 105,
+      "title": "Chương 105",
+      "file": "chapter-106.md"
+    },
+    {
+      "index": 106,
+      "title": "Chương 106",
+      "file": "chapter-107.md"
+    },
+    {
+      "index": 107,
+      "title": "Chương 107",
+      "file": "chapter-108.md"
+    },
+    {
+      "index": 108,
+      "title": "Chương 108",
+      "file": "chapter-109.md"
+    },
+    {
+      "index": 109,
+      "title": "Chương 109",
+      "file": "chapter-110.md"
+    },
+    {
+      "index": 110,
+      "title": "Chương 110",
+      "file": "chapter-111.md"
+    },
+    {
+      "index": 111,
+      "title": "Chương 111",
+      "file": "chapter-112.md"
+    },
+    {
+      "index": 112,
+      "title": "Chương 112",
+      "file": "chapter-113.md"
+    },
+    {
+      "index": 113,
+      "title": "Chương 113",
+      "file": "chapter-114.md"
+    },
+    {
+      "index": 114,
+      "title": "Chương 114",
+      "file": "chapter-115.md"
+    },
+    {
+      "index": 115,
+      "title": "Chương 115",
+      "file": "chapter-116.md"
+    },
+    {
+      "index": 116,
+      "title": "Chương 116",
+      "file": "chapter-117.md"
+    },
+    {
+      "index": 117,
+      "title": "Chương 117",
+      "file": "chapter-118.md"
+    },
+    {
+      "index": 118,
+      "title": "Chương 118",
+      "file": "chapter-119.md"
+    },
+    {
+      "index": 119,
+      "title": "Chương 119",
+      "file": "chapter-120.md"
+    },
+    {
+      "index": 120,
+      "title": "Chương 120",
+      "file": "chapter-121.md"
+    },
+    {
+      "index": 121,
+      "title": "Chương 121",
+      "file": "chapter-122.md"
+    },
+    {
+      "index": 122,
+      "title": "Chương 122",
+      "file": "chapter-123.md"
+    },
+    {
+      "index": 123,
+      "title": "Chương 123",
+      "file": "chapter-124.md"
+    },
+    {
+      "index": 124,
+      "title": "Chương 124",
+      "file": "chapter-125.md"
+    },
+    {
+      "index": 125,
+      "title": "﻿# Chương 125",
+      "file": "chapter-126.md"
+    },
+    {
+      "index": 126,
+      "title": "Chương 126",
+      "file": "chapter-127.md"
+    },
+    {
+      "index": 127,
+      "title": "Chương 127",
+      "file": "chapter-128.md"
+    },
+    {
+      "index": 128,
+      "title": "Chương 128",
+      "file": "chapter-129.md"
+    },
+    {
+      "index": 129,
+      "title": "Chương 129",
+      "file": "chapter-130.md"
+    },
+    {
+      "index": 130,
+      "title": "Chương 130",
+      "file": "chapter-131.md"
+    },
+    {
+      "index": 131,
+      "title": "Chương 131",
+      "file": "chapter-132.md"
+    },
+    {
+      "index": 132,
+      "title": "Chương 132",
+      "file": "chapter-133.md"
+    },
+    {
+      "index": 133,
+      "title": "Chương 133",
+      "file": "chapter-134.md"
+    },
+    {
+      "index": 134,
+      "title": "Chương 134",
+      "file": "chapter-135.md"
+    },
+    {
+      "index": 135,
+      "title": "Chương 135",
+      "file": "chapter-136.md"
+    },
+    {
+      "index": 136,
+      "title": "Chương 136",
+      "file": "chapter-137.md"
+    },
+    {
+      "index": 137,
+      "title": "Chương 137",
+      "file": "chapter-138.md"
+    },
+    {
+      "index": 138,
+      "title": "Chương 138",
+      "file": "chapter-139.md"
+    },
+    {
+      "index": 139,
+      "title": "Chương 139",
+      "file": "chapter-140.md"
+    },
+    {
+      "index": 140,
+      "title": "Chương 140",
+      "file": "chapter-141.md"
+    },
+    {
+      "index": 141,
+      "title": "Chương 141",
+      "file": "chapter-142.md"
+    },
+    {
+      "index": 142,
+      "title": "Chương 142",
+      "file": "chapter-143.md"
+    },
+    {
+      "index": 143,
+      "title": "Chương 143",
+      "file": "chapter-144.md"
+    },
+    {
+      "index": 144,
+      "title": "Chương 144",
+      "file": "chapter-145.md"
+    },
+    {
+      "index": 145,
+      "title": "Chương 145",
+      "file": "chapter-146.md"
+    },
+    {
+      "index": 146,
+      "title": "Chương 146",
+      "file": "chapter-147.md"
+    },
+    {
+      "index": 147,
+      "title": "Chương 147",
+      "file": "chapter-148.md"
+    },
+    {
+      "index": 148,
+      "title": "Chương 148",
+      "file": "chapter-149.md"
+    },
+    {
+      "index": 149,
+      "title": "Chương 149.1",
+      "file": "chapter-150.md"
+    },
+    {
+      "index": 150,
+      "title": "Chương 149.2",
+      "file": "chapter-151.md"
+    },
+    {
+      "index": 151,
+      "title": "Chương 150.1",
+      "file": "chapter-152.md"
+    },
+    {
+      "index": 152,
+      "title": "Chương 150.2",
+      "file": "chapter-153.md"
+    },
+    {
+      "index": 153,
+      "title": "Chương 151.1",
+      "file": "chapter-154.md"
+    },
+    {
+      "index": 154,
+      "title": "Chương 151.2",
+      "file": "chapter-155.md"
+    },
+    {
+      "index": 155,
+      "title": "Chương 152.1",
+      "file": "chapter-156.md"
+    },
+    {
+      "index": 156,
+      "title": "Chương 152.2",
+      "file": "chapter-157.md"
+    },
+    {
+      "index": 157,
+      "title": "Chương 153.1",
+      "file": "chapter-158.md"
+    },
+    {
+      "index": 158,
+      "title": "Chương 153.2",
+      "file": "chapter-159.md"
+    },
+    {
+      "index": 159,
+      "title": "Chương 154.1",
+      "file": "chapter-160.md"
+    },
+    {
+      "index": 160,
+      "title": "Chương 154.2",
+      "file": "chapter-161.md"
+    },
+    {
+      "index": 161,
+      "title": "Chương 155.1",
+      "file": "chapter-162.md"
+    },
+    {
+      "index": 162,
+      "title": "Chương 155.2",
+      "file": "chapter-163.md"
+    },
+    {
+      "index": 163,
+      "title": "Chương 156.1",
+      "file": "chapter-164.md"
+    },
+    {
+      "index": 164,
+      "title": "Chương 156.2",
+      "file": "chapter-165.md"
+    },
+    {
+      "index": 165,
+      "title": "Chương 157.1",
+      "file": "chapter-166.md"
+    },
+    {
+      "index": 166,
+      "title": "Chương 157.2",
+      "file": "chapter-167.md"
+    },
+    {
+      "index": 167,
+      "title": "Chương 158.1",
+      "file": "chapter-168.md"
+    },
+    {
+      "index": 168,
+      "title": "Chương 158.2",
+      "file": "chapter-169.md"
+    },
+    {
+      "index": 169,
+      "title": "Chương 159.1",
+      "file": "chapter-170.md"
+    },
+    {
+      "index": 170,
+      "title": "Chương 159.2",
+      "file": "chapter-171.md"
+    },
+    {
+      "index": 171,
+      "title": "Chương 160.1",
+      "file": "chapter-172.md"
+    },
+    {
+      "index": 172,
+      "title": "Chương 160.2",
+      "file": "chapter-173.md"
+    },
+    {
+      "index": 173,
+      "title": "Chương 161.1",
+      "file": "chapter-174.md"
+    },
+    {
+      "index": 174,
+      "title": "Chương 161.2",
+      "file": "chapter-175.md"
+    },
+    {
+      "index": 175,
+      "title": "Chương 162.1",
+      "file": "chapter-176.md"
+    },
+    {
+      "index": 176,
+      "title": "Chương 162.2",
+      "file": "chapter-177.md"
+    },
+    {
+      "index": 177,
+      "title": "Chương 163.1",
+      "file": "chapter-178.md"
+    },
+    {
+      "index": 178,
+      "title": "Chương 163.2",
+      "file": "chapter-179.md"
+    },
+    {
+      "index": 179,
+      "title": "Chương 164.1",
+      "file": "chapter-180.md"
+    },
+    {
+      "index": 180,
+      "title": "Chương 164.2",
+      "file": "chapter-181.md"
+    },
+    {
+      "index": 181,
+      "title": "Chương 165.1",
+      "file": "chapter-182.md"
+    },
+    {
+      "index": 182,
+      "title": "Chương 165.2",
+      "file": "chapter-183.md"
+    },
+    {
+      "index": 183,
+      "title": "Chương 166.1",
+      "file": "chapter-184.md"
+    }
+  ],
+  "total": 184,
+  "created_by": "auto_script_v2",
+  "created_at": "2026-03-31T22:31:16.732598",
+  "last_updated": "2026-03-31T22:31:16.732598"
+}

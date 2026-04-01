@@ -1,6 +1,6 @@
 {
   "title": "Shepherd Wizard Vietnamese",
-  "description": "Truyện 184 chương",
+  "description": "Truyện 258 chương",
   "folder": "Shepherd Wizard Vietnamese",
   "chapters": [
     {
@@ -922,10 +922,380 @@
       "index": 183,
       "title": "Chương 166.1",
       "file": "chapter-184.md"
+    },
+    {
+      "index": 184,
+      "title": "Chương 166.2",
+      "file": "chapter-185.md"
+    },
+    {
+      "index": 185,
+      "title": "Chương 167.1",
+      "file": "chapter-186.md"
+    },
+    {
+      "index": 186,
+      "title": "Chương 167.2",
+      "file": "chapter-187.md"
+    },
+    {
+      "index": 187,
+      "title": "Chương 168.1",
+      "file": "chapter-188.md"
+    },
+    {
+      "index": 188,
+      "title": "Chương 168.2",
+      "file": "chapter-189.md"
+    },
+    {
+      "index": 189,
+      "title": "Chương 169.1",
+      "file": "chapter-190.md"
+    },
+    {
+      "index": 190,
+      "title": "Chương 169.2",
+      "file": "chapter-191.md"
+    },
+    {
+      "index": 191,
+      "title": "Chương 170.1",
+      "file": "chapter-192.md"
+    },
+    {
+      "index": 192,
+      "title": "Chương 170.2",
+      "file": "chapter-193.md"
+    },
+    {
+      "index": 193,
+      "title": "Chương 171.1",
+      "file": "chapter-194.md"
+    },
+    {
+      "index": 194,
+      "title": "Chương 171.2",
+      "file": "chapter-195.md"
+    },
+    {
+      "index": 195,
+      "title": "Chương 172.1",
+      "file": "chapter-196.md"
+    },
+    {
+      "index": 196,
+      "title": "Chương 172.2",
+      "file": "chapter-197.md"
+    },
+    {
+      "index": 197,
+      "title": "Chương 173.1",
+      "file": "chapter-198.md"
+    },
+    {
+      "index": 198,
+      "title": "Chương 173.2",
+      "file": "chapter-199.md"
+    },
+    {
+      "index": 199,
+      "title": "Chương 174.1",
+      "file": "chapter-200.md"
+    },
+    {
+      "index": 200,
+      "title": "Chương 174.2",
+      "file": "chapter-201.md"
+    },
+    {
+      "index": 201,
+      "title": "Chương 175.1",
+      "file": "chapter-202.md"
+    },
+    {
+      "index": 202,
+      "title": "Chương 175.2",
+      "file": "chapter-203.md"
+    },
+    {
+      "index": 203,
+      "title": "Chương 176.1",
+      "file": "chapter-204.md"
+    },
+    {
+      "index": 204,
+      "title": "Chương 176.2",
+      "file": "chapter-205.md"
+    },
+    {
+      "index": 205,
+      "title": "Chương 177",
+      "file": "chapter-206.md"
+    },
+    {
+      "index": 206,
+      "title": "Chương 178.1",
+      "file": "chapter-207.md"
+    },
+    {
+      "index": 207,
+      "title": "Chương 178.2",
+      "file": "chapter-208.md"
+    },
+    {
+      "index": 208,
+      "title": "Chương 179.1",
+      "file": "chapter-209.md"
+    },
+    {
+      "index": 209,
+      "title": "Chương 179.2",
+      "file": "chapter-210.md"
+    },
+    {
+      "index": 210,
+      "title": "Chương 180.1",
+      "file": "chapter-211.md"
+    },
+    {
+      "index": 211,
+      "title": "Chương 180.2",
+      "file": "chapter-212.md"
+    },
+    {
+      "index": 212,
+      "title": "Chương 181.1",
+      "file": "chapter-213.md"
+    },
+    {
+      "index": 213,
+      "title": "Chương 181.2",
+      "file": "chapter-214.md"
+    },
+    {
+      "index": 214,
+      "title": "Chương 182.1",
+      "file": "chapter-215.md"
+    },
+    {
+      "index": 215,
+      "title": "Chương 182.2",
+      "file": "chapter-216.md"
+    },
+    {
+      "index": 216,
+      "title": "Chương 183.1",
+      "file": "chapter-217.md"
+    },
+    {
+      "index": 217,
+      "title": "Chương 183.2",
+      "file": "chapter-218.md"
+    },
+    {
+      "index": 218,
+      "title": "Chương 184.1",
+      "file": "chapter-219.md"
+    },
+    {
+      "index": 219,
+      "title": "Chương 184.2",
+      "file": "chapter-220.md"
+    },
+    {
+      "index": 220,
+      "title": "Chương 185.1",
+      "file": "chapter-221.md"
+    },
+    {
+      "index": 221,
+      "title": "Chương 185.2",
+      "file": "chapter-222.md"
+    },
+    {
+      "index": 222,
+      "title": "Chương 186.1",
+      "file": "chapter-223.md"
+    },
+    {
+      "index": 223,
+      "title": "Chương 186.2",
+      "file": "chapter-224.md"
+    },
+    {
+      "index": 224,
+      "title": "Chương 187.1",
+      "file": "chapter-225.md"
+    },
+    {
+      "index": 225,
+      "title": "Chương 187.2",
+      "file": "chapter-226.md"
+    },
+    {
+      "index": 226,
+      "title": "Chương 188.1",
+      "file": "chapter-227.md"
+    },
+    {
+      "index": 227,
+      "title": "Chương 188.2",
+      "file": "chapter-228.md"
+    },
+    {
+      "index": 228,
+      "title": "Chương 189.1",
+      "file": "chapter-229.md"
+    },
+    {
+      "index": 229,
+      "title": "Chương 189.2",
+      "file": "chapter-230.md"
+    },
+    {
+      "index": 230,
+      "title": "Chương 190",
+      "file": "chapter-231.md"
+    },
+    {
+      "index": 231,
+      "title": "Chương 191",
+      "file": "chapter-232.md"
+    },
+    {
+      "index": 232,
+      "title": "Chương 192",
+      "file": "chapter-233.md"
+    },
+    {
+      "index": 233,
+      "title": "Chương 193",
+      "file": "chapter-234.md"
+    },
+    {
+      "index": 234,
+      "title": "Chương 194",
+      "file": "chapter-235.md"
+    },
+    {
+      "index": 235,
+      "title": "Chương 195",
+      "file": "chapter-236.md"
+    },
+    {
+      "index": 236,
+      "title": "Chương 196",
+      "file": "chapter-237.md"
+    },
+    {
+      "index": 237,
+      "title": "Chương 197",
+      "file": "chapter-238.md"
+    },
+    {
+      "index": 238,
+      "title": "Chương 198",
+      "file": "chapter-239.md"
+    },
+    {
+      "index": 239,
+      "title": "Chương 199",
+      "file": "chapter-240.md"
+    },
+    {
+      "index": 240,
+      "title": "Chương 200",
+      "file": "chapter-241.md"
+    },
+    {
+      "index": 241,
+      "title": "Chương 201",
+      "file": "chapter-242.md"
+    },
+    {
+      "index": 242,
+      "title": "Chương 202",
+      "file": "chapter-243.md"
+    },
+    {
+      "index": 243,
+      "title": "Chương 203",
+      "file": "chapter-244.md"
+    },
+    {
+      "index": 244,
+      "title": "Chương 204",
+      "file": "chapter-245.md"
+    },
+    {
+      "index": 245,
+      "title": "Chương 205",
+      "file": "chapter-246.md"
+    },
+    {
+      "index": 246,
+      "title": "Chương 206",
+      "file": "chapter-247.md"
+    },
+    {
+      "index": 247,
+      "title": "Chương 207",
+      "file": "chapter-248.md"
+    },
+    {
+      "index": 248,
+      "title": "Chương 208",
+      "file": "chapter-249.md"
+    },
+    {
+      "index": 249,
+      "title": "Chương 209",
+      "file": "chapter-250.md"
+    },
+    {
+      "index": 250,
+      "title": "Chương 210",
+      "file": "chapter-251.md"
+    },
+    {
+      "index": 251,
+      "title": "Chương 211",
+      "file": "chapter-252.md"
+    },
+    {
+      "index": 252,
+      "title": "Chương 212",
+      "file": "chapter-253.md"
+    },
+    {
+      "index": 253,
+      "title": "Chương 213",
+      "file": "chapter-254.md"
+    },
+    {
+      "index": 254,
+      "title": "Chương 214",
+      "file": "chapter-255.md"
+    },
+    {
+      "index": 255,
+      "title": "Chương 215",
+      "file": "chapter-256.md"
+    },
+    {
+      "index": 256,
+      "title": "Chương 216",
+      "file": "chapter-257.md"
+    },
+    {
+      "index": 257,
+      "title": "Chương 217",
+      "file": "chapter-258.md"
     }
   ],
-  "total": 184,
+  "total": 258,
   "created_by": "auto_script_v2",
-  "created_at": "2026-03-31T22:31:16.732598",
-  "last_updated": "2026-03-31T22:31:16.732598"
+  "created_at": "2026-04-01T10:17:31.761909",
+  "last_updated": "2026-04-01T10:17:31.761909"
 }

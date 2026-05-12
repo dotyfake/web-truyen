@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 270
+﻿# Sand Mage of the Burnt Desert - Chương 270
 
 Zeon nhìn chiếc gauntlet Kailey đưa cho mình.
 
@@ -361,3 +361,4 @@ Lee Jung-ho cau mày.
 "Chà, một chút."
 
 Zeon khẽ mỉm cười.
+

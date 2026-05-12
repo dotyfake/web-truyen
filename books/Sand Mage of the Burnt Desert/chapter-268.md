@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 268
+﻿# Sand Mage of the Burnt Desert - Chương 268
 
 Archelon chớp đôi mắt khổng lồ rồi vươn đầu về phía Zeon.
 
@@ -353,3 +353,4 @@ Zeon đứng gần đó lạnh giọng hỏi.
 "Đó là cảnh cáo sao?"
 
 "Là lời thỉnh cầu."
+

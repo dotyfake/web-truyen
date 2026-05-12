@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 271
+﻿# Sand Mage of the Burnt Desert - Chương 271
 
 Pavirsa nhẹ nhàng vuốt đầu Archelon.
 
@@ -341,3 +341,4 @@ Rầầầầm!
 Chưa đầy một giờ sau, cơn bão vốn cách xa hàng trăm cây số quét tới Archelon, và gương mặt Lee Jung-ho méo đi vì chấn động.
 
 "Mẹ kiếp."
+

@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 269
+﻿# Sand Mage of the Burnt Desert - Chương 269
 
 "Ấn tượng thật!"
 
@@ -339,3 +339,4 @@ Khi Xyrium được thêm vào, con mắt Red Dragon gắn trên Inferno Gauntle
 Khi kiểm tra chiếc gauntlet đã hoàn thành, Kailey không khỏi giật mình.
 
 "Hic!"
+

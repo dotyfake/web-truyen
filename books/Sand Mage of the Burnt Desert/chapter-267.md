@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 267
+﻿# Sand Mage of the Burnt Desert - Chương 267
 
 Nhờ thuần hóa được Thunder Buffalo, hành trình tới Steel Fortress trở nên dễ dàng hơn rất nhiều.
 
@@ -335,3 +335,4 @@ Như cảm nhận được cảm xúc của cô, Archelon thò đầu ra khỏi 
 Zeon nói với Archelon:
 
 "Lâu rồi không gặp, bạn già."
+

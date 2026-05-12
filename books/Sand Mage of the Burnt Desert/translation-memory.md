@@ -2870,6 +2870,2203 @@ Claire dùng Rainbow Pendant, item S-rank khuếch đại năng lực/điều kh
 
 Cả năm người leo lên lưng Thunder Buffalo rộng như sân chơi. Claire ra lệnh nó đi về phía tây rồi nằm nghỉ vì mana/thể lực đã cạn, nhanh chóng ngủ sâu. Thunder Buffalo tiến đều đặn trong sa mạc, tự có thể tìm xương rồng để ăn/uống. Lee Jung-ho kinh ngạc vì cưỡi quái vật tiện lợi nhưng Zeon nhắc không phải ai cũng có đặc quyền này. Lee Jung-ho giảng rằng kẻ mạnh phải suy nghĩ sâu và gánh trách nhiệm tương ứng với ảnh hưởng lên thế giới; Zeon đáp mình vẫn suy nghĩ cẩn thận, nên ông ta bớt giảng đạo. Lee Jung-ho khó chịu nhưng nhẫn nhịn vì vẫn cần Zeon dẫn đường trong sa mạc để lấy trái tim Moby Dick.
 
+## Chương 267
+
+Nhờ Thunder Buffalo, hành trình tới Steel Fortress dễ hơn rất nhiều. Quái vật trong sa mạc dày đặc như cát, và dù Lee Jung-ho là A-rank Awakened, hắn chuyên đơn đấu hơn là đánh số đông; nếu một mình băng sa mạc, hắn có thể bị hao mòn hoặc trọng thương bởi vô số đàn quái. Thunder Buffalo khiến phần lớn quái vật nhỏ bỏ chạy vì lớp vảy cứng hơn thép của nó làm răng nanh vô dụng. Nhóm gần như không phải chiến đấu, đến mức Duduyan/Aslan cũng thư giãn hiếm hoi trên lưng nó.
+
+Tối đến, Zeon chọn một đụn cát lõm như miệng núi lửa làm nơi nghỉ, tránh gió. Lee Jung-ho hoàn toàn tin lựa chọn của Zeon vì cậu hiểu sa mạc nhất. Aslan phụ trách nấu ăn, dùng nguyên liệu gom từ khu ổ chuột nấu stew với nhiều thịt khô. Duduyan không nấu vì với Dark Elf như cô, thức ăn chỉ là năng lượng để chiến đấu. Sau bữa ăn, Duduyan/Aslan ngủ ngay vì quen sa mạc; Zeon chui xuống cát tạo chỗ ngủ tạm, khiến Claire ghen tị vì phải ngủ ngoài bão cát.
+
+Claire hỏi Lee Jung-ho thế giới qua Mind's Eye có giống nhìn bằng mắt không. Lee Jung-ho nói nếu giống thì hắn đã không cần tự làm mù. Hắn không thể giải thích rõ; với hắn, thế giới qua Mind's Eye như tấm kính mỏng manh, một thực tại chông chênh có thể vỡ bất kỳ lúc nào, có lẽ là hình dạng thật của thế giới. Hắn gạt suy nghĩ về vị trí của con người trong thế giới ấy.
+
+Ngày hôm sau, Claire mệt vì nắng và muốn tắm nước lạnh. Duduyan nói tới Steel Fortress có thể tắm thoải mái nhờ nước khá dồi dào do Zeon giúp, nhưng giấu bí mật hồ nước ngầm dưới pháo đài. Lee Jung-ho hiểu nhầm là họ khai thác nguồn nước ngầm, điều phổ biến ở colony. Hắn hỏi Zeon có phát hiện nước không; Zeon nói chỉ cảm nhận cát ẩm gần bề mặt, không cảm nhận nước quá sâu. Lee Jung-ho lần đầu hơi ghen tị vì năng lực Zeon có ích cho người khác và giúp sống sót trong sa mạc, khác với năng lực của hắn chỉ để giết.
+
+Lee Jung-ho suy nghĩ vì sao Jin Geum-ho chưa chiêu mộ Zeon, dù năng lực của cậu rất hữu dụng. Hắn nhớ Jin Geum-ho có Clairvoyance để hiểu nguyên lý thế giới và từng khuyên hắn tự làm mù để đạt Mind's Eye. Kết luận của hắn là vấn đề không phải năng lực Zeon, mà chính Zeon không khớp với kế hoạch của Jin Geum-ho, có thể bị xem là mối đe dọa cho Neo Seoul. Zeon phát hiện nhóm quái vật cách hai cây số và cho Thunder Buffalo đi vòng; Lee Jung-ho dùng Perception xác nhận cậu đúng. Cuối chương, nhóm nhìn thấy Steel Fortress bằng núi sa thạch đỏ và Archelon bên cạnh. Claire mê mẩn Archelon, chạy tới vuốt mai nó rồi khóc vì với tư cách Tamer, cô nhận ra con rùa khổng lồ đang chết. Zeon chào Archelon là bạn già.
+
+## Chương 268
+
+Archelon chỉ tập trung vào Zeon, bỏ qua Claire, dù cô là Tamer. Zeon nhận ra nó thật sự đang chết. Pavirsa và Kailey xuất hiện, đoàn tụ với Zeon sau khoảng tám năm. Kailey nói Archelon bị Black Anemone do một curse caster điều khiển đánh trúng khi nó bảo vệ Motte Tribe. Nếu không bị phục kích, Archelon có thể đã thắng vì mai nó phòng ngự cực mạnh. Black Anemone không phải quái vật tự nhiên mà là chimera, khiến Zeon nghi ngờ vì tạo chimera gần như là lĩnh vực sáng tạo sinh mệnh; trong người cậu biết chỉ Gold Dragon Haeltoon từng làm được. Tuy nhiên Zeon cho rằng khả năng cao curse caster tìm được item liên quan tới chimera trong dungeon, hơn là dragon cải trang, vì dragon kiêu ngạo sẽ không hành động như vậy.
+
+Black Anemone có thân chính chỉ hơn mười mét, nhưng nguy hiểm ở hàng nghìn/hàng vạn xúc tu từ đầu, mỗi xúc tu kéo dài hàng trăm mét, có thể quấn con mồi và hút cạn dịch thể trong tích tắc. Archelon sống sót vì là sinh vật phòng ngự cực mạnh; người hoặc quái vật khác sẽ thành xác khô ngay. Vết thương do xúc tu vẫn hiện trên đầu Archelon. Sau khi bị trúng đòn, Archelon dùng toàn lực thoát khỏi xúc tu; vì Black Anemone không thể di chuyển khi duỗi xúc tu, nó không truy đuổi. Archelon lang thang tới Steel Fortress và được Deborah nhận ra là không có địch ý mà đang cầu cứu.
+
+Urtian và Deborah đến chào Zeon. Zeon giới thiệu Lee Jung-ho và Claire từ Neo Seoul. Pavirsa kể lý do cần Moby Dick: ông từng thấy Moby Dick, một land whale khổng lồ có thể bơi qua cát và bay trên trời, phát ánh sáng chữa lành một mammoth trọng thương gần chết. Sau đó Pavirsa điều khiển Archelon đuổi theo và tìm được "tổ"/nơi nghỉ của Moby Dick, lần đầu thấy nó đáp xuống đất. Pavirsa không thể mô tả vị trí, nhưng Archelon nhớ mùi không khí quanh tổ và có thể dẫn đường đại khái; sau đó cần Zeon hỗ trợ định hướng.
+
+Archelon đang giữ sức cho hành trình cuối cùng đến tổ Moby Dick. Claire nói cô có Cure Skill cho tamed beast, dù rank thấp và hiệu quả với Archelon rất hạn chế vì nó quá lớn, nhưng vẫn có thể giúp nó hồi chút sức. Deborah, cũng là Tamer, hiểu trạng thái Archelon mong manh như nến sắp tắt và nhẹ nhõm vì có Claire. Claire lo nếu Archelon bị tấn công lần nữa thì cô không làm gì được, nhưng Deborah tin trong sa mạc, nếu Zeon quyết bảo vệ thứ gì, không có gì cậu không bảo vệ được. Cuối chương, khi vào Steel Fortress bằng giỏ lớn hạ từ núi sa thạch, Lee Jung-ho thán phục pháo đài tự nhiên hoàn hảo và nghĩ tới giá trị sáp nhập. Zeon lạnh lùng nhờ hắn để yên nơi này, nói cưỡng ép sáp nhập sớm chỉ tạo vấn đề; đó là lời thỉnh cầu chứ không phải cảnh cáo.
+
+## Chương 269
+
+Lee Jung-ho càng nhìn bên trong Steel Fortress càng ấn tượng vì không gian rộng hơn vẻ ngoài, đủ cho hàng chục nghìn người sống nếu có nước. Hắn thấy nơi này cực kỳ đáng thèm muốn làm satellite city của Neo Seoul, nhưng Zeon là trở ngại vì rõ ràng không muốn điều đó. Lee Jung-ho nghĩ hoặc phải có hợp tác của Zeon hoặc loại bỏ cậu, nhưng cả hai đều khó, nên tạm gác lại để ưu tiên trái tim Moby Dick. Cư dân pháo đài dẫn Lee Jung-ho và Claire tới phòng nghỉ và lịch sự từ chối cho họ tham quan ngoài khu vực được phép. Lee Jung-ho bất mãn nhưng nhịn vì cần giữ lòng tin với Zeon.
+
+Pavirsa hỏi Zeon liệu Lee Jung-ho có gây rắc rối không vì ông cảm nhận hắn như lưỡi dao kề cổ. Pavirsa từng gặp nhiều Awakened và cho rằng Dyoden có sự hiện diện như cơn bão hủy diệt, còn Lee Jung-ho như thanh kiếm sẵn sàng chém đầu người đối diện bất kỳ lúc nào, khiến hắn nguy hiểm theo cách khác. Dù vậy, nếu nói mức độ nguy hiểm, Pavirsa vẫn xem Zeon là đáng ngại nhất.
+
+Kailey nhận ra Inferno Gauntlet là gauntlet cô từng chế tạo cho Zeon nhưng đã thay đổi vì được gắn mắt Red Dragon. Cô kiểm tra và nhận định Enchanter từng gắn mắt dragon rất giỏi, nhưng vì không phải người chế tạo nền tảng nên chưa khai mở hết tiềm năng. Kailey hiện là S-rank Enchanter, bí mật chỉ Pavirsa biết, và tự tin có thể cải thiện nó. Zeon để lại Inferno Gauntlet cho cô qua đêm. Khi tháo gauntlet khỏi tay phải sau tám năm luôn đeo, Zeon cảm thấy trống trải như mất một phần cơ thể.
+
+Trong phòng, Kailey lên kế hoạch nâng cấp Inferno Gauntlet bằng các nguyên liệu hiếm cô tích lũy trong subspace khi lang thang cùng Archelon: mai Ghost Beetle để gia cố độ bền và dẫn mana, cánh Rainbow Butterfly để ổn định dòng mana, Xyrium từ Volcano Dungeon để khai mở sức mạnh mắt Red Dragon. Với kỹ năng Enchanter "Modification", cô tái định hình mai Ghost Beetle rồi dùng "Combine" để nó bị Inferno Gauntlet hấp thu. Rainbow Butterfly là kẻ săn mồi im lặng cực nguy hiểm, vỗ cánh thả độc tố thần kinh, sau đó hút cạn dịch thể con mồi. Khi Kailey thêm Xyrium, mắt Red Dragon trên Inferno Gauntlet phát sáng dữ dội hơn trước; lúc kiểm tra thành phẩm, cô giật mình.
+
+## Chương 270
+
+Kailey trả Inferno Gauntlet cho Zeon sau khi nâng cấp. Gauntlet giờ tỏa ánh đỏ dịu, chi tiết tinh xảo hơn; khi Zeon siết nắm tay, các gai nhọn như móng dragon, hình mũi khoan, trồi ra để tập trung sức phá hoại vào một điểm. Vật liệu kết hợp Xyrium và mai Ghost Beetle tạo độ cứng khủng khiếp. Thay đổi lớn nhất là vùng mắt dragon trên mu bàn tay: trước kia phát ma lực và nhiệt Red Dragon rõ rệt, giờ hoàn toàn không thể cảm nhận năng lượng, nhưng khi Zeon đeo vào thì năng lượng áp đảo bùng ra.
+
+Kailey giải thích trước đây độ dẫn mana thấp nên năng lượng thất thoát nhiều, trông đáng sợ nhưng người dùng lãng phí mana. Sau cải tiến, độ dẫn mana tăng nhiều lần, cho phép dùng ít mana hơn nhưng phát huy uy lực lớn hơn. Mắt dragon cũng có kỹ năng mới, cần Zeon tự thử sau. Zeon nhớ lúc mới về Neo Seoul, nhiều người tưởng cậu là magic-type dùng lửa vì Inferno Gauntlet cho phép khai thác mắt Red Dragon thi triển kỹ năng hỏa. Giờ năng lượng mạnh hơn nhiều, có thể dùng được kỹ năng trước kia chưa thể dùng.
+
+Thay đổi khiến Zeon vui nhất là subspace của Inferno Gauntlet được mở rộng khổng lồ, gần bằng Steel Fortress nếu nói hơi quá, ít nhất gấp mười lần trước. Điều này cực kỳ quan trọng vì Zeon có thể chứa nhiều cát hơn, thậm chí đủ dùng toàn bộ kỹ năng ngay trong Neo Seoul. Cậu cảm ơn Kailey, rồi ra ngoài trước bình minh để thử gauntlet. Lính gác Steel Fortress thấy Zeon nhảy khỏi pháo đài và được cát đỡ nhẹ như lông, đùa rằng nếu có năng lực đó họ sẽ xây vương quốc riêng trong sa mạc. Zeon nghĩ xây vương quốc không chỉ cần nước mà còn tường, thức ăn, vật tư và hệ thống, nên càng thấy Jin Geum-ho phi thường vì xây được Neo Seoul từ con số không.
+
+Zeon mở subspace mới, tạo lực hút lớn kéo cát xung quanh vào như sóng; phải khoảng mười phút mới gần đầy, khác trước kia chưa tới một phút. Cậu vẫn chừa chỗ chứa item. Sau đó Zeon truyền mana vào gauntlet, mắt dragon mở ra với sức nóng như núi lửa phun từ tay. Cậu bình tĩnh đánh giá khách quan, tạo hàng trăm Fire Missile quanh mình và bắn vào sa mạc. Uy lực mỗi đợt nổ giống máy bay ném bom, ít nhất gấp đôi trước. Zeon định thử lần lượt mọi kỹ năng.
+
+Tiếng nổ đánh thức Lee Jung-ho. Hắn nhìn Steel Fortress tối tăm, nhận ra khác Neo Seoul không ngủ và sản xuất/nghiên cứu liên tục nhờ mana stone generator. Hắn cho rằng Steel Fortress không thể bắt kịp Neo Seoul vì cô lập, tối đa nên thành satellite city, và nghĩ sẽ xử lý chuyện đó sau khi lấy trái tim Moby Dick. Khi tới lối vào, hắn bị lính gác chặn và dùng khí thế A-rank ép họ, nhưng Zeon xuất hiện từ ngoài lối vào. Zeon xin lỗi vì đã đánh thức hắn, nói chỉ kiểm tra chuyện riêng và đã thu được "một chút".
+
+## Chương 271
+
+Pavirsa dùng Cure Skill truyền ánh sáng xanh vào Archelon để phục hồi sức lực trước khi xuất phát. Claire quan sát mối liên kết sâu giữa ông lão và sacred beast, mơ một ngày mình cũng có thể già đi cùng một con thú như vậy, nhưng tự nhắc trước hết phải thoát khỏi "hố địa ngục" là món nợ với Jin Geum-ho/City Hall. Cô và Pavirsa đều có khả năng chữa lành, nên nếu thay phiên nhau dùng Cure Skill, có thể kéo dài thời gian cho Archelon đến đích, miễn không có biến cố.
+
+Motte Tribe đã tạm chuyển khỏi ngôi làng trong mai Archelon sang Steel Fortress vì không chắc Archelon có quay về được không. Nhóm Zeon leo vào bên trong mai Archelon; Lee Jung-ho kinh ngạc vì có cả làng rộng lớn, đầy đủ điều kiện sống, bên trong một sinh vật sống. Claire ghen tị với Motte Tribe vì đã sống nhiều thập kỷ trên lưng Archelon và vì mối quan hệ giữa Pavirsa và Archelon vượt xa quan hệ Tamer/tamed beast, giống bạn đồng hành cả đời. Archelon bắt đầu di chuyển theo lệnh Pavirsa, chậm với nó nhưng rất nhanh với con người, vừa thoải mái vừa an toàn; cửa sổ trên mai có thể tự đóng kín khi nguy hiểm.
+
+Zeon ngồi bên cửa sổ rồi sau đó lên đầu Archelon nghỉ ngơi. Đầu Archelon lớn tới mức vài người có thể ngồi ăn trên đó. Zeon nhìn vết thương do Black Anemone gây ra: vùng da vốn cứng bất khả xâm phạm bị nhăn và khô quắt vì dịch thể bị hút cạn. Cậu nói chắc nó đau lắm, Archelon kêu như bảo mình ổn. Claire lên đầu Archelon xin phép dùng Cure Skill. Cô không dùng Rainbow Pendant vì item đó là của City Hall cho mượn và Lee Jung-ho đang quan sát; chỉ dựa vào sức mình nên chỉ duy trì hiện trạng. Archelon chớp mắt an ủi cô, khiến Claire tiếc vì nếu gặp nó sớm hơn hoặc sinh ra trong Motte Tribe thì có thể khác.
+
+Zeon nghĩ mọi sinh mệnh đều có câu chuyện riêng như vô số hạt cát, nhưng không ai có thể nghe và hiểu hết. Claire đã lựa chọn ở Neo Seoul và đang trả giá, nên đó không phải chuyện cậu cần can dự. Ngay lúc đó, Zeon thấy đường chân trời phủ bụi vàng bất thường và cảnh báo một cơn bão cát mạnh đang tới. Claire và Lee Jung-ho ban đầu không hiểu vì chỉ thấy hơi vàng hơn bình thường, nhưng Pavirsa/Kailey lập tức căng thẳng khi thấy màu sắc. Zeon nói đó là một trong những cơn lớn nhất cậu từng thấy, cấp CD-rank: có thể lật tung cả khu vực, thay đổi địa hình hoàn toàn và xóa sạch quái vật cấp thấp.
+
+Lee Jung-ho kích hoạt Mind's Eye nhưng không cảm nhận gì vì cơn bão còn cách hàng trăm cây số, vượt xa phạm vi cảm nhận chiến đấu của hắn. Zeon nói bão cát thường không đáng sợ với Archelon, nhưng thứ này là quái vật, một loại bão cát dị thường có sức phá hủy không tưởng. Nếu chỉ một mình, Zeon không lo, nhưng hiện tại có cả Archelon đang yếu và mọi người. Lee Jung-ho chưa bị thuyết phục vì từng gặp nhiều bão cát ở Neo Seoul, nhưng chưa đầy một giờ sau, cơn bão từ hàng trăm cây số quét tới Archelon, khiến hắn biến sắc và chửi thề.
+
+## Chương 272
+
+Cơn bão cát cấp CD không chỉ là gió cát mà như một quái vật khổng lồ: bên trong liên tục có sét xanh/đỏ đánh xuống, đốt cháy mặt đất và xé nát quái vật ẩn dưới cát. Lee Jung-ho chấn động vì những cơn bão cát hắn từng biết ở Neo Seoul chỉ như trò trẻ con so với thảm họa này; hắn nhận ra mình đã sống quá an toàn dưới sự bảo vệ của Neo Seoul. Archelon rụt đầu chân vào mai, nhưng vì bị Black Anemone làm suy yếu nên không thể dựng force field, phải dùng thân thể chịu đựng sét và bão.
+
+Zeon đứng trên mai Archelon, không thể chặn sét nhưng tạo một cơn bão cát của riêng mình để bảo vệ Archelon khỏi lớp cát tốc độ cao đang nghiền mọi thứ. Cậu phải đồng bộ tốc độ xoay của bão cát mình với cơn bão quái dị, giống như dùng lửa chặn cháy rừng, không đối đầu trực diện mà chuyển hướng/phân tán sức hủy diệt để nó trôi qua. Trong quá trình đó Zeon vắt kiệt sức, cảm giác mình hòa vào cát và như trở thành vị thần của sa mạc; tiếng hú của CD nghe như tiếng thét tuyệt vọng.
+
+Sau khi bão tan, Claire mới hiểu CD là Crazy Dragon, thuật ngữ của dân sa mạc lâu năm chỉ những cơn bão cát quái dị cực hiếm. Nếu không có Zeon, ngay cả Archelon cũng có thể chịu thương chí mạng. Lee Jung-ho nhìn Zeon kiệt quệ, tái nhợt, lảo đảo, và nhận ra đây có thể là cơ hội duy nhất để giết cậu. Hắn đã thấy sức mạnh Zeon trong sa mạc đáng sợ đến mức nào, vô thức rút kiếm nửa chừng, nhưng cuối cùng tra kiếm lại vì nhiệm vụ của Jin Geum-ho là lấy trái tim Moby Dick.
+
+Zeon biết mình không thể dùng sức một thời gian nên nhờ Lee Jung-ho bảo vệ Archelon, rồi vào phòng nghỉ. Lee Jung-ho leo lên đầu Archelon, tự nhủ không cần xấu hổ vì không Awakened nào có thể xử lý cơn bão kia, hắn chỉ cần làm việc mình có thể. Sau bão, Ghost Scorpion trồi lên từ cát bị lật tung, bản năng nhận ra Archelon đang bị thương và không có force field nên lao tới ăn nó để sinh sản. Lee Jung-ho rút kiếm, chém sạch lũ Ghost Scorpion bò lên chân/thân Archelon, trút sự bức bối vì bất lực trước CD lên chúng. Pavirsa nhìn kiếm thuật như vũ điệu tử thần của hắn và mừng vì hắn đứng cùng phe.
+
+## Chương 273
+
+Hai tuần sau khi rời Steel Fortress trên lưng Archelon, tốc độ Archelon giảm rõ. Cure Skill của Pavirsa và Claire gần như không còn hiệu quả, hơi thở Archelon nặng nhọc. Pavirsa lo Archelon sẽ gục trước khi tới đích, nhưng Zeon động viên nó có ý chí mạnh và nếu nghỉ đủ sẽ đi tiếp được. Lee Jung-ho không phản đối việc nghỉ sớm vì thấy tình trạng Archelon và vì ở sa mạc hắn chỉ có thể làm theo Zeon. Hắn cũng nhận ra nỗ lực ghi nhớ địa hình là vô ích: sa mạc chỉ toàn cồn cát lặp lại, sao thường bị bụi cát che, nên Navigator hoặc người như Zeon cực kỳ quý giá. Zeon là người dẫn đường hoàn hảo, giỏi hơn Navigator và còn có sức mạnh họ không có.
+
+Zeon nấu stew cho cả nhóm bằng nguyên liệu trong subspace; Lee Jung-ho và mọi người đều hợp khẩu vị với món đơn giản này. Archelon rụt đầu chân vào mai ngủ từ sớm vì quá yếu. Pavirsa nói nếu tổ Moby Dick chưa đổi chỗ thì còn khoảng một tuần nữa sẽ tới, nhưng thời gian rất sát. Đột nhiên Zeon cảm thấy có kẻ theo dõi, đặt bát xuống và lao tới đụn cát xa; Lee Jung-ho đi theo. Họ thấy ba Awakened/scavenger chạy trốn theo ba hướng, tốc độ rất nhanh. Zeon nói chúng đã theo dõi nhóm một thời gian.
+
+Zeon đuổi kẻ bên trái bằng Sand Strides, Lee Jung-ho đuổi kẻ ở giữa, còn kẻ bên phải phải để thoát. Người Zeon bắt là một Awakened trung niên bẩn thỉu, mặc áo choàng da thú, rút shamshir tấn công nhưng bị kỹ năng Viper của Zeon phá nổ vũ khí và xé nát tay. Khi Zeon hỏi ai sai hắn tới, hắn nói "cuộc đời bị nguyền rủa" rồi cơ thể chuyển đen, mục rữa/tan chảy cực nhanh. Zeon thấy một nhánh cây đen nhỏ trong trái tim vẫn đập của hắn, rồi nó cùng tim mục nát biến mất; đó là vật trung gian lời nguyền.
+
+Lee Jung-ho quay lại cũng tay trắng, báo kẻ hắn đuổi theo cũng tan rã và có nhánh cây đen trong tim. Hai người kết luận Curse Sorcerer đang theo dõi Archelon bằng scavenger bị khống chế. Zeon từng đánh Curse Sorcerer một lần và biết chúng không đánh trực diện, mà ẩn trong bóng tối, dùng vật trung gian nguyền rủa thức ăn, nước uống, không khí, khiến đối thủ không thể ngủ yên. Lee Jung-ho cũng biết chiến đấu với Curse Sorcerer rất bẩn và khó chịu như lội đầm lầy, dù hắn có item chống nguyền. Khi Zeon báo với Pavirsa rằng Curse Sorcerer đang theo dõi họ, Pavirsa tái mặt vì nỗi sợ bị khắc sâu sau lần trước; Kailey nắm tay giúp ông bình tĩnh. Zeon nhìn bóng tối sa mạc, biết cần kéo Curse Sorcerer ra khỏi chỗ ẩn.
+
+## Chương 274
+
+Chương giới thiệu Curse Sorcerer Phantsy: một kẻ gù lưng, xấu xí ghê tởm, mặc áo choàng từ da quái vật, tóc bẩn rối, mặt rỗ đầy cáu bẩn, khí chất u ám. Mười ngày trước, hắn đến hang ổ scavenger trong sương mù và nguyền rủa họ. Lời nguyền của hắn khiến cơ thể mục rữa, tan chảy nhưng không chết ngay, buộc nạn nhân cảm nhận mọi đau đớn tới hơi thở cuối. Phantsy nói hắn làm vậy vì sống thế này dễ hơn, rồi biến scavenger còn lại thành con rối bằng lời nguyền, buộc họ do thám Archelon.
+
+Một scavenger Awakened sống sót trở về báo ba người được phái đi thì chỉ mình hắn thoát, vì nhóm Archelon phát hiện giám sát và tấn công. Vì không thu được thông tin, hắn sợ bị giết nên đánh lén Phantsy bằng dao găm. Black Anemone dùng xúc tu chặn đòn, rồi theo lệnh Phantsy ăn hắn. Phantsy gọi Black Anemone là Bessie, theo tiếng Pháp cổ nghĩa là "thiêng liêng", vì với hắn sinh vật bị người khác ghê tởm này lại là thần thánh và đáng yêu.
+
+Phantsy từng là E-rank Curse Sorcerer bị mọi khu định cư và cả scavenger xa lánh vì class và ngoại hình. Hắn lang thang một mình trong sa mạc, thề báo thù nhưng bất lực vì quá yếu. Trong một hẻm núi vô danh đầy khí tức kỳ dị, hắn tìm thấy vô số xác quái vật bị mổ xẻ, rồi ở cuối hẻm gặp Black Anemone đang hấp hối. Vì bản thân bị ghê tởm cả đời, Phantsy yêu nó ngay khi nhìn thấy. Hắn kéo xác quái vật tới cho xúc tu hấp thu dịch thể, dần hồi sinh nó. Sau khi ăn hàng trăm xác nhỏ và các xác lớn trong hẻm, Black Anemone có thể tự di chuyển và đi theo Phantsy như báo ơn.
+
+Trong lúc lập soul contract, Phantsy biết Black Anemone là Chimera được tạo từ nhiều quái vật trong hẻm, có lẽ là thí nghiệm bị bỏ lại. Nó có khiếm khuyết: ghép quá nhiều loài khiến tiêu hao năng lượng lớn, cấu trúc bất ổn và sẽ sụp đổ từ bên trong nếu không ăn liên tục. Phantsy không bỏ rơi nó, coi nó là bạn duy nhất. Nhờ Black Anemone hút cạn quái vật/con người, Phantsy tăng lên A-rank Curse Sorcerer, một dạng cực hiếm, và tin mình đã hoàn thiện Chimera mà người tạo ra nó vứt bỏ. Nhưng rồi cả hắn lẫn Bessie ngừng trưởng thành, Black Anemone lại bắt đầu sụp đổ. Để ổn định, họ cần con mồi có độ bền đặc biệt: Archelon. Phantsy tin nuốt mobile fortress sẽ giúp Bessie tiến hóa.
+
+Ở cuối chương, nhóm Archelon thấy đường chân trời đen kịt giữa ban ngày tại vị trí tổ land whale. Pavirsa nói lần trước nơi đó trông như sa mạc bình thường. Lee Jung-ho cảm thấy bất an trước vùng đen như màn đêm phủ riêng một nơi. Zeon giải thích đó là Territory, quyền năng của quái vật S-rank trở lên cưỡng ép thay đổi môi trường cho phù hợp bản thân, tương tự Terraforming của Krasias từng gần như khiến Trái Đất tuyệt diệt.
+
+## Chương 275
+
+Zeon giải thích Territorialization là quyền năng đặc biệt chỉ một số ít S-rank monster có đặc tính phi thường sở hữu. Vùng bị territorialized biến thành môi trường có lợi nhất cho quái vật, nghĩa là trong vùng đen, sức mạnh Moby Dick sẽ đạt đỉnh; sức mạnh quái vật tăng gấp đôi còn nhóm Zeon không thể dùng năng lực hết mức. Lee Jung-ho tự tin vì kiếm thuật của hắn không bị môi trường hạn chế; hắn tin quái vật nào cũng chết nếu bị kiếm đâm vào cổ. Zeon không yên tâm vì đã từng đấu với quái vật territorialization và biết những trận đó không bao giờ dễ; chúng gần như sinh vật thần bí.
+
+Zeon hỏi tình trạng Archelon. Pavirsa nói không tốt và chỉ hy vọng nó trụ tới nơi. Zeon dặn Pavirsa dùng Cure trước khi vào Territory vì trong vùng đó phần lớn kỹ năng sẽ mất hiệu lực do quyền năng quái vật chi phối pháp tắc. Kailey hỏi mình cần làm gì; Zeon bảo khi vào Territory, aura quái vật sẽ ăn mòn mọi thứ, nên cô phải chuẩn bị để Archelon không bị ăn mòn. Kailey, với tư cách Enchanter cấp cao có nhiều item/option tự tạo, lập tức vào kho chuẩn bị.
+
+Ba ngày sau, Archelon vẫn lê bước nhưng chưa tới rìa Territory, ước chừng còn một ngày. Dù còn xa, quanh Zeon và Archelon đã có tia lửa như Territory đang bài xích họ. Zeon thấy một Crimson Drake khổng lồ bay qua, phủ vảy đỏ máu và force field xanh, giống boss Crimson Drake trong ghost dungeon đầu tiên nơi cậu suýt chết và gặp Dyoden, nhưng lớn/mạnh hơn nhiều, ít nhất A-rank. Sau đó một Gray Ogre cao hơn bảy mét, cầm gậy lớn, cũng xuất hiện. Gray Ogre là Ogre mạnh nhất, cunning, có force field phản hầu hết ma pháp, khắc tinh magic-type Awakened.
+
+Zeon nhận ra cả Crimson Drake và Gray Ogre đều bị Territory của Moby Dick thu hút, dù môi trường này không phù hợp và chúng vốn không xâm phạm lãnh thổ quái vật mạnh hơn. Cậu lo sẽ còn nhiều A-rank monster khác tới, nên phải vào Territory trước khi chúng chú ý tới Archelon. Zeon cũng bắt đầu nghi ngờ Jin Geum-ho muốn gì ở trái tim Moby Dick, vì Moby Dick quá đặc biệt và cả Lee Jung-ho/Claire đều giấu thông tin Pathfinder Team có thể đã cung cấp.
+
+Pavirsa và Claire cùng dùng Cure cuối cùng lên Archelon để hiệu quả cao hơn một người thi triển. Archelon cúi đầu cảm ơn họ. Ngay khi họ rút tay, cát xung quanh dịch chuyển; Zeon cảm nhận đầu tiên, dựng tường cát chắn cho hai người và kéo họ lùi lại. Một xúc tu khổng lồ đánh nổ tường và đập vào chỗ họ vừa đứng. Black Anemone trồi lên từ cát, trên người là Curse Sorcerer Phantsy. Phantsy ra lệnh Bessie nuốt "con rùa già".
+
+## Chương 276
+
+Black Anemone Bessie lộ hình dạng ghê tởm: cơ thể tưởng trơn nhưng đầy đường khâu từ da nhiều quái vật, xúc tu trên đầu cũng là các phần xé từ nhiều loài, có loại như giác hút bạch tuộc, có loại trong suốt như sứa, có loại sắc như dao. Theo lệnh Phantsy, Bessie dùng xúc tu giác hút quấn Archelon gần trăm mét, càng giãy càng bám chặt như cây bắt ruồi Venus. Các xúc tu lưỡi dao tiếp tục quấn và cắt vào Archelon. Zeon đáp bằng Sand Viper, xé nát các xúc tu dao, nhưng xúc tu bạch tuộc tái sinh cực mạnh vẫn không buông.
+
+Zeon dùng Fire Rain đốt cháy vết thương do Viper gây ra để chặn tái sinh, rồi dùng nhiều Sand Viper quấn xúc tu bạch tuộc và kích hoạt Claymore cho nổ, xé nát nó. Bessie đau đớn, rút xúc tu hỏng về và chuyển mục tiêu sang Zeon, bất chấp Phantsy muốn nó hấp thu Archelon trước. Bessie bị bản năng chi phối, muốn giết kẻ làm nó đau hơn là làm theo logic ổn định cơ thể. Zeon vừa né các xúc tu dày hơn thân người bằng Sand Strides vừa hét bảo Pavirsa đưa Archelon tới chỗ Moby Dick ngay, vì vừa đánh vừa bảo vệ Archelon sẽ khó hơn. Pavirsa miễn cưỡng làm theo.
+
+Trên lưng Archelon, Claire muốn giúp Zeon nhưng Lee Jung-ho ngăn, nhắc nhiệm vụ của họ là trái tim Moby Dick. Lee Jung-ho không quan tâm an nguy của Zeon; hắn tin mình có thể giết Bessie nếu phối hợp với Zeon, nhưng không muốn để Zeon ở trạng thái toàn thịnh vì giá trị quan của hai người khác nhau. Hắn cố ý để Zeon tự tiêu hao khi hạ chimera.
+
+Khi Archelon biến mất vào Territory của Moby Dick, Zeon liếc nhìn sang thì Phantsy tung lời nguyền diện rộng khiến cơ bắp yếu đi, khó thở, mờ mắt, não nóng như tan chảy. Bessie dùng xúc tu trong suốt quấn chặt Zeon. Phantsy kéo Zeon tới hỏi cậu là ai và vì sao phá đám; Zeon hỏi lại vì sao nhắm vào Archelon. Phantsy nói Archelon là dinh dưỡng để Bessie trưởng thành, nổi giận khi Zeon gọi Bessie là chimera chưa hoàn chỉnh và quái vật vá víu.
+
+Phantsy lệnh Bessie hấp thu Zeon, nhưng xúc tu không hút được sinh lực vì áo choàng Leviathan bảo vệ Zeon, cộng thêm khả năng tái sinh mạnh. Zeon bùng lửa thoát khỏi xúc tu, mở subspace lấy lưỡi hái Grim Reaper và chém thẳng vào cổ Phantsy. Bessie dùng xúc tu đỡ, bị cắt đứt, còn Phantsy chỉ bị rạch dài trên ngực nên thoát chết. Zeon trả lưỡi hái vào subspace vì vũ khí này phản phệ mạnh với người không dùng nguyền rủa. Khi Bessie lại phóng hàng trăm xúc tu, Zeon không né mà dùng Sand Soldier làm lá chắn câu giờ. Trong lúc đó, cát dưới Bessie âm thầm xoáy lại, và Zeon kích hoạt Sand Mixer để nghiền nó.
+
+## Chương 277
+
+Sand Mixer bào mòn bề mặt Bessie nhanh hơn tốc độ tái sinh của chimera, khiến da thịt nó bị mài thành bụi. Phantsy đau đớn cùng Bessie vì soul contract truyền cảm giác giữa hai bên; hắn chảy cả huyết lệ và thi triển lời nguyền Chaos Prison bằng cách trả giá tuổi trẻ, khiến mặt già nhăn và da khô giòn như vài chục năm trôi qua. Chaos Prison nhốt tâm trí mục tiêu trong không gian hỗn loạn, nạn nhân sẽ không tỉnh lại nếu người thi triển không giải, cơ thể cuối cùng khô héo chết.
+
+Zeon bị kéo vào không gian tinh thần tối tuyệt đối, mất toàn bộ item như Inferno Gauntlet, Elura's Tear, áo choàng Leviathan và subspace. Cậu nhận ra đây không phải hiện thực mà là không gian tinh thần tách khỏi cơ thể vật lý, hiểu mình đã bất cẩn vì quá tin vào lưỡi hái Reaper và tưởng Phantsy đã mất uy hiếp. Zeon xác định đây là lời nguyền đánh vào tâm trí, mọi thứ cậu thấy là ảo giác cực kỳ chân thực; cách phá là đối mặt với hiện thực, nếu tin ảo giác là thật thì sẽ bị giam đến chết.
+
+Trong bóng tối, hình ảnh Dyoden xuất hiện với Kreion, được lời nguyền rút ra từ ký ức sâu nhất của Zeon. Dù biết không phải thật, Zeon vẫn run vì Dyoden là người ảnh hưởng lớn nhất đời cậu; không có Dyoden sẽ không có Zeon hôm nay. Dyoden gọi cậu là đồ ngu và trở thành chìa khóa phá không gian hỗn loạn. Zeon quyết định đánh bại hình chiếu Dyoden như một bức tường sớm muộn phải vượt qua, để có lần gặp cuối cùng đúng nghĩa.
+
+Trong cõi tinh thần, Zeon vẫn điều khiển được cát vì cát là thứ gắn liền với tâm trí cậu. Cậu dùng Sand Blaster, Sand Soldier, Sand Storm, Viper, Claymore, Sand Mixer nhưng đều bị Dyoden dùng Kreion phá hủy và áp sát; Dyoden vẫn là ác mộng cận chiến của mọi Awakened. Cuối cùng Zeon dùng Sand Gehenna không cần Inferno Gauntlet, tạo sóng dung nham liên tiếp nuốt Dyoden. Từ dung nham, cậu tạo một thanh kiếm kim cương đen khổng lồ hàng chục mét, vũ khí tối thượng trong tưởng tượng bằng cách kết hợp cát và lửa dưới nhiệt/áp suất cao. Dyoden chê là mơ mộng nhưng công nhận Zeon đã thành "một thằng ngu có ích hơn một chút", nhắc cậu đứng dậy. Zeon từ biệt Dyoden, và bóng tối vỡ tan.
+
+## Chương 278
+
+Zeon tỉnh khỏi Chaos Prison chỉ sau khoảng một giây ngoài hiện thực, khiến Phantsy kinh hoàng vì tưởng lời nguyền đã trúng hoàn hảo và không thể thoát. Zeon xác nhận Inferno Gauntlet còn nguyên, mình đã quay về thực tại. Trong lúc tâm trí cậu vắng mặt, Bessie vẫn đang nửa chôn trong cát và bắt đầu tái sinh lớp da bị Sand Mixer xé. Zeon không để nó khôi phục, dùng Sand Gehenna kết hợp cát và Inferno Gauntlet biến cát quanh Bessie thành dung nham, rồi dùng Sand Mixer xoay lớp dung nham nóng chảy, mài và nấu chín Bessie từ ngoài vào trong.
+
+Bessie cố dùng xúc tu đánh Zeon trong tuyệt vọng, nhưng bị Fire Rain thiêu rụi. Phantsy nhìn Bessie quý giá chết dần và nhận ra tấn công Archelon để cứu Bessie cuối cùng chỉ làm nó chết nhanh hơn. Không có Bessie, Phantsy sẽ trở về cuộc đời bất lực của E-rank Curse Sorcerer. Hắn lao vào ngọn lửa, để cơ thể mình tan chảy, cười điên loạn rằng sẽ ở bên Bessie đến cuối và cả hai mãi mãi thành một. Bessie hiểu ý, quấn xúc tu quanh Phantsy; ngay sau đó cơ thể khổng lồ của Bessie phát nổ, tạo mây nấm bụi và một hố lớn vài trăm mét như thiên thạch rơi. Zeon phải chui xuống cát né vụ nổ, vẫn chịu sóng xung kích mạnh.
+
+Sau khi vụ nổ qua đi, Bessie và Phantsy hoàn toàn bốc hơi không để lại dấu vết. Zeon nhìn về Territory của Moby Dick và nhận ra mình đã lãng phí quá nhiều thời gian, nên lập tức đuổi theo. Bên trong Territory, Pavirsa mô tả cảm giác như biển sâu: bóng tối không ánh sáng như phần đại dương sâu ngày xưa. Lee Jung-ho cắt ngang vì căng thẳng; từ lúc vào Territory, hắn đã bị cảm giác nguy hiểm bóp chặt.
+
+Archelon đi về phía trước như bị bài ca Moby Dick dẫn dắt, không nghe Pavirsa gọi. Âm thanh giống tiếng cá voi, có giai điệu mềm, khiến Claire và Pavirsa đều nhận ra nó phát ra từ Moby Dick. Pavirsa tự hỏi Moby Dick có thể là cá voi tiến hóa giống Archelon không. Bỗng đàn Vampire Bat xuất hiện trong bóng tối. Lee Jung-ho chém con đầu tiên, Pavirsa nhận ra chúng là loài dơi hút máu đi theo đàn, một khi cắm răng sẽ hút cạn con mồi. Archelon yếu không thể dùng khiên, nên lũ dơi chuyển sang tấn công người.
+
+Kailey dùng trượng phun lửa chứa white phosphorus, item cô chế tạo dùng được mười lần mỗi lần nạp mana, để đốt dơi. Claire cố trấn an bằng năng lực Tamer nhưng không hiệu quả vì Vampire Bat không có thiện cảm với người. Lee Jung-ho bảo mọi người cúi xuống rồi lao vào đàn dơi, dùng Mind's Eye và kiếm thuật nhanh/đẹp/đáng sợ chém sạch đàn trong chưa đầy mười phút, nhưng không hài lòng vì đánh bầy nhỏ không hiệu quả với sở trường đơn đấu. Ngay sau đó tiếng gầm vang khắp nơi: quái vật vào Territory đang bắt đầu đánh nhau.
+
+## Chương 279
+
+Chương mở bằng Gray Ogre hạ và ăn một Explosive Hippo B-rank cao hơn mười mét, loài tiết mồ hôi đỏ phát nổ khi bị đánh và có hàm răng xé được da quái vật. Trong Territory, sinh vật mạnh như Explosive Hippo cũng chỉ là mồi. Gray Ogre, Crimson Drake và các quái vật khác bị năng lượng bí ẩn của Moby Dick lôi kéo vì bản năng cảm nhận Moby Dick đang suy yếu. Bình thường chúng sẽ sợ Moby Dick vì nó là mystical beast vượt xa chúng, có thể nuốt Gray Ogre hay coi Crimson Drake như muỗi; chỉ vì Moby Dick không có tính săn mồi nên hệ sinh thái quái vật còn tồn tại. Nay mùi của Moby Dick không còn gây sợ, cho thấy nó yếu và là cơ hội vàng để quái vật ăn nó, thăng cấp.
+
+Archelon tiếp tục lê bước về trung tâm Territory, dù hơi thở đã cực kỳ nặng. Càng vào sâu, môi trường càng giống biển sâu: không ánh sáng, chỉ bóng tối, hạt cát và đá vụn lơ lửng phát sáng như phù du. Kailey bị cảnh tượng mê hoặc, nhưng rồi cả cô, Lee Jung-ho, Pavirsa và Claire cảm thấy áp lực khủng khiếp nghiền xuống cơ thể. Kailey muốn rút lui theo bản năng nhưng không thể vì mạng Archelon đang treo trên sợi chỉ.
+
+Ở trung tâm Territory, ánh sáng trắng xuất hiện. Moby Dick lơ lửng trong không trung như cá voi xanh khổng lồ dài hơn 120 mét, vây lớn như cánh, mắt hiền, tỏa sáng trắng tinh khiết và dường như vượt khỏi trọng lực. Lee Jung-ho nhận ra mục tiêu săn không phải quái vật bình thường mà là dị thường phá vỡ logic, gần như thần thánh. Dù cảm thấy mình nhỏ như bụi, hắn vẫn không sợ vì tin Jin Geum-ho chỉ giao nhiệm vụ có thể hoàn thành nhờ khả năng nhìn dòng chảy tương lai.
+
+Crimson Drake, Gray Ogre và Giant Spider khổng lồ đều là A-rank monster, bỏ qua Archelon và tấn công Moby Dick. Fire Breath của Crimson Drake, gậy phủ aura của Gray Ogre và lưới độc của Giant Spider đều bị khiên trắng của Moby Dick chặn. Moby Dick không phản kích, dường như không thể hành động. Quái vật trung/cấp thấp kéo tới như bị hải đăng hút, lao vào khiên và chết dưới dư chấn kỹ năng của ba A-rank. Pavirsa muốn giúp Moby Dick để Archelon còn được chữa, nhưng Lee Jung-ho lạnh lùng ra lệnh ở yên, muốn đợi quái vật làm Moby Dick kiệt sức rồi mới kết liễu. Khi Pavirsa phản đối và muốn tự đi, Lee Jung-ho áp kiếm vào cổ ông, lộ rõ từ đầu hắn không hề đặt mục tiêu cứu Archelon; hắn hiểu đây chính là kế hoạch của Jin Geum-ho: dùng lũ quái làm suy yếu Moby Dick để lấy tim sạch sẽ.
+
+## Chương 280
+
+Gray Ogre, Crimson Drake, Giant Spider và vô số quái vật khác tiếp tục đánh vào khiên Moby Dick, khiến nó rung chuyển. Những hạt bụi mịn lơ lửng như phù du trong Territory bắt đầu đáp lên hoặc bị quái vật hít vào. Chúng là sinh vật ký sinh sống cộng sinh trên thân Moby Dick và cộng hưởng với cảm xúc của nó; bình thường vô hại, nhưng khi Moby Dick có cảm xúc tiêu cực, chúng biến thành độc tố kích thích não, khiến vật chủ phát cuồng. Quái vật B-rank trở lên có force field nên không bị ảnh hưởng, nhưng lũ rank thấp lập tức điên loạn, quên khiên Moby Dick và quay sang tấn công lẫn nhau, cả A-rank monster.
+
+Các A-rank monster nổi giận vì bị sinh vật thấp kém quấy rối, tạm chuyển sang giết lũ nhỏ trước. B-rank monster cũng tham chiến vì bản năng biết phải hạ A-rank trước mới tới gần được Moby Dick. Toàn Territory trở thành chiến trường hỗn loạn chưa từng thấy, phá vỡ quy luật sinh thái quái vật vì bình thường các rank cao không dễ xâm phạm lãnh thổ nhau. Pavirsa hiểu Moby Dick là nguyên nhân và quyết định không thể chờ thêm vì Archelon đang yếu dần. Bất chấp kiếm Lee Jung-ho, ông âm thầm ra lệnh trong lòng; sau hơn một thế kỷ bên nhau, Archelon hiểu và bắt đầu tiến về Moby Dick.
+
+Lee Jung-ho phát hiện Pavirsa khiến Archelon di chuyển, đe dọa giết ông và chuyển kiếm sang cổ Kailey. Kailey bị cứa chảy máu nhưng không cầu xin hay bảo Pavirsa dừng. Khi Lee Jung-ho định giết Kailey vì họ đã hết giá trị dẫn đường, Gray Ogre tấn công Archelon làm thân rùa rung như động đất. Pavirsa và Kailey nhân lúc đó rút vào khoang trú ẩn ẩn trong mai Archelon, một dạng pocket dimension chỉ hiện khi Pavirsa ra tín hiệu. Lee Jung-ho chém hụt và tức giận vì thất bại.
+
+Gray Ogre trút giận lên Archelon, dùng gậy phủ aura đánh nứt mai nó. Claire và Lee Jung-ho quyết định bỏ Archelon vì không thể điều khiển nó nếu không dùng Rainbow Pendant, mà Rainbow Pendant cần dành cho Moby Dick. Họ nhảy xuống và bị quái vật cấp thấp vây quanh. Lee Jung-ho bảo Claire bám sát, dùng kiếm chém mở đường. Claire không thích Lee Jung-ho vì hắn lạnh tới mức có thể giết người thân nếu nhiệm vụ yêu cầu, nhưng chính vì thế cô tin hắn tuyệt đối khi cùng phe.
+
+Crimson Drake bực vì bị lũ quái bay vây nên phun Fire Breath khắp nơi, đốt sạch quái vật bay và trên đất; Giant Spider cũng giăng lưới độc làm tan rã nhiều quái vật. Số lượng quái vật cấp thấp và phù du ký sinh bị thiêu sạch, chiến trường tạm yên. Khi khiên trắng của Moby Dick bùng sáng lần cuối rồi biến mất, cơ thể khổng lồ của nó hiện rõ, dài hơn 120 mét, chu vi hơn 30 mét, lơ lửng và nhìn xuống mọi người như thần linh, gây đòn tinh thần khiến Lee Jung-ho hộc máu và Claire còn tệ hơn. Claire phát hiện dưới Moby Dick có một cá voi con trắng tinh như phiên bản nhỏ của Moby Dick, nhận ra nó vừa sinh con.
+
+## Chương 281
+
+Cá voi con trắng như sữa, mắt chưa mở và còn nước ối, lơ lửng trong không trung như mẹ. Moby Dick dù kiệt sức vẫn khép vây bảo vệ con. Lee Jung-ho và Claire nhận ra Moby Dick tạo Territory vì tới đây làm tổ để sinh con; khi sinh nở là lúc yếu nhất, lũ quái vật đã bản năng nhận ra điều đó và xem đây là cơ hội cuối để nuốt Moby Dick trước khi nó hồi phục. Gray Ogre, Crimson Drake, Giant Spider và vài B-rank monster tập trung tấn công, nhắm cả cá voi con để chia tách sự chú ý của Moby Dick.
+
+Moby Dick dùng thân thể và đuôi bảo vệ con nhưng đã kiệt sức vì tạo Territory và sinh con, không thể dùng force field hay ma pháp, nên da dày bị xé rách, thịt bị giật ra. Archelon đột nhiên lao vào chắn đòn của Gray Ogre và Giant Spider để bảo vệ Moby Dick, dù không có mối liên hệ rõ ràng giữa hai sinh vật. Mai Archelon từng bảo vệ Motte Tribe qua nhiều thế hệ bắt đầu vỡ, mảnh bắn khắp nơi, ngôi làng trong mai cũng đổ nát. Pavirsa và Kailey lao ra khỏi nơi trú, đau đớn không hiểu vì sao Archelon hy sinh bản thân. Fire Breath của Crimson Drake đánh trúng cả Archelon và Moby Dick, làm tàn tích mai rùa và da cá voi tan chảy; Pavirsa/Kailey phải nhảy khỏi lưng Archelon. Archelon cuối cùng gục xuống, Moby Dick cũng cận kề cái chết.
+
+Lee Jung-ho xem đây là cơ hội hoàn hảo. Claire không muốn làm hại sinh vật kỳ vĩ nhưng bị hắn ép dùng Rainbow Pendant. Rainbow Pendant là S-rank item, có thể tạm nâng Claire từ B-rank Tamer lên cấp độ S-rank. Khi ý thức cô chạm vào Moby Dick, cô nhận ra ý chí nó áp đảo; nếu không suy yếu vì sinh con, ngay cả Rainbow Pendant cũng không thuần hóa được. Claire chảy máu mũi vì tập trung quá mức. Đúng lúc Gray Ogre dùng Archelon làm bàn đạp tung đòn cực mạnh khiến ý thức Moby Dick dao động, Rainbow Pendant lóe sáng và mắt Moby Dick chuyển đỏ: Claire đã thuần hóa được nó.
+
+Theo lệnh Lee Jung-ho, Claire buộc Moby Dick phát cuồng. Moby Dick dùng kỹ năng độc nhất Death's Dominion, chuyển sinh lực thành năng lượng tử vong thuần túy. Kỹ năng cùng tên với quyền năng Dyoden từng dùng nhưng mạnh và tức thời hơn rất nhiều. Aura đen nổ ra như hiện tượng vũ trụ, thổi bay tay trái Gray Ogre, cắt bốn chân Giant Spider, làm Crimson Drake mất cả hai cánh và khiến B-rank beast bốc hơi. Sau khi dùng hết sức cho Death's Dominion, Moby Dick rơi xuống đất, hấp hối; cá voi con khóc bi thương. Moby Dick được giải khỏi Rainbow Pendant và nhìn con bằng ánh mắt ấm áp ngay cả lúc chết gần kề.
+
+Lũ quái trọng thương vẫn bò về phía Moby Dick, tin rằng ăn nó sẽ chữa mọi tổn thương. Lee Jung-ho mỉm cười vì đúng kịch bản: Moby Dick gần chết, quái vật suy yếu. Zeon cuối cùng đến nơi sau khi giết Bessie/Phantsy, thấy Archelon và Moby Dick bị tàn phá. Kailey khóc nói Archelon đã cố bảo vệ Moby Dick. Zeon từ xa đã thấy Claire cưỡng ép Moby Dick và khiến nó cuồng loạn; cậu không hoàn toàn phản đối việc dùng Moby Dick vì mục tiêu lấy tim, nhưng không chấp nhận việc bỏ mặc Archelon chịu thảm thương. Zeon cảnh cáo Lee Jung-ho sẽ có hậu quả. Lee Jung-ho khiêu khích, tự tin vì hắn là kiếm sĩ đơn đấu khắc chế kiểu tấn công quy mô lớn của Zeon, xem mình là tai họa đối với Zeon. Khi Lee Jung-ho chém vào cổ Zeon để dạy "bài học về cái chết", Zeon dùng cột cát dưới chân hất hắn bay xa, rồi quay sang lũ quái đang xé Moby Dick/Archelon và kích hoạt Sand Mixer.
+
+## Chương 282
+
+Zeon dùng Sand Mixer toàn lực tạo bão cát như sóng thần, bao trùm Moby Dick và toàn bộ ma thú. Đám hạng B bị cát nghiền nát trường lực, lộ thịt đỏ rồi bị lửa từ Inferno Gauntlet thiêu rụi từ trong ra ngoài. Ba ma thú hạng A còn trụ được nhờ trường lực nhưng cũng bị Sand Gehenna biến cát dưới chân thành magma, càng vùng càng chìm sâu. Crimson Drake nhờ kháng lửa vẫn cố tóm cá voi con để ăn, khiến Moby Dick dùng ánh mắt cầu xin Zeon cứu con. Zeon hứa sẽ bảo vệ cá voi con, dùng Sand Blaster ép Crimson Drake thả nó, rồi tràn cát vào miệng/dạ dày con drake và kích hoạt Claymore cho nổ tung từ bên trong.
+
+Sau Crimson Drake, Zeon búng các khối magma vào miệng Gray Ogre và Giant Spider, khiến dung nham tràn xuống cổ họng chúng. Khi trường lực của hai con đã tan, Zeon dùng Fire Rain thiêu chảy chúng. Claire chứng kiến Zeon giết ba hạng A và nhiều hạng B trong chưa đầy một phút, kinh hãi vì sức mạnh này vượt xa mọi Thức Tỉnh Giả Neo Seoul, gần như không còn giống con người.
+
+Lee Jung-ho bị Zeon hất văng trước đó quay lại tấn công, lưỡi kiếm phủ aura nhắm cổ Zeon. Zeon né bằng Sand Stride, còn Lee dùng Swallow Blade Dance, một kiếm kỹ có thể đổi quỹ đạo như chim én lướt nước để bám theo đối thủ. Zeon dùng Sand Blaster nhưng Lee xoay kiếm tạo khiên aura chặn lại, áp sát và định chém tay Zeon. Inferno Gauntlet đỡ được aura blade mà không trầy xước; Zeon tiếp tục dùng Sand Vipers, bụi cát và Sand Soldier để làm gián đoạn nhịp kiếm của Lee.
+
+Lee Jung-ho dùng tuyệt kỹ Single Point Thrust, cú đâm nhanh như viên đạn nhắm giữa trán Zeon, nhưng lần lượt bị Sand Soldier chắn lại cho đến khi mũi kiếm dừng ngay trước trán cậu. Lee nổi giận, bị Claymore dưới chân làm choáng rồi nhận ra chân mình đã bị cát chôn sâu và Sand Mixer đang xoáy quanh. Khiên aura của hắn bắt đầu nứt. Lee hiểu mình đã đánh giá thấp Zeon: cậu không chỉ mạnh khi đánh ma thú mà còn cực kỳ thành thạo đối đầu Thức Tỉnh Giả. Trong tuyệt vọng, hắn nổ aura để thoát khỏi cát, phóng lên không và tung Meteor Slash đỏ rực như sao chổi. Zeon đáp bằng Sand Blaster: Infinite Barrage, phóng hàng trăm rồi hàng nghìn luồng cát vào Lee.
+
+## Chương 283
+
+Sand Blaster: Infinite Barrage liên tục oanh kích Lee Jung-ho, mỗi phát làm thân thể hắn rung chuyển. Meteor Slash phủ aura bảo vệ hắn lúc đầu, nhưng càng đến gần Zeon, số luồng Sand Blaster đánh vào càng tăng theo cấp số nhân. Sa mạc cung cấp cát vô hạn, mana của Zeon vẫn chưa cạn, nên cậu có thể bắn đến tận hôm sau nếu muốn. Cuối cùng Meteor Slash vỡ, aura tan, Lee bị hàng chục phát Sand Blaster đánh bay. Zeon dựng một cột cát cao, nén thành sa thạch rồi đập xuống như nắm đấm, nghiền nát cơ thể Lee: tay chân vặn gãy, ngực lõm, máu trào từ mắt, mũi, miệng và tai.
+
+Lee cố uy hiếp Zeon bằng cơn giận của Jin Geum-ho nếu không đem được trái tim Moby Dick về, nhưng Zeon chỉ ra nhiệm vụ không yêu cầu Lee phải là người mang tim. Cậu giật dây chuyền không gian con của Lee và dự định cất trái tim Moby Dick vào đó. Zeon còn nói khả năng tiên tri của Jin Geum-ho không hoàn hảo: có thể ông ta chỉ thấy kết quả trái tim được bảo đảm khi Lee có mặt, chứ không thấy chi tiết Lee có sống sót hay không. Khi Lee hỏi vì sao Zeon biết chuyện tiên tri, cậu nói một người rất hiểu Jin Geum-ho đã kể cho mình.
+
+Lee cố gượng dậy nhưng bị Sand Mixer nuốt chửng, bị nghiền nát ngay lập tức không kịp hét, cát dưới người hắn hóa đỏ. Đó là cái kết của Lee Jung-ho, một thành viên Numbers. Claire tái mặt vì người cô sợ nhất vừa bị giết quá dễ dàng, trong khi Zeon cũng đã xóa sổ toàn bộ ma thú tấn công Moby Dick. Cô run rẩy vì biết mình có trách nhiệm trong nỗi đau của Moby Dick, nhưng Zeon phớt lờ cô và tiến đến chỗ Moby Dick đang hấp hối.
+
+Moby Dick rách nát, nội tạng và máu tràn ra, không thể hồi phục. Cá voi con khóc và cọ vào mặt mẹ. Moby Dick nhìn Zeon như gửi gắm điều gì đó; Zeon gật đầu, rồi chạm nhẹ cá voi con. Giữa Zeon và cá voi con hình thành mối liên kết không phải thuần hóa cưỡng ép, mà là ràng buộc song phương qua sự thấu hiểu trái tim và cảm xúc. Qua cá voi con, Zeon hiểu Moby Dick vốn là Đại Tinh Linh bốn nguyên tố của Kurayan, bị cuốn sang Trái Đất trong quá trình địa hóa. Vì Trái Đất thiếu năng lượng nguyên tố, tinh linh này hợp nhất với một con cá voi sắp chết khi đại dương khô cạn, trở thành sinh mệnh tinh linh Moby Dick không hoàn chỉnh.
+
+Moby Dick sống một trăm năm bằng cách đào sâu xuống cát lấy thuộc tính đất/nước hoặc bay lên trời cao thu lửa/gió, rồi sinh ra cá voi con. Cá voi con là sinh mệnh tinh linh đầu tiên sinh ra trên Trái Đất, không phải Kurayan; nó không phải tinh linh thuần túy cũng không phải sinh vật thường, mà hoàn chỉnh ngay từ khi ra đời và có thể là hy vọng cuối cùng của Trái Đất tan vỡ. Trước khi chết, Moby Dick tặng các hạt sáng cho Archelon: mai vỡ tái tạo, vết thương Black Anemone lành lại, mắt sáng tỉnh táo, mai lục giác mọc gai sắc và trán mọc sừng. Archelon từ sinh vật phòng thủ thuần túy có thêm khả năng tấn công vật lý.
+
+Khi Moby Dick tan biến, nó để lại viên ngọc đen tròn khổng lồ là trái tim chứa năng lượng nguyên tố tích lũy. Dù một phần lớn năng lượng đã dùng để cứu Archelon, nó vẫn chứa lượng mana khổng lồ; nhiệm vụ chỉ yêu cầu lấy tim nên Zeon không lo. Cậu cất trái tim vào dây chuyền không gian con của Lee. Cá voi con hiểu lời xin lỗi của Zeon, rồi ngửi quanh cậu và chỉ vào cánh tay đeo Inferno Gauntlet. Khi Zeon mở không gian con, nó lục tìm và mang ra khối khoáng vật cậu từng lấy từ Park Man-ho ở Mỏ Mana Stone. Cá voi con nói đó là hạt giống World Tree, khiến Zeon kinh ngạc.
+
+## Chương 284
+
+Zeon nhớ các elf từng nói World Tree là đại thụ chống đỡ Kurayan, nguồn cội sự sống và được elf gọi là Mẹ, nhưng đã biến mất cùng Kurayan. Cá voi con giải thích hạt giống World Tree đã mất sức mạnh nhưng có thể hồi sinh nếu nó hấp thụ. Nó lo Zeon không cho phép, nhưng Zeon mỉm cười bảo nó cứ làm. Cá voi con nuốt hạt giống, ánh sáng rực rỡ bùng ra; ngoại hình không đổi, nhưng mật độ mana chuyển từ nhẹ như kẹo bông sang nặng như thép nén. Zeon đặt tên nó là Gaia, và nó vui vẻ chấp nhận.
+
+Gaia nói muốn nghỉ trong không gian con của Zeon và có thể sống ở đó, rồi tự biến mất vào không gian đã đóng. Zeon nhận ra quyền sở hữu không gian con đang chuyển từ Inferno Gauntlet sang chính mình; từ nay cậu có thể mở nó mà không cần găng. Không gian cũng mở rộng khủng khiếp, đủ chứa vài Moby Dick. Zeon cho rằng Gaia đã dùng một loại ma pháp nào đó, nhưng không cố lý giải thêm; cảm nhận được Gaia đang nghỉ ngơi bên trong là đủ.
+
+Pavirsa và Kailey ôm lấy Archelon đã hồi phục hoàn toàn, xúc động đến không tin nổi vì chuyến đi vốn chỉ nhằm cứu Archelon nay còn khiến nó thăng hạng. Zeon quay sang Claire, người đang tê liệt vì sợ sau khi mất Lee Jung-ho. Claire xin lỗi và nói mình chỉ làm theo lệnh để sống ở Neo Seoul. Zeon hỏi việc ép Queen Ghost Dragonfly lột xác lấy cánh có phải do cô làm và có phải theo lệnh Jin Geum-ho không. Claire xác nhận, nhưng khi Zeon hỏi mục đích cánh Queen Dragonfly và trái tim Moby Dick, cô chỉ kịp nói đó là một thứ gọi là Thiên Phạt thì đầu cô bật ngược và nổ tung từ bên trong. Zeon suy đoán cô bị đặt nguyền rủa hoặc cơ chế kích hoạt, còn cụm từ “Thiên Phạt” chính là điều kiện.
+
+Khi Zeon quan sát xung quanh, cậu phát hiện một cái bóng đang lén bò tới xác Gray Ogre. Đó là Phantsy, kẻ đã sống sót bằng cách hợp nhất với lõi Black Anemone Bessie ngay trước khi bị Sand Gehenna hủy diệt. Bessie chỉ còn lõi không sức mạnh, nên Phantsy muốn hấp thụ thi thể ba ma thú hạng A để trở nên mạnh hơn và tránh bị sinh vật khác nuốt. Zeon phát hiện hắn ngay lập tức. Phantsy van xin, hứa trung thành, nhưng Zeon không cần lòng trung thành của ma thú và dùng Hellfire trắng từ Inferno Gauntlet thiêu hắn. Việc hợp nhất với Bessie khiến sinh lực Phantsy mạnh hơn, nhưng chỉ kéo dài thống khổ trước khi hắn bị thiêu sạch hoàn toàn.
+
+Zeon thu thập chiến lợi phẩm từ xác ma thú, vì Mana Stone hạng A/B đều rất giá trị. Cậu lấy Mana Stone của Gray Ogre, Crimson Drake, Giant Spider và cả cây chùy của Gray Ogre. Mana Stone hạng A thuộc tính lửa của Crimson Drake đặc biệt quý, nhưng Gaia ló ra muốn ăn nó. Vì Gaia thừa hưởng bốn thuộc tính của Moby Dick, Mana Stone mang thuộc tính là thức ăn quý giá. Zeon ném viên đá cho Gaia, nó vui vẻ nuốt rồi rút vào không gian con. Sau đó Zeon leo lên Archelon và bảo Pavirsa đưa mình về Neo Seoul; Pavirsa hứa sẽ đưa quý khách danh dự đến nơi nguyên vẹn.
+
+## Chương 285
+
+Đội Pathfinder 3 của Neo Seoul đang bị bầy Giant Horned Hyena vây đánh trong sa mạc. Giant Horned Hyena là loài cực kỳ phiền phức, một khi nhắm con mồi sẽ không dừng đến khi chết, nên gặp chúng thường đồng nghĩa với trận chiến một mất một còn. Đội trưởng Eun So-young, Thức Tỉnh Giả hệ cận chiến hạng C gốc Hàn, dùng thanh kiếm gần bằng người mình để giữ tuyến đầu. Đội đã đi qua khu vực này vài ngày trước mà không thấy hyena, vì nơi đây vốn không thuộc địa bàn của chúng, nên chọn lại tuyến đường cũ khi trở về; đó trở thành sai lầm chí mạng do hệ sinh thái đã biến động.
+
+Bầy hyena tấn công không ngừng dù bị ma pháp và kiếm thuật hạ gục từng con. Hàng phòng ngự lung lay, nhiều đồng đội đã bị ăn thịt. Một chiến binh tên William bị hyena cắn xuyên giáp ở vai và kéo về phía bầy; Eun So-young cố cứu anh ta thì mặt đất rung chuyển. Archelon xuất hiện từ sau đụn cát với mai đầy gai và sừng trên đầu, khiến cả Pathfinder lẫn hyena sợ hãi. Theo lệnh từ trên mai, Archelon bắn Compressed Air Blasts, thổi bay từng mảng hyena và buộc bầy thú phải bỏ chạy.
+
+Pavirsa, Zeon và Kailey xuất hiện trên lưng Archelon. Zeon nhận ra có thể trở về Neo Seoul cùng đội Pathfinder nên cảm ơn Pavirsa vì đã đưa mình đến đây. Pavirsa cảm ơn ngược lại vì nhờ Zeon mà Archelon hồi phục và thăng lên hạng A, có thêm Compressed Air Blasts khiến nó xứng danh Mobile Fortress. Zeon cân nhắc nhưng không cưỡi Archelon về thẳng Neo Seoul vì không muốn thu hút sự chú ý của Jin Geum-ho. Cậu tạm biệt Kailey; cô nói nếu ở Neo Seoul khó sống, Zeon luôn được chào đón bên Archelon và Motte Tribe. Pavirsa và Kailey sẽ đi đón dân làng đã gửi ở Steel Fortress rồi tiếp tục đời du mục.
+
+Zeon tự giới thiệu với Eun So-young, khiến cô nhận ra cậu là Sand Mage nổi tiếng của Neo Seoul. Cậu chữa cho William bằng thuốc hồi phục do Brielle chế tạo: uống một nửa, nửa còn lại đổ lên vết thương. Vết cắn nhanh chóng dịu đau, da mới hình thành, nguy hiểm trước mắt qua đi; hiệu quả vượt xa thuốc hồi phục thông thường của Neo Seoul. Eun So-young hỏi Archelon là gì và con người có thể thuần hóa/cưỡi nó không, nhưng Zeon chỉ nói người khác không thể, tránh để Neo Seoul có lý do truy đuổi Archelon.
+
+Zeon hỏi nhiệm vụ của Đội 3. Eun So-young tiết lộ họ đang kiểm tra khả năng lập shelter vì gần đó phát hiện dấu hiệu mỏ Mana Stone. Neo Seoul rất cần nguồn Mana Stone ổn định vì mỏ cũ gần bề mặt đã cạn, đào sâu càng khó và cần nhiều nhân lực/trang bị. Đội 3 đã xác nhận có Mana Stone trên bề mặt và định lập shelter để khảo sát sản lượng thì bị hyena tấn công. Eun So-young muốn trở về Neo Seoul với bằng chứng về mỏ mới nếu Zeon giúp, nhưng nói vẫn còn một vấn đề lớn.
+
+## Chương 286
+
+Zeon và Đội Pathfinder 3 đứng trên đụn cát nhìn xuống một lòng chảo khổng lồ trũng sâu. Khác với Mỏ Mana Stone gần Neo Seoul nằm trong núi đá dễ nhận biết, nơi này giống mỏ lộ thiên. Eun So-young nói vấn đề là bên dưới có quái vật. Ngay sau đó, cát trong lòng chảo chuyển động, một phần cơ thể dài, trơn và có giác hút như rắn hoặc xúc tu thoáng hiện rồi lặn xuống, để lại những khối Mana Stone cỡ nắm tay người lớn. Mana Stone bị chôn dày dưới cát, nhưng vì chỉ thấy một phần quái vật nên họ không đoán được nó là gì.
+
+Khu vực này cách Neo Seoul ba trăm kilomet, hệ sinh thái chưa được khảo sát và còn đang biến động; bầy Giant Horned Hyena trước đó cũng không phải loài bản địa. Eun So-young thừa nhận họ chưa dám lại gần, dự định lập shelter trước rồi quan sát cẩn thận. Zeon không xem đó là hèn nhát mà khen cô quyết định đúng, vì mù quáng xông vào lãnh địa quái vật lạ là tự sát. Cậu dùng Sand Mixer xoáy cát trong lòng chảo để ép sinh vật lộ diện.
+
+Âm thanh kim loại và tia lửa vang lên khi cát va vào thứ gì đó dưới lòng chảo. Một quái vật tám chân khổng lồ, giống bạch tuộc với xúc tu dài hàng chục mét, trồi khỏi cát; Zeon liên tưởng đến Kraken cổ đại. Sand Mixer gần như không làm nó bị thương vì Mana Stone dày đặc dưới cát hấp thụ và phân tán phần lớn xung kích kỹ năng. Quanh thân Kraken còn có trường năng lượng rõ rệt, chứng tỏ nó ít nhất hạng A, thậm chí có thể hạng S trở lên. Zeon có thể đánh nếu dốc toàn lực, nhưng không có lý do làm vậy vì bảo đảm mỏ là trách nhiệm của City Hall.
+
+Zeon âm thầm kéo một Mana Stone về phía mình. Kraken đảo mắt tìm kiếm nhưng không phát hiện Zeon và đội Pathfinder, rồi chìm xuống khi cậu dừng Sand Mixer. Đội 3 rùng mình khi nghĩ nếu họ mù quáng bước vào. Zeon đánh giá viên Mana Stone có độ tinh khiết cao, nhưng cần Neo Seoul phân tích chính xác, rồi ném nó cho Eun So-young làm bằng chứng. Địa hình mỏ lộ thiên rất khó phòng thủ so với mỏ cũ trong núi đá, nhưng đó là vấn đề của City Hall.
+
+Trên đường rời khu mỏ, họ phát hiện xe vận tải bọc giáp đã bị quái vật vò nát, nên phải đi bộ về Neo Seoul. Đội Pathfinder thở dài nhưng đã quen với việc xe bị cát hoặc ma thú phá hủy trong các chuyến thám hiểm. Có Zeon đi cùng, hành trình dễ hơn nhiều: cậu phát hiện Sandworm ẩn dưới cát và dẫn họ đi vòng, chọn điểm hạ trại ở nơi giao giữa các lãnh địa ma thú để tránh bị tấn công. Nhờ vậy họ về Neo Seoul chỉ trong ba ngày thay vì một tuần, gần như không gặp nguy hiểm và vẫn khá sung sức.
+
+Đội 3 đùa về việc liệu Zeon có muốn làm Pathfinder không, nhưng nhanh chóng tự phủ nhận vì cậu không cần công việc đó. Zeon hỏi Eun So-young có đến City Hall không và đi cùng cô vì cậu cũng phải báo cáo. Cậu tự hỏi Jin Geum-ho sẽ phản ứng thế nào khi Lee Jung-ho và Claire đều chết còn mình trở về một mình. Đến City Hall, Seo Tae-ran mặc vest đỏ đã chờ sẵn, chào Zeon và phớt lờ Eun So-young. Cô nói Thị trưởng đang đợi. Zeon theo cô lên thang máy tốc độ cao đến tầng cao nhất, nơi Jin Geum-ho đang nhìn cậu bằng đôi mắt xanh sắc lạnh khẽ lóe sáng.
+
+## Chương 287
+
+Jin Geum-ho dùng Thiên Nhãn lên Zeon ngay khi gặp lại; Zeon cảm thấy luồng điện quen thuộc như lần đầu gặp ông ta và hiểu Jin đang cố đọc vận mệnh mình. Zeon không quá lo vì Thiên Nhãn chỉ thấy dòng chảy lớn của nhân quả, không thấy chi tiết, nhất là với người có thể trở thành bước ngoặt lớn của thế giới như cậu. Jin Geum-ho nhìn Zeon rất lâu rồi cười, hỏi về Lee Jung-ho và Claire. Zeon nói họ đã chết và “không đau đớn nhiều”. Jin không truy hỏi thêm, khiến Zeon đoán có lẽ ông ta đã thấy trước khả năng họ không trở về nhưng không biết nguyên nhân cụ thể.
+
+Zeon giao sợi dây chuyền không gian con chứa trái tim Moby Dick cho Jin Geum-ho. Jin hỏi vì sao Zeon không tò mò nó dùng làm gì; Zeon đáp nếu biết quá nhiều có thể mất tự do. Jin gọi cậu thông minh, còn Zeon thích gọi là khôn ngoan. Jin cho rằng nếu Zeon thật sự khôn ngoan thì nên làm cho City Hall vì đó là lợi ích lớn nhất cho nhân loại, nhưng Zeon từ chối gánh tương lai nhân loại. Jin tạm hài lòng, nói có thể đường của họ hiện khác nhau nhưng một ngày sẽ giao lại, rồi để Zeon rời đi và hứa sắp xếp phần thưởng.
+
+Sau khi Zeon đi, Seo Tae-ran hỏi vì sao Jin để cậu rời đi dù đã mất một Number. Jin nói không có bằng chứng để buộc tội Zeon, hơn nữa vận mệnh Zeon ngay cả Thiên Nhãn cũng khó giải đọc, chứng tỏ vai trò của cậu trong thế giới rất lớn. Jin tiết lộ ông ta đã biết Lee Jung-ho sẽ không trở về, chính xác hơn là không thấy tương lai hắn quay lại, nhưng vẫn phái hắn đi để bảo đảm lấy được trái tim Moby Dick. Với Jin, quá trình không quan trọng; sự hy sinh của Lee đã tạo ra kết quả ông muốn.
+
+Jin Geum-ho và Seo Tae-ran xuống phòng thí nghiệm ngầm, nơi nhà nghiên cứu già tóc bạch kim Gentler cùng hàng chục nghiên cứu viên đang vận hành máy móc. Gentler nhận trái tim Moby Dick và xác nhận năng lượng nguyên tố phi thường, đủ để dùng cho dự án Thiên Phạt, nhưng trữ lượng mana thấp hơn dự báo rất nhiều, chưa đến một nửa mức kỳ vọng với sinh vật cỡ Moby Dick. Ông nói cần nguồn năng lượng phụ bổ sung. Jin nghi ngờ Zeon động tay vào trái tim, nhưng Gentler xác nhận không có dấu vết can thiệp nhân tạo.
+
+Zeon rời City Hall với tâm trạng nhẹ nhõm vì giao dịch với Jin Geum-ho đã xong, tạm thời không cần dính đến ông ta. Cậu nhớ giường và Levin/Brielle, nhận ra thời gian sống chung đã biến họ thành gia đình. Khi vào hẻm khu ổ chuột, Levin và Brielle xuất hiện vì mạng lưới của Levin ở cổng chính đã báo ngay khi Zeon vào thành. Brielle hỏi thuốc của cô có giúp không, Zeon nói giúp rất nhiều. Brielle sau đó cảm nhận được một luồng khí tươi mát kỳ lạ trên người Zeon; đúng lúc đó Gaia ló ra khỏi không gian con, khiến cô kinh ngạc.
+
+## Chương 288
+
+Gaia thận trọng ló ra khỏi không gian con, và Zeon trấn an rằng Brielle/Levin là bạn đáng tin. Brielle khóc khi cảm nhận “mùi hương của tinh linh” từ Gaia; với High Elf như cô, khí tức tinh linh của Gaia gây choáng ngợp và say mê. Gaia là sinh mệnh đầu tiên mang nguồn gốc tinh linh hiện thân trên Trái Đất, tự nhiên tỏa aura mạnh. Brielle giới thiệu mình là High Elf, Gaia dụi đầu vào tay cô và để cô ôm, khiến Brielle gần như mê đắm đến mức Levin phải kéo ra. Zeon nói từ nay cô sẽ gặp Gaia thường xuyên, làm Brielle vui mừng như một cô gái đúng tuổi sau khi thoát khỏi bóng nghiện thuốc.
+
+Zeon giải thích văn hóa Kurayan xem elf là chủng tộc giao tiếp được với tinh linh, nhưng Gaia không hẳn giống tinh linh Kurayan vì nó là con của cá voi Trái Đất và Đại Tinh Linh Kurayan. Để tránh bị người khác thấy, Zeon bảo Gaia quay vào không gian con. Brielle nói mình có thể là elf đầu tiên sinh ra trên Trái Đất gặp tinh linh, đây là khoảnh khắc lịch sử; nếu elf khác biết, họ sẽ không để Gaia yên vì những elf thích nghi với xã hội loài người đã bị lòng tham vấy bẩn. Ba người nhanh chóng về nhà.
+
+Sau khi họ rời con hẻm, Borin Stravach của Blue Leaf Task Force Khu Bắc xuất hiện. Cô đang lần theo các dao động năng lượng bất thường theo lệnh Nữ vương Khu Bắc Serien. Borin ngửi thấy hương thơm sạch, tươi mát, khiến tinh thần nhẹ bẫng, nhưng mùi đã phai và cô không biết thứ gì đã để lại nó.
+
+Về nhà, Gaia chui ra khỏi không gian con, được Brielle dẫn đi tham quan phòng khách và giải thích Watching Eye bảo vệ nơi này nên rất an toàn. Gaia đi theo Brielle như cún, khiến Levin ngạc nhiên; Zeon đoán vì Brielle là High Elf thuần huyết, có ái lực tự nhiên với tinh linh. Levin thú nhận trong lúc Zeon vắng nhà cậu thường ra ngoài vì sau khi báo thù xong bị mất phương hướng, nhưng giờ đã ổn hơn. Zeon và Levin cũng xác nhận City Hall giữ lời, các khu khác không dám gây chuyện với Sinchon.
+
+Zeon định nghỉ ngơi trên sofa, nơi cả nhà đều thích vì quá thoải mái và thường tranh nhau khi cậu vắng mặt. Brielle đột nhiên kéo Gaia sang phòng Levin để “xem phòng con trai giấu gì”, khiến Levin hoảng hốt vì phòng đàn ông có bí mật không thể để ai thấy. Cậu lao vào ngăn nhưng tiếng kêu tuyệt vọng “Không được nhìn cái đó!” vang lên, trong khi Brielle và Gaia vui vẻ.
+
+## Chương 289
+
+Zeon ở lì trong nhà ba ngày sau khi trở về, Brielle và Levin cũng không ra ngoài. Sự xuất hiện của Gaia làm Brielle sáng bừng, xua tan bóng u ám từng bám trên gương mặt cô. Brielle khoe với Gaia Mana Recovery Potion mới, hiệu suất cao hơn các bản trước: có thể hồi phục 50% mana của Thức Tỉnh Giả hạng C trong hai giờ. Với hạng C trở xuống, đặc biệt hạng D/E, đây gần như là mạng sống thứ hai trong tình huống cạn mana; với hạng A/B thì hiệu quả ít rõ hơn do trữ lượng mana lớn. Brielle tiếc vì chế thuốc nên không đi cùng Zeon và không gặp Gaia sớm hơn, nhưng Gaia an ủi cô bằng vây.
+
+Brielle giải thích với Gaia rằng thuốc mới dễ sản xuất, chi phí thấp, có thể bán giá cao để kiếm nhiều tiền. Gaia không hiểu khái niệm tiền vì là sinh vật tinh linh, còn Brielle hào hứng liệt kê tiền giúp mua đồ, làm điều mình muốn và mở rộng nhà. Zeon đoán cô định bán công thức ở Goblin Market và quyết định đi cùng vì cậu cũng có việc. Gaia quay vào không gian con để tránh thu hút chú ý vì cá voi con biết bay có thể gây rắc rối.
+
+Trên đường đi, Levin nói Dongdaemun đang yên, có lẽ vì City Hall cảnh cáo nên không bén mảng đến Sinchon, nhưng họ khép kín hơn và kiểm tra người ra vào rất nghiêm. Levin đùa Zeon chắc đứng đầu danh sách đen của họ. Đến Goblin Market, cả ba được lính gác nhận ra là VIP và cho qua. Bên trong đông Thức Tỉnh Giả hơn thường lệ. Yoo Se-hee xuất hiện cùng Black Lion, nói nguyên nhân là mỏ Mana Stone mới được phát hiện.
+
+Zeon đã biết mỏ mới vì giúp Đội Pathfinder 3 xác nhận, nhưng Yoo Se-hee giải thích tin đồn về đợt tuyển đội công kích bảo đảm mỏ đã khiến nhiều nhóm đổ xô tích trữ vật tư. Mỏ Mana Stone là mạch sống của Neo Seoul; nếu nguồn cung cạn, thành phố sẽ suy thoái, nên ai đóng góp lớn cho chiến dịch sẽ được thưởng lớn. Vì có tin ma thú canh mỏ có thể gồm cả hạng S, thuốc và vật tư khẩn cấp bán cực chạy, làm Goblin Market sôi động bất thường.
+
+Brielle chào bán công thức Mana Potion mới. Yoo Se-hee lập tức nhận ra đây là cơ hội vàng, hỏi hiệu quả và chi phí rồi bắt đầu đàm phán. Brielle không còn ngây thơ, yêu cầu Yoo Se-hee ra giá trước; sau màn mặc cả, cô ép được mức cộng thêm 7% so với điều khoản thường lệ. Yoo Se-hee tin kỹ năng của Brielle nên giao Black Lion sản xuất ngay trong đêm. Sau đó Brielle hỏi mua item nguyên tố cho “một người bạn”; Yoo Se-hee giới thiệu Kona’s Bracelet, chiến lợi phẩm dungeon có kháng lửa, và Brielle đồng ý trừ vào lợi nhuận Mana Potion.
+
+## Chương 290
+
+Zeon đoán Kona’s Bracelet là cho Gaia. Brielle xác nhận vì Gaia là tinh linh, item có thuộc tính nguyên tố có thể giúp ích. Zeon thấy nhẹ nhõm khi Brielle thật sự yêu quý Gaia; chỉ ba ngày sau khi Gaia đến, bóng tối trên gương mặt Brielle đã biến mất, còn Gaia cũng hạnh phúc khi có Brielle làm bạn. Với Gaia, Zeon giống người giám hộ, còn Brielle là người có thể chia sẻ liên kết sâu nơi linh hồn. Zeon nghĩ có lẽ hai người họ gặp nhau là định mệnh.
+
+Yoo Se-hee tò mò Gaia là ai nhưng Zeon không nói. Cậu chuyển sang việc chính: nhờ Yoo bán vài Mana Stone hạng A từ Gray Ogre và Giant Spider. Yoo Se-hee kinh ngạc vì lượng mana tỏa ra quá lớn, biết đây là hàng hiếm và giá rất cao. Zeon vẫn nói lấy được nhờ may mắn, không giải thích thêm. Yoo nhận ra cậu muốn tránh bị chú ý nếu tự bán nên đồng ý xử lý qua Goblin Market và lấy hoa hồng như giao dịch bình thường.
+
+Sau khi giao Mana Stone, Zeon dạo quanh Goblin Market. Cậu quan sát thương nhân mời khách, người mua mặc cả và thỉnh thoảng lính gác phải can thiệp khi có xô xát. Sự hỗn loạn sống động khiến cậu thấy nhẹ lòng vì nó chứng minh văn minh vẫn tồn tại; việc dùng tiền thay vì trao đổi hàng hóa đã là xa xỉ ở thế giới hậu tận thế. Zeon nhận ra người hưởng lợi từ Neo Seoul thường không hiểu nơi này phi thường đến mức nào. Sau một vòng, cậu không tìm thấy món gì mình muốn vì phần lớn đồ ở đây kém xa vật phẩm trong không gian con, nên ngồi chờ Levin và Brielle.
+
+Levin xuất hiện với nhóm bạn cùng tuổi, trong đó có Aeron và Dominic. Họ cúi chào Zeon quá kính cẩn vì xem cậu là huyền thoại của khu ổ chuột, khiến Levin phải mắng dừng lại. Levin tiết lộ Aeron và Dominic vừa thức tỉnh: Aeron là Martial Artist hạng E, Dominic là Mage hạng D. Đây đáng lẽ là chuyện mừng ở khu ổ chuột, nhưng vấn đề là họ đã đăng ký vào đội công kích Mỏ Mana Stone dù không có kinh nghiệm chiến đấu. Levin hiểu đội công kích nhận những lính mới cấp thấp như họ chủ yếu để dùng làm bia đỡ đạn, đặc biệt Aeron tuyến đầu có nguy cơ chết ngay trận đầu.
+
+Aeron và Dominic là hai bạn thân từng lớn lên với Levin, từng liều mạng giúp cậu đào thông tin về sát nhân giết gia đình cậu. Họ cũng là trẻ mồ côi, thậm chí sinh ra đã không có gì, nên khát vọng mạnh lên còn cháy bỏng hơn. Họ nói muốn mạnh đến mức được đối xử như con người, như Levin, và không muốn tiếp tục sống yếu ớt trong tuyệt vọng. Levin không thể phản bác, cuối cùng xin Zeon cho mình đi cùng họ nếu họ phải tham gia đội công kích. Zeon không ngăn, nhưng nói sẽ bảo đảm họ mạnh hơn trước bằng cách “hành đến nơi đến chốn” giống từng huấn luyện Levin trong dungeon, khiến Levin tái mặt còn Aeron/Dominic chưa hiểu điều gì chờ mình.
+
+## Chương 291
+
+Zeon đưa Aeron và Dominic ra giữa sa mạc chỉ trong nửa ngày bằng bão cát, khiến họ sốc vì mới trước đó còn ở khu ổ chuột. Bị ném vào biển cát nóng rực, họ mới nhận ra khu ổ chuột vẫn còn dễ sống hơn nơi hoang mạc này. Tiếng tru từ xa khiến họ hoảng loạn rút vũ khí: Aeron dùng kiếm, Dominic dùng trượng mua bằng toàn bộ tiền tiết kiệm. Bầy Lycaon hạng F, giống chó hoang châu Phi với tai tròn lớn, mắt đen và răng sắc, xuất hiện. Dù là ma thú yếu nhất, với hai lính mới đang run rẩy, chúng chẳng khác nào Cerberus.
+
+Aeron theo bản năng chém con đầu tiên bị thương, rồi bị ép chiến đấu trong tuyệt vọng khi cả bầy tiếp tục lao tới. Dominic ban đầu đứng đông cứng vì sốc, chỉ tỉnh lại khi Aeron hét bảo tấn công. Cậu dùng trượng thi triển Shock Wave, hất văng bầy Lycaon, nhưng vì thiếu kinh nghiệm và không kiểm soát được đầu ra nên một kỹ năng đã tiêu gần nửa mana. Dominic lần đầu cảm nhận rõ sức mạnh ma pháp của Thức Tỉnh Giả, nhưng Aeron nhắc cậu phải tiếp tục vì đợt Lycaon khác đang lao tới.
+
+Trên đụn cát, Zeon và Levin quan sát. Zeon đã cố ý chọn vùng có Lycaon hạng F làm đối thủ luyện tập: đủ nguy hiểm cho lính mới nhưng không quá mạnh để không thể vượt qua. Zeon đánh giá Aeron trụ tốt hơn dự kiến, kỹ năng Dominic có uy lực và quan trọng nhất là hai người phối hợp khá tốt. Khi một bầy sắp bị xử lý, Zeon bảo Levin đi gom bầy khác. Levin dùng trạng thái bán hồn ma bay đi, dùng Purple Lightning với công suất giảm để làm bầy Lycaon hoảng và lùa chúng về phía Aeron/Dominic.
+
+Sau nhiều đợt liên tiếp, Aeron và Dominic nhận ra chắc chắn Zeon và Levin đang cố ý lùa quái vào họ. Dù chửi rủa, họ vẫn phải chiến đấu. Động tác dần sắc bén hơn: Aeron chém chính xác hơn và bắt đầu xen kỹ năng, Dominic học cách điều chỉnh mana để tiết kiệm. Khi mana chỉ còn vừa đủ thêm một trận, hai người đấm tay nhau rồi tiếp tục. Zeon và Levin vừa ăn khô thịt của cửa hàng Klexi vừa quan sát, Zeon không thấy thương hại vì đây chỉ là nhập môn dịu dàng so với cách Dyoden từng rèn cậu và cách cậu từng rèn Levin.
+
+Khi Aeron hạ con Lycaon cuối cùng, hai người kiệt sức ngã xuống đất. Zeon cho họ nghỉ tạm rồi bảo Levin tìm thứ mạnh hơn, vẫn hạng F nhưng ở nhóm khó hơn, vì Lycaon không còn là thử thách và không có rủi ro thì không có trưởng thành. Levin lại bay đi, kéo thêm bầy ma thú khác về phía hai người đang cạn sức. Tiếng kêu thảm thiết của Aeron và Dominic vang khắp sa mạc, trong khi Levin lẩm bẩm rằng đây là tình yêu chân thành của hyung dành cho họ, chỉ được biểu đạt theo cách khắc nghiệt nhất.
+
+## Chương 292
+
+Aeron và Dominic trở về gần Neo Seoul trong bộ dạng thảm hại sau ba ngày bị Zeon và Levin huấn luyện giữa sa mạc. Ngoại trừ những lúc hồi mana hoặc ngủ chớp nhoáng, họ liên tục bị ma thú tấn công đúng thời điểm mana vừa hồi, bị ép nén kinh nghiệm chiến đấu nhiều tháng vào ba ngày. Dù cơ thể bầm dập và quần áo rách nát, họ tự tin hơn nhiều, thậm chí khoe không còn sợ ma thú hạng F. Levin xuất hiện như ác ma, dọa lùa hạng E tới khiến họ hoảng hốt. Levin không giải thích mình làm theo lệnh Zeon vì đây là cách duy nhất tăng cơ hội sống sót cho bạn mình.
+
+Khu ổ chuột đã thay đổi rõ rệt sau khi chuyến viễn chinh Mỏ Mana Stone được chính thức công bố. Các Thức Tỉnh Giả và tổ đội nhỏ đổ xô mua vật tư, cả cửa hàng khu ổ chuột cũng náo động vì Neo Seoul thiếu hàng. Levin dặn Aeron/Dominic đừng đi lung tung mà về ngủ bù; họ cảm ơn Zeon rồi về nhà. Zeon và Levin trở về nhà, Brielle lập tức bỏ qua Levin để yêu cầu Zeon cho Gaia ra. Gaia và Brielle ôm nhau vui vẻ, khiến Zeon và Levin cười khổ vì mình không còn là ưu tiên.
+
+Ở phía Jang Yong-beom, Aiden phát hiện kho vật tư chỉ còn một nửa và nhận ra họ thiếu nghiêm trọng cho chuyến viễn chinh. Sau khi Jang Yong-beom lên hạng S, đội đã phình từ nhóm nhỏ thành đội công kích tầm trung hơn trăm người, nhưng thành viên mới chủ yếu là chiến đấu viên từ Pegasus Raid Force sụp đổ, thiếu kinh nghiệm hậu cần nên quản lý vật tư rối loạn. Aiden xác định ưu tiên là thuốc: giải độc, hồi phục và mana potion, vì các vật tư khác có tiền vẫn mua được nhưng thuốc đang cực kỳ khan hiếm.
+
+Aiden đề xuất nhờ Brielle, vì đội Jang Yong-beom biết cô là alchemist xuất sắc dù rất kiêu ngạo. Chuyến viễn chinh là cơ hội để họ củng cố vị thế đội công kích chính thức và giành danh tiếng/quyền lợi ở mỏ mới. Jang Yong-beom không vui vì lại phải nhờ Zeon, nhưng Aiden nhắc Zeon là Sand Mage; cuối cùng Jang thừa nhận và quyết định đi ngay. Jang Yong-beom, Aiden và Giselle đến nhà Zeon ở khu ổ chuột, xin vào bàn chuyện. Zeon nghe Brielle và Gaia chạy vào phòng trước khi mở cửa. Họ thấy nhà Zeon bình thường cho đến khi nhìn thấy máy phát mana; Zeon kín đáo chắn tầm nhìn và nghe họ đề nghị mua thuốc của Brielle bằng bất cứ giá nào.
+
+Zeon nhận ra yêu cầu này không bất lợi. Cậu từ chối nhận tiền và thay vào đó nói mình cũng có một việc muốn nhờ, mở đường cho việc đưa Levin vào đội Jang Yong-beom như thành viên tạm thời để bảo vệ Aeron/Dominic trong chuyến viễn chinh.
+
+## Chương 293
+
+Sáng hôm sau, Zeon và Brielle đến bãi đất trống khu ổ chuột, nơi đoàn viễn chinh Mỏ Mana Stone tập kết: bốn trăm xe, ba nghìn Thức Tỉnh Giả và hàng trăm nhân viên hỗ trợ. Nhiệm vụ do City Hall dẫn đầu hứa hẹn phần thưởng lớn và cơ hội nhận một phần quyền vận hành thành phố Mỏ Mana Stone mới. Các thế lực từng lớn mạnh nhờ quyền vận hành mỏ cũ, nên cả đội nhỏ lẫn các thế lực khu vực đều tranh nhau tham gia. Đội nhỏ của Aeron/Dominic đứng ở góc khuất, phản ánh vị thế yếu; đội Jang Yong-beom thì chiếm chỗ tốt với buggy sa mạc, bus bọc giáp và xe tải vật tư.
+
+Jang Yong-beom ngồi trên nóc buggy, bực vì City Hall chậm trễ. Hắn coi nhẹ nguy hiểm vì “chỉ có một ma thú”, nhưng Aiden nhắc đó là ma thú ước tính hạng S, ngay cả Jang hạng S cũng khó solo nếu không có năng lực áp đảo như Zeon. Levin cười thành tiếng khiến Jang khó chịu; Aiden nhắc nhờ Levin mà họ có nguồn thuốc vững chắc. Đổi lại thuốc từ Brielle, Zeon đã đàm phán cho Levin gia nhập tạm thời đội Jang Yong-beom. Levin cần ở gần bạn nhưng không thể bị khóa vào đội nhỏ khép kín của Aeron/Dominic; Jang cần thuốc và có thể tận dụng sức mạnh Levin để lập công.
+
+City Hall đưa xe vận tải tới, Đội Pathfinder 3 xuống xe để dẫn đường vì họ biết vị trí mỏ. Mandy cũng tham gia giám sát và vẫy tay với Levin, nhưng bị Go Min-woo mắng. Go Min-woo là analyst của City Hall, tự giành vai trò chỉ huy vì tham vọng trở thành phó thị trưởng Neo Seoul. Hắn là Thức Tỉnh Giả hạng B, thấp hơn Numbers nhưng vẫn có vị thế, tin rằng lực lượng đông đảo đủ hạ ma thú hạng S. Go Min-woo kiêu ngạo giao việc kiểm tra nhân sự/trang bị cho Mandy, tự cho người chỉ huy chỉ cần chỉ huy, khiến Mandy căm ghét và ước được đứng cùng Zeon/Brielle.
+
+Go Min-woo phát biểu ngắn, hứa phần thưởng ngọt ngào nếu thành công, rồi đoàn xe xuất phát. Brielle hỏi Levin có an toàn không; Zeon nói nếu Levin muốn chạy thì ít ai bắt được, vấn đề là bạn của cậu ta vẫn còn yếu dù đã được huấn luyện cấp tốc. Brielle hỏi vì sao họ không bám theo; Zeon giải thích City Hall không muốn cậu góp công vì nếu cậu đóng góp lớn, họ phải chia quyền vận hành, còn Jin Geum-ho không muốn ảnh hưởng của Zeon tăng lên. Zeon và Brielle đều không ham quyền lực, chỉ muốn cuộc sống hiện tại, alchemy và Gaia.
+
+Khi bãi tập kết trống đi, Brielle bất an vì nghĩ mình thấy “thợ săn” từng bắt cô khỏi làng High Elf. Zeon bình tĩnh hỏi chi tiết, khuyên nếu cô không nhầm thì phải xác nhận. Brielle kể trong số kẻ bắt cóc có những kẻ bất thường: thú nhân và Dwarf hợp tác với nhau.
+
+## Chương 294
+
+Hai kẻ đội mũ trùm vừa xem lễ tiễn đoàn viễn chinh là Etley và Bucksher. Etley là Dwarf ngoài bốn mươi tuổi, thấp nhưng vai rộng, dùng chiến chùy lớn; Bucksher là người khổng lồ lông rậm, thực chất là Lycanthrope/thú nhân. Họ là người ngoài, không thuộc Neo Seoul hay khu ổ chuột, và cố che mặt vì mang quá nhiều tội lỗi. Etley thoáng nhớ đã thấy một cô bé đội mũ nhọn quen quen, nhưng Bucksher bảo hắn đừng phân tâm.
+
+Hai người đến một quán rượu hẻo lánh có biển búa và kiếm bắt chéo. Một elf tóc đỏ, da nhợt tên Romina từ Khu Bắc kiểm tra danh tính của họ bằng vòng tay Helbrin có đá đen. Sau khi xác nhận Etley và Bucksher là người của Helbrin, cô cho họ vào quán đã dọn sạch khách. Etley uống bia và nói đùa về Kurayan dù bản thân sinh ra trên Trái Đất; Romina nhắc hắn đừng xã giao dài dòng.
+
+Romina thuê họ làm “thợ săn người”: cần khoảng một trăm người không ràng buộc, không để lại đầu mối. Etley hỏi sao không bắt ngay ở khu ổ chuột, nhưng Romina yêu cầu sạch sẽ. Etley viện cớ gần đây khó kiếm nhân lực vì Steel Fortress xuất hiện, do một cựu scavenger lập lãnh địa và siết hoạt động săn người quanh đó. Helbrin vốn là lính đánh thuê/scavenger chuyên săn người trong sa mạc, lột tài sản rồi bán làm nô lệ cho thị trường lớn nhất là Neo Seoul. Etley đòi thêm thù lao bằng vũ khí Neo Seoul đang phát triển; Romina sợ City Hall phát hiện nhưng cuối cùng chấp nhận, cho họ mười ngày mang đủ một trăm người.
+
+Sau khi Romina đi, Bucksher lo vì chưa hỏi thủ lĩnh và vì bãi săn quanh Steel Fortress đã khô cạn. Etley lạnh lùng nói nếu không có con mồi thì săn ngay trong khu ổ chuột, vì một trăm người ở đó biến mất cũng chẳng ai chú ý. Bucksher phản đối do yêu cầu “không ràng buộc”, nhưng Etley chê Lycanthrope nhát gan.
+
+Zeon đưa Brielle về rồi tự đi điều tra khu ổ chuột. Cậu không xem nhẹ trí nhớ và trực giác của Brielle, nhưng không tìm được dấu vết thú nhân/Dwarf vì chúng có vẻ đã vào trong nhà. Khi đang nghĩ rắc rối lại tìm tới lúc mình tưởng được yên, Zeon va vai một elf tóc đỏ cáu kỉnh. Cậu nhận ra cô ta chính là elf từng đứng cạnh Spider Queen Eli khi Damian dùng Spirit King’s Crown dụ elf phương bắc trong vụ White Bear Caravan, dù cô ta không nhận ra cậu.
+
+## Chương 295
+
+Romina rời khu ổ chuột về Neo Seoul, ghê tởm mùi hôi vì elf nhạy cảm với môi trường bẩn. Cô phải đến đó theo lệnh Eli, nhân vật số hai Khu Bắc. Trước khi vào Khu Bắc, Romina bỏ áo choàng, để lộ suit đen rồi đến nơi ở hẻo lánh của Eli. Eli đang bị giam lỏng kỷ luật vì tự ý điều quân tấn công White Bear Caravan; ban đầu cô ta nghĩ hình phạt sẽ ngắn, nhưng Serien mãi chưa gọi trở lại khiến sự bực bội của cô ta chạm ngưỡng.
+
+Romina báo đã thuê lính đánh thuê Helbrin bắt một trăm nô lệ. Khi cô lưỡng lự hỏi có thật sự cần nô lệ không, Eli lập tức tát cô đến sưng mặt, nứt môi và chảy máu. Eli ép Romina nhìn mình, hỏi có phải cô nghĩ Eli là kẻ hết thời bị vứt bỏ không, rồi nhấn mạnh mọi việc mình làm đều cần thiết và đã tính toán. Romina phục tùng, không dám kêu đau vì biết càng phản ứng càng khiến Eli giận.
+
+Eli uống rượu đỏ như máu và tuyên bố sẽ không ngồi yên mãi; cô ta sẽ trở lại vị trí của mình, thậm chí vươn cao hơn trước. Romina hiểu “cao hơn số hai” có thể là nhắm đến Serien, nên kinh hãi nhưng không dám biểu lộ. Eli nói nếu Romina muốn cùng mình vươn cao thì phải chăm chỉ và không chất vấn quyết định của cô ta. Eli nhìn về tòa nhà cao nhất Khu Bắc, nơi Serien cư trú, thầm hứa sẽ sớm trở lại.
+
+Zeon đến quán lão Klexi ăn mì thịt và nhờ ông kiểm tra xem gần đây có ai thấy cặp thú nhân/Dwarf không. Klexi đồng ý vì xem Brielle như người nhà, dù thú nhân ở dạng người gần như không khác con người bình thường. Mạng lưới Argos trải rộng khu ổ chuột, nên việc tìm dấu vết sẽ dễ hơn. Zeon ăn món mì giống mì bò nhưng không chắc thịt gì, quyết định không biết nguồn gốc có lẽ tốt hơn, rồi rời đi.
+
+Trên đường về, Zeon suy nghĩ về elf tóc đỏ và việc phi nhân Khu Bắc hiếm khi đến khu ổ chuột, đặc biệt elf vốn ghét môi trường bẩn. Cậu gặp Borin Stravach, đội trưởng Blue Leaves Special Force của Khu Bắc, người đang điều tra dao động bí ẩn theo lệnh Serien. Zeon cố ý nói mình thấy một elf khác từng đi cùng Spider Queen Eli trong vụ White Bear Caravan. Borin giật mình vì Eli đang bị giam lỏng, hỏi chi tiết. Zeon nói elf đó có mái tóc đỏ rực như lửa; Borin lập tức nhận ra Romina. Cô bỏ dở nhiệm vụ truy tìm hiện tượng bí ẩn để đi điều tra manh mối rõ ràng này. Zeon đã cố tình gieo hạt giống để tạo phản ứng, nhận ra Khu Bắc đang có gì đó âm thầm chuyển động.
+
+## Chương 296
+
+Ở nhà, Gaia và Brielle chơi đuổi bắt trong phòng khách, khiến căn nhà nhỏ náo nhiệt. Khi Brielle nghiên cứu alchemy, Gaia ngồi cạnh như cùng suy nghĩ, không thật sự giúp được nhưng sự hiện diện của nó khơi ý tưởng cho cô. Zeon thấy thương Gaia vì một sinh vật sinh ra để bay tự do lại bị nhốt trong không gian chật hẹp, nên quyết định đưa Brielle và Gaia ra ngoài, đến nơi Gaia có thể bay và Brielle có thể chạy thoải mái.
+
+Ba người rời khu ổ chuột, vào sa mạc đủ xa để Neo Seoul không còn trong tầm mắt rồi Zeon cho Gaia ra khỏi không gian con. Gaia vui sướng bay vòng quanh họ, Brielle đuổi theo cười rạng rỡ. Vì vẫn còn có thể bị người đi ngang nhìn thấy, Zeon đề nghị đi xa hơn. Gaia muốn Brielle cưỡi lên lưng; Brielle thận trọng leo lên và Gaia vẫn bay mượt mà. Zeon dùng Sand Stride đi trước, Gaia chở Brielle theo sau, rồi tăng tốc vượt Zeon và bay vút lên cao như đang bơi trong nước, không bị trọng lực ảnh hưởng. Gaia cũng dùng sức mạnh bảo vệ Brielle khỏi áp lực và gió.
+
+Zeon cũng bay theo bằng cách cưỡi dòng cát, khiến Brielle kêu không công bằng. Ngay sau đó Zeon phát hiện Bullet Hummingbirds: quái vật cấp thấp sống ở độ cao hàng trăm mét, vỗ cánh cực nhanh và tự nổ như bom khi va vào mục tiêu. Người thường không biết chúng tồn tại vì chúng không xuống mặt đất; Thức Tỉnh Giả gặp chúng thường không sống để kể lại. Hàng loạt Bullet Hummingbirds lao tới như đạn, nổ quanh Gaia và Zeon. Gaia dù còn non vẫn dựng được trường bảo vệ nên bảo vệ Brielle, còn Zeon dùng khiên cát xoáy chặn chúng. Zeon bảo hạ xuống vì bay ở độ cao đó quá nguy hiểm.
+
+Trở lại mặt đất, Brielle kinh hãi khi biết trên trời có nhiều quái vật sống theo tầng độ cao: thấp nhất là côn trùng, cao hơn là dạng như Bullet Hummingbirds, mạnh nhất sống ở tầng cao nhất. Quái vật trên trời có tính lãnh thổ cực mạnh, ghét kẻ xâm nhập và lãnh địa rộng hơn quái vật mặt đất; toàn khu vực này có vẻ thuộc Bullet Hummingbirds. Zeon giải thích chúng sinh ra và chết trên trời, hệ sinh thái bầu trời vẫn là bí ẩn nên cậu hiếm khi bay cao. Cho đến khi Gaia trưởng thành, họ nên tránh bay quá cao.
+
+Vì đã bay xa vài trăm kilomet khỏi Neo Seoul và Gaia hơi hoảng, Zeon quyết định đi bộ về, coi như dã ngoại. Brielle trò chuyện với Gaia suốt đường, nhắc rằng bay rất tuyệt nhưng quá nguy hiểm, sinh mạng là quý. Giữa đường, Zeon cảm nhận cảm giác kỳ lạ dưới lòng bàn chân và dừng lại. Cậu nói có vẻ bên dưới họ có một dungeon. Brielle và Gaia đều hào hứng muốn kiểm tra.
+
+## Chương 297
+
+Zeon, Brielle và Gaia vào một dungeon dạng mê cung bên dưới sa mạc. Đây là loại dungeon phổ biến vì mê cung, đặc biệt khi đầy cạm bẫy, là cách phòng thủ hiệu quả và rẻ. Ngay khi bước vào, ma pháp trận trên sàn phát nổ theo trọng lượng; Zeon né kịp và nhận ra cơ chế bẫy. Brielle lấy từ không gian con trong mũ nhọn ra một món đồ chơi kim loại bốn chân, làm từ kim loại lấy ở Steel Fortress. Ban đầu cô định tạo golem hình chó, nhưng vật liệu quá cứng nên chỉ làm được thân bốn chân rồi bỏ dở; sau khi có Gaia, cô không còn cần golem dễ thương nữa.
+
+Món đồ chơi bền chắc được dùng dò bẫy, chịu được các vụ nổ nhỏ cứ khoảng hai mươi bước lại kích hoạt. Brielle nói sau này sẽ nâng cấp nó thành golem chiến đấu, nhưng vấn đề lớn là cần ego để tự chiến đấu. Trước khi Kurayan sụp đổ từng có golem có ego, và Triox Five ở Khu Bắc cũng được xây từ não golem bắt trong dungeon, nhưng Brielle chỉ muốn ego cơ bản. Qua mê cung, món đồ chơi tiếp tục chịu khí độc, sàn sụp và các bẫy cơ bản; người bình thường hoặc Thức Tỉnh Giả thiếu chuẩn bị rất dễ chết tại đây.
+
+Ở lõi dungeon, họ không thấy boss monster hay kho báu, chỉ có dùi cui, còng tay, dây thừng và các trang bị kiểu lính canh. Zeon suy đoán đây từng là một phần nhà tù, cụ thể là kho trang bị lính canh, còn mê cung dùng để ngăn kẻ xâm nhập hoặc tù nhân trốn thoát. Điều lạ là không có phòng giam nào. Core item là một cuốn nhật ký lính canh viết bằng cổ ngữ Kurayan mà cả Zeon lẫn Brielle không đọc được. Vì Brielle không còn hứng thú, Zeon đốt nó bằng lửa xanh, khiến dungeon bắt đầu sụp đổ và mở lối ra.
+
+Trước khi rời dungeon, Zeon thấy trong tro cuốn nhật ký có một chiếc chìa khóa giống chìa phòng giam và cất vào subspace. Khi ra ngoài, dungeon sụp hẳn. Ba người tiếp tục hành trình dưới hoàng hôn, Brielle và Gaia nói chuyện về việc làm golem chiến đấu để bảo vệ nhóm vì Brielle không giỏi chiến đấu. Zeon ngửi thấy mùi khói, leo lên đụn cát quan sát và thấy khói đen bốc lên từ xa.
+
+Tại nguồn khói, Zeon phát hiện khói bốc lên từ bên dưới cát. Cậu tách cát ra, để lộ một không gian ngầm lớn: một khu định cư của người sống sót từng tồn tại. Bên trong là tàn tích và thi thể cư dân rải rác. Zeon nhận định scavenger đã tấn công nơi này.
+
+## Chương 298
+
+Zeon và Brielle tìm thấy mười thi thể trong làng ngầm bị scavenger tấn công, tất cả đều là người già gầy yếu bệnh tật. Họ trông như bảy mươi tuổi nhưng Zeon biết chưa quá năm mươi, vì điều kiện sinh tồn khắc nghiệt khiến người sống sót ngoài Neo Seoul lão hóa rất nhanh. Làng rất nhỏ, thiếu thức ăn/nước, đồ dùng thô sơ như thời tiền sử; dân làng sống chui rúc dưới đất để tránh quái vật và scavenger. Brielle đau lòng hỏi sao họ không đến khu ổ chuột Neo Seoul, Zeon giải thích người thường gần như không thể vượt vài trăm kilomet sa mạc đầy quái vật.
+
+Zeon phát hiện điều thú vị: tường làng làm từ cát nhưng đã được làm cứng, dù khu vực này không phải sa thạch như Steel Fortress. Cậu suy đoán dân làng có phương pháp đặc biệt để làm cứng cát. Điều này có tiềm năng lớn vì Neo Seoul thiếu nhà ở nghiêm trọng do thiếu vật liệu xây dựng; nếu có thể làm cứng cát để xây nhà ở vùng rìa khu ổ chuột, người sống sót di cư tới sẽ có nơi ở mà không cần trốn dưới đất. Zeon tiếc vì người biết kỹ thuật này có thể được trọng dụng.
+
+Brielle nhận ra trong làng chỉ có thi thể người già, không có người trẻ hay trẻ con. Zeon hiểu scavenger có thể đã giết người già/bệnh và bắt người trẻ khỏe để bán. Khi Brielle hỏi cậu định làm gì, Zeon quyết định cứu họ vì đã biết sự thật thì không thể làm ngơ. Zeon thừa nhận sa mạc có quy luật kẻ mạnh nuốt kẻ yếu và cậu không thể cứu mọi người, nhưng không thể nhắm mắt trước bi kịch ngay trước mặt. Vì trời đã tối, cậu chọn sáng mai mới lần dấu để tránh sai hướng.
+
+Đêm đó, Brielle im lặng vì cảnh làng bị hủy diệt đè nặng trong lòng, Gaia chỉ biết an ủi cô. Song song, Helbrin Mercenaries đang ăn thịt giữa sa mạc. Họ tự gọi là lính đánh thuê nhưng thực chất là scavenger, sống bằng cướp làng sống sót và nhận việc bẩn. Thủ lĩnh Hassim ngoài năm mươi, da sẫm, ria dày, dáng vẻ đáng sợ, than rằng mẻ này chỉ là đám ăn mày. Khoảng mười người trẻ khỏe bị bắt, từ đầu ba mươi đến đứa bé bảy tuổi, đang bị trói như gia súc.
+
+Trong số người bị bắt có một alchemist hạng F ngoài ba mươi, chính là người tạo chất làm cứng cát giúp làng ngầm tồn tại. Anh ta bất lực vì trong sa mạc kỹ năng alchemy thiếu tài nguyên gần như vô dụng và không thể bảo vệ làng. Hassim định giết một tù nhân để ăn vì thịt quái vật quá dai, nhưng mặt dây chuyền artifact liên lạc của hắn vang lên. Etley báo Spider Queen muốn một trăm nô lệ trong mười ngày, đổi lại là vũ khí Neo Seoul. Hassim lập tức đổi thái độ, vì vũ khí Neo Seoul có thể giúp hắn đối phó Steel Fortress đã làm cạn bãi săn. Hắn ra lệnh đối xử cẩn thận với nô lệ vì họ sắp biến thành vũ khí.
+
+## Chương 299
+
+Helbrin Mercenary Group chỉ khoảng bốn mươi scavenger nhưng sống sót lâu nhờ thực lực. Hassim là Thức Tỉnh Giả chiến đấu hạng B, các thành viên còn lại chủ yếu hạng C/D; nhóm có đến mười hạng C, trong đó Bucksher và Etley cũng hạng C. Thành viên then chốt nhất là Akashi, Thức Tỉnh Giả hệ ma pháp gốc Nhật ngoài hai mươi với kỹ năng Search for Extra, có thể phát hiện mọi sinh vật trong phạm vi như radar. Nhờ Akashi, Helbrin tìm được người sống sót ẩn trong sa mạc và tránh quái vật tiếp cận.
+
+Akashi phát hiện sáu dấu hiệu sự sống cách hai kilomet về phía đông, giống một gia đình. Nhóm Helbrin cưỡi lạc đà Bactrian tới nơi, phát hiện lều ngụy trang bằng bạt màu cát trên sườn đụn. Người cha và con trai khoảng mười lăm, mười sáu tuổi, đều là Thức Tỉnh Giả hạng F, dùng kiếm xương quái vật chống trả tuyệt vọng nhưng bị khống chế ngay. Gia đình còn có ông lão, người mẹ và hai đứa trẻ nhỏ. Ông lão cầu xin nhưng bị giết vì bị xem là gánh nặng tốn thức ăn.
+
+Lính đánh thuê đánh đập gia đình để họ không chống cự trên đường. Hai cha con, dù chỉ hạng F, là hệ chiến đấu nên bị xem là nguy hiểm nếu không có khóa mana; chúng đâm chết họ như giết gia súc. Những người còn lại bị buộc im lặng bằng lời đe dọa ai mở miệng sẽ chết. Kết quả ba người chết, ba người bị bắt. Hassim trách ít quá, rồi yêu cầu Akashi dùng kỹ năng dò tìm nhiều hơn cho đến khi đủ một trăm nô lệ, hứa sau khi chiếm Steel Fortress sẽ cho hắn mọi phụ nữ hắn muốn.
+
+Zeon đào được ba thi thể dưới cát: ông lão, người đàn ông trung niên và cậu bé có nét mặt giống nhau. Cậu suy ra ông lão bị giết vì là gánh nặng, còn cha con bị giết vì là Thức Tỉnh Giả chiến đấu tiềm ẩn uy hiếp. Brielle không thể nhìn xác, khóc vì không hiểu sao con người có thể làm vậy với nhau. Zeon đồng tình nhưng không tìm được dấu thủ phạm vì cát đã nuốt dấu chân; cậu đoán scavenger cưỡi lạc đà Bactrian nên rất cơ động.
+
+Để tìm chúng, Zeon quyết định lên trời. Brielle cưỡi Gaia, còn Zeon dùng cột cát bay lên. Ở độ cao năm trăm mét vẫn chưa thấy Helbrin nên họ lên khoảng bảy trăm mét, rồi bị Bladed Frigatebird tấn công. Đây là quái vật bay giống frigatebird khổng lồ, sải cánh gần năm mét, sống cả đời cưỡi gió và săn Bullet Hummingbirds. Sức chiến đấu chỉ khoảng hạng C nhưng tốc độ vượt âm thanh, đôi cánh sắc như lưỡi đao. Gaia dùng khiên năng lượng đỡ cú va chạm đầu tiên, Zeon dựng tường cát lệch hướng cú tấn công thứ hai và nhận ra họ đã xâm nhập lãnh địa của nó. Khi nó lao tới lần nữa, Zeon dùng Sand Tornado nuốt trọn nó.
+
+## Chương 300
+
+Sand Tornado là xoáy lốc cát có phạm vi nhỏ hơn Sand Storm nhưng sức phá hủy tập trung mạnh hơn nhiều với mục tiêu đơn. Nó mài Bladed Frigatebird trong xoáy, xé lớp lông cứng hơn thép, thứ giúp nó bay siêu thanh. Khi lông bị lột, thân thể mỏng manh bị nghiền nát, chỉ còn lông rơi xuống như tuyết. Brielle dùng mũ nhọn hứng lông và cất vào subspace vì nghĩ có thể dùng được sau này. Zeon tiếp tục bay cao quan sát và thấy cột bụi vàng ở đường chân trời, xác định vị trí scavenger.
+
+Nhiều Bladed Frigatebird khác xuất hiện vì đồng loại bị giết. Zeon không muốn đánh vô ích khi đã biết hướng Helbrin nên hạ xuống đất cùng Brielle/Gaia. Bladed Frigatebird không đuổi theo dưới một độ cao nhất định, điều này khiến Zeon nhẹ nhõm vì quái vật siêu thanh bổ nhào từ trên trời xuống sẽ gần như không thể tránh. Zeon dùng Sand Stride đuổi theo hướng đã thấy, Gaia chở Brielle phía sau. Zeon tính chỉ khoảng hai giờ sẽ bắt kịp.
+
+Trên đường, Titan Beetle khổng lồ trồi lên khỏi cát. Nó giống bọ cánh cứng phóng đại, có vỏ như titanium với phòng ngự cực mạnh và hơi thở lửa nung chảy kẻ địch. Trong tình huống bình thường Zeon có thể né hoặc hạ từ từ, nhưng cần băng qua nhanh để đuổi scavenger. Sand Mixer vô hiệu vì vỏ quá cứng, còn kháng lửa của Titan Beetle cũng cao, khiến nó là đối thủ bất lợi với Zeon.
+
+Zeon dùng Sand Gehenna biến cát xoáy thành dung nham, nhấn nửa thân Titan Beetle vào đó làm vỏ nóng đỏ. Cậu gọi Gaia dùng điều khiển nguyên tố làm lạnh thật nhanh. Gaia hạ nhiệt độ, khiến sương giá phủ lên lớp vỏ nóng. Zeon tận dụng sốc nhiệt, kích hoạt Claymore dưới thân Titan Beetle; vỏ bị nóng/lạnh đột ngột suy yếu rồi vỡ nát trong vụ nổ, thân bọ nổ tung như núi lửa. Zeon không dừng lại, còn Brielle nhặt mảnh vỏ vào subspace.
+
+Từ xa, Helbrin thấy vụ nổ như mây nấm và tưởng núi lửa. Hassim nghi ngờ vì không có chấn động trước đó, hỏi Akashi và xác nhận đó là chỗ có quái vật lớn ít nhất hạng B mà họ đã tránh. Hassim suy luận khả năng cao có người hoặc một tồn tại phi lý nào đó đã săn Titan Beetle, và trực giác xấu khiến thuộc hạ căng thẳng. Lúc này họ đang ở một làng sống sót khác, đã giết những người quá già/quá trẻ, chỉ bắt mười người làm nô lệ.
+
+Hassim ra lệnh cho Alton, enchanter hạng D chuyên yểm nổ vào vật thể, đặt bẫy quanh làng. Alton cần thời gian chuẩn bị nên khó dùng khi đột kích, nhưng nếu có thời gian thì uy lực lớn. Helbrin rút lên đụn cát cách vài kilomet, Hassim dùng kính viễn vọng yểm phép quan sát. Khi thấy một người đàn ông, một cô bé và vật thể lớn lơ lửng xuất hiện ở làng, hắn xác nhận có kẻ đang lần theo mình và lệnh Alton kích nổ. Vụ nổ khổng lồ nuốt chửng Zeon, Brielle và Gaia.
+
+## Chương 301
+
+Hassim kinh hoàng khi nhìn qua kính viễn vọng và thấy Zeon, Brielle cùng Gaia hoàn toàn vô sự sau vụ nổ mà Alton đã dồn hết mana chuẩn bị. Vụ nổ đủ mạnh để giết cả Hassim, nhưng Zeon không bị trầy xước, chứng tỏ người đàn ông kia mạnh hơn hắn. Từ xa, Hassim cảm nhận được sức ép trong ánh nhìn của Zeon và hiểu mình đã chọc giận một “quái vật”. Sau nhiều năm làm scavenger, hắn chưa từng gặp tồn tại đáng sợ như vậy, và lập tức nghĩ đến chạy trốn vì đối đầu trực diện sẽ khiến Helbrin bị xóa sổ.
+
+Hassim ra lệnh chuyển sang Kế hoạch S, Survival Plan, phương án dự phòng cho lúc mục tiêu duy nhất là sống sót. Điểm hội quân là khu ổ chuột Neo Seoul, dù đó là nơi nguy hiểm với scavenger, vì trốn trong đám đông còn tốt hơn cố cắt đuôi Zeon giữa sa mạc. Hắn cũng tính sau khi hoàn tất giao dịch với Spider Queen, họ có chỗ đứng trong khu ổ chuột hoặc Neo Seoul. Dù mới bắt được khoảng bốn mươi nô lệ, Hassim định bù số còn thiếu bằng cách bắt người trong khu ổ chuột. Nhóm tách thành ba đơn vị, mỗi đội đi một đường; Hassim, Akashi và Alton đi cùng nô lệ.
+
+Zeon đến hiện trường sau khi Helbrin đã rút. Cậu sống sót nhờ chui xuống cát tránh nổ, còn Gaia dựng khiên bảo vệ Brielle; ngôi làng sống sót thì bị phá hủy hoàn toàn. Zeon thừa nhận mình đã đánh giá thấp đám scavenger: chúng hiểu sa mạc, quyết đoán, biết rút lui và biết lợi dụng cơ hội, khó đối phó hơn ma thú hạng A vô tri. Dấu vết cho thấy chúng tách thành ba nhóm, buộc Zeon phải chọn một hướng. Cậu chọn hướng đông vì dấu vết sâu hơn, suy ra có tải nặng và có thể là những người bị bắt.
+
+Sau nửa ngày truy đuổi, Zeon phát hiện nhóm mình đuổi lại tách ra lần nữa, từ ba thành sáu, rõ ràng là kế hoạch ban đầu chứ không phải ứng biến. Cậu tiếp tục chọn vệt sâu nhất bên phải, dù có thể là bẫy. Cuối cùng Zeon thấy cột bụi của nhóm Hassim. Cậu bảo Brielle đuổi theo sau, rồi dùng cột cát phóng bản thân như đạn pháo, sau đó lượn bằng gió và cát để áp sát nhóm lính đánh thuê.
+
+Khi Zeon đuổi kịp, lính đánh thuê hoảng loạn nhưng quay lại chiến đấu. Chiến binh tuyến đầu dùng khiên, pháp sư phóng kỹ năng; Zeon dùng Sand Blaster chặn đòn, Claymore dưới chân hất tung chiến binh, rồi Viper bằng rắn cát đánh gục pháp sư. Dù bị thương, lính đánh thuê vẫn nghiến răng lao vào như điên, cho thấy chúng không hề yếu. Zeon đáp bằng Fire Rain, dùng lửa từ gauntlet thiêu sống hơn hai mươi người. Cậu hiếm khi tàn nhẫn như vậy, nhưng biết nếu để hở một chút chúng sẽ trốn như chuột, và muốn chúng cảm nhận đau đớn vì những gì đã làm.
+
+Zeon tiến đến tên thủ lĩnh đội nhỏ đang chịu đựng dù cánh tay cháy, rõ ràng mạnh hơn những người khác. Cậu lạnh lùng đề nghị: nói hết mọi thứ về nhóm, đổi lấy cái chết không đau. Khi hắn chửi lại, Zeon làm lửa bùng mạnh hơn, khiến hắn co giật gào thét, rồi cho hắn cơ hội cuối cùng để khai tất cả.
+
+## Chương 302
+
+Zeon moi được từ lính Helbrin rằng chúng là scavenger giả danh lính đánh thuê, săn người khắp sa mạc; thủ lĩnh là Hassim hạng B, nhóm có tám mươi thành viên hạng C/D. Tuy nhiên nhóm Zeon bắt chỉ là mồi nhử chở vật tư nặng bằng lạc đà hai bướu, để lại dấu sâu khiến Zeon tưởng chúng mang nô lệ. Zeon thừa nhận Hassim phản ứng nhanh và hiệu quả, khiến cậu lãng phí thời gian trong khi các nhóm khác tản về Neo Seoul.
+
+Brielle nhận ra một chiếc vòng kim loại bị cháy đen trên tay một xác chết. Đó là vòng của cô, vật truyền qua nhiều thế hệ mẹ-con gái trong dòng High Elf, biểu tượng di sản của cô. Khi bị bắt cóc, scavenger lấy mất nó, khiến Brielle cảm thấy như đánh mất một phần bản thân và không còn xứng đáng làm High Elf. Giờ lấy lại vòng, cô đau lòng vì nó đã bị máu, cát và ác ý của con người làm ô uế không thể khôi phục. Cô đeo thử nhưng không có gì xảy ra, nói mình “không còn xứng đáng”, rồi cất vòng vào subspace trong mũ.
+
+Zeon quyết định dừng truy đuổi giữa sa mạc vì Helbrin đã phân tán quá rộng, nhưng biết đích đến của chúng là Neo Seoul nên sớm muộn sẽ gặp lại. Cậu nghĩ chỉ cần theo dõi Spider Queen Eli thì âm mưu sẽ lộ ra. Trở về nhà, Brielle thả mình lên sofa, Gaia chui ra chơi với cô, khiến tâm trạng cô nhẹ đi vì căn nhà này là nơi trú ẩn thay thế cho làng High Elf không thể trở về.
+
+Zeon đến gặp lão Klexi, kể về Helbrin, việc chúng giao dịch với Spider Queen, đang săn một trăm nô lệ và có thể đã lẻn vào Neo Seoul. Klexi nhận định scavenger bình thường khó qua hệ thống kiểm tra Neo Seoul, Eli có thể giúp vài kẻ vào nhưng không dễ đưa cả nhóm vài chục người. Nếu chúng vào khu ổ chuột, khả năng chúng sẽ tránh Sinchon vì biết đó là địa bàn Zeon, có thể trốn ở Jongno, Cheonho-dong hoặc Guro. Klexi hứa dùng Mắt Argos tìm người khả nghi, còn Zeon nói việc bắt/phạt chúng là phần của cậu.
+
+Klexi cảm thấy tuổi già khiến mình muốn yên bình hơn hỗn loạn, dù thời đại này coi yên bình là xa xỉ. Ông nấu mì nước cho Zeon bằng nước dùng hầm cả ngày. Zeon nhận ra người dân khu ổ chuột tuy rách rưới mệt mỏi nhưng vẫn có ý chí sống và hy vọng, điều khác biệt với các thuộc địa/làng sống sót chỉ có sợ hãi tuyệt vọng. Cậu cảm thấy trách nhiệm bảo vệ hy vọng mong manh này. Klexi không nói rằng ông luôn chuẩn bị phần ăn riêng sạch hơn cho Zeon và Brielle, không dùng thịt quái vật hay thành phần đáng ngờ, đặc biệt vì cơ thể Brielle còn nhỏ.
+
+## Chương 303
+
+Neo Seoul tái chế gần như mọi thứ: tài nguyên, Magic Stone, nước thải, rác và chất bẩn, trừ xác người. Các cơ sở thu hồi tài nguyên nằm sâu dưới đất, khổng lồ đến mức chứa được cả tòa nhà lớn, biến phần lớn rác/nước thải thành vật liệu hữu dụng. Tuy nhiên nước thải ô nhiễm quá nặng bị xả vào hệ thống cống ngầm khu ổ chuột, tạo mùi hôi độc đến mức cư dân cũng tránh xuống nếu không cần. Lối vào cống bị song sắt dày chặn, người thường gần như không thể vào, và ít ai quan tâm bên dưới có gì.
+
+Trong cống vẫn có người sống: những kẻ không đủ khả năng thuê phòng ở khu ổ chuột, người bị dồn vào đường cùng, sát nhân, kẻ giết để ăn, và những người chưa từng có lựa chọn. Họ tạo thành cộng đồng tự gọi là Crocodiles, như cá sấu sống dưới đáy đầm lầy, bị định mệnh buộc sống trong bụng tối Neo Seoul. Một cậu bé Crocodile tên Zetoya, tóc đỏ có tàn nhang, được sinh ra dưới cống nên khứu giác/thị giác suy giảm nhưng thính giác/xúc giác cực nhạy như dơi. Cậu định hướng bằng nhịp nước rơi từ trần cống, ghi nhớ sự khác nhau từng điểm, nên được xem là pathfinder giỏi nhất trong Crocodiles.
+
+Zetoya thuộc Red Horn Crocodile Crew, nhóm trẻ mồ côi tụ lại để sống sót. Ban đầu họ bảo vệ nhau, nhưng sau đó hình thành thứ bậc. Zetoya từng là thành viên đời đầu nhưng bị cô lập sau khi Kojiya, kẻ luôn xung đột với cậu, thức tỉnh thành Martial hạng F và trở thành thủ lĩnh. Với đám trẻ chưa trưởng thành, hạng F gần như hạng S. Kojiya thường ép Zetoya đi tìm “thứ hữu dụng” dưới cống; nếu về tay không, cậu sẽ bị đánh.
+
+Zetoya đến hồ chứa nước thải đầu nguồn như một cái hồ bùn độc khổng lồ, nơi Crocodiles không ai dám vào vì độc tố làm mờ trí óc cả Thức Tỉnh Giả. Cậu lại hoàn toàn thích nghi với môi trường này nên bơi trong bùn như nước, nhưng không tìm được gì. Trên đường về căn cứ Red Horn Crocodiles, cậu nghe tiếng cầu xin và thấy Helbrin Mercenaries đang tàn sát lũ trẻ. Kojiya đã bị chặt đầu. Helbrin chê bọn trẻ hôi bẩn, ô nhiễm, không bán làm nô lệ được vì Spider Queen muốn “người thuần khiết”, nên giết sạch. Zetoya lỡ nấc, bị Hassim phát hiện và phải chạy, nhận ra không thể thoát trong cống nên phải lên mặt đất.
+
+Đêm đó Borin đến nhà Zeon xin gặp riêng. Cô thừa nhận Khu Bắc phát hiện dấu hiệu Spider Queen Eli phản loạn. Zeon hỏi vì sao Khu Bắc không tự xử vì Eli dù mạnh vẫn dưới Serien, và Borin giải thích Khu Bắc có thể kiềm chế Eli bên trong nhưng vấn đề là những kẻ bên ngoài mà Eli bắt tay. Cô muốn Zeon truy tìm những kẻ ngoài khu đó.
+
+## Chương 304
+
+Borin yêu cầu Zeon tìm những kẻ bên ngoài mà Eli hợp tác. Cô giải thích Khu Bắc tuy đông người và nhiều Awakened nhưng phi nhân rất khó tiếp cận scavenger, vì scavenger cảnh giác cực cao, không tin cả đồng loại và xem phi nhân như con mồi chứ không phải đối tượng đàm phán. Ngay cả elf hay thú nhân giống người cũng bị chúng phân biệt. Do đó Awakened Khu Bắc hầu như không thể thâm nhập scavenger, trừ trường hợp dị biệt như Eli. Zeon đã nhiều lần chạm trán scavenger nên hiểu tập tính của chúng hơn người Neo Seoul khác.
+
+Zeon đồng ý giúp nhưng yêu cầu Khu Bắc nợ mình một ân huệ trong tương lai, chưa cần xác định cụ thể. Borin chấp nhận vì vụ Eli phản loạn quá nghiêm trọng và cô tin Zeon sẽ không đòi điều gây hại lớn cho Khu Bắc. Zeon vốn đã định truy tìm Helbrin vì Brielle, nên việc Khu Bắc mắc nợ là lợi ích thêm. Borin hứa nếu cần hỗ trợ trong lúc truy tìm, Khu Bắc sẽ giúp hết sức, rồi rời đi.
+
+Brielle và Gaia nấp sau cửa vì Zeon đã xóa sự hiện diện/mùi của Gaia trước khi Borin vào. Zeon không thể để elf thấy Gaia vì nếu biết sinh mệnh tinh linh này tồn tại, elf chắc chắn sẽ làm mọi cách để chiếm lấy. Brielle không thích gặp elf khác, nói đời cô có Mandy là đủ. Khi nhắc đến phản loạn, Brielle giải thích elf về bản chất không bao giờ chống lại trật tự đã định; lần duy nhất họ phá luật là khi Kurayan bị hủy diệt, đáng lẽ elf phải chết cùng thế giới mình nhưng lại chống số phận để sống sót, khiến Trái Đất bị phá hủy. Cô xem đó là nguyên tội của elf và phi nhân, thứ đem đau khổ cho cả hai thế giới.
+
+Brielle từng không nghĩ elf phạm tội lớn, vì thù hận con người và cho rằng sự hủy diệt là xứng đáng. Sau khi Zeon cứu khỏi nghiện thuốc và sống ở khu ổ chuột, cô nhận ra tội lỗi phi nhân gây ra. Cô tự hỏi làm sao mình, một elf mang nguyên tội, có thể ngẩng cao đầu trước con người. Gaia ôm cô an ủi, giúp cô lấy lại tinh thần. Brielle quyết định đi cùng Zeon truy scavenger để vượt qua vết thương tâm lý bị bắt cóc.
+
+Zeon và Brielle đến quán Klexi ăn tối và hỏi tin. Klexi nói Mắt Argos đã theo dõi nhiều ngày nhưng không có tin ở Sinchon, Dongdaemun, Guro hay Cheonho-dong. Ông suy luận nếu scavenger biết vào Neo Seoul sẽ bị chú ý, chúng sẽ chọn nơi không nổi bật: cống ngầm, nơi Crocodiles sống ngoài tầm Mắt Argos. Zeon quyết định tự vào cống vì Argos giỏi trà trộn đám đông nhưng vô dụng trong không gian khép kín. Ngay lúc đó, mặt đất rung mạnh và một giọng yếu ớt vọng từ đường ống dưới cửa hàng Klexi: có người dưới đất đang gọi cứu.
+
+## Chương 305
+
+Klexi phát hiện đường cống dưới cửa hàng có thể nối với Crocodile Den, nổi giận vì lũ trẻ đào hầm dưới cửa hàng mà không xin phép nhưng vẫn chỉ chỗ vào cống gần nhất. Zeon và Brielle đến lối vào, Zeon phá song sắt như cát rồi vào cống. Mùi hôi nghẹt thở khiến Brielle phải uống thuốc làm tê khứu giác, thứ cô chuẩn bị phòng khi phải quay lại Crocodile Den. Cả hai nhận ra những chuyện như thế này có vẻ là dòng chảy số phận khó tránh.
+
+Zeon lần theo tiếng gọi qua các ngã rẽ trong cống, dựa vào hướng âm thanh và chấn động. Họ nghe giọng cầu cứu và một giọng thô bạo dọa cắt cổ “con chuột nhắt”. Khi rẽ qua góc, họ thấy ba lính Helbrin quấn turban, mặc dishdasha trắng, đang giữ Zetoya làm con tin với shamshir kề cổ. Zeon không dao động trước đe dọa; hàng chục hỏa tiễn lửa hiện quanh cậu.
+
+Ba lính Helbrin là Thức Tỉnh Giả cận chiến hạng C, đủ sức truyền mana vào vũ khí và được xem là đáng gờm ở Neo Seoul. Chúng lao tới rất nhanh, nhưng Zeon phóng hỏa tiễn lửa dồn dập. Dù fire missile là kỹ năng cơ bản, bản của Zeon mạnh và nhiều đến mức chúng không chống nổi: chặn một có hai, chặn hai có bốn. Một thanh shamshir gãy, hỏa tiễn đánh trực tiếp và lửa lan lên turban, thiêu chết một tên. Hai tên còn lại lăn dập được lửa nhưng gương mặt cháy sém.
+
+Zeon áp sát, đấm vào bụng một tên, rồi gạt nắm đấm của tên Nayar và tung uppercut khiến phần trên hộp sọ hắn nổ tung. Nayar là kẻ mạnh nhất trong ba, nên tên còn lại sụp xuống vì sợ. Zeon nói không quan trọng cậu là ai, mà quan trọng chúng là ai và đã làm gì. Với Zeon, sát khí độc ác của tên lính chỉ như trò trẻ con; ác ý thật sự ẩn trong bóng tối và ra đòn đúng lúc. Zeon đá hắn, giẫm lên cổ, bẻ cổ từng chút để ép hắn hiểu rằng hắn không thể sống.
+
+Khi tên lính cầu xin tha mạng và hứa khai mọi thứ, Zeon không nới chân mà tiếp tục vặn cổ hắn đến sát chết rồi mới cho hít thở, sau đó lại giẫm xuống. Zeon nói hắn không nên xin tha mạng mà phải xin một cái chết nhanh và không đau. Tên lính nhận ra mình không có đường sống và bị nỗi kinh hoàng thật sự nuốt chửng.
+
+## Chương 306
+
+Brielle nhìn xác lính Helbrin với gương mặt vô cảm như lần đầu Zeon gặp cô, nhưng thực chất cô đang phẫn nộ hơn bao giờ hết. Những kẻ Zeon giết là thợ săn người từng bắt cóc cô và vô số trẻ em khác, gồm cả elf. Brielle được đối xử “tốt” hơn vì là alchemist chế được ma túy tinh khiết; nhiều đứa trẻ khác bị bán cho pháp sư điên làm vật thí nghiệm, thành nô lệ đấu sĩ hoặc bị tamer ném cho quái vật ăn. Điều khiến cô giận nhất là tên lính đến lúc chết cũng không nhận ra cô, vì với chúng cô chỉ là một nô lệ vô danh trong vô số nạn nhân.
+
+Gaia ló ra khỏi subspace để an ủi khi thấy Brielle bất thường. Brielle ôm Gaia, cảm ơn nó rồi bảo quay lại subspace vì không muốn nó ở nơi bẩn thỉu này dù chỉ một khoảnh khắc. Với sinh vật tinh linh như Gaia, môi trường cống quá độc hại; hiện tại nó còn non, cần giữ sự thuần khiết và tiếp xúc với năng lượng sạch. Nhờ Gaia, Brielle nhanh chóng bình tĩnh lại và hỏi kế hoạch tiếp theo.
+
+Tên lính trước khi chết khai Helbrin đã ký giao kèo với Eli nhưng không biết mục đích một trăm nô lệ. Zeon kết luận phải bắt thủ lĩnh Hassim để biết ý định thật. Trước đó, cậu quay sang Zetoya. Cậu bé sợ Zeon hơn cả Helbrin vì thấy Zeon giết những kẻ tàn sát Red Horn Crocodile Crew như đập ruồi. Zetoya sinh ra dưới cống, mơ thấy thế giới trên mặt đất nhưng cơ thể đã thích nghi với ẩm tối như Crocodile, không thể sống thiếu độ ẩm; nhiều trẻ sinh ra ở đây cũng vậy và không dám mơ thoát.
+
+Zeon tự giới thiệu mình và Brielle, nhờ Zetoya dẫn đường đến chỗ Helbrin. Zetoya đồng ý nhưng đặt điều kiện vì tuyệt vọng: Crocodiles cần điện để thanh lọc lòng đất ô nhiễm, nên muốn một mana generator. Zeon nhớ Croker và nhóm Crocodiles từng trộm mana generator của cậu vì lý do tương tự, nhưng nói không thể mua vì Goblin Market không còn cung cấp. Brielle bất ngờ nói cô có thể chế tạo, khiến Zeon nhận ra cô đã lén tháo máy phát mana ở nhà có Watching Eye để nghiên cứu.
+
+Brielle xác nhận nếu gom vật liệu từ Goblin Market thì có thể làm mana generator, nhưng không cung cấp được mana crystal; Zetoya nói phần mana crystal cậu lo được. Brielle đồng ý nhưng yêu cầu cậu dẫn đường. Khi Zetoya lo Helbrin rất đông, Brielle lạnh lùng nói dù tất cả lao vào cũng không thắng được Zeon, cậu đã thấy sức mạnh của Zeon rồi; nếu không dẫn đường thì sẽ không có máy phát. Zetoya chấp nhận.
+
+Trên đường theo Zetoya xuống các lối sâu tối hơn, Zeon hỏi Brielle về việc tháo máy phát. Cô nói vì tò mò, đã vượt qua các ma pháp trận bảo vệ được thiết kế để tự hủy module nếu bị can thiệp, bóc chúng như ve lột xác và nắm công nghệ ma pháp mà Neo Seoul mất cả thế kỷ phát triển. Zeon nghiêm túc dặn cô tuyệt đối không để ai biết mình có thể chế tạo mana generator, vì Neo Seoul sẽ làm mọi cách loại bỏ cô nếu biết. Brielle hứa giữ bí mật. Zeon cảm thấy có một đồng bạn quá tài năng cũng là rắc rối, và dòng chảy số phận không để cậu yên.
+
+## Chương 307
+
+Zetoya dẫn Zeon và Brielle tới căn cứ Red Horn Crocodile Crew, nơi đã biến thành lò sát sinh. Trẻ em bị chặt tay chân, đầu rơi lăn lóc, máu và nội tạng phủ kín nền. Zetoya vừa căm ghét vừa yêu thương những đứa trẻ từng sống với mình hơn mười năm, nên suýt không chịu nổi cảnh này, nhưng vẫn ép bản thân tiếp tục vì cần truy ra Helbrin.
+
+Brielle nhận ra Helbrin vừa rời đi chưa lâu vì đồ đạc còn vương vãi. Zeon đánh giá chúng có bản năng cảm nhận nguy hiểm cực mạnh: chỉ cần đồng bọn không trở về, chúng lập tức bỏ căn cứ, không đi tìm cũng không lưu luyến. Zeon mô tả chúng là dạng scavenger xảo quyệt và man rợ nhất, tuyệt đối tránh kẻ mạnh nhưng tàn nhẫn với kẻ yếu, quyết tâm không để bất kỳ con mồi nào yếu hơn sống sót.
+
+Zetoya khẳng định không ai hiểu cống ngầm hơn mình và nhận trách nhiệm truy dấu, với điều kiện Zeon giữ lời về máy phát mana. Trong cống, Zetoya dùng độ ẩm và mùi để lần theo dấu Helbrin; cậu phân biệt được mùi “khô, giòn, bụi bặm” của người mặt đất, nhất là người từng sống lâu trong sa mạc. Khả năng di chuyển của cậu gần như thằn lằn, bám tường, sàn, trần và chạy với tốc độ đáng kinh ngạc, khiến Zeon xem cậu như một giống người mới thích nghi hoàn toàn với lòng đất.
+
+Zetoya nói mình không thể lên mặt đất vì cơ thể đã thích nghi với bóng tối và độ ẩm; ánh nắng có thể khiến cậu khô quắt chết. Cậu vẫn tin nếu một ngày Thức Tỉnh thì có thể sống được trên mặt đất. Khi nghe tiếng hét phía trước, Zeon vượt lên trước, để lại Zetoya và Brielle phía sau.
+
+Zeon phát hiện bẫy dây bạc làm từ vật liệu quái thú pha titanium, đặt đúng tầm mặt để cắt qua da thịt đã cường hóa của Thức Tỉnh Giả. Cậu né kịp và bị Helbrin phục kích bằng aura cùng ma pháp, nhưng áo choàng Leviathan triệt tiêu xung kích. Zeon phản kích bằng hàng chục hỏa tiễn lửa, đánh bật đám lính đánh thuê.
+
+Hassim xuất hiện tại căn cứ Crocodile khác, nơi Helbrin đã giết sạch đàn ông và bắt phụ nữ/người già co rúm lại. Hắn thừa nhận mình là thủ lĩnh Helbrin, xem việc tấn công làng sống sót chỉ là luật sa mạc: kẻ mạnh săn kẻ yếu. Hassim gọi Alton kích nổ bẫy đã đặt sẵn quanh Zeon, nhưng Zeon xuyên qua khói bằng hỏa tiễn lửa và giết Alton bằng một phát vào trán, khiến Hassim mất một chiến lực chủ chốt.
+
+## Chương 308
+
+Zeon đã quan sát toàn bộ Helbrin trong lúc nói chuyện với Hassim và nhận ra Alton căng như một tay bắn tỉa sắp bóp cò. Khi vụ nổ xảy ra, cậu hiểu Alton chính là kẻ gây ra vụ nổ ở làng sống sót trong sa mạc, nên giết hắn trước. Zeon đánh giá Alton ở một số mặt còn nguy hiểm hơn Hassim vì năng lực đặt nổ.
+
+Sau cái chết của Alton, các Thức Tỉnh Giả Helbrin cùng lao vào Zeon. Chúng là thợ săn người dày dạn, phối hợp hoàn hảo giữa cận chiến và pháp thuật: nhóm cận chiến đánh vào yếu điểm, nhóm pháp thuật oanh kích chính xác, trình độ không thua các đội raid ưu tú của Neo Seoul. Nhưng sự cuồng loạn phô trương của chúng không khiến Zeon dao động; với cậu, điên loạn thật sự phải lạnh, lý trí và sắc bén, với cơn giận cháy ngầm bên dưới.
+
+Zeon mở không gian con và trút ra lượng cát khổng lồ. Cát xoay tốc độ cao dưới chân cậu, xé nát turban, dishdasha, da thịt và cả cơ bắp của lính Helbrin. Aura không ngăn được cát len vào vết rách. Một số tên bị phân rã thành hạt nhỏ hơn cát, mất cả dây thanh quản nên tiếng hét tắt dần.
+
+Vài tên có thân thể bền bỉ cố vượt qua bão cát phản công, nhưng binh sĩ cát xuất hiện chặn đòn rồi đẩy chúng trở lại cơn xoáy, khiến chúng và cả binh sĩ cát cùng bị nghiền nát. Zetoya tận mắt thấy những kẻ tàn sát crew của mình bị biến thành bụi và run sợ trước sức mạnh điều khiển cát của Zeon. Brielle giải thích Zeon là Sand Mage duy nhất ở Neo Seoul, thậm chí có thể là duy nhất trên Trái Đất, và cô kính trọng cậu vì vừa mạnh áp đảo vừa không nuôi tham vọng thống trị.
+
+Zeon thu toàn bộ cát về không gian con, căn phòng sạch đến mức Helbrin như chưa từng tồn tại. Tuy nhiên Hassim đã thoát cùng một kẻ khác bằng vật phẩm dịch chuyển không gian. Zeon suy đoán vật phẩm đó có giới hạn về số lần dùng, số người mang theo hoặc khoảng cách, nên Hassim mới giữ đến phút cuối. Cậu tiếc vì không biết trước, nhưng hứa lần sau sẽ không để Hassim thoát.
+
+Sau đó Zeon quan sát những cư dân cống sống sót: tóc bết dầu, da lở loét, mắt thoái hóa rỉ mủ khi gặp ánh sáng, cơ thể gầy quắt và móng tay dài như sinh vật hoang sơ. Brielle choáng váng vì nhận ra thời gian cô sống dưới trướng băng Croker chỉ là tầng trên của hệ sinh thái ngầm, còn những người này mới là đáy thật sự. Zetoya hỏi giờ Zeon đã hiểu vì sao Crocodiles cần máy phát mana chưa. Zeon gật đầu và quyết định Brielle phải chế tạo máy phát, xem đó như gieo hạt mầm văn minh vào bóng tối dưới lòng đất.
+
+## Chương 309
+
+Hassim và Akashi sống sót nhờ một vật phẩm dungeon tên “Gương Mushura”, thực chất là chiếc thắt lưng có mặt tròn như gương cho phép dịch chuyển không gian tầm ngắn. Vật phẩm này cực hiếm và còn nguyên vẹn, nhưng dịch chuyển hoàn toàn ngẫu nhiên trong bán kính một kilomet; người dùng có thể xuất hiện ở nơi trống, trong tường hoặc giữa không trung. Vì rủi ro lớn, Hassim luôn giữ nó như thắt lưng thường và chỉ dùng trong tình huống sinh tử. Nó cho phép mang thêm một người, nên Hassim kéo Akashi đi cùng.
+
+Hassim tiếc vì không cứu được Alton nhưng nhanh chóng gạt bỏ, vì vẫn còn Akashi, Etley và Bucksher. Hắn dự định hội hợp với Etley và Bucksher trong khu ổ chuột rồi tiếp tục săn nô lệ để bù số thiếu hụt. Số nô lệ đã bắt từ các làng sống sót được hắn giấu riêng từ trước, nên chỉ cần gom đủ một trăm người là có thể thương lượng ngang hàng với Spider Queen. Akashi sợ hãi vì ở lại Neo Seoul đồng nghĩa phải đối mặt Sand Mage, nhưng vẫn buộc phải đi theo Hassim.
+
+Akashi nhớ tin đồn trong sa mạc về Sand Mage, pháp sư dùng cát làm vũ khí. Ban đầu hắn xem đó là chuyện hoang đường, nhưng sự trỗi dậy của Urtian và Iron Fortress khiến tin đồn ngày càng đáng tin. Trước đây Akashi không sợ vì sa mạc quá rộng, gần như không thể gặp Sand Mage. Giờ gặp Zeon với tư cách con mồi, hắn nhận ra vai trò thợ săn/người bị săn đã hoàn toàn đảo ngược.
+
+Zeon và Brielle trở về nhà. Brielle lao vào tắm trước, Gaia chui khỏi không gian con và dùng gió sạch thổi bay mùi hôi bám trên Zeon. Zeon vẫn bị cảnh tượng cống ngầm ám ảnh: người dưới đó sống khắc nghiệt hơn cả sa mạc, bị thiếu ánh sáng và ô uế làm biến dị, có người mọc da cá sấu, có người có mang. Cậu hiểu vì sao một khi đã nhìn thấy họ, mình khó có thể làm ngơ.
+
+Zeon nhìn máy phát mana có Watching Eye ở nhà, nhớ Croker từng tuyệt vọng muốn trộm nó. Cậu chấp nhận giúp làm máy phát cho cư dân cống, nhưng không thể cung cấp mana crystal; họ phải tự lo, vì sinh tồn phải là phần thưởng cho nỗ lực của chính họ. Brielle sau khi tắm nói phần lớn vật liệu có thể mua ở Goblin Market, nhưng cần một kim loại dungeon vừa chịu nhiệt vừa dẫn mana tốt để khắc mạch chuyển mana thành điện, loại gần như bị chính quyền thành phố thu gom ngay khi xuất hiện.
+
+Zeon lấy ra một khối kim loại đen từ không gian con: lõi dungeon đã mất mana nhưng còn nguyên. Brielle kinh ngạc vì đây là lần thứ hai cô thấy lõi dungeon nguyên vẹn, sau Watching Eye. Cô kiểm tra bằng cách gõ, truyền mana và thử nhiều phép đo, rồi xác nhận có thể dùng. Brielle tuyên bố sẽ bận chế tạo, còn Zeon nói mình cũng sẽ bận vì đã bắt đầu cuộc săn thì phải săn đến cùng. Hassim thoát khỏi cống nhưng chưa thoát khỏi tay Zeon.
+
+## Chương 310
+
+Borin giám sát một nhà máy thực phẩm của elf ở rìa Khu Bắc với thái độ lạnh băng. Nhà máy này sản xuất hỗn hợp thịt nuôi cấy và thực vật Kurayan để đáp ứng dinh dưỡng elf, vì Trái Đất cằn cỗi không thể trồng đủ cây như Kurayan, còn các khu bảo tồn như núi Bukhan bị Tòa Thị Chính cấm khai thác. Dù một số elf như Borin đã quen ăn thịt, thực phẩm nhà máy vẫn rất quan trọng với sự sống còn của elf Khu Bắc.
+
+Trong quá trình theo dõi Eli, Borin phát hiện thân tín của Spider Queen thường lui tới nhà máy này. Cô dẫn Blue Leaf Special Forces đột nhập bằng chìa khóa chủ vô hiệu hóa kết giới ma pháp. Khi công nhân elf và dwarf cản đường, Borin tuyên bố hành động theo lệnh Lady Serien, ai cản trở sẽ bị xem là phản nghịch. Dwarf phản kháng dữ dội, nhưng Blue Leaf Special Forces áp đảo bằng kỹ năng vượt trội và nhanh chóng mở đường.
+
+Trong nhà máy, Borin thấy khu trồng cây nhân tạo, ống nghiệm nuôi cấy thịt và khu trồng thực vật Kurayan. Sâu hơn, cô phát hiện một khu vực ẩn không có trên bản thiết kế, phía sau cánh cửa kim loại bị khóa từ trong. Sau khi cắt khóa bằng rapier, cô bước vào và phát hiện mùi máu kinh khủng cùng cảnh thi thể người bị treo trên móc như thịt trong lò mổ, bị phân tách thành từng phần để vô số côn trùng bu vào ăn.
+
+Đám côn trùng to bằng cẳng tay người lớn, có bốn cặp cánh, mười chân, răng móc, bốn cặp mắt độc lập và đuôi bọ cạp. Chúng giống hỗn hợp phóng đại giữa châu chấu và nhiều loài côn trùng khác. Khi cả bầy hàng chục nghìn con cảm nhận người xâm nhập, Borin lập tức ra lệnh đóng và hàn kín cửa để không con nào thoát, nhưng bầy côn trùng bay lên theo đội hình và lao vào Blue Leaf Special Forces.
+
+Một vụ nổ lớn làm rung chuyển Neo Seoul. Zeon lúc ấy đang ở Khu Bắc để tìm hợp tác truy Hassim, cảm thấy điềm xấu nên tới nơi. Cậu thấy nhà máy bốc cháy, công nhân bị khống chế nằm ngoài, rồi vào sâu trong. Cánh cửa thép bị phá tung, bầy côn trùng tràn ra, trong khi Borin hét không được để một con nào thoát vì nếu lọt ra ngoài sẽ thành thảm họa cho Khu Bắc. Zeon lập tức mở không gian con, trút cát và dùng Sand Tornado nuốt chửng, nghiền nát bầy côn trùng.
+
+## Chương 311
+
+Sand Tornado của Zeon nghiền đám côn trùng bằng các hạt cát xoay tốc độ cao như giấy nhám, lột vỏ ngoài cứng chắc rồi xóa sạch phần thân mềm bên trong. Khi Borin và Blue Leaf Special Forces chạy ra, họ thấy cơn lốc cát khổng lồ đang thu nhỏ dần cùng số lượng côn trùng bị tiêu diệt. Việc Zeon mang theo cát trong không gian con khiến họ kinh hãi, vì ở Neo Seoul sức mạnh của cậu còn bị hạn chế; nếu vào sa mạc, cậu chẳng khác nào một thiên tai hạng S ở ngay sân sau.
+
+Borin giải thích đám côn trùng có vẻ là chimera, vỏ cứng như titanium, thân thể dung hợp nhiều loài côn trùng nên không thể xuất hiện tự nhiên. Chúng kháng ma pháp rất mạnh: lửa không đốt được, gió chỉ đẩy lùi, chỉ có sét hữu hiệu vì vỏ kim loại, nhưng Blue Leaf Special Forces không có pháp sư sét. Răng của chúng xé áo đặc chế như giấy, gai độc giết elf trong nháy mắt, khiến đội của Borin suýt bị diệt nếu Zeon không tới.
+
+Zeon cố ý để sống một con, xé cánh và quan sát. Nó mang đặc điểm chuồn chuồn, nhện, bọ cạp, ve sầu và ong, hung hãn không ngừng cắn Zeon nhưng không xuyên nổi áo choàng. Cậu giật gai độc ra, kéo theo thịt, mạch máu và nội tạng, nhưng nó vẫn chưa chết. Qua cấu trúc nội tạng dung hợp hoàn hảo của nhện, ong và bọ cạp, Zeon kết luận đây là “Cổ”.
+
+Zeon giải thích Cổ được tạo bằng cách đào hố lớn, ném vô số côn trùng vào và bỏ đói để chúng ăn thịt lẫn nhau. Kẻ mạnh ăn kẻ yếu, rồi kẻ mạnh hơn lại ăn kẻ sống sót, liên tục chịu căng thẳng và tuyệt vọng để tiến hóa, hấp thu đặc tính của sinh vật bị ăn. Khác chimera nhân tạo thường bất ổn vì bị cưỡng ép dung hợp, Cổ tiến hóa tự nhiên nên ổn định hơn. Loại Cổ trong nhà máy được nuôi chuyên để săn elf, là thiên địch nguy hiểm với cư dân Khu Bắc.
+
+Zeon thiêu con Cổ cuối cùng bằng lửa trắng và nói Ngũ Độc Môn đã thâm nhập Neo Seoul. Ngũ Độc Môn là dòng truyền thừa cổ xưa từng sống hơn một nghìn năm ở vùng rừng độc phía tây nam, nghiên cứu và điều khiển côn trùng độc để sinh tồn. Sau Đại Thảm Họa, sự xuất hiện của ma thú côn trùng khiến chúng càng phát triển, nuôi Cổ trong hố khổng lồ rồi gây giống kẻ sống sót mạnh nhất thành vũ khí. Zeon từng xóa sổ dòng truyền thừa đó, hoặc tưởng là đã xóa sổ, nên suy ra còn một kẻ sống sót.
+
+Zeon kết luận các vụ bắt cóc người là để nuôi Cổ; thi thể trong nhà máy được cung cấp thường xuyên vì con Cổ cuối cùng cần máu thịt tươi giàu dinh dưỡng để sinh sản. Borin quyết định báo cho Lady Serien trước khi tình hình vượt khỏi kiểm soát, đồng thời ra lệnh tống toàn bộ công nhân nhà máy vào ngục để Olga thẩm vấn. Olga là thẩm vấn viên trên danh nghĩa nhưng thực tế là chuyên gia tra tấn điên cuồng, không ai rơi vào tay cô ta mà còn giữ im lặng hay sống sót.
+
+Zeon theo Borin đi gặp Serien, nghĩ Neo Seoul đang hút toàn những kẻ điên: Hassim và thợ săn người, kẻ sống sót cuối cùng của Ngũ Độc Môn, và phía sau chúng là Eli, nhân vật số hai Khu Bắc. Cậu vốn không muốn dính vào chuyện Neo Seoul, nhưng lần này khác; cậu sẽ không đứng nhìn những kẻ đó hoành hành trong sân sau của mình.
+
+## Chương 312
+
+Zeon gặp Serien Oliana, người thống trị Khu Bắc, một elf hơn ba trăm tuổi nhưng vẫn đang ở thời kỳ sung mãn. Serien nhìn Zeon như một bí ẩn thú vị vì ánh mắt và uy áp của cô thường khiến người khác tự nhiên kính sợ, nhưng Zeon hoàn toàn không bị áp đảo. Hai người thừa nhận quan hệ con người-elf vẫn có bức tường sâu sắc dù đã chung sống một thế kỷ: elf không hiểu đời người ngắn ngủi dữ dội, con người oán hận elf vì Trái Đất bị hủy hoại, còn elf ở Neo Seoul phải gánh nguyên tội của chủng tộc mình.
+
+Zeon yêu cầu Serien hành động với Eli vì những kẻ điên đã thâm nhập Neo Seoul và khu ổ chuột. Serien do dự vì Eli từng là cánh tay phải, cùng cô cai quản Khu Bắc suốt một trăm năm và được nhiều cư dân tin tưởng; nếu xử lý bất cẩn, Khu Bắc có thể hỗn loạn. Zeon chỉ ra chứng cứ/nhân chứng đã có, mỗi lúc do dự thêm sẽ có người chết, hiện chúng dùng con người làm thức ăn cho Cổ nhưng sau đó sẽ tới elf, beastkin và dwarf.
+
+Borin, sau khi tận mắt thấy người bị treo như thịt trong nhà máy và bị Cổ ăn, thúc Serien quyết định. Cô cảnh báo nếu Cổ được thả ra ở Neo Seoul, quan hệ với con người sẽ vỡ nát và Khu Bắc không còn là nơi trú ẩn cho phi nhân. Serien hiểu đây như tự chặt tay phải nhưng cuối cùng ra lệnh cho Borin hỗ trợ Zeon hạ Eli và bắt giữ cô ta.
+
+Serien giao cho Borin hai người trong Punishers, lực lượng bí mật tương đương Numbers của Jin Geum-ho, gồm elite elf và beastkin Awakened đã ngủ yên nhiều thập kỷ. Việc tái kích hoạt Punishers chứng tỏ Serien đã đưa ra quyết định trọng đại. Borin cảm ơn và hứa làm mọi điều vì Serien và Khu Bắc.
+
+Ra ngoài, Zeon và Borin chia việc: Borin xử lý Eli, Zeon lo Helbrin Mercenaries và kẻ sống sót Ngũ Độc Môn. Zeon dùng viên đá đen Urtian tặng, loại Moss scavenger dùng để liên lạc và tìm tổ. Khi truyền mana, viên đá hóa xanh và cho phép nhìn thấy ký hiệu tổ scavenger hình tổ chim, vốn vô hình bằng mắt thường. Zeon tìm được một nơi ẩn náu ở Khu Bắc, đá tung cửa và bắt đầu tra hỏi các scavenger bên trong.
+
+## Chương 313
+
+Trong tổ scavenger đầu tiên, một scavenger hạng D khạc đờm lên giày Zeon để uy hiếp, nhưng ngay lập tức bị Zeon đá vỡ hàm, xương hàm đâm vào não và chết tại chỗ. Những kẻ còn lại nhận ra vấn đề không phải đồng bọn yếu mà Zeon quá mạnh, vì cậu chưa dùng kỹ năng nào đã nghiền nát các võ sĩ được rèn luyện bằng sức mạnh thô và chuyển động đơn giản.
+
+Tên scavenger già nhất nhanh trí đầu hàng, gọi Zeon là đại ca vì theo luật của chúng kẻ mạnh nhất là thủ lĩnh. Hắn tự xưng David, nhưng Zeon biết đó là tên giả vừa nghĩ ra. David hiểu Zeon đang tìm người và khả năng cao mục tiêu ở một trong các tổ scavenger, nên dùng đá Moss gửi tin nhắn mã hóa kiểu Morse tới mạng lưới liên lạc của mình.
+
+Zeon cho David biết mục tiêu là Helbrin Mercenaries, hiện chỉ còn Hassim, một thuộc hạ, cùng hai kẻ đã vào Neo Seoul trước đó. David kinh hãi vì hiểu điều này nghĩa là Zeon gần như đã xóa sổ toàn bộ nhóm Helbrin. Khi hỏi tên Zeon, David nhận ra cậu chính là Sand Mage, thảm họa biết đi trong giới scavenger, và càng biết ơn vì mình đã chọn đầu hàng thay vì chống cự.
+
+David nhận hồi âm từ Moss: Hassim và người của hắn đang ở Tổ Năm. Người gửi tin từng bị Hassim đánh, nên khả năng nói dối thấp. Khi Zeon hỏi vị trí, David do dự rồi nói Tổ Năm ở gần Tòa Thị Chính. Ngay cả Zeon cũng bất ngờ vì scavenger đã lập tổ gần trung tâm quyền lực nhất Neo Seoul, một nơi đáng lẽ không thể hoạt động tự do.
+
+## Chương 314
+
+Khu trung tâm quanh Tòa Thị Chính có trật tự và an ninh vượt xa các khu khác; gây rối ở đây đồng nghĩa thách thức Tòa Thị Chính. Tuy vậy scavenger đã lợi dụng chính quyền uy đó để che giấu Tổ Năm ngay dưới mũi họ, tại tầng hầm bảy bí mật của một tòa nhà cách Tòa Thị Chính hai dãy nhà, tầng không có trên bất kỳ bản vẽ nào.
+
+David dẫn Zeon tới lối sau được che bằng ma pháp ẩn giấu và mở cửa bằng đá Moss, vì mỗi viên đá mã hóa thông tin chủ sở hữu như chìa khóa. Zeon chỉ ra nhật ký sẽ cho thấy David là người mở cửa, khiến David tuyệt vọng vì biết mình sẽ bị giới scavenger truy sát. Hắn định tới nơi sẽ trốn, nhưng Zeon chỉ hứa thả sau khi xác nhận đây thật là tổ scavenger.
+
+Khi thang máy xuống tầng hầm bảy mở cửa, David vừa giới thiệu đã bị mưa đạn chuyên diệt Thức Tỉnh Giả xé nát. Đạn bắn vào Zeon bật khỏi áo choàng Leviathan. Hassim đã chiếm Tổ Năm và chờ sẵn Zeon cùng Akashi, Bucksher và Etley. Hassim đoán David liên lạc là có vấn đề nên phục kích.
+
+Hassim thừa nhận đã giao toàn bộ nô lệ bắt từ các làng sống sót cho Spider Queen vì bận chạy trốn Zeon. Hắn biết Eli đang nuôi Cổ và chính hắn là kẻ giới thiệu Eli với người điều khiển chúng, tức cầu nối giữa Eli và Ngũ Độc Môn. Sau đó hắn kích hoạt artifact “Chó Nuốt Mặt Trời” đã gài trong thang máy, phong ấn Zeon trong pha lê có khả năng bất động con mồi và làm rối loạn dòng mana, vốn chỉ có ngoại lực cấp S mới phá được.
+
+Hassim và Etley định biến Zeon bị phong ấn thành chiến lợi phẩm, nhưng pha lê bắt đầu nứt. Ngay cả Chó Nuốt Mặt Trời cũng không giữ được Zeon. Khi khối pha lê nổ tung, các scavenger tổng tấn công nhưng Zeon thả White Phosphorus Fire. Đốm lửa đẹp như hoa sa mạc bùng thành địa ngục, bám vào mọi thứ và chỉ tắt khi thiêu mục tiêu thành tro, khiến đám scavenger la hét lăn lộn mà không dập được.
+
+## Chương 315
+
+White Phosphorus Fire là ngọn lửa tàn nhẫn chỉ tắt khi xương bị thiêu thành tro; Zeon thường tránh dùng nếu không cần, nhưng với scavenger hiện tại cậu không có lý do kiềm chế. Hassim và Etley may mắn tránh được lửa, vừa phẫn nộ vừa kinh hãi vì từng thiêu sống nhiều người nhưng không muốn nếm cùng số phận.
+
+Bucksher hóa lycanthrope lao vào Zeon, có sức mạnh ngang Thức Tỉnh Giả hạng B, nhưng không thể kéo hay làm tổn thương cậu. Zeon thoát khỏi kìm kẹp, đấm vỡ hàm, thúc gối liên tục vào sọ và mặt Bucksher, khiến khả năng hồi phục lycanthrope không kịp bù đắp thương tổn. Etley vung rìu chiến cứu viện nhưng bị Zeon né và nện vỡ mũi, sau đó Hassim phải chặn Fire Missile giúp hắn.
+
+Hassim dùng aura phá tường cát của Zeon, nhưng Zeon đã biến mất và để lại hai mươi binh sĩ cát. Binh sĩ cát áp đảo toàn bộ Helbrin: Bucksher bị ghì đánh, Etley tuyệt vọng vung rìu, Akashi nhanh chóng thua thế, còn Hassim bị mười binh sĩ vây. Dù Hassim chém hạ bao nhiêu, chúng vẫn tái sinh, khiến mana hắn cạn dần.
+
+Zeon xem Hassim không phải kẻ săn mồi thật sự mà chỉ là tên hèn chuyên săn kẻ yếu, vì vậy cái chết của dân làng sống sót càng bi thảm. Cậu dùng Sand Viper đánh nát tay phải Hassim đang cầm shamshir, rồi để binh sĩ cát đánh hắn như bao cát đến mức mặt không còn nhận ra. Bucksher vẫn cố cứu Hassim nhờ hồi phục người sói, nhưng Zeon thả White Phosphorus Fire lên ngực hắn; khả năng tái sinh trở thành lời nguyền vì thịt vừa hồi phục lại bị thiêu tiếp, khiến Bucksher mắc trong vòng lặp đau đớn.
+
+Hassim bị ghì xuống, cố khiêu khích Zeon bỏ cát đấu tay đôi, nhưng Zeon từ chối vì cát là sức mạnh của cậu và người thắng không cần vứt bỏ lợi thế. Zeon hỏi thông tin về Ngũ Độc Môn. Khi Hassim không chịu nói, cậu lấy lọ chứa Phantom Hairworm, một loại quái vật dạng sợi. Sau khi chạm nước, nó sống dậy, cảm nhận sinh vật gần nhất và chui vào miệng Hassim, khiến hắn lập tức hét đòi nước.
+
+## Chương 316
+
+Akashi chứng kiến địa ngục của Helbrin: Etley bị nghiền tứ chi, Bucksher bị White Phosphorus Fire thiêu trong vòng lặp tái sinh-đốt cháy đến không còn sức hét, còn Hassim, thủ lĩnh từng không thể lay chuyển, biến thành cái vỏ khô héo cầu xin nước. Phantom Hairworm trong người Hassim hút cạn nước cơ thể, khiến da hắn nứt như vỏ cây và tâm trí vỡ vụn vì khát.
+
+Zeon đặt ấm nước trước mặt Hassim và yêu cầu hắn khai về Ngũ Độc Môn. Hassim sụp đổ, nói hết từ lần đầu gặp hậu duệ Ngũ Độc Môn, cách giới thiệu kẻ đó cho Eli, đến mọi đặc điểm nhận dạng của huyết mạch này. Sau khi được thả khỏi binh sĩ cát, hắn uống cạn ấm nước nhưng vẫn khát điên cuồng, không tìm được nước nên cắn cổ một thi thể để hút máu như ma cà rồng.
+
+Akashi hiểu Helbrin Mercenaries đã kết thúc. Zeon nhận ra Akashi là kẻ có khả năng phát hiện ma thú, năng lực hiếm và rất có giá trị cho raid dungeon, Pathfinder squad, guild mới của Jang Yong-beom, Goblin Market hoặc Tòa Thị Chính. Zeon quyết định giữ hắn sống nếu hợp tác, đồng thời dùng Phantom Hairworm còn lại để đảm bảo Akashi không đổi ý.
+
+Zeon nhặt mảnh tinh thể vàng nhạt còn lại của Chó Nuốt Mặt Trời trong thang máy. Akashi nói đó là vật phẩm dùng một lần đã hỏng, nhưng Zeon định đưa cho Brielle nghiên cứu, vì cô có thể phân tích tới cấp nguyên tử và có khả năng sửa hoặc ít nhất học được cơ chế. Zeon cũng lấy Gương Mushura, chiếc thắt lưng dịch chuyển ngẫu nhiên trong bán kính một kilomet của Hassim. Trước khi rời đi, cậu nung chảy thang máy và phong kín giếng thang, nhốt Hassim lại để chết chậm trong cơn khát vô tận.
+
+Ở phía Eli, Romina báo đã mất liên lạc hoàn toàn với scavenger khoảng ba mươi phút trước và số nô lệ chưa đủ một trăm. Eli nhận ra mọi chuyện hỏng, định xuống lòng đất, nhưng ngay lúc đó Blue Leaf Special Forces tấn công dinh thự của cô ta. Eli bực tức vì đội của Borin vốn không đủ mạnh để đánh trực diện cô, nhưng thuộc hạ báo có hai kẻ không rõ danh tính hỗ trợ khiến họ bị áp đảo.
+
+Eli ra ban công quan sát kết giới quanh nhà mình, vốn được gia cố bằng bùa chú elf và sức mạnh của cô ta. Blue Leaf Special Forces chọn phá bằng vũ lực. Một elf tóc bạc đeo mặt nạ kim loại dùng Cung Nylia bắn mũi tên như tia sáng, làm kết giới rung chuyển và nứt sâu. Cung Nylia là artifact huyền thoại từng thuộc về anh hùng elf Nylia, được White Bear Caravan đấu giá nhưng chưa phe nào giao được cho người xứng đáng; nay một người lạ sử dụng nó dễ dàng.
+
+Thuộc hạ Eli cố lao vào cung thủ nhưng bị Blue Leaf Special Forces giữ chân. Dưới chỉ huy Borin, họ được một bóng người trùm mũ buff bằng aura xanh, tăng gấp đôi năng lực chiến đấu. Eli nhận ra thân phận hai người hỗ trợ rất có thể là Punishers của Serien. Mũi tên tiếp theo từ Cung Nylia nổ như sấm, làm kết giới của Eli vỡ tan thành vô số mảnh.
+
+## Chương 317
+
+Eli nhớ lại nỗi nhục về Punishers: dù cô ta là nhân vật số hai Khu Bắc và đã đi theo Serien hơn một trăm năm, cô ta không biết mặt hay tên họ, trong khi chỉ Serien biết thân phận thật. Serien từng nói Punishers sẽ không lộ diện hay phục tùng ai trừ khi chính họ công nhận người đó; với Eli, điều đó đồng nghĩa họ không công nhận cô ta vì cô ta không phải nữ vương. Đây có thể là điểm bắt đầu tham vọng trở thành Nữ vương Khu Bắc của Eli.
+
+Punisher đeo mặt nạ dùng Cung Nylia bắn Eli. Cô ta chặn bằng Spiderweb Barrier, một tấm khiên mạng nhện bằng chỉ bạc vô hình có thể hấp thụ mana và phân tán xung kích, nhưng mũi tên phá hủy hoàn toàn kết giới. Eli nổi giận vì bị một Punisher “tầm thường” chế giễu, ra lệnh hạ họ.
+
+Borin dẫn Blue Leaf Special Forces tổng tấn công dinh thự Eli. Nhờ buff của Punisher, sức mạnh của họ tăng gấp nhiều lần, nhưng đây là buff cưỡng ép tiềm năng ẩn ra ngoài, đốt cạn thể lực của mười ngày chỉ trong một trận và sẽ khiến họ nằm liệt ít nhất mười ngày sau đó. Borin hiểu phải kết thúc trước khi buff hết.
+
+Khi không tìm thấy Eli trong dinh thự, Punishers phát hiện phòng ngầm và phá sàn mở cầu thang. Dưới đường hầm có mùi máu và tiếng vo ve; Borin xác nhận là Cổ. Punisher trùm mũ dùng biển lửa thiêu bầy Cổ, còn Punisher đeo mặt nạ cất Cung Nylia để tránh làm sập hầm, rút kiếm thẳng kiểu người và chém xuyên bầy Cổ dễ dàng, khiến Borin và Blue Leaf Special Forces kinh ngạc vì họ từng biết Cổ đáng sợ ra sao.
+
+Eli kinh ngạc vì Punishers đã vượt qua Cổ mà không bị thương và nghi ngờ “con khốn đó” đã lừa mình. Khi Punishers yêu cầu cô ta đi cùng, Eli tuyên bố mình là Spider Queen và nơi này là lãnh địa của mình. Vô số sợi chỉ bạc bắn ra từ cơ thể, biến căn phòng ngầm thành tổ nhện, mở đầu trận chiến thật sự.
+
+Trong khi đó, Romina, phụ tá thân tín của Eli, đã rời Neo Seoul với thùng gỗ lớn trên lưng, tin rằng mình đã lấy được Cổ mạnh nhất và chỉ cần gây giống để tộc mình trỗi dậy. Zeon chặn cô ta trên cồn cát và chỉ ra cô ta là hậu duệ Ngũ Độc Môn, bất ngờ vì một elf lại mang dòng máu đó, có thể là con lai.
+
+## Chương 318
+
+Romina ban đầu giả vờ không hiểu Zeon nói gì, rồi thừa nhận mình là người của Ngũ Độc Môn. Cô ta nói không quan tâm di sản hay trả thù cho tộc, vì mẹ cô bị Ngũ Độc Môn bắt và cưỡng ép sinh ra cô; nếu Zeon không xóa sổ chúng, một ngày cô cũng sẽ làm. Tuy vậy, Romina vẫn xem chúng là “người của mình” và coi việc Zeon giết chúng là mối thù.
+
+Romina mới là kẻ giới thiệu Cổ cho Eli. Cô ta lợi dụng tham vọng quyền lực của Eli, thì thầm rằng Cổ cần thiết, rồi dùng danh nghĩa Eli để thu gom nô lệ làm thức ăn cho ổ Cổ. Cô ta không thấy tội lỗi vì tin thế giới thuộc về kẻ mạnh, kẻ mạnh đặt luật, còn đau khổ của kẻ yếu là điều tự nhiên. Là half-elf kế thừa Ngũ Độc Môn, cô ta tin mình sinh ra để thống trị.
+
+Zeon yêu cầu Romina giao thùng gỗ trên lưng. Cô ta từ chối và tiết lộ bên trong là không gian con yểm phép, nơi “các con” của cô nghỉ ngơi: Thất Độc Trùng Cổ. Những con Cổ trước đó chỉ là nguyên mẫu thất bại; bảy con này là kiệt tác, mỗi con sống sót qua hàng nghìn trận ăn thịt đồng loại và chuyên một đặc tính: độc, độ bền, hung bạo, sát thương, ẩn nấp, trung thành, bay lượn. Kết hợp lại, chúng tạo thành cộng hưởng hoàn hảo.
+
+Romina đã cho Thất Độc Trùng Cổ ăn ít nhất hơn một nghìn người, rồi ngừng đếm. Cô định rời Neo Seoul vì trong thành phố Tòa Thị Chính sẽ can thiệp, còn ngoài sa mạc vẫn có người để bắt làm thức ăn và Cổ sẽ tự sinh sôi. Zeon thừa nhận mình từng giết nhiều người nhưng phần lớn đáng chết, và Romina sẽ là một cái tên nữa trong danh sách.
+
+Romina tung Thất Độc Trùng Cổ vào Zeon, tin cát không thể làm hỏng vỏ cứng như kim cương. Zeon nhắc cô rằng Ngũ Độc Môn từng nói hệt vậy trước khi bị cậu xóa sổ, rồi dùng bão cát tăng ma sát làm chúng nổ tung. Khi vài con cố áp sát, Zeon dùng Sand Gehenna, cát nóng chảy như lửa lỏng, nuốt trọn và thiêu toàn bộ bầy Cổ thành tro.
+
+Romina tuyệt vọng vì công trình cả đời và hy vọng lập chủng tộc mới bị hủy. Cô lao vào Zeon bằng rapier trong cơn điên, nhưng Zeon lại dùng Sand Gehenna nuốt cô, thiêu cô biến mất trong cát nóng chảy. Zeon cảm thấy vị đắng trong miệng, nghĩ thế giới quá rộng và có quá nhiều kẻ mất lý trí; phần lớn những kẻ chết dưới tay cậu đều giống Romina.
+
+## Chương 319
+
+Eli bị Punishers khống chế bằng khóa mana sau trận chiến ác liệt; họ phải phối hợp mới bắt sống được cô ta, đúng với thân phận nhân vật số hai Khu Bắc. Eli vẫn đe dọa sẽ xóa sổ tất cả khi được thả. Punisher trùm mũ nói mình đã dõi theo Eli rất lâu nhưng không thể lộ mặt, vì thân phận bị lộ sẽ khiến những kẻ ham quyền lực bu tới lợi dụng.
+
+Eli tuyên bố elf vượt trội hơn con người và không nên hèn nhát bám vào thế giới loài người. Punisher trùm mũ phản bác rằng nếu elf thật sự vượt trội thì đáng lẽ đã tự lập vương quốc hoặc gia nhập El Harun; thứ con người có mà elf thiếu là dũng khí: dũng khí mất tất cả vẫn đứng dậy, đối mặt quái vật ngoài hiểu biết, xây lại nhà cửa thành thành phố. Elf đã bỏ chạy khỏi Kurayan thay vì chiến đấu chống hủy diệt, còn con người đứng dậy sau khi thế giới sụp đổ.
+
+Punishers hiểu cuộc nổi loạn của Eli bị dập trước khi thành hình nhưng Khu Bắc đã rạn nứt: người theo Eli sẽ phản kháng, phe Serien sẽ xa lánh họ, và Serien phải gánh việc hàn gắn. Blue Leaf Special Forces nằm la liệt vì phản phệ buff, lại chịu thương vong nặng, khiến việc dọn dẹp mất nhiều thời gian. Punishers cũng bàn rằng Khu Bắc nợ Zeon vì nếu không có Sand Mage, họ không thể ngăn thảm họa Cổ; elf luôn trả đủ nợ ân nghĩa hay thù hận.
+
+Zeon xuất hiện trước Yoo Se-hee, kể rằng Spider Queen Eli đảo chính, liên quan đến Cổ và Romina. Yoo Se-hee kinh hãi vì nếu Cổ được thả, vô số người sẽ chết, và thừa nhận Eli đã vượt qua ranh giới không nên vượt. Khi hỏi kết cục Eli, Zeon nói Khu Bắc đã yên, nghĩa là cô ta bị xử lý.
+
+Zeon giao Akashi cho Yoo Se-hee. Akashi là trinh sát Helbrin có năng lực phát hiện sinh thể, hạng C, cảm nhận được sinh vật tín hiệu sống mạnh trong bán kính mười kilomet, ma thú cỡ lớn hạng B trở lên từ xa, bầy nhỏ từ bảy-tám kilomet, ma thú nhỏ đơn độc từ bốn-năm kilomet. Yoo Se-hee lập tức nhận ra đây là radar sống hiếm có, giá trị vượt xa trinh sát VIP bình thường chỉ phát hiện được ba kilomet, nên đòi nhận hắn và sẽ bắt hắn làm việc để trả tội.
+
+Zeon cũng giới thiệu Bryce, Alchemist hạng F có thể tạo chất làm cứng cát, biến cát thành gạch và xây nhà/boongke. Bryce là người sống sót bị Helbrin bắt; Hassim đã nói dối rằng giao toàn bộ nô lệ cho Eli, còn Akashi vì muốn giữ mạng đã khai chỗ giam họ. Yoo Se-hee hứa nhân danh mình và Goblin Market sẽ bảo vệ gia đình Bryce cùng dân làng, cho họ nơi ở. Bryce bật khóc vì sau tuyệt vọng, ít nhất làng mình còn có chỗ sống dưới sự bảo hộ của Goblin Market.
+
+## Chương 320
+
+Zeon về nhà, Gaia lập tức bay ra vì đã chờ cậu và than buồn chán. Trong lúc Zeon xử lý Khu Bắc, Brielle quá tập trung chế máy phát mana nên không chơi với Gaia. Zeon không gọi Brielle vì biết cô đang chìm sâu trong công việc. Khi Brielle mở cửa reo “xong rồi”, cô khoe đã hoàn thành máy phát mana lớn hơn chiếc ở nhà, đủ công suất cấp điện cho hàng trăm hộ nếu có Mana Stone, và có thể làm thêm nếu vận hành tốt.
+
+Brielle hỏi vụ Helbrin, Zeon nói đã xử lý tất cả trừ một kẻ có năng lực phát hiện ma thú và đã giao cho Goblin Market. Brielle không tò mò chi tiết vì hiểu Zeon đã xử lý kẻ địch ra sao; cô nói mình hiện không còn dễ dao động như trước, vì đã mạnh hơn. Zeon thấy cô trưởng thành so với lúc mới gặp, khi còn nghiện thuốc và chỉ cố sống sót.
+
+Zeon và Brielle xuống khu ngầm qua lối cống ẩn, tới khu định cư của Zetoya. Brielle đưa máy phát mana cho họ; Zeon lấy một Mana Stone lớn từ ma thú hạng B làm quà khởi động, đủ dùng nhiều năm. Khi máy phát chạy, Zeon lắp bóng đèn và dây điện, khiến không gian ngầm tối tăm bừng sáng như mặt trời mọc. Cư dân ngầm khóc, quỳ xuống, trẻ con reo hò vì cuối cùng có điện và có thể sống giống con người.
+
+Brielle hỏi Zetoya có thích món quà không, và cậu nói họ sẽ không bao giờ quên ánh sáng này. Ngay lúc ấy, Zetoya bắt đầu Thức Tỉnh. Mana tụ quanh cậu, rồi cô đặc trong ngực như một vụ nổ im lặng. Trên cổ tay cậu hiện bảy vạch đỏ, ba vạch phát sáng: biểu tượng Thức Tỉnh Giả cận chiến hạng D, điểm khởi đầu vượt xa thường nhân.
+
+Brielle hướng dẫn Zetoya thiền để hiểu kỹ năng, rồi luyện tập và săn ma thú vì Martial Awakened càng chiến đấu càng mạnh. Zetoya cảm nhận ánh mắt kỳ vọng lẫn sợ hãi của cư dân, hiểu rằng nhiều Thức Tỉnh Giả dưới lòng đất từng dùng sức mạnh áp bức người khác. Cậu thề không giẫm đạp ai, sẽ đuổi những kẻ hành hạ họ và đem bình yên tới nơi này. Trước Zeon, Zetoya thề nếu Zeon gọi, cậu sẽ trỗi dậy từ lòng đất và chiến đấu bên cạnh cậu, không bao giờ phá lời thề.
+
+## Chương 321
+
+Trên đường về, Brielle không ngừng nhớ khoảnh khắc máy phát mana mang ánh sáng tới lòng đất và gương mặt những người khóc vì vui sướng. Cô bắt đầu muốn một ngày mang máy phát mana về làng High Elf của mình. Cô biết nếu nhờ, Zeon sẽ đưa cô về ngay, nhưng High Elf sẽ không chấp nhận một elf đã bị thế giới bên ngoài, đặc biệt con người, làm ô uế. Trước đây cô chấp nhận điều đó, nhưng sau thời gian ở bên Zeon và chứng kiến lòng đất thay đổi, cô tin làng mình cũng cần tiến bộ thay vì tự cô lập trong sự thuần khiết.
+
+Brielle quyết định khi Neo Seoul lắng xuống sẽ cùng Zeon tới làng, không cần được chấp nhận, chỉ muốn cho họ cơ hội thay đổi bằng máy phát mana. Khi về nhà, cô và Zeon thấy các elf trùm áo đứng trước cửa. Brielle nhận ra mùi elf, còn Zeon nhận ra người có mùi mạnh nhất là Serien.
+
+Serien tới đích thân cảm ơn Zeon vì đã giúp ngăn Eli và tiêu diệt Cổ, tránh cho Khu Bắc thảm họa. Khi thấy Brielle, Serien nhận ra mùi High Elf và lập tức cúi đầu kính trọng, gọi cô là “vị tôn quý.” Brielle khó chịu vì sau khi cai nghiện, tạp chất không còn che mùi High Elf, khiến các elf từ Kurayan như Serien dễ nhận ra. Cô sợ nếu không có Zeon, họ sẽ kéo mình tới Khu Bắc, nhốt lại và ép giao tiếp với thần linh, điều cô không có hứng thú.
+
+Serien vào phòng khách nhà Zeon và cảm nhận năng lượng tốt trong “pháo đài”: vừa bước vào đã thấy cơ thể nhẹ và tâm trí yên ổn, sinh lực dâng lên như chưa từng có từ khi tới Trái Đất. Cô tò mò vì biết nhà Zeon không bình thường, nhưng Zeon không giải thích. Khi Zeon hỏi lý do thật sự cô tới, Serien đưa một chiếc hộp chứa chìa khóa vào El Harun.
+
+El Harun là thành phố phi nhân gần Magadan, vốn phải được giấu khỏi con người. Serien từng muốn giữ bí mật mãi mãi, nhưng vụ Damian triệu hồi Balrog đã làm cô dao động. Damian mất cha bởi cư dân El Harun, đánh cược cả mạng để tìm vị trí thành phố và báo thù, khiến Serien tự hỏi El Harun đã làm gì để gieo thù hận khổng lồ đến mức ấy. Cô chỉ tới El Harun một lần thời đầu rồi bận bảo vệ phi nhân ở Neo Seoul; sau một thế kỷ, liên hệ với thành phố đã yếu, còn El Harun hoàn toàn không chia sẻ tin tức, ngay cả với cô.
+
+Serien không chắc chìa khóa còn hoạt động sau một trăm năm, nhưng đưa cho Zeon như một món “hối lộ”: nếu một ngày cậu vào El Harun, hãy xét đến hoàn cảnh của họ ít nhất một lần trước khi phán xét. Zeon nói mình cũng có thể trở thành kẻ hủy diệt El Harun, nhưng Serien chấp nhận nếu đó là số phận của họ. Cô tin bám vào thuần huyết không dẫn tới đâu; ở Trái Đất, elf chỉ là một chủng tộc trong nhiều chủng tộc, Khu Bắc tồn tại nhờ pha trộn và thích nghi, còn El Harun chọn cô lập nên cần một chất xúc tác thay đổi, có thể là Zeon.
+
+## Chương 322
+
+Sáng sớm, Seo Tae-ran đích thân tới nhà Zeon gọi cậu đến Tòa Thị Chính, giọng điệu gần như đe dọa rằng nếu không đi cậu sẽ hối hận. Zeon hiểu cô không phải người nói bừa nên theo cô vào Neo Seoul, để Brielle lại nhà trong lúc đầu. Jin Geum-ho tiếp Zeon bằng cà phê và brunch nhưng nhanh chóng nói lý do: mỏ Mana Stone mới phát hiện, do đội Pathfinder của Levin tìm ra, đã gặp sự cố nghiêm trọng.
+
+Đội viễn chinh hơn ba nghìn Thức Tỉnh Giả cùng hàng trăm nhân viên hỗ trợ được cử khai thác mỏ bị ma thú tấn công, rồi cả trại căn cứ đột ngột sụp xuống lòng đất dù nền đất từng được xác nhận chắc chắn. Một số người thoát trước khi sụp đã chờ nhiều ngày nhưng không ai từ dưới trở lên. Zeon lập tức suy luận nơi họ rơi xuống có kết giới hoặc thứ gì đó phong kín, vì Levin ở dạng hồn ma đáng lẽ dễ thoát ra.
+
+Khu vực sụp hiện bị bầy ma thú bao vây, người sống sót không thể tiếp cận cứu hộ nên báo về Tòa Thị Chính. Jin Geum-ho quyết định cử lão Go, chuyên gia kết giới mạnh nhất Neo Seoul thuộc Numbers, cùng cặp song sinh. Ông yêu cầu Zeon hộ tống họ tới mỏ. Zeon đồng ý ngay vì Mandy, Levin, Aaron và Dominic đều có thể đang kẹt dưới đó. Seo Tae-ran và thuộc hạ cũng đi cùng dù cô chưa từng ra sa mạc.
+
+Zeon về nhà báo Brielle. Vì Levin là gia đình, Brielle lập tức chuẩn bị đi theo, mang mọi thuốc và vật phẩm đã chế tạo. Zeon trấn an cô rằng Levin khó bị thương ở dạng hồn ma, đồng thời bảo Gaia tạm vào không gian con cho tới khi tới mỏ, vì không thể để người ngoài thấy nó. Gaia miễn cưỡng nghe lời.
+
+Bên ngoài, lão Go, cặp song sinh Eun Soo-jin/Eun Soo-young, Seo Tae-ran và đội thư ký đã chờ với hai bus bọc thép. Zeon giới thiệu Brielle với cặp song sinh; Brielle cảnh giác vì họ có thần giao cách cảm và có thể phát hiện thân phận High Elf nếu cô mất phòng bị. Cặp song sinh ghét Seo Tae-ran vì cô lạnh lùng và thiếu lễ phép, nhưng lão Go nhắc rằng không có cô thì Tòa Thị Chính khó vận hành. Lão Go căng thẳng vì hơn ba nghìn mạng người đang bị đe dọa, nhưng yên tâm hơn vì Sand Mage đi cùng.
+
+## Chương 323
+
+Bus bọc thép của nhóm Zeon rất tiện nghi, chạy êm trên cát, có thức ăn, chỗ ngủ và nhà vệ sinh, khiến Brielle thấy lạ vì đi sa mạc mà thoải mái như dã ngoại. Zeon khuyên cô cứ tận hưởng vì có lẽ không có lần sau. Khi một đàn Flame Wolf vài trăm con lao tới, xe của Seo Tae-ran dừng lại và đội thư ký mặc suit đen bước xuống.
+
+Đội thư ký của Seo Tae-ran dùng knuckle duster giao chiến tay không với Flame Wolf, di chuyển như máy móc: không do dự, không sợ hãi, chặn-đánh-giết cực kỳ hiệu quả. Suit đen của họ không hề trầy dù bị cắn. Seo Tae-ran không cần xuất hiện. Zeon nhận ra đây là một đàn lạc không có alpha và cả đàn bị diệt trong chưa tới ba mươi phút.
+
+Eun Soo-young nói đội thư ký không hoàn toàn là con người, vì năng lực thần giao cách cảm của cô không đọc được bất cứ suy nghĩ nào từ họ, hoàn toàn trống rỗng, điều không thể với người thường. Zeon nhận định không thể cả mười người đều có hàng rào tinh thần mạnh. Eun Soo-jin cho rằng họ là sản phẩm của một dự án nghiên cứu bí mật ở Tòa Thị Chính, nơi bộ phận thư ký vận hành độc lập ngoài tầm hiểu biết của Numbers.
+
+Lão Go nói Seo Tae-ran tuy tính cách tệ nhưng năng lực không thể nghi ngờ, và đội thư ký sẽ xử lý phần lớn rắc rối trước khi tới mỏ. Zeon tận dụng cơ hội ngủ để giữ trạng thái tốt nhất, Brielle cũng ngủ theo vì đã quen du hành sa mạc và hiểu cần nghỉ bất cứ khi nào có thể. Lão Go thấy xấu hổ vì mình lớn tuổi hơn nhưng còn không bình tĩnh được như họ.
+
+Trên đường đi, họ bị ma thú tấn công thêm nhiều lần và đội thư ký đều xử lý, nhưng bus liên tục hỏng vì cát mịn lọt vào máy móc, làm chậm hành trình. Gần tới mỏ, Brielle tỉnh dậy vì cảm nhận không khí ngột ngạt, mùi máu và hơi thở ma thú nồng hơn. Zeon cũng đứng dậy, nói phải ra ngoài vì muốn tới trại phải đánh xuyên qua. Trên nóc xe, họ thấy một bầy ma thú khổng lồ chặn kín đường, đã nhận ra bus và đang lao tới như sóng thần.
+
+## Chương 324
+
+Bầy ma thú gồm Flame Wolf, Giant Horned Hyena và các loài săn theo đàn cỡ trung/nhỏ, không có quái vật khổng lồ nhưng số lượng quá lớn, lên tới hàng nghìn. Với quy mô này, ngay cả ma thú yếu cũng có thể xé nát Thức Tỉnh Giả thường. Seo Tae-ran lần đầu cảm nhận thực tại sa mạc, rồi ra lệnh cho thuộc hạ xuống xe đánh chặn.
+
+Đội thư ký của Seo Tae-ran và chính cô tiêu diệt nhiều ma thú bằng cận chiến, Seo Tae-ran đấm vỡ sọ Ironhide Rhino cứng hơn titanium, nhưng số lượng quá đông khiến họ không chặn được làn sóng. Cô nhận ra đây là giới hạn của Thức Tỉnh Giả cận chiến trước số đông. Trong khi đó, bus của Zeon được lão Go bảo vệ bằng kết giới; ma thú đâm vào bị bật ra, còn cặp song sinh dùng Mind Disruption khiến chúng mất lý trí và cắn xé lẫn nhau.
+
+Brielle dùng Wind Cutter chém lìa tay chân, thân và đầu ma thú, uy lực vượt xa đánh giá hạng D trong hồ sơ của Văn phòng Thư ký, khiến Seo Tae-ran nghi ngờ cô đã tăng hạng dưới ảnh hưởng của Zeon. Seo Tae-ran quan sát Zeon và nhớ Tòa Thị Chính ước tính cậu hạng S, nhưng điểm đặc biệt thật sự là năng lực điều khiển cát trên Trái Đất hoang mạc. Cô muốn tận mắt thấy kỹ năng của cậu.
+
+Zeon dùng Quick Sand biến toàn bộ khu vực ngoài đường bus thành hố cát lún khổng lồ, nuốt hàng nghìn ma thú. Khác Sand Mixer, Quick Sand không trực tiếp giết nhưng cực kỳ hiệu quả trước số đông. Brielle hỏi vì sao không dùng Sand Mixer xóa sạch, Zeon nói cần giữ mana vì kẻ địch thật sự phía trước là Kraken đang cố thủ trong mỏ Mana Stone, nơi kỹ năng cát kém hiệu quả. Seo Tae-ran nhận ra sự đáng sợ của Zeon không chỉ ở sức mạnh mà ở khả năng đọc tình huống và tiết kiệm năng lượng, kỷ luật ngang những Numbers mạnh nhất.
+
+Khi tới nơi từng là trại viễn chinh, họ thấy một vực nứt khổng lồ không thấy đáy, đủ nuốt 3.400 người, như bị rìu khổng lồ bổ xuống đất. Dưới sâu có kết giới mờ đang chặn người rơi xuống thoát ra. Lão Go xác nhận là kết giới và bắt đầu phá mở, nói đây là trận chiến của ông. Zeon giao Seo Tae-ran bảo vệ lão Go rồi đi trinh sát Kraken ở mỏ lộ thiên. Một cái đầu khổng lồ trồi dưới cát, đôi mắt phi nhân khóa vào Zeon.
+
+## Chương 325
+
+Kraken chỉ lộ hai mắt khổng lồ trên cát, phần thân còn lại ẩn dưới mỏ Mana Stone. Nó nhớ rõ Zeon, kẻ từng tấn công nó bằng cát, và ánh mắt đầy thù địch. Kraken chọn hang ổ rất khôn ngoan: bề mặt chỉ có lớp cát mỏng phủ lên mỏ, đủ che thân nhưng không đủ để Zeon gây sát thương lớn bằng kỹ năng cát. Zeon ước tính chỉ xúc tu của nó đã dài hơn năm mươi mét, tổng thể đủ khổng lồ để ngay cả Moby Dick cũng gặp khó nếu bị giác hút bám vào.
+
+Zeon cố dụ Kraken rời vùng mỏ ra khu cát thuần để kéo trận đấu về lợi thế, nhưng nó không mắc bẫy, chứng tỏ thông minh và cẩn trọng. Zeon kết luận việc đối phó sẽ khó hơn nhiều so với ma thú chỉ dựa vào sức mạnh. Cậu cũng nghi ngờ vực nứt nuốt đội viễn chinh có thể do Kraken gây ra; nếu vậy, cấp bậc của nó phải đánh giá lại.
+
+Trở về chỗ khe nứt, Zeon nói với Seo Tae-ran rằng Kraken rất ấn tượng, thông minh, biết đánh giá năng lực đối thủ. Khi Zeon hỏi lý do thật sự Seo Tae-ran tới đây, cô phủ nhận có mục đích khác ngoài cứu người, nhưng cậu vẫn nghi ngờ. Ngay sau đó, nhiều ma thú cỡ lớn tiến tới, mắt vô hồn. Zeon xác nhận Kraken có năng lực điều khiển ma thú cấp thấp hơn; không có con nào hạng B trở lên, nên khả năng chi phối tinh thần có vẻ chỉ tuyệt đối với hạng C trở xuống.
+
+Cặp song sinh thử phá điều khiển bằng thần giao cách cảm nhưng bị bật ra vì ý chí chi phối quá mạnh. Họ bực vì thua “một con bạch tuộc”, nhưng Zeon nhắc nhiệm vụ là giữ bọn ma thú không quấy rầy lão Go. Cặp song sinh dùng telekinesis nhấc một ma thú giống gorilla khổng lồ lên rồi bắn nó như đạn pháo vào các con khác.
+
+Thuộc hạ Seo Tae-ran bước vào cận chiến tàn khốc với ma thú cỡ lớn. Zeon nhận ra họ đang giữ sức và càng nghi ngờ bản chất của họ. Dù bị thương nặng, thậm chí có người bị giẫm chết, họ không hề rên. Brielle tự hỏi họ có bị cắt dây thanh quản không, nhưng Zeon bác vì họ vẫn đáp lời Seo Tae-ran. Khi tình hình trở nên bất lợi, lão Go mở được một “cửa” nhỏ trên kết giới, chưa giải phóng toàn bộ. Cả nhóm nhảy qua cánh cửa xuống sâu, còn ma thú đâm vào kết giới lập tức bị sức mạnh bên trong làm tan chảy.
+
+Trong lúc rơi, cặp song sinh dùng telekinesis giảm tốc cùng lão Go, Zeon dùng cát đỡ mình và Brielle; Seo Tae-ran cùng thuộc hạ rơi xuống sâu trước. Dưới lòng đất là nền đá cứng làm từ Mana Stone thô, nhiều đến mức Zeon nói Neo Seoul có thể dùng cả nghìn năm. Niềm vui của lão Go nhanh chóng tắt khi họ đáp xuống và thấy vô số thi thể đội viễn chinh trước đó.
+
+## Chương 326
+
+Dưới lòng đất có hơn một trăm thi thể không nguyên vẹn, đầy dấu vết chiến đấu dữ dội: tay chân đứt lìa, nhiều xác bị nghiền nát mất hình dạng. Brielle thắc mắc vì hơn ba nghìn người rơi xuống nhưng chỉ có từng này xác. Seo Tae-ran phân tích dấu chân và kết luận họ đã chia thành ít nhất bảy nhóm, mỗi nhóm đi một hướng, có lẽ theo các raid squad lớn từ nhiều khu khác nhau từng tham gia đội viễn chinh.
+
+Lão Go kiểm tra xác và nhận định họ bị ma thú cỡ nhỏ tấn công; nếu là ma thú lớn, vết thương sẽ nghiêm trọng hơn nữa. Bóng tối dưới lòng đất dày đặc và ngột ngạt, ngoài nguồn sáng mang theo thì mọi thứ là vực sâu. Khi Seo Tae-ran hỏi Zeon nơi này là gì, cậu thành thật nói chưa biết, chỉ chắc chắn có ma thú sống ở đây. Seo Tae-ran thoáng thất vọng vì kỳ vọng Zeon có câu trả lời ngay, nhưng Zeon không bận tâm; trong môi trường lạ, kết luận vội dễ gây sai lầm.
+
+Zeon tìm dấu Levin để lại: một vùng đất kết tinh như bị nhiệt cực cao thiêu, dấu vết của dòng điện mạnh. Cậu hiểu Levin đã đánh dấu nhóm mình đi cùng để Zeon có thể lần theo. Brielle mỉa rằng Levin cũng không hoàn toàn ngốc. Lão Go và Seo Tae-ran đều đề nghị Zeon chỉ huy vì ông Go quen nhận lệnh, cặp song sinh không phù hợp, còn Seo Tae-ran là người đứng thứ hai/thư ký hoàn hảo nhưng cần người ra lệnh. Zeon miễn cưỡng nhận vai party leader và chỉ hướng theo dấu Levin.
+
+Ánh sáng từ kết giới phía trên biến mất, bóng tối trong dungeon dày như bùn và đèn pin công suất cao chỉ chiếu được năm mét, như thể bóng tối từ chối ánh sáng lan xa. Lão Go nói nơi này không tự nhiên. Zeon nhận định đây có lẽ là dungeon, dựa trên kết giới và khí tức dưới lòng đất, rất có thể là dungeon dưới mỏ Mana Stone; ảnh hưởng dungeon có thể đã khiến Kraken phát triển tới hạng S.
+
+Zeon cảnh báo dungeon chắc chắn sẽ phản ứng. Một con chó săn ma trong suốt xuất hiện từ bóng tối, đòn vật lý của thuộc hạ Seo Tae-ran xuyên qua nó vô hiệu, rồi nó ngoạm nát đầu một người. Zeon dùng Fire Missile thiêu nó và kết luận đòn vật lý không hiệu quả, cần ma pháp. Seo Tae-ran ra lệnh trang bị Execution Gauntlets, thiết bị cổ tay biến thành gauntlet chiến đấu chuyển mana người dùng thành công kích nguyên tố như lửa, điện.
+
+Execution Gauntlets không mạnh bằng artifact dungeon thật vì thiếu tính huyền bí độc nhất, nhưng Neo Seoul có thể sản xuất hàng loạt, giúp nâng đồng đều sức mạnh chiến binh. Khi thêm nhiều chó săn ma trồi ra, thuộc hạ Seo Tae-ran dùng gauntlet phủ thánh lực đánh tan chúng. Brielle quan sát và nhận ra các sinh vật này vốn đã chết, kết luận nơi này chắc chắn là Dungeon của Người Chết.
+
+## Chương 327
+
+Brielle xác nhận đây là Dungeon của Người Chết, còn Zeon cũng từng trải nghiệm kiểu không gian tương tự nên đồng ý. Seo Tae-ran khó chịu vì Brielle không giải thích và đáp trả như không coi cô là cấp trên, nhưng cô kìm lại vì không muốn xung đột với Zeon trong tình thế cần sức mạnh của cậu.
+
+Brielle đưa cho Seo Tae-ran các lọ thánh thủy mua từ đám cuồng tín Dongdaemun, nói nếu thật là thánh thủy thì nên phủ lên Execution Gauntlets để đối phó undead. Seo Tae-ran ghê sợ Johan và đám cuồng tín nhưng vẫn ra lệnh dùng. Thánh thủy thật sự thấm vào gauntlet, phát ánh đỏ và có hiệu quả, khiến Seo Tae-ran định sau này mua lượng lớn.
+
+Bóng tối trong dungeon càng lúc càng mạnh, phạm vi đèn pin giảm từ năm xuống bốn mét. Một con sói ma có sừng lớn xuất hiện, rồi cả đàn sói ma tràn ra. Thuộc hạ Seo Tae-ran dùng gauntlet phủ thánh thủy đánh nổ đầu chúng dễ dàng, nhưng sau đó một mũi tên khổng lồ từ bóng tối đâm xuyên vai một thuộc hạ. Zeon nhận ra có thợ săn ẩn dẫn đàn sói và bắn tên liên tục.
+
+Brielle hỏi vì sao Zeon không giúp khi thuộc hạ Seo Tae-ran bị đẩy vào thế phòng thủ. Zeon nói họ đang giữ sức rất chính xác, đến mức phần lớn Thức Tỉnh Giả không nhận ra. Cậu nghi ngờ họ không phải người bình thường, có khí chất nhân tạo giống kẻ sát nhân đã giết gia đình Levin, và đang giấu sức để loại bỏ chướng ngại khi cần, có thể cả chính Zeon.
+
+Khi một thuộc hạ bị kiếm từ bóng tối xuyên ngực, Seo Tae-ran buộc phải cho phép “giải phóng phong ấn cấp một.” Thuộc hạ lập tức lộ vẻ sung sướng vì được dùng sức thật, dù trước đó có đồng đội chết họ cũng không oán trách vì tồn tại chỉ để phục tùng Seo Tae-ran. Người bị thương bẻ nát lưỡi kiếm, rút cả kiếm lẫn mũi tên khỏi người mà gần như không chảy máu. Zeon giải thích họ là bio-soldier được cải tạo khả năng tái sinh giống troll, phiên bản nâng cấp của kiểu thí nghiệm từng tạo ra sát thủ giết gia đình Levin. Sau khi giải phong ấn, họ tăng mạnh tốc độ, sức mạnh, giác quan, phát hiện và nghiền nát thợ săn ẩn, đánh tan sói ma bằng gauntlet phủ thánh thủy.
+
+Lão Go ghê tởm việc phòng thí nghiệm biến con người thành thứ phi nhân, nhưng Seo Tae-ran vô cảm vì chỉ có hai tín niệm: phụng sự Jin Geum-ho và bảo vệ Neo Seoul bằng mọi giá. Cô nhìn Zeon như một mối đe dọa tiềm tàng đối với Thị trưởng và thành phố.
+
+## Chương 328
+
+Sau khi giải phong ấn cấp một, thuộc hạ Seo Tae-ran không cần kìm sức nữa. Với cơ thể cải tạo, Execution Gauntlets và thánh thủy, họ xóa sổ zombie soldier trong chớp mắt. Zombie soldier có thân vật lý, khác undead linh thể trước đó, nhưng thân xác thối rữa của chúng không chịu nổi đòn đánh liên tục.
+
+Seo Tae-ran hỏi Zeon hướng đi. Zeon cảm nhận được địa hình qua cát dưới bề mặt dù bóng tối che phủ không gian, nói đi thêm một trăm mét sẽ gặp đường cụt rồi rẽ trái. Seo Tae-ran lại thử mời Zeon gia nhập Tòa Thị Chính, thậm chí làm Phó Thị trưởng, nhưng Zeon từ chối vì không thích bị trói buộc. Cô khó chịu vì lần đầu bị một người từ chối hai lần, nhưng kìm lại và tự nhủ cuối cùng Zeon sẽ phải quỳ trước cô, vì một cá nhân không thể chống toàn Neo Seoul.
+
+Zeon dẫn nhóm qua bóng tối như ngọn hải đăng. Sau một thời gian dài đến mức mất cảm giác, cậu tìm được lối ra và bắn Fire Missile phá kết giới che lối. Ánh sáng tràn vào, phía sau là một công trình như đại thần điện với cột trụ khổng lồ, cảnh tượng Zeon thấy quen thuộc. Trong đại sảnh có vô số thi thể đội viễn chinh bị giết tàn bạo, thối rữa đầy giòi.
+
+Brielle chỉ ra xác phân hủy quá nhanh so với thời gian một tuần kể từ khi đội viễn chinh rơi xuống, nhất là trong không khí lạnh đến mức thấy hơi thở. Các xác bắt đầu đứng dậy, ruột thối trào ra, mắt đỏ. Một số là người quen của Seo Tae-ran, lão Go và cặp song sinh, gồm đội trưởng Blue Hawk Raid Team hạng B có kỹ năng Berserker, từng gần như vô địch trong ba mươi phút.
+
+Zeon kết luận có necromancer rất mạnh, và nơi này từng là thần điện của necromancer cấp cao. Cậu nói necromancer không phủ nhận thần linh mà muốn trở thành thần. Brielle nhắc đến Pilgrim, necromancer huyền thoại ở Kurayan, kẻ tàn sát hàng chục nghìn người xây thần điện bằng xác để trở thành thần; toàn bộ văn minh Kurayan từng hợp lực tiêu diệt hắn với hy sinh khủng khiếp.
+
+Brielle nói muốn cho linh hồn yên nghỉ thì phải giết necromancer, hủy thân thể ở cấp nguyên tử, hoặc thiêu sạch hoàn toàn; nếu không chúng sẽ hồi sinh mãi. Zeon dùng cát nghiền undead tới cấp nguyên tử rồi đốt bằng White Phosphorus, xóa sạch dấu vết. Cậu biết necromancer đang quan sát và tuyên bố sẽ không để hắn chờ lâu.
+
+## Chương 329
+
+Ở một hang động ngầm khác, Eloy chỉ huy hàng trăm người sống sót chống lại zombie. Levin ở cùng Aaron và Dominic, cả ba kiệt sức và đầy máu vì từ khi rơi xuống đã phải chiến đấu không ngừng. Aaron và Dominic mất cả raid team, và giờ đồng đội cũ của họ trỗi dậy thành zombie tấn công, gây chấn thương tinh thần nặng.
+
+Bầy undead gồm zombie từ xác mới chết lẫn xác hàng thế kỷ, nhiều con là Thức Tỉnh Giả đã chết nên vẫn giữ một phần kỹ năng khi còn sống. Trên cao có Specter, những thực thể dạng hồn ma không có thân vật lý. Levin là người duy nhất xử lý được Specter vì cậu cũng có dạng hồn ma; cậu dùng Purple Lightning thiêu từng Specter, nhưng chúng quá nhiều và đã biết né cậu, còn dùng đòn diện rộng sẽ làm hại đồng minh.
+
+Tuyến phòng thủ của Eloy dần vỡ vì hoảng loạn. Một số Thức Tỉnh Giả sợ chết rồi thành zombie nên bỏ vị trí, mở lỗ hổng lớn. Eloy hiểu nếu tất cả 3.400 người rơi xuống biến thành zombie, chúng có thể tràn lên mặt đất, phá khu ổ chuột trước rồi đe dọa cả Neo Seoul. Trong lúc kiệt sức, cô bị một zombie từng là Thức Tỉnh Giả lao vào, nhưng đầu nó bị Zeon phá hủy đúng lúc.
+
+Eloy thấy Zeon và viện quân, lập tức hét rằng hỗ trợ đã tới, kéo sĩ khí của người sống sót lên. Zeon nhận ra tổn thất đã quá lớn, yêu cầu lão Go tách zombie khỏi người sống. Lão Go vô thức nói tên thật Go Cheon-soon, tự hào mình là Numbers. Với cặp song sinh tăng cường tập trung bằng telepathy, ông triển khai song trọng kết giới “bảo hộ người chính, đẩy lùi kẻ tà”, đẩy zombie ra ngoài nhưng không ảnh hưởng Thức Tỉnh Giả.
+
+Zombie bị ép vào tường, Specter kẹt giữa kết giới và trần, cố phá kết giới. Theo hiệu lệnh của lão Go, Zeon đưa cát ra ngoài kết giới, xoay nghiền zombie thành hạt nhỏ hơn cát để chúng không thể hồi sinh. Specter không có thân vật lý nên cát không hiệu quả, nhưng Levin lao vào và dùng Purple Lightning thiêu sạch. Sau trận, Levin trở lại dạng vật lý và ôm Zeon, gọi “hyung”; Zeon khen cậu cầm cự tốt, Levin nói cậu biết anh trai mình sẽ tới.
+
+## Chương 330
+
+Eloy gục xuống vì kiệt sức và tuyên bố khi về Neo Seoul sẽ nghỉ làm Supervisor, vì việc tạm chỉ huy mạng sống hàng trăm người khiến cô như mất vài chục năm tuổi thọ. Cô cảm ơn Zeon vì đến đúng lúc. Zeon nói có vẻ chủ nhân không gian là necromancer; Eloy chỉ biết class này tồn tại chứ không có thông tin, điều hợp lý vì đây là lần đầu necromancer xuất hiện trên Trái Đất.
+
+Zeon quyết định không nghỉ mà phải cứu các nhóm khác, vì càng chậm necromancer càng có thêm xác để biến thành quân. Lão Go lo nên dùng đội tinh nhuệ nhỏ đánh necromancer, nhưng Zeon nói trước hết phải cứu người và gom họ lại; sau khi cứu xong, lão Go sẽ dẫn người sống thoát khỏi kết giới, còn cậu chấp nhận sức mạnh mình suy yếu hơn là để necromancer mạnh thêm.
+
+Nhóm Zeon dẫn theo hàng trăm người sống sót di chuyển trật tự, im lặng như các Thức Tỉnh Giả tinh nhuệ. Họ tìm được nhóm thứ hai sau khoảng ba mươi phút nhờ tiếng chiến đấu. Lão Go lại dùng song trọng kết giới với hỗ trợ của cặp song sinh để tách zombie khỏi người sống, Zeon dùng Sand Mixer nghiền zombie ngoài kết giới thành máu và cát, khiến nhóm sống sót choáng váng và kính sợ Sand Mage.
+
+Hai nhóm hợp lại có khoảng năm-sáu trăm người sống sót. Zeon và lão Go đều tiêu hao mana vì dùng kỹ năng mạnh liên tục. Seo Tae-ran đề nghị nghỉ nhưng Zeon từ chối vì nghỉ sẽ có thêm người chết; cô đồng ý đi tiếp. Brielle và Eloy đều thấy cô ta “xui xẻo.” Levin gặp Brielle, bị cô hỏi có bị thương/cắn không; Brielle giải thích bị zombie cắn không biến thành zombie, chỉ chết mới bị biến, trừ khi zombie tiến hóa. Cô cảnh báo zombie chỉ là quân tốt của necromancer, mối nguy thật là cấp cao như Death Knight, và nếu chủ nhân là Pilgrim thì mọi chuyện cực kỳ nghiêm trọng.
+
+Brielle gọi Pilgrim là tử vương sinh ra ở nơi tăm tối nhất, khiến Levin nghiêm túc vì biết cô không nói bừa. Cả hai vẫn tin Zeon mạnh nhất và sẽ không thua. Levin nhắc phải cứu người khác trước khi có đội quân zombie Thức Tỉnh Giả. Khi nhóm tiếp tục, cảnh vật bất ngờ đổi mà Seo Tae-ran không nhận ra, như nhận thức bị lừa. Họ tới hang giống ruột hải quỳ, vách thấm máu và treo thi thể như tác phẩm nghệ thuật.
+
+Vách hang co bóp như nội tạng dã thú, tiêu hóa các thi thể treo trên tường. Một số nạn nhân vẫn còn sống, mắt mở to, cầu xin được giết chứ không phải cứu vì đau đớn quá mức. Zeon ra lệnh giải thoát họ vì không còn cơ hội sống, các Thức Tỉnh Giả nuốt nước mắt kết liễu đồng đội. Zeon vuốt mái tóc đẫm mồ hôi và nói lâu rồi cậu mới tức đến mức này.
+
+## Chương 331
+
+Zeon cứu nhóm của Jang Yong-beom, nơi chịu thiệt hại ít hơn các nhóm khác nhờ Jang Yong-beom, Aiden, Giselle và Mountain giữ chiến lực tốt. Tuy nhiên bốn người đã cạn thể lực thì một undead mạnh xuất hiện: Dullahan, kỵ sĩ không đầu cưỡi ngựa undead quái thú hóa. Dullahan dùng cái đầu mang tử khí làm chùy, ai bị đánh trúng có thể chết ngay; nó tránh Thức Tỉnh Giả hạng B trở lên có aura shield và nhắm vào người yếu hơn, còn ngựa undead giẫm đạp, cắn xé không thương tiếc.
+
+Thuộc hạ Seo Tae-ran, đã giải phong ấn cấp một và có gauntlet thấm thánh thủy, xử lý Dullahan mà Zeon không cần ra tay. Họ không bị tử khí ảnh hưởng, càng chứng minh không phải con người bình thường. Zeon nghĩ họ là bio-soldier nhưng không khác chimera, thậm chí có thể còn méo mó hơn, thể hiện trình độ khoa học đáng sợ của Neo Seoul; đó có thể là cái ác cần thiết cho sinh tồn nhưng hậu quả dài hạn khó đoán.
+
+Jang Yong-beom nhanh chóng hiểu kế hoạch “nhanh và dứt khoát” của Zeon: càng kéo dài, người chết càng nhiều và quân necromancer càng tăng. Anh ra lệnh mọi người đứng dậy dù kiệt sức. Các nhóm sống sót bắt đầu hợp nhất, số Thức Tỉnh Giả tăng lên khoảng 1.300 rồi hơn 2.000. Với Zeon, Jang Yong-beom và Seo Tae-ran làm trung tâm, họ không còn là bại binh mà trở thành lực lượng thống nhất.
+
+Sau nhiều trận với undead, các Thức Tỉnh Giả học được cách xử lý: cận chiến làm tanker, pháp thuật dọn zombie, còn undead cấp cao do thuộc hạ Seo Tae-ran, Giselle, Aiden, lão Go, Zeon hoặc Jang Yong-beom xử lý. Levin trinh sát trong dạng hồn ma, báo nhóm sống sót cách 400 mét có zombie, chó săn ma, Specter và Dullahan. Các Thức Tỉnh Giả gọi Levin là “Ghost Bird”, giao Specter cho cậu, và Levin tiếp tục đi trinh sát với lời cầu mong họ sống sót.
+
+Seo Tae-ran quan sát Levin, muốn nghiên cứu năng lực hồn ma của cậu để có thể trao kỹ năng tương tự cho thuộc hạ, viện lý do vì sự sinh tồn của nhân loại. Zeon lập tức từ chối và dùng ánh mắt cho cô thấy viễn cảnh tương lai: hoàng hôn đỏ máu biến thành sóng thần cát khổng lồ cuốn qua cả Neo Seoul. Seo Tae-ran chịu tổn thương tâm lý và thể chất đến chảy máu môi, nhận ra Zeon quá lớn để cô xử lý và một phần nhỏ sức mạnh ấy cũng có thể gây tổn thất không thể khôi phục cho Neo Seoul.
+
+Seo Tae-ran xin lỗi và rút lại lời nói. Zeon còn yêu cầu cô báo cho các lãnh chúa khu khác để Levin yên, tránh cậu phải xử lý lại. Zeon biết năng lực Levin có tiềm năng vô hạn: sát thủ, trinh sát không thể phát hiện, navigator sống, vũ khí tối thượng mà mọi tổ chức sẽ thèm muốn. Vì bí mật đã lộ trước nhiều Thức Tỉnh Giả, các guild/raid team chắc chắn sẽ tiếp cận, nhưng lựa chọn phải thuộc về Levin; đến khi cậu đủ tự bảo vệ, Zeon sẽ làm lá chắn cho cậu.
+
+Trong trận tiếp theo, Levin tỏa sáng khi dùng dạng hồn ma truy đuổi Specter, dự đoán chuyển động của chúng sau lần đối đầu trước và dùng Purple Lightning thiêu chúng trước khi chúng chạm tới người khác. Zeon mỉm cười, nhận xét Levin đang trưởng thành tốt.
+
+## Chương 332
+
+Sau khi hợp nhất các nhóm sống sót, đội viễn chinh chỉ còn khoảng 2.300 Thức Tỉnh Giả; hơn 1.100 người đã chết dưới lòng đất. Thiệt hại của nhân viên hỗ trợ và Mecha-tech còn nặng hơn, đặc biệt hơn 200 Mecha-tech tử trận, khiến Seo Tae-ran phẫn nộ vì họ là nhân lực cốt lõi để Neo Seoul vận hành và khai thác mỏ mana stone.
+
+Trước hang động khổng lồ nhỏ xuống chất lỏng đỏ thẫm như máu, Seo Tae-ran muốn xử lý necromancer bên trong nhưng bị lão Go kéo lại. Ông nhắc cô chưa có đủ thông tin về necromancer, không thể mù quáng xông vào. Lão Go nói kết giới đang mạnh dần nhờ hấp thụ máu; nhờ Zeon câu giờ, ông đã nắm được cấu trúc và có thể vô hiệu hóa tạm thời. Zeon đồng ý phá kết giới và rút lui vì trong trận với necromancer, càng nhiều người chết thì quân địch càng mạnh.
+
+Zeon giao nhiệm vụ cho Jang Yong-beom và các đội trưởng tấn công giữ tuyến đầu khi lão Go mở kết giới. Levin dặn Aaron và Dominic bám sát mình. Lão Go bắt đầu giải kết giới với sự hỗ trợ telepathy của cặp song sinh, trong khi Eloy và các Thức Tỉnh Giả bảo vệ vòng ngoài. Necromancer lập tức phản ứng, khiến hang đẫm máu rung chuyển.
+
+Một Bone Drake hạng A trở lên xuất hiện. Jang Yong-beom cùng các đội trưởng tấn công chặn nó, nhưng chỉ Jang, hạng S, miễn cưỡng giữ được tuyến đầu. Bone Drake là undead nên tái sinh liên tục, còn xúc tu aura đen từ thân nó tấn công mọi hướng. Khi Seo Tae-ran hỏi Zeon vì sao chưa ra tay, Zeon chỉ ra còn kẻ khác; Bone Drake thứ hai xuất hiện.
+
+Seo Tae-ran ra lệnh thuộc hạ giải phong ấn cấp hai. Cơ thể họ phồng lên hơn gấp đôi, giáp chiến đấu đặt riêng giãn theo, sức mạnh vượt hạng A và đủ để kìm Bone Drake thứ hai nhưng chưa thể giết nó. Zeon nhận ra phong ấn cấp hai là dạng khuếch đại sức mạnh, đồng thời ghi nhận thuộc hạ Seo Tae-ran còn bất thường hơn người bình thường.
+
+Sau hai Bone Drake, mối nguy thật sự xuất hiện: Bone Hydra chín đầu, undead hạng S thuần túy và thuộc hàng mạnh nhất. Zeon nhớ lại Kaesh, chimera mang thành phần hydra gần hạng S từng là hộ vệ của Hietun, và hiểu Bone Hydra này nguy hiểm hơn nhiều. Mỗi đầu có thể phun breath khác nhau; nếu trúng nhóm Thức Tỉnh Giả, thương vong sẽ thảm khốc.
+
+Zeon bảo Brielle khi kết giới mở phải dẫn Levin rời đi, vì đó là cách tốt nhất để giúp cậu. Sau đó Zeon dặn Jang Yong-beom và các đội trưởng rút lui ngay khi Bone Drake gục hoặc kết giới mở, rồi tự mình tiến tới Bone Hydra. Cậu dựng một bức tường cát khổng lồ, nung chảy rồi đông cứng nó thành vách ngăn kiên cố, cắt Bone Hydra khỏi khu vực Thức Tỉnh Giả.
+
+## Chương 333
+
+Bone Hydra bị Zeon chặn trước vách cát nung chảy nên buộc phải tập trung giết cậu theo mệnh lệnh của necromancer. Chín cái đầu đồng loạt phun Poison Breath, loại độc khí ăn mòn đá và hòa tan máu thịt; nếu đòn này rơi vào nhóm Thức Tỉnh Giả, số người chết sẽ rất lớn. Zeon dùng Fire Shield từ Inferno Gauntlet đốt sạch độc khí, trở thành thiên địch của Bone Hydra.
+
+Khi Bone Hydra chuyển sang cắn xé phối hợp bằng chín đầu, Zeon mở subspace cho cát tràn ra và tạo Sand Hydra chín đầu. Sand Hydra va chạm trực diện với Bone Hydra, câu giờ dù liên tục bị cắn nát và tái tạo bằng mana/cát. Zeon quan sát trong lúc mười tám cái đầu giao tranh.
+
+Bone Hydra tung thêm xúc tu aura xanh ngọc sẫm giống Bone Drake và dùng Poison Breath ăn mòn cát, khiến Sand Hydra suy yếu. Tuy nhiên Zeon đã tìm được điểm then chốt: cái đầu thứ bảy thận trọng hơn, thường nấp phía sau và điều phối tám đầu còn lại. Muốn giết Bone Hydra, trước hết phải phá cái đầu chỉ huy này, sau đó tìm core.
+
+Zeon dùng Fire Rain rải White Phosphorus Flame, thiêu xúc tu aura để tạo khoảng trống. Cậu lao tới cái đầu thứ bảy và cố ý để nó nuốt mình. Bên trong miệng Bone Hydra, Zeon giải phóng Exion từ lỗ chân lông, kéo cát từ Sand Hydra đã sụp đổ vào trong, rồi kích hoạt Sand Mixer ngay bên trong đầu thứ bảy. Sức phá hủy tăng vọt nhờ Exion, nghiền nát cái đầu thứ bảy và đốt phần cổ cụt để ngăn hồi sinh.
+
+Tám cái đầu còn lại mất chỉ huy và rối loạn. Zeon khoan xuyên thân trung tâm bằng Exion, chui vào trong cơ thể Bone Hydra và tìm thấy core phát sáng xanh ngọc sẫm. Core có vẻ sợ bị hủy diệt hoàn toàn, vì nếu mất core thì undead này sẽ không thể hồi sinh.
+
+Zeon dùng Inferno Gauntlet đấm nứt core, rồi thọc tay vào và cho White Phosphorus Flame nở rộ từ bên trong. Ngọn lửa trắng thiêu sạch aura xanh ngọc sẫm, đốt nguồn sống giả tạo của Bone Hydra. Dù tám đầu bên ngoài phát điên, chúng không thể dập lửa. Bone Hydra hạng S sụp đổ gần như lặng lẽ vì đối thủ là Zeon.
+
+Sau khi tiêu diệt Bone Hydra, Zeon tiến tới hành lang sâu nhất, nơi tử khí dày đặc nhất và necromancer đang chờ. Cậu mở cánh cửa khổng lồ, nghe một giọng nói bên trong vang lên đầy ngạc nhiên.
+
+## Chương 334
+
+Bên trong phòng sâu nhất, Zeon không thấy Pilgrim đang chờ mình mà thấy một người đàn ông khổng lồ cao hơn năm mét, cơ bắp đồ sộ, mặc lớp giáp đen phủ vảy như da rồng. Trước mặt hắn là Pilgrim, necromancer huyền thoại của Kurayan, nằm chết với tứ chi dang ra như bị mổ xẻ. Pilgrim vẫn mang vẻ không tin nổi, như không chấp nhận được cái chết của chính mình.
+
+Người đàn ông xác nhận kẻ chết là Pilgrim, rồi thọc tay vào ngực hắn để tìm thứ gì đó, nói nếu không xử lý tận gốc Pilgrim sẽ bò dậy như gián. Hắn lấy ra một mảnh đá quý tím nhỏ như móng tay út. Zeon cảm nhận năng lượng quỷ dị đến mức lạnh máu, khác hẳn mọi mana stone hay item từng thấy. Người đàn ông nói con người không có quyền biết thứ đó là gì, qua đó thừa nhận mình không phải con người.
+
+Khi người đàn ông đứng thẳng, khí tức của hắn áp đảo và cướp luôn lãnh địa từng thuộc về Pilgrim. Thi thể Pilgrim biến mất hoàn toàn, khiến ngay cả necromancer chống lại cái chết cũng không thể hồi sinh. Zeon nhận ra đối phương còn mạnh hơn Leviathan và hỏi hắn có phải rồng không. Hắn đáp “đã từng,” khiến Zeon nghĩ tới Hieltun, con rồng Dayoden phải hy sinh mới giết được, và nhận ra kẻ trước mặt còn mạnh hơn Hieltun.
+
+Người đàn ông gọi Zeon là Sand Mage, rồi búng tay teleport cả hai lên trời cao, xa khỏi mỏ mana stone để nói chuyện mà không ảnh hưởng người khác. Gaia cảm nhận nguy hiểm và muốn ra ngoài, nhưng Zeon ngăn lại vì sợ đối phương thèm muốn cô bé; Zeon hiểu rồng tham lam đến mức nào. Zeon nhận ra lớp giáp đen thật ra là vảy của chính người đàn ông.
+
+Zeon suy luận người đàn ông hành động vì viên đá trong ngực Pilgrim, vì rồng vốn lười và sẽ không săn một necromancer nếu không có thứ thật sự đáng giá. Người đàn ông tỏ ra thích thú vì Zeon nhìn ra bản chất sự việc, rồi nói ở Kurayan không có Sand Mage dù có sa mạc, vì nơi đó giàu có và chẳng ai cần điều khiển cát. Hắn nhắc đến “ngài ấy,” khiến Zeon đoán là Crassias.
+
+Người đàn ông ngạc nhiên vì Zeon biết hắn từng là rồng mà vẫn bình tĩnh, thậm chí nghe tên Crassias cũng không sợ. Khi Zeon nói Crassias đã chết vì bị phân rã thành hạt làm cái giá cho terraforming Trái Đất, người đàn ông chỉ đáp đó là “bề ngoài,” làm Zeon cứng người vì khả năng Crassias chưa thật sự chết.
+
+Trước khi rời đi, người đàn ông muốn thử sức Zeon và tự giới thiệu tên là Nigel. Lớp vảy trên cơ thể Nigel mở ra thành đôi cánh khổng lồ. Zeon nhận ra hắn không còn là người cũng không còn là rồng, mà là half-dragon, tồn tại lai giữa rồng và người lấy những đặc tính ưu việt nhất của cả hai. Nigel tuyên bố sẽ xem Sand Mage có sống sót nổi không.
+
+## Chương 335
+
+Nhờ lão Go vô hiệu hóa kết giới và nhờ Bone Drake sụp đổ sau khi nguồn mana bị cắt, khoảng 2.300 Thức Tỉnh Giả cuối cùng thoát khỏi lòng đất. Lão Go và cặp song sinh kiệt sức hoàn toàn. Seo Tae-ran ra lệnh bảo vệ Numbers, trong khi thuộc hạ của cô cũng đầy thương tích sau trận với Bone Drake.
+
+Nhiều người chứng kiến năng lực tái sinh phi nhân tính của thuộc hạ Seo Tae-ran: có người bị thương sâu tới mức lộ nội tạng nhưng không hề đau, vết thương còn khép lại rất nhanh. Seo Tae-ran khó chịu vì bí mật của Tòa Thị Chính bị lộ, nhưng phong ấn cấp hai là cần thiết để kìm Bone Drake. Dù vậy, họ vẫn không thể tìm core của Bone Drake, chỉ có thể kéo dài trận chiến và bảo vệ những người khác.
+
+Bone Drake đột nhiên mất sức sống và vỡ vụn ngay sau khi Zeon phong kín Bone Hydra, khiến mọi người đoán Sand Mage đã giết necromancer. Khi kết giới mở, lão Go ra lệnh rút lui, và toàn bộ người sống sót lao lên mặt đất. Họ nằm dưới nắng, biết ơn ánh mặt trời sau khi thoát khỏi địa ngục ngầm.
+
+Levin và Brielle lo vì Zeon vẫn chưa ra. Eloy trấn an rằng Zeon là kiểu người rơi xuống địa ngục cũng sẽ tự bò lên, nên chỉ cần tin cậu. Đúng lúc đó, phía chân trời xuất hiện hiện tượng như rồng thăng thiên: bão cát khổng lồ vươn từ mặt đất lên trời, đối đầu với vô số tia sét lớn đến mức chỉ hạng S toàn lực mới tạo được. Các Thức Tỉnh Giả cấp cao hiểu đây không phải hiện tượng tự nhiên. Brielle nhận ra có thể đó là Zeon và tự hỏi cậu đang chiến đấu với loại quái vật nào.
+
+Sau trận với Nigel, Zeon cháy đen rơi từ trời xuống như sao băng. Nigel đã biến mất, sét và áp lực cũng tan sạch. Zeon kết luận mình không thắng, nhưng cũng không thua rõ ràng: cậu nhận một đòn nặng và trả lại vài đòn nhẹ. Cả hai đều chưa dùng toàn lực; Nigel chỉ kiểm tra xem Zeon có đạt mức tối thiểu mà hắn kỳ vọng hay không rồi rời đi.
+
+Trong lúc rơi, Zeon suy nghĩ về viên đá Nigel lấy từ ngực Pilgrim. Pilgrim hiện chỉ là boss dungeon, không thể tự mình tạo ra Bone Drake và Bone Hydra vượt cấp như vậy; chắc chắn hắn đã dùng sức mạnh của viên đá. Zeon tin viên đá quá nguy hiểm với con người nên Nigel mới tới lấy, nhưng Nigel cũng có vẻ không muốn dùng nó, như thể việc sử dụng bị cấm.
+
+Gaia xuất hiện từ subspace và đỡ Zeon trước khi cậu rơi xuống đất. Zeon cảm ơn và xin lỗi vì không thể tự cử động, rồi hứa sẽ không để Gaia lo như vậy nữa. Nhờ siêu tái sinh và áo choàng da Leviathan tự sửa chữa, cơ thể cháy đen và áo choàng rách của Zeon nhanh chóng hồi phục như chưa từng trải qua trận chiến. Sau đó cậu cảm nhận nhóm sống sót ở phía xa và than rằng mình rơi quá xa, giờ phải đi bộ quay lại.
+
+## Chương 336
+
+Khi Zeon trở lại, đội viễn chinh đang chiến đấu với Kraken hạng S và bầy ma thú do nó điều khiển. Seo Tae-ran nắm quyền chỉ huy tập trung, ngay cả Jang Yong-beom và các đội trưởng tấn công cũng nghe lệnh vì sau trận với necromancer họ hiểu chia nhỏ lực lượng lúc này là tự sát. Cuộc săn Kraken đã đến hồi kết.
+
+Kraken dùng kỹ năng cấp Authority là Corrupted Ink phun từ mười xúc tu. Mực đen ăn mòn mọi thứ chạm vào, giáp Neo Seoul và Aura Shield đều không chặn được, khiến thương vong cao. Các đội trưởng tấn công đứng tuyến đầu dùng kỹ năng như Wrath of the Earth và Divine Slash bóc lớp trường bảo vệ của Kraken, trong khi các Thức Tỉnh Giả né xúc tu khổng lồ và phản kích.
+
+Zeon gặp lại Brielle và Levin khi trở về doanh trại. Ba người xác nhận nhau an toàn. Ngay sau đó, Kraken phát ra tiếng gầm cuối cùng và đổ sụp. Đội viễn chinh reo mừng vì đã giết quái vật hạng S, bảo đảm mỏ mana stone và mở rộng lãnh thổ nhân loại. Jang Yong-beom tuyên bố vùng đất này thuộc về họ.
+
+Sau khi Kraken chết, việc phân chia xác nó để sau; trọng tâm là ổn định mỏ. Kỹ sư và Thức Tỉnh Giả dựng công trình tạm từ container và xe công trình. Dù thương vong nặng, ai tham gia đội viễn chinh đều sẽ nhận phần thưởng lớn về danh tiếng hoặc tài sản, và không ai xem đó là phần thưởng không xứng đáng vì họ đều đã trả giá.
+
+Seo Tae-ran hỏi Zeon liệu khe nứt do Pilgrim tạo ra đã an toàn chưa. Zeon nói necromancer sẽ không quay lại. Seo Tae-ran quyết định phá hủy khe nứt để tránh có kẻ tò mò bị tàn dư ác ý của necromancer tha hóa. Zeon đồng ý. Các Thức Tỉnh Giả cấp cao làm sập vách đá đã suy yếu, xóa sạch khe nứt và tàn tích của necromancer.
+
+Sau đó công việc còn lại là phân chia cổ phần mỏ và xây pháo đài, vì xung quanh chỉ là đồng bằng cát trống trải không có vật cản tự nhiên trước ma thú. Neo Seoul đã chuẩn bị đội thứ hai tới xây pháo đài và ổn định khu vực, nên Zeon không còn việc phải làm. Dù nhìn như đang nghỉ ngơi nhàn nhã, cậu thật ra liên tục tua lại trận với Nigel trong đầu, mỗi lần đều kiệt sức. Zeon vẫn chưa hiểu ý định của Nigel, nhưng biết chỉ riêng việc Nigel từng là rồng đã là mối đe dọa khổng lồ cho nhân loại và Neo Seoul.
+
+Hơn mười ngày sau, đội viễn chinh thứ hai từ Neo Seoul tới mỏ. Lực lượng đầu tiên vui mừng vì cuối cùng có thể trở về Neo Seoul sau thời gian dài không tiện nghi và gần phát điên vì chán. Levin và Brielle hào hứng hỏi Zeon định làm gì; Zeon đáp họ sẽ về nhà, khiến cả hai nhảy cẫng lên.
+
+Seo Tae-ran giới thiệu Sadoski, Thức Tỉnh Giả hạng B được Jin Geum-ho tin tưởng, người sẽ phụ trách ổn định và quản lý mỏ mana stone. Sadoski tự tin cho rằng Zeon chỉ là kẻ cơ bắp và muốn thiết lập ưu thế ngay từ đầu để cắt giảm các bên liên quan cũ, tối đa hóa lợi nhuận cho Neo Seoul. Hắn trừng mắt gây áp lực nhưng Zeon không để tâm, chỉ nói Sadoski muốn xử lý mỏ thế nào cũng được. Khi Zeon vỗ vai đi ngang, Sadoski bị chấn động đến ho ra máu và quằn quại, không chịu nổi sức của một cái vỗ vai từ Zeon.
+
+## Chương 337
+
+Trên chuyến xe buýt bọc thép quay về Neo Seoul, phần lớn người sống sót ngủ say vì kiệt sức. Chỉ Zeon và Mandy còn thức. Mandy cảm ơn Zeon vì nhờ cậu nhiều người được cứu, rồi nói khi về Neo Seoul chỉ muốn nghỉ ngơi. Cô lo rằng sự kiện necromancer chưa phải kết thúc; với trực giác half-elf và hiểu biết về Kurayan, cô cảm nhận tương lai còn nhiều biến động. Zeon chỉ nói không ai biết tương lai, chỉ mong thay đổi đừng tới quá đột ngột.
+
+Về đến nhà, Brielle, Levin và Gaia náo loạn vì vui mừng. Zeon ngồi trên sofa đỏ, nhìn Neo Seoul vẫn yên bình như cũ, nhưng trong lòng nặng nề vì không thể nói với ai về half-dragon Nigel. Nếu công bố rồng tồn tại, Neo Seoul sẽ hỗn loạn. Zeon tạm gánh bí mật một mình, trong khi Gaia và Brielle làm loạn trong nhà, rồi Levin phát hiện dao găm nhỏ cấp dungeon bị lấy. Zeon biết Gaia đã lục subspace và hấp thu những item cô bé thích, nhưng cô bé không động vào các item nguy hiểm nếu chưa được cho phép.
+
+Levin nói Aaron và Dominic đang nghỉ ở nhà vì raid party của họ gần như sụp đổ sau chuyến viễn chinh; phần lớn thành viên chủ chốt chết trong khe nứt ngầm. Điều này bất hạnh cho họ nhưng khiến Levin nhẹ lòng vì không phải tiếp tục lo họ chết. Levin đi ngủ bù, Zeon cũng định nghỉ sâu trên sofa.
+
+Ở một nơi khác, Jin Geum-ho giám sát cấu trúc khổng lồ gần bằng tòa nhà ba tầng, làm từ xác ma thú và hợp kim Neo Seoul, khắc đầy mạch mana. Đây là “Thiên Phạt,” kiệt tác lớn nhất đời ông. Mana engine dựa trên tim Moby Dick được lắp vào, nhưng mana không đủ, cần thêm động cơ phụ từ trái tim một quái vật hạng S khác.
+
+Seo Tae-ran trở về và báo đã thu được trái tim Kraken hạng S nguyên vẹn. Jin Geum-ho hài lòng. Seo Tae-ran xúc động khi thấy Thiên Phạt gần hoàn thiện. Họ nói về Zeon: cậu đã về nhà, và việc cậu chỉ quan tâm tới nhà mình là may mắn cho họ, vì nếu cậu hứng thú với Neo Seoul thì sẽ thành trở ngại lớn cho kế hoạch. Jin Geum-ho xem Zeon như chiếc xương mắc cổ: quá nguy hiểm để nuốt, quá giá trị để nhổ ra.
+
+Jin Geum-ho biết necromancer đã xuất hiện và hiểu nếu không có Zeon, tổn thất sẽ còn lớn hơn. Ông cho rằng các bước ngoặt của thế giới đang tới nhanh hơn dự đoán; không thể trông chờ lần nào cũng có Zeon, vì vậy Thiên Phạt phải hoàn thành bằng mọi giá. Ông khẳng định sẽ không dừng lại, không ngoảnh đầu, dù phải hy sinh bất cứ thứ gì.
+
+## Chương 338
+
+Sau khi mỏ mana stone lộ thiên được khai phá, Neo Seoul trở nên đầy sức sống vì đổ tiền và nhân lực vào xây dựng pháo đài quanh mỏ. Cần công nhân, lính gác Thức Tỉnh Giả, thợ mỏ và quản trị viên. Các raid party có cổ phần tự nguyện cử người, nhưng vẫn thiếu, nên người từ khu ổ chuột được tuyển thêm. Thậm chí người thường cũng được chào đón vì ai cũng có việc. Dòng người đổ về mỏ được gọi là “Cơn sốt vàng Jay.”
+
+Khu ổ chuột vắng hẳn vì nhiều người rời đi. Zetoya, cậu bé từ Crocodile’s Den, lợi dụng đường phố vắng để vận chuyển vật tư từ mặt đất xuống làng ngầm. Với người sống lâu dưới cống, mặt đất như thiên đường. Cậu mang đầy ba lô hàng hóa kiếm được khó khăn và chuẩn bị quay lại Crocodile’s Den.
+
+Ở một hẻm sau Dongdaemun, Zetoya gặp hai Paladin tuần tra ngoài phạm vi thường lệ. Họ nghi ngờ, định kiểm tra cậu vì cậu không giống dân Dongdaemun. Zetoya giữ bình tĩnh rồi bất ngờ bỏ chạy, chui xuống nắp cống. Paladin gọi cậu là “Croc spawn,” căm ghét những người cống ngầm vì xem họ là chất ô nhiễm thiên đường thuần khiết của Dongdaemun. Họ không dám xuống cống, chỉ nung chảy khóa cổng, nhưng Zetoya biết họ không thể chặn hết lối lên.
+
+Zetoya di chuyển lộn ngược trên trần cống nhờ năng lực bám hút ở chân, càng mạnh sau khi thức tỉnh, rồi về làng. Ngôi làng đã lớn hơn nhờ tin đồn có máy phát mana, dân số vượt quá hai trăm, và Zetoya được tin tưởng làm người bảo vệ vì là võ giả hạng D, lại có quan hệ với Zeon.
+
+Trong làng bất ngờ có ánh sáng bùng lên. Một bé gái tóc vàng tàn nhang tên Remura đã cứu Marlang, người bị rách bụng nặng sau khi rơi xuống nơi sắc nhọn dưới lòng đất. Làng không có thuốc cầm máu hay potion, Marlang vốn chỉ có thể chờ chết, nhưng ánh sáng từ tay Remura chữa lành hoàn toàn vết thương, không để lại sẹo.
+
+Zetoya kiểm tra cổ tay Remura và thấy sáu vạch sáng trắng, nghĩa là cô bé khởi điểm hạng A. Remura có vẻ là Healer hạng A, class cực hiếm; nếu khởi điểm hạng A thì khả năng trở thành hạng S rất cao. Zetoya hiểu đây là chuyện điên rồ vì một Healer có thể cứu người sắp chết sẽ bị mọi thế lực thèm muốn.
+
+Remura không hiểu năng lực của mình đặc biệt tới đâu, nhưng mẹ cô bé, Heather, lập tức bị lòng tham chi phối. Bà khoe con gái là Thức Tỉnh Giả mạnh và đòi mọi người đối xử tốt nếu muốn được chữa trị. Zetoya cảnh báo năng lực quá lớn sẽ kéo tai họa tới, nhưng Heather cho rằng cậu ghen tị và muốn chiếm sức mạnh của Remura. Zetoya nhận ra bà không nghe nữa và quyết định phải bàn với Zeon.
+
+## Chương 339
+
+Sau khi về Neo Seoul, Zeon sống như ẩn sĩ, ru rú trong nhà nhiều ngày, ngủ trên sofa, đói thì nấu ăn rồi lại nghỉ. Brielle nhiều lần bảo cậu ra ngoài nhưng cậu phớt lờ. Cuối cùng Zeon đứng dậy sau giấc ngủ dài, trấn an Gaia, khoác áo choàng và ra ngoài. Gaia lập tức vào subspace như nhà riêng.
+
+Zeon tới Chợ Goblin theo thói quen. Đường phố vắng hơn vì nhiều người có năng lực đã tới mỏ mana stone, nhưng khu chợ lại cực kỳ sôi động. Các thương nhân bán máy khoan, quần áo lao động và vật tư cho mỏ, phát đạt như thương nhân thời cơn sốt vàng. Zeon gặp Yoo Se-hee, Black Lion và Akashi. Yoo Se-hee tăng ảnh hưởng lớn nhờ thị trường bùng nổ, còn Akashi hài lòng với cuộc sống mới ở Chợ Goblin vì công việc trinh sát dungeon nhàn hơn thời ở Hellbringer Mercenary Corps.
+
+Zeon rời chợ và gặp Zetoya chui lên từ hố ga gần cửa hàng Klexi. Zetoya nói có chuyện cần bàn, nên Zeon đưa cậu vào cửa hàng ăn trước. Klexi nhìn Zetoya bằng ánh mắt cáo già khiến cậu bé áp lực. Zetoya cho biết các Croc khác không còn dám gây rắc rối với làng vì cậu có biệt danh “Cá Sấu Thật Sự,” một khi cắn sẽ không nhả và truy đuổi mục tiêu tới cùng.
+
+Zetoya kể trong làng có người thức tỉnh: Remura, Healer khởi điểm hạng A, có thể cứu người bên bờ cái chết. Klexi và Zeon đều sốc vì Healer rất hiếm, ngay cả hạng E cũng được raid party tranh giành; Healer cao nhất Neo Seoul hiện có lẽ chỉ hạng B và phải được hỗ trợ rất nhiều. Một Healer hạng A khởi điểm gần như chắc chắn sẽ thành hạng S.
+
+Zeon hỏi còn ai biết, Zetoya nói chỉ dân làng và cậu. Crocodile’s Den bị tách biệt với mặt đất nên thông tin chưa lan rộng. Klexi vội đề nghị Argos hoặc Chợ Goblin bảo vệ Remura, nói họ có thể đối xử nhân đạo hơn các nhóm khác, nhưng Zeon lạnh lùng chặn lại vì đây là ranh giới không được vượt. Klexi nhận ra mình mất bình tĩnh vì cám dỗ của Healer hạng A và nói nếu cần giúp thì gọi ông.
+
+Zeon quyết định ăn xong sẽ đích thân xuống lòng đất với Zetoya để xem tình hình. Zetoya nhẹ nhõm vì Zeon là người duy nhất trên mặt đất cậu thật sự tin tưởng. Klexi cố lấy lòng bằng cách chất đầy thịt cho Zetoya, nhưng nụ cười của ông lộ rõ ý đồ, khiến Zeon tặc lưỡi. Zeon lo một Healer cấp cao xuất hiện trong cống ngầm sẽ gây rắc rối trên mặt đất.
+
+## Chương 340
+
+Zeon cùng Zetoya xuống Crocodile’s Den sau bữa ăn. Mùi cống hôi thối nặng hơn thường ngày vì cậu vừa ăn ngon, nhưng Zeon vẫn điềm nhiên. Zetoya kể làng đã tốt hơn nhiều nhờ máy phát mana, dân số tăng gấp ba vì người nơi khác nghe tin kéo tới. Dù thiếu vật tư, Zetoya xoay xở bằng cách lục trong rác thải của Neo Seoul để tìm đồ lọt qua hệ thống tái chế, bán lấy tiền mua vật tư; kỹ năng sinh tồn này là lý do dân làng công nhận cậu làm người dẫn dắt.
+
+Về tới làng, Zetoya phát hiện Remura và mẹ cô bé, Heather, đã biến mất. Dân làng giải thích trong lúc Zetoya lên mặt đất, Heather đòi Remura được đối xử đặc biệt. Dân làng đã nhường nhà tốt nhất và hứa ưu đãi, nhưng Heather vẫn chưa thỏa mãn; bà tuyên bố con mình được Chúa chọn và Remura phải cai trị làng. Dân làng từ chối vì họ biết chính Zetoya mới là người bảo vệ, cung cấp vật tư và giữ làng tồn tại.
+
+Heather tức giận nói không thể sống giữa đám bẩn thỉu nữa, rồi kéo Remura đang do dự rời đi vào bóng tối. Nhiều người cố ngăn bà chờ Zetoya về nhưng bà không nghe. Zetoya xấu hổ vì đã kéo Zeon xuống đây vô ích, nhưng Zeon nói lỗi nằm ở lòng tham của Heather. Cả hai đều lo vì Remura còn nhỏ, dễ bị thao túng, lại là Healer hạng A mà bất kỳ thế lực nào cũng sẽ thèm muốn.
+
+Zeon nhìn thấy kỳ vọng quá lớn dân làng đặt lên vai Zetoya và quyết định cậu bé cần mạnh hơn. Vì Heather và Remura đã tự rời làng, Zeon đưa Zetoya lên mặt đất, gọi Levin và Brielle. Levin lần đầu gặp Zetoya, lập tức thân thiện đến mức muốn cậu gọi mình là hyung; Brielle chê Levin làm Zetoya rối nhưng thái độ đó không khiến Zetoya khó chịu.
+
+Zeon giao “dự án tăng sức mạnh cho Zetoya” cho Levin phụ trách, Brielle hỗ trợ. Levin muốn gọi thêm Aaron và Dominic vì họ đang lười sau khi raid party tan rã, Zeon cho phép tùy xử lý. Zeon không trực tiếp tham gia vì nếu có cậu, cảm giác nguy hiểm sẽ giảm. Brielle được phép đưa Gaia theo, nhưng phải giấu cô bé khỏi người khác và bắt đầu bằng việc dụ ma thú cấp thấp.
+
+Zetoya bị Levin và Brielle kéo đi huấn luyện dù nhìn Zeon cầu cứu. Zeon cố tình tránh ánh mắt cậu, đồng thời suy nghĩ việc Zetoya rồi Remura liên tiếp thức tỉnh có phải trùng hợp hay có yếu tố khác tác động. Vì Crocodile’s Den liên thông như mê cung dưới Neo Seoul và khu ổ chuột, cậu quyết định cần điều tra chuyển động dưới lòng đất.
+
+Zeon tới cửa hàng Klexi để dùng tài nguyên Argos’ Eye, dù biết Klexi sẽ đòi giá cao. Cậu cần bản đồ chi tiết toàn bộ lối vào Crocodile’s Den; trước đây chỉ tìm ngẫu nhiên qua khu đổ rác là đủ, nhưng giờ không còn đủ nữa. Ngay cả Zetoya cũng chỉ biết khu vực hoạt động của mình, không nắm toàn bộ mê cung cống ngầm.
+
+## Chương 341
+
+Ở Dongdaemun, Johan cầu nguyện trước cây thánh giá khổng lồ, mồ hôi đẫm người, trong khi tín đồ nhìn hắn bằng ánh mắt cuồng loạn và xem hắn là Đấng Cứu Thế duy nhất. Suốt vài tháng, Johan tự giam trong nhà thờ cầu nguyện vì đã nhận cảnh cáo từ Tòa Thị Chính: không được can thiệp vào hành động của Zeon. Ban đầu hắn sững sờ rồi giận dữ, nhưng cuối cùng phải chấp nhận không thể chống City Hall.
+
+Khi Johan cầu xin Chúa chỉ đường, cây thánh giá bất ngờ phát sáng rực rỡ. Tín đồ quỳ xuống khóc vì tin Chúa đáp lời. Johan cũng bất ngờ, nhưng lắng nghe một giọng nói vang bên tai, không rõ là Chúa thật hay ai khác. Sau khi ánh sáng biến mất, Johan tuyên bố Chúa đã phán với hắn và hứa gửi xuống một thánh nữ. Hắn ra lệnh tín đồ tìm thánh nữ đã giáng xuống mảnh đất này và đưa cô về giáo hội, khiến Dongdaemun bắt đầu chuyển động.
+
+Sáng sớm, Mandy tới nhà báo cho Zeon rằng hoạt động của Dongdaemun tăng mạnh ba ngày qua. Họ phái tín đồ đi khắp nơi như đang tìm thứ gì đó, và có người nghe từ “Thánh chiến.” Zeon hiểu Thánh chiến trong giáo lý Dongdaemun là cái cớ tối thượng để phạm mọi tội ác nhân danh Chúa, hy sinh cả mình lẫn người khác.
+
+Mandy cảnh báo Sinchon ở gần Dongdaemun nhất nên phải chuẩn bị. Zeon chợt liên hệ “Thánh chiến” với một khả năng, nhưng cần kiểm tra. Cậu ra ngoài và thấy tín đồ Dongdaemun đã xuất hiện quanh Sinchon. Họ tránh xa Zeon vì sợ, nên cậu hỏi một người dân vừa bị họ quấy rầy. Người đó nói họ đang tìm một cô gái tạo phép màu, chữa bệnh và khiến người què đi lại, gọi là thánh nữ.
+
+Zeon chắc chắn Dongdaemun đang nhắm tới Remura, Healer hạng A. Cậu không biết họ biết bằng cách nào, nhưng việc toàn Dongdaemun tìm cô bé là rõ ràng. Nếu các khu khác biết, họ cũng sẽ thèm muốn Remura, trừ có lẽ Tây Khu máy móc. Dongdaemun tin Remura là thánh nữ, nên họ sẽ sẵn sàng chết và gây chiến để bảo vệ cô bé; chỉ cần sai một bước, cả Neo Seoul có thể bị kéo vào chiến tranh.
+
+Zeon tới cửa hàng Klexi. Klexi đang nói chuyện với một cán bộ Argos’ Eye và cho người đó rời đi. Hai người nhanh chóng thống nhất rằng Dongdaemun tìm Remura, Healer hạng A. Klexi nhận định nếu tình hình xấu, khu ổ chuột có thể bị san phẳng, thậm chí Neo Seoul cũng bị ảnh hưởng; Remura là quả bom có sức tác động còn tệ hơn ma thú hạng S.
+
+Klexi nghiêm túc nói có lẽ nên loại bỏ Remura trước khi quá muộn vì sự sống còn của Neo Seoul. Ông từng trải qua Đại Thảm Họa một trăm năm trước, hiểu giá trị của pháo đài nhỏ giữa sa mạc này hơn ai hết. Ông hỏi Zeon nếu ông quyết định cô bé phải chết, Zeon sẽ làm gì.
+
+## Chương 342
+
+Dưới lòng đất, Remura bị Heather ép liên tục chữa trị cho người khác. Cô bé dùng ánh sáng thiêng liêng chữa lành bệnh da lở loét của một ông lão, khiến dân ngầm quỳ xuống gọi đó là phép màu. Dù là Healer hạng A, Remura vẫn chỉ là trẻ con, chưa biết tiết kiệm sức; mỗi lần dùng kỹ năng đều dốc toàn lực nên nhanh chóng kiệt sức. Khi cô bé muốn nghỉ, Heather gạt đi vì còn nhiều người chờ chữa.
+
+Heather đưa Remura tới chữa cho Barkhum, cựu thủ lĩnh một nhóm trong Crocodile’s Den, Thức Tỉnh Giả võ thuật hạng C. Cơ thể Barkhum biến dị giống Croker, da cứng như cá sấu rồi nặng tới mức toàn thân và dây thanh quản hóa đá, không thể cử động. Heather hỏi nếu được chữa thì Barkhum sẽ làm gì; ông thề trung thành. Remura dùng Cure, tiêu hao tới mức tái mặt, nhưng chữa Barkhum khỏi hoàn toàn. Barkhum quỳ gối nhận Remura làm chủ nhân, nhưng Remura đã ngất; Heather thay cô bé cười khoái trá.
+
+Ngoài sa mạc, Zetoya bị Levin và Brielle huấn luyện khắc nghiệt. Cậu vừa tiêu diệt cả đàn Bigfang Badger hạng F hung hãn, bị thương đầy người và nằm bẹp trong máu ma thú. Levin và Brielle vẫn cho rằng chưa đủ, định kéo thêm ma thú hạng E tới trước khi cậu hồi phục. Zetoya kinh hãi gọi họ là ác quỷ, nhưng Levin giải thích chính cậu từng bị Zeon ném vào hang đầy ma thú và nhờ vượt qua thử thách mà mạnh lên.
+
+Aaron và Dominic cũng bị kéo vào huấn luyện với các bầy ma thú cấp thấp, gào lên gọi Levin và Brielle là ác quỷ. Brielle sai Gaia kéo thêm ma thú tới, dùng lời Zeon rằng thử thách không giết được sẽ khiến họ mạnh hơn. Zetoya, Aaron và Dominic tái mét khi bầy mới xuất hiện, không biết đây chỉ là khởi đầu của các thử thách.
+
+Trong nhà, Zeon nghiên cứu bản đồ Neo Seoul và hệ thống cống ngầm. Nhờ công sức của mình, cậu xác định được khoảng 70-80% lối vào cống trong Neo Seoul và khu ổ chuột, rồi phác thảo Crocodile’s Den. Hệ thống này phức tạp hơn mọi mê cung Zeon từng thấy, vẫn còn 20-30% chưa rõ. Ngay cả Jin Geum-ho có lẽ cũng không biết nó đã phát triển đến mức nào sau nhiều năm mở rộng và người ngầm tự đào thêm đường.
+
+Zeon kết luận tự mình vào cũng chưa chắc tìm được Remura vì cô bé và Heather sinh ra, lớn lên trong Crocodile’s Den. Cần bồi dưỡng Zetoya, vì cậu có tiềm năng lớn dù khởi điểm hạng D. Zeon tin với huấn luyện cường độ cao, Zetoya có thể nhanh chóng đạt hạng C; cậu đã truyền bí quyết thúc đẩy Thức Tỉnh Giả trưởng thành cho Levin và Brielle.
+
+Khi Zeon ra ngoài hít thở sau nhiều ngày vẽ bản đồ, Johan xuất hiện cùng các Thánh Kỵ Sĩ. Johan nói đã tới đúng nơi vì tìm được Zeon, mở đầu cho cuộc đối đầu trực tiếp.
+
+## Chương 343
+
+Johan nói tới yêu cầu Zeon hợp tác: từ giờ Thánh Kỵ Sĩ sẽ xuất hiện ở Sinchon nhiều hơn, nhưng hắn tuyên bố không phải để truyền giáo. Zeon không tin và xem đây là thông báo đơn phương. Khi Johan nói Zeon không cần biết lý do, Zeon lạnh lùng từ chối. Johan dọa chiến tranh; Zeon đáp nếu chiến tranh thì Dongdaemun sẽ chết nhiều hơn. Cuộc đối đầu leo thang tới mức Johan phải đưa ra phương án thỏa hiệp.
+
+Johan đề nghị không cho Thánh Kỵ Sĩ vào Sinchon, đổi lại Zeon cho phép mười “tín đồ bình thường” của giáo hội hoạt động ở đó trong một tháng. Zeon biết những người này chắc chắn không bình thường, mà là mật vụ, nhưng chấp nhận vì chỉ mười người sẽ cần thời gian thu thập tin tức, đủ để mua thời gian cho Zetoya trưởng thành. Zeon đặt hạn một tháng, quá hạn sẽ tự tay ném họ ra.
+
+Những người Johan định phái đi là Dark Saints, vũ khí bí mật của Dongdaemun, tương đương Numbers của Tòa Thị Chính hoặc Punishers của Bắc Khu. Họ là các “thánh” trong bóng tối, vừa thu thập tình báo vừa có thể ám sát. Việc Johan dùng họ cho thấy hắn coi trọng chuyện Thánh nữ đến mức nào. Johan tin mình thật sự nghe tiếng Chúa lần đầu, dù trước kia hắn không tin Chúa mà tự xem mình là thần của thế giới mới.
+
+Chen Xi, một Dark Saint có huyết thống pha Trung-Hàn-Nga-Séc, cực kỳ xinh đẹp nên rất giỏi khai thác đàn ông để lấy thông tin. Cô tới Sinchon và dùng vẻ ngoài nữ tu để dò hỏi, nhưng sau mười ngày vẫn không có manh mối. Sinchon đặc biệt thù địch Dongdaemun vì từng suýt bị chiếm, nên ngoài Chen Xi, các Dark Saints khác gặp nhiều khó khăn.
+
+Chen Xi nghĩ có thể Thánh nữ không ở trên mặt đất, rồi chú ý tới song sắt dẫn xuống cống. Cô cho rằng nếu Thánh nữ sinh ra ở nơi bẩn thỉu, tối tăm thì nhiệm vụ của mình là đưa cô bé về ánh sáng. Cô bẻ khóa, bước xuống Crocodile’s Den. Trước đó cô cảm thấy có ai nhìn nhưng kỹ năng dò xét không phát hiện gì; thực ra Zeon đã dùng Sand Soldier theo dõi cô.
+
+Zeon đã gắn Sand Soldier theo từng Dark Saint trong Sinchon và nhờ vậy biết họ có khoảng 50 người, đều được Johan rửa tội, hoạt động trong bóng tối; mười người đứng đầu mới thật sự nguy hiểm, Chen Xi là một trong số đó. Việc điều khiển Sand Soldier từ xa để giám sát rất nặng vì chúng vốn dành cho chiến đấu, nhưng nó giúp cậu biết Chen Xi đã vào cống.
+
+Zeon đứng trước lựa chọn: giết Chen Xi, hoặc giết/giấu Remura. Nếu Thánh nữ rơi vào tay Dongdaemun, họ sẽ vũ khí hóa cô bé và bành trướng, phá nát trật tự mong manh. Khi Brielle, Levin và Zetoya trở về, Zeon quyết định đã đến lúc kết thúc chuyện với Dongdaemun.
+
+## Chương 344
+
+Sau gần một tháng ở sa mạc, Zetoya thay đổi rõ rệt. Dù ngoại hình không khác nhiều, ánh mắt và khí chất đã giống chiến binh dày dạn. Levin và Brielle huấn luyện cậu, Aaron và Dominic bằng thử thách sát ngưỡng chết: từ ma thú hạng F đến đàn hạng E, chỉ cho nghỉ tối thiểu rồi lại thả quái. Nhờ kinh nghiệm học từ Zeon, họ biết cách ép người khác tới giới hạn mà không giết.
+
+Zetoya tiến bộ mạnh nhất. Rank chưa tăng nhưng cậu hình thành phong cách chiến đấu riêng: tận dụng giác quan sắc bén của dân cống ngầm, năng lực bám tường/trần như thằn lằn, rồi bám lên chính thân thể ma thú để chiến đấu. Bản năng chiến đấu của cậu vượt Aaron và Dominic, thêm khát vọng mạnh lên do từng chịu quá nhiều bất công vì yếu đuối. Levin và Brielle công nhận cậu là thiên tài.
+
+Zeon khen Levin huấn luyện tốt. Levin nói đã dồn hết bí quyết học từ Zeon vào, và Zetoya có thể không thua Thức Tỉnh Giả võ thuật cùng rank; dưới lòng đất, cậu thậm chí có thể thắng người rank cao hơn. Tài năng của Zetoya cũng khiến Levin tự kiểm điểm vì đã lười sau khi tăng rank, và quyết định siết bản thân lại.
+
+Zeon báo Dongdaemun đã đánh hơi được Remura, gọi cô bé là Thánh nữ; người của họ đã tỏa khắp khu ổ chuột và Neo Seoul, một Dark Saint vừa vào Crocodile’s Den. Zeon không thể tự đi vì Dongdaemun đang giám sát cậu; nếu cậu xuống cống và Dark Saint mất tích, chiến tranh Sinchon-Dongdaemun sẽ nổ ra ngay. Vì vậy Levin, Brielle và Zetoya phải tự xử lý.
+
+Levin nhận trách nhiệm cho nhiệm vụ của Zetoya, dù Zeon cảnh báo Dark Saint nữ kia cùng rank với Levin nhưng nhiều kinh nghiệm trong bóng tối, thông minh và tàn nhẫn. Brielle được phép mang Gaia theo nếu subspace đủ rộng, và cô xác nhận đã mở rộng đủ để Gaia nghỉ thoải mái. Zeon giao quyền quyết định với Remura cho Zetoya vì cậu hiểu cô bé và Crocodile’s Den nhất.
+
+Sau khi tiễn Zetoya, Brielle và Levin xuống cống, Zeon biết mình đang bị Dongdaemun theo dõi, có lẽ bởi Dark Saint dùng ẩn thân. Cậu không xuống lòng đất mà tới văn phòng Eaton. Eaton trung thành tuyệt đối vì từng được Zeon cứu Sinchon. Zeon nhờ ông lan truyền tin đồn: “Thánh nữ” Dongdaemun đang tìm thật ra là Thức Tỉnh Giả Healer mạnh.
+
+Eaton tưởng đây là tin giả để phá kế hoạch Dongdaemun, không biết nó là thật. Zeon chủ động làm vậy vì hỗn loạn không thể ngăn nữa; Dongdaemun chắc chắn gây xung đột dù tìm được Remura hay không. Lan tin Healer sẽ kéo các thế lực khác vào cuộc, khiến Dongdaemun không thể dồn toàn lực xuống Crocodile’s Den. Tin đồn bắt đầu lan khắp Neo Seoul rằng một Healer cấp cao đã thức tỉnh và Dongdaemun muốn độc chiếm.
+
+## Chương 345
+
+Xiao Lun, kẻ thống trị Nam Khu, nhận tin Dongdaemun lén thả tín đồ trong Neo Seoul để tìm một Healer cấp cao. Những tín đồ này vốn là công dân Neo Seoul bị Johan cải đạo, hoạt động nhân danh Dongdaemun. Vì không biết số lượng bao nhiêu, Xiao Lun gọi họ là gián. Khi biết Healer khởi điểm hạng A, ông hiểu vì sao Dongdaemun phát điên, vì ở cấp đó gọi là thánh nữ cũng có thể tin được.
+
+Xiao Lun hiểu Healer cực hiếm, dù hạng C-D cũng được xem như báu vật vì có thể kéo người khỏi bờ vực cái chết. Một Healer khởi điểm hạng A gần như chắc chắn thành S-rank, có giá trị vượt thường thức. Ông ra lệnh bảo đảm Healer hạng A bằng mọi hỗ trợ cần thiết. Nếu không giành được, phải bảo đảm không ai khác giành được.
+
+Jeong Sangmo, một Thức Tỉnh Giả võ thuật hạng D của Đông Khu, từng oán hận vì bị xem thường giữa vô số võ giả hạng D thay thế được. Sau khi bị tín đồ Dongdaemun thuyết phục, hắn theo Johan và nhận hỗ trợ để leo lên vị trí tốt hơn ở Đông Khu. Khi nhận mật lệnh tìm Thánh nữ, hắn hy vọng nếu thành công sẽ tăng địa vị trong Dongdaemun và ảnh hưởng ở Đông Khu.
+
+Jeong Sangmo mở rộng tìm kiếm sang Nam Khu và bị Thức Tỉnh Giả Nam Khu bao vây. Khi bị hỏi có phải tới tìm Healer/Thánh nữ không, hắn hoảng đến lộ phản ứng, bị đối phương phát hiện là tín đồ Dongdaemun. Hai bên cãi vã rồi lao vào đánh nhau, gây thương vong. Đây chỉ là một trong nhiều xung đột tương tự bùng nổ khắp Neo Seoul.
+
+Bầu không khí Neo Seoul u ám vì va chạm giữa tín đồ Dongdaemun và Thức Tỉnh Giả các khu leo thang. Tòa Thị Chính phái lực lượng tới các điểm trọng yếu giữ trật tự nhưng không bao phủ toàn thành phố. Mandy bị điều tới ranh giới Tòa Thị Chính-Bắc Khu sau một vụ đụng độ lớn; cô hiểu đây chỉ là làm màu, vì nếu cấp trên thật sự muốn chặn xung đột thì đã phái tinh nhuệ hoặc cảnh cáo chính thức các khu.
+
+Mandy giải thích với các đặc vụ khác rằng họ chỉ cần xuất hiện sau khi trận đánh kết thúc để có ghi nhận đã được triển khai. Cô biết Tòa Thị Chính luôn muốn giữ cân bằng, không để khu nào hoặc thế lực khu ổ chuột nào quá mạnh, đặc biệt là Dongdaemun. Đàn áp tôn giáo có thể khiến Dongdaemun đoàn kết hơn, nên City Hall chỉ kiềm chế vừa đủ.
+
+Mandy đã nhận thư của Zeon qua Argos’ Eye, trong đó cậu báo người Dongdaemun tìm là Healer mới thức tỉnh và dự đoán hành động của các thế lực. Zeon dặn cô đừng can thiệp quá sâu vì Tòa Thị Chính cũng không muốn vậy. Mandy nhận ra mọi thứ đang diễn ra đúng như Zeon dự đoán, và rùng mình nghĩ mọi người đang nhảy múa trong lòng bàn tay cậu; cô tự thề tuyệt đối không trở thành kẻ thù của Zeon.
+
+## Chương 346
+
+Trong thánh đường Dongdaemun, Inquisitor Joshua báo cho Johan rằng mọi thế lực đã biết Thánh nữ thật ra là Healer cấp cao. Tin đồn lan khắp Neo Seoul, khiến các khu và raid team đều hành động để giành Thánh nữ. Joshua không truy được nguồn tin. Johan tức giận vì các tín đồ cài trong Neo Seoul lần lượt mất liên lạc, rõ ràng bị giết trong xung đột với Thức Tỉnh Giả khác; đây là tổn thất lớn vì mỗi tín đồ Neo Seoul cần rất nhiều thời gian và tiền để cải đạo.
+
+Johan quyết định càng phải bảo đảm Thánh nữ bằng mọi giá, vì có cô bé sẽ bù được mọi tổn thất. Joshua báo chưa có manh mối, và một số Dark Saints cũng mất liên lạc: Martel và Elixon ở Guro, Chen Xi ở Sinchon. Khi nghe Sinchon, Johan nghi Zeon đã xử lý Chen Xi, nhưng Joshua nói Zeon bị giám sát 24/24 và không có động thái đáng ngờ.
+
+Người giám sát Zeon là Lubo, kẻ được gọi là “Con Mắt của Chúa,” sở hữu Clairvoyance. Kỹ năng này giám sát chính xác trong phạm vi vài kilomet và xuyên qua ảo giác/kết giới, nên Johan tin ngay cả Zeon cũng khó lừa được. Dù vậy, Johan vẫn bất an, ra lệnh truy tìm Dark Saints mất tích và tăng gấp đôi, gấp ba giám sát Zeon vì cậu không phải người ngồi yên; việc cậu không làm gì càng đáng nghi.
+
+Chen Xi lang thang trong cống ngầm tối đen, mất liên lạc với mặt đất. Môi trường bẩn, hôi và ẩm tệ đến mức người thường sẽ phát điên, nhưng cô tiếp tục đi sâu vì nghĩa vụ tìm Thánh nữ và đưa cô bé về ánh sáng. Cuối cùng cô thấy ánh sáng máy phát mana và tới làng của Zetoya.
+
+Dân làng cảnh giác với Chen Xi. Cô tự xưng là sứ giả của Chúa, hứa đưa họ lên mặt đất có thức ăn và giường ấm, nhưng dân ngầm không tin Chúa vì nếu Chúa tồn tại họ đã không bị đày xuống nơi bẩn thỉu. Lời hứa đưa lên mặt đất còn chạm vào vết thương của họ, vì ánh nắng có thể làm da họ cháy tróc nếu không thức tỉnh. Khi bị chửi đuổi, Chen Xi lạnh mặt; cô không phải nhà truyền giáo mà là kẻ trừng phạt người từ chối.
+
+Chen Xi hỏi về cô gái có năng lực đặc biệt chữa bệnh nan y. Phản ứng gay gắt của dân làng khiến cô chắc chắn người đó tồn tại. Khi vài người đàn ông lao vào, Chen Xi dùng vũ khí Divine Judgment, sợi chỉ bạc gần như vô hình làm từ tơ nhện ma thú pha kim loại, cắt đôi một người rồi chém bay đầu người khác. Cô tuyên bố mỗi lần không nhận được câu trả lời mình muốn sẽ giết thêm một người.
+
+Trước nỗi sợ, dân làng khai tên cô bé là Remura, và cho biết mẹ cô bé đã đưa cô rời đi vì tham lam, muốn dùng sức mạnh của con gái để cai trị làng nhưng thất bại. Chen Xi tiếp tục ép hỏi, còn dân làng quá sợ để nói dối.
+
+## Chương 347
+
+Levin, Zetoya và Brielle tới làng của Zetoya thì thấy vài thi thể, dân làng đang khóc. Levin chỉ nhìn vết thương đã nhận ra Chen Xi dùng chỉ bạc làm vũ khí và giết người rất có chọn lọc, đủ để moi thông tin rồi rời đi. Điều đó cho thấy Chen Xi không giết bừa mà hành động cực kỳ hiệu quả, khiến việc truy đuổi khó hơn.
+
+Zetoya hỏi dân làng sống sót và biết Chen Xi đã hành quyết từng người cho tới khi có câu trả lời. Khi Levin hỏi cậu có ổn nếu rời làng mà chưa lo tang sự không, Zetoya nói gia đình người chết muốn báo thù hơn là chôn cất. Brielle dùng potion truy dấu: rắc chất lỏng lên nơi Chen Xi đứng, dấu chân của cô ta phát sáng xanh lục. Nhóm lần theo dấu vết, sau khi chắc không ai thấy, Brielle gọi Gaia ra khỏi subspace để hỗ trợ.
+
+Trong lúc đó, Zeon ngồi ở cửa hàng lão Klexi ăn gukbap, món canh thịt cậu thích. Klexi trách cậu gửi lũ trẻ xuống Crocodile’s Den mà vẫn ăn ngon, nhưng Zeon nói cậu không lo vì đã huấn luyện chúng đủ khắc nghiệt. Klexi biết Zeon cẩn trọng nên tin cậu không đẩy trẻ vào nguy hiểm vô cớ. Zeon nói sau khi ăn xong sẽ xử lý “kẻ theo dõi,” khiến Klexi nhận ra nụ cười của cậu là kiểu cười trước khi giết người.
+
+Zeon rời cửa hàng và nhìn lên tháp đồng hồ Sinchon cách hơn ba kilomet. Trên đó, Lubo, Dark Saint sở hữu Clairvoyance và được gọi là Con Mắt của Chúa, đang giám sát cậu và báo cáo về Dongdaemun. Dù Lubo dùng ẩn thân và chưa từng bị ai phát hiện, Zeon nhìn thẳng vào hắn, khiến Lubo hiểu mình đã bị thấy.
+
+Lubo bỏ chạy để hội hợp các Dark Saints còn lại ở Sinchon, nhưng Zeon dùng cát phóng mình qua không trung, đuổi kịp và đá thẳng vào ngực hắn. Zeon tiết lộ đã biết Lubo theo dõi mình suốt tháng qua nhưng để yên vì thỏa thuận với Johan là cho họ hoạt động một tháng. Giờ thời hạn đã quá một phút, Lubo và những người còn lại phải rời Sinchon.
+
+Lubo nói một người của họ vẫn mất tích, nhưng Zeon không quan tâm, cho hắn mười phút dẫn tám Dark Saints còn lại rời đi. Nếu còn sót ai, mọi hậu quả sẽ do Lubo và Johan chịu. Zeon hiểu giờ chính nghĩa thuộc về mình: cậu đã giữ đúng thỏa thuận, Dongdaemun thất bại trong một tháng và không còn cớ phản đối các hành động tiếp theo của cậu.
+
+## Chương 348
+
+Lubo trở về báo với Johan rằng họ bị đuổi khỏi Sinchon mà không thu được manh mối nào, chỉ có chín người về vì Chen Xi vẫn mất tích. Johan nghi Zeon đã làm gì Chen Xi, nhưng Lubo khẳng định đã giám sát Zeon bằng Clairvoyance suốt 24 giờ mỗi ngày và không thấy gì. Lubo bị tổn thương lòng tự trọng khi năng lực Clairvoyance bị nghi ngờ.
+
+Johan suy đoán Chen Xi có thể đã tìm được manh mối nên hành động gấp, không kịp báo cáo. Vị trí cuối cùng của cô là rìa bắc Sinchon. Lúc này Dongdaemun đang bị cô lập vì tin đồn Healer cấp cao khiến các khu và thế lực khu ổ chuột đều muốn giành Thánh nữ, dẫn tới cản trở hoặc công khai thù địch với Dongdaemun. Johan cần một bước đột phá và tin sự biến mất của Chen Xi liên quan tới Thánh nữ.
+
+Johan gọi Joshua, ra lệnh tập hợp toàn bộ Dark Saints và Paladin, đích thân tới Sinchon. Joshua cảnh báo việc này gần như chắc chắn dẫn tới đối đầu trực tiếp với Zeon, nhưng Johan nói sớm muộn cũng va chạm, nhân cơ hội này loại bỏ Zeon và chiếm Sinchon. Johan tin Thánh nữ ở nơi Chen Xi biến mất và Dongdaemun phải giành được cô bằng mọi giá.
+
+Dưới Crocodile’s Den, Remura kiệt sức vì liên tục dùng Cure nhưng Heather vẫn bắt cô chữa tiếp. Heather biện minh là giúp người dân, nhưng thực chất dùng Remura để thỏa mãn tham vọng. Bà chỉ cho những người thề trung thành được chữa trị, khiến hơn một trăm Thức Tỉnh Giả trở thành đội hộ vệ quanh Remura. Người ra lệnh thật sự là Heather, không phải Remura.
+
+Heather mơ xây một vương quốc dưới lòng đất, thống trị Crocodile’s Den rồi trồi lên mặt đất. Bà tiếp tục ép Remura chữa cho một Thức Tỉnh Giả hệ băng hạng E bị hỏng phổi từ nhỏ. Remura chữa thành công, người đàn ông thề trả nợ bằng mạng sống. Chen Xi đúng lúc lần theo dấu vết tới, chứng kiến cảnh Remura chữa một bệnh nặng trong nháy mắt và xác nhận cô bé đúng là Thánh nữ theo tiêu chuẩn Dongdaemun.
+
+Chen Xi đề nghị Heather đi cùng mình, nói mẹ của Thánh nữ có thể cai trị Neo Seoul. Nhưng Heather ngạo mạn hỏi vì sao phải tới Dongdaemun, nếu Remura là Thánh nữ thì Johan phải quỳ trước bà. Chen Xi nhận ra Heather nắm Remura về mặt tâm lý và không thể thỏa hiệp. Cô dùng thôi miên điều khiển Thức Tỉnh Giả hạng E vừa được chữa, khiến anh ta nhìn Heather như quái vật và dùng ma pháp băng đâm thủng lưng bà.
+
+Chen Xi lập tức ôm Remura, hô rằng Thánh nữ gặp nguy hiểm. Các Thức Tỉnh Giả đã thề trung thành lao tới bảo vệ cô bé, Barkhum đánh gục người vừa tấn công Heather. Đúng lúc ấy Levin, Zetoya và Brielle tới nơi, cảm nhận bầu không khí cuồng loạn và hiểu tình hình đã rất tệ.
+
+## Chương 349
+
+Brielle nhận ra nhóm đã tới muộn: Heather bị thủng lưng chí mạng, máu phun và gần chết. Remura cố lao tới cứu mẹ nhưng bị Chen Xi giữ lại. Barkhum quá bận tấn công Thức Tỉnh Giả hạng E bị thôi miên nên không chú ý đến Remura. Chen Xi dùng lượng mana rất nhỏ để ru đám đông vào trạng thái thôi miên, kích động họ hướng mọi oán hận vào người tấn công Heather.
+
+Levin và Brielle cố tình gọi Chen Xi là “ajumma” để chọc tức cô ta. Levin yêu cầu cô thả Remura để nói chuyện, nhưng Chen Xi tuyên bố không sợ chết, sẵn sàng dâng mạng cho Chúa và Johan. Zetoya hỏi vì sao cô thôi miên người khác và không hỏi Remura muốn gì. Chen Xi cho rằng Remura sẽ hạnh phúc ở Dongdaemun vì sạch sẽ, giàu có và được tôn thờ.
+
+Zetoya hỏi trực tiếp Remura có muốn lên mặt đất không. Remura khóc, nói chỉ cần có mẹ thì ổn và không muốn lên mặt đất. Chen Xi siết cổ Remura dọa giết nếu nhóm tiến thêm, nhưng Levin nhận định cô ta không dám giết Remura vì Johan sẽ nổi điên. Cậu bảo Zetoya đi ngăn những người khác, vì nếu để nội chiến tiếp diễn cả nơi này sẽ cháy.
+
+Zetoya đối đầu Barkhum hạng C đang bị thôi miên. Bình thường hạng D như Zetoya không dám lại gần, nhưng sau huấn luyện ở sa mạc, kỹ năng và tự tin của cậu tăng mạnh. Cậu cố giải thích mọi chuyện do Chen Xi, nhưng Barkhum vẫn lao đi giết kẻ tấn công Heather. Zetoya buộc phải va chạm trực diện giữa không trung với Barkhum để chặn ông, vừa chịu đau vừa thúc Levin nhanh hạ Chen Xi.
+
+Chen Xi nhận ra thôi miên không hiệu quả với Levin và Brielle vì ý chí họ mạnh, các lối thoát cũng bị chặn. Cô dùng item Angel of Salvation, tượng thiên thần nhỏ Johan ban, để cầu viện. Item bay khỏi cống, bắn mũi tên phát nổ như pháo hoa báo vị trí. Chen Xi tin Johan sẽ tới ngay, nhưng Levin nói cô đã quên đây là địa bàn của ai.
+
+Johan đang tới Sinchon cùng Paladin thì thấy tín hiệu Angel of Salvation, hiểu Chen Xi đã tìm được hoặc bảo đảm Thánh nữ nhưng gặp biến. Hắn định tiến vào Sinchon nhưng bị Zeon chặn ở lối vào. Zeon nói Johan vi phạm thỏa thuận một tháng khi kéo quân tới, còn Johan hiểu ra Zeon đã dùng thời hạn để trói tay Dongdaemun và che giấu việc Thánh nữ ở cống Sinchon.
+
+Johan đòi Zeon mở đường, nói bảo đảm Thánh nữ xong sẽ rút. Zeon chất vấn loại Chúa nào lại thúc Johan chiếm một Healer làm Thánh nữ; cậu không phủ nhận thần tồn tại vì biết Dyoden từng giết một vị thần rỗng vỏ, nhưng nghi ngờ mục đích của “Chúa” đứng sau Johan. Johan cuối cùng thừa nhận Zeon và hắn không thể cùng tồn tại; Zeon nói cậu biết điều đó từ lần đầu gặp.
+
+Zeon đã trì hoãn vì chưa biết bao nhiêu tín đồ Dongdaemun ẩn trong Neo Seoul, nhưng nhờ cuộc tìm Thánh nữ, thân phận họ đã bị phơi bày và không còn đáng sợ. Quanh Johan lúc này là Paladin và nhân sự cốt lõi của Dongdaemun. Zeon triệu hàng trăm Sand Soldiers, quyết định nếu quét sạch lực lượng này thì có thể nhổ tận gốc Dongdaemun khỏi khu ổ chuột và Neo Seoul.
+
+## Chương 350
+
+Johan nhận ra Zeon triệu hồi Sand Soldiers nghĩa là không định lùi bước và ra lệnh giết cậu. Hàng trăm Paladin mặc giáp nặng xông lên. Johan dùng năng lực buffer hạng S, ban ánh sáng phước lành để tăng mạnh chỉ số và năng lực của Paladin. Paladin được buff trở nên như berserker, chiến lực tăng gấp nhiều lần.
+
+Sand Soldiers lao lên chặn Paladin nhưng bị đập nát nhanh chóng vì bản thân chúng không mạnh, trong khi Paladin đều hạng C trở lên và được buff. Tuy nhiên Zeon có thể triệu hồi Sand Soldiers liên tục như ép khuôn; chúng bị phá rồi tái tạo nhanh hơn tốc độ bị tiêu diệt, chặn Paladin dù họ đã tới sát phạm vi cận chiến của Zeon.
+
+Dark Saints nhảy lên không tấn công Zeon từ trên cao, nhưng bão cát quanh cậu đánh bật tất cả. Johan tiếp tục dùng buff tinh thần, xóa sợ hãi và bơm dũng khí cho Paladin và Dark Saints. Zeon đáp lại bằng Sand Viper: hàng trăm rắn cát cắn Paladin/Dark Saints. Paladin dùng Holy Shield chặn, nhưng Zeon biến cát thành Claymore phát nổ, phá nát Holy Shield và hất văng nhiều kẻ.
+
+Zeon vận hành vòng tuần hoàn cát: Sand Soldiers nhận đòn, vỡ thành cát; cát biến thành Sand Viper tấn công; rắn lại tan thành cát rồi tái cấu trúc thành Sand Soldiers; khi bị phá tiếp, cát phát nổ. Trừ khi cát biến mất hoặc mana Zeon cạn, vòng lặp này không kết thúc. Paladin bị kẹt dù rất gần Zeon.
+
+Paladin dùng Strike of Judgment, triệu ánh sáng thánh từ trời xuống. Hàng trăm tia đồng loạt giáng như bão, trong khi Dark Saints chặn vòng ngoài. Johan vẫn cảnh giác vì đối thủ là Zeon, nên triển khai thêm Inquisitors, các linh mục chiến đấu đeo mặt nạ dùng liềm xích khổng lồ, chuyên săn dị giáo và gần như sát nhân trong bóng tối. Joshua cũng là Inquisitor nhưng không dùng vũ khí ghê rợn vì phải giữ hình ảnh công khai.
+
+Johan chuẩn bị đòn tối thượng, dùng mặt trái của buff là curse: mục rữa, khô héo, khát, lão hóa, tha hóa, v.v. Các lời nguyền không ảnh hưởng đồng minh đã được buff nhưng làm Zeon lảo đảo. Paladin, Dark Saints và Inquisitors phối hợp tấn công, tạo vụ nổ đủ san phẳng cả dãy nhà. Johan tưởng Zeon đã chết.
+
+Joshua phát hiện cát trên mặt đất bắt đầu nóng chảy như dung nham. Từ trong bụi, giọng Zeon vang lên: Sand Gehenna.
+
+## Chương 351
+
+Sand Gehenna biến cát dưới đất thành dung nham sền sệt, sôi như lò luyện địa ngục và nuốt các Thức Tỉnh Giả quanh Zeon. Dark Saints và Inquisitors nhẹ hơn nên nhảy lên không thoát được phần nào, nhưng Paladin mặc giáp tấm nặng bị kéo lún sâu vào cát nóng chảy. Ban đầu giáp và Holy Shield giúp họ chịu nhiệt, nhưng càng vùng vẫy càng chìm, giáp tan chảy, cát nóng tràn vào trong và thiêu thịt xương.
+
+Paladin có sinh lực vượt người thường nên không chết hoặc ngất ngay, phải tỉnh táo chịu đau đớn khi cơ thể tan chảy. Tiếng thét của họ vang qua bão cát khiến Dark Saints và Inquisitors cũng run rẩy, dù họ vốn là kẻ gieo sợ hãi cho người khác. Johan không hiểu vì sao Zeon không bị loạt curse của mình làm suy yếu, đoán cậu có item vô hiệu curse.
+
+Johan ra lệnh Dark Saints và Inquisitors cứu Paladin. Vì là cuồng tín, họ vượt qua sợ hãi và lao vào bão cát. Bên trong, họ thấy phần lớn Paladin đã chết hoặc đang hấp hối trong cát nóng chảy, nên tự tay kết liễu đồng đội để giải thoát đau đớn. Sau đó họ lao về phía Zeon với sát ý.
+
+Ở mắt bão, Zeon cầm Reaper’s Scythe lấy từ Grim Reaper từng bị cậu giết. Chính vũ khí này đã vô hiệu hóa các lời nguyền của Johan, nhưng gây phản chấn khổng lồ lên cơ thể Zeon nên cậu nhanh chóng cất lại vào subspace. Khi Inquisitors và Dark Saints tấn công bằng liềm xích và kỹ năng, Zeon dùng cát nâng mình bay lên cao để né.
+
+Zeon từ trên cao nhìn xuống với ánh mắt trống rỗng như nhìn vật vô tri, khiến kẻ địch lạnh gáy. Cậu kích hoạt Sand Storm, biến bão cát thành lốc xoáy khổng lồ cuốn cả cát khu ổ chuột và sa mạc vào. Holy Shields của Inquisitors vỡ như thủy tinh trước áp lực, còn hạt cát cực nhỏ xé da, nghiền cơ bắp họ thành bùn máu.
+
+Dù sắp chết, Inquisitors vẫn ném liềm xích kéo Zeon xuống địa ngục. Zeon giơ gauntlet siêu nhiệt và dùng Fire Rain. Lửa từ trời chặn liềm xích, đồng thời thiêu Dark Saints và Inquisitors đang bị bão cát xé nát. Họ rơi xuống đất, chết ngay khi va chạm, cơ thể nát không nhận ra. Hàng trăm mạng biến mất trong chưa đầy mười phút.
+
+Khi Sand Storm tan, Zeon hiện ra lơ lửng giữa không trung, không vết xước. Paladin, Inquisitors và Dark Saints đã biến mất, không còn thi thể nguyên vẹn. Johan lần đầu cảm thấy sợ hãi trước một con người: cơ thể lạnh, tóc dựng, cơ bắp co giật, muốn nôn. Nhưng hắn cố kìm vì nếu thủ lĩnh sụp đổ, Dongdaemun sẽ tan như cát.
+
+Johan đề nghị đàm phán, muốn giải quyết như người văn minh bằng đối thoại. Zeon nhìn hắn như một kẻ thảm hại, thấy sự tuyệt vọng trong ngón tay run và hơi thở gấp. Cậu từ chối, nói mình có thể là người văn minh nhưng không có ý định nói chuyện với Johan.
+
+## Chương 352
+
+Zeon từ chối đàm phán vì hòa bình thỏa hiệp với Dongdaemun sẽ không kéo dài. Cậu xem trận này là hậu quả Johan và Dongdaemun phải chịu vì họ khơi mào, và kết thúc phải rõ ràng tới mức không ai nghi ngờ. Với Zeon, chiến đấu nghĩa là da thịt rách, xương gãy, máu đổ; cậu từng sống như vậy trong sa mạc và không sợ đau hay bị thương. Johan thì ngược lại, từ khi xây vương quốc ở Dongdaemun đã luôn để người khác chiến đấu thay.
+
+Johan hiểu mình không còn tấm khiên bảo vệ, Paladin, Inquisitors và Dark Saints đã bị quét sạch, số thuộc hạ còn lại không thể cản Zeon. Nhưng vì vô số ánh mắt đang nhìn, hắn không thể lùi; nếu lùi, uy quyền giáo hội sẽ sụp đổ. Hắn quyết định tự bước ra chiến đấu, dùng buff lên bản thân để trẻ lại, xương cứng như thép, cơ bắp tràn sức mạnh, trả giá bằng tuổi thọ.
+
+Johan dùng Divine Judgement, tạo các chùm sáng từ trời đánh xuống Zeon với sức phá hủy lớn. Dân khu ổ chuột nhìn như thần phạt, nhưng Zeon nhận ra nguồn gốc là cây thánh giá artifact trên cổ Johan, không phải thần lực thật sự. Mỗi lần Johan nói hoặc chỉ tay, thánh giá phát sáng và công kích.
+
+Zeon dùng Sand Viper tấn công nhưng ánh sáng thánh quanh Johan làm rắn cát tan rã và gây bỏng cho tay Zeon. Dù bị Divine Judgement đánh văng vào tường, Zeon nhờ siêu tái sinh hồi phục nhanh. Cậu nói thần lực thật sự sẽ không yếu và nhỏ nhen như vậy, Chúa sẽ không hiện thân qua một kẻ thảm hại như Johan.
+
+Zeon triệu Sand Soldiers làm cột thu lôi. Divine Judgement không phân biệt được Zeon với binh sĩ cát, liên tục đánh vào Sand Soldiers thay vì cậu, chứng minh đó không phải cơn thịnh nộ thần thánh. Zeon tiến sát Johan, thấy hắn run rẩy như hoa trong nhà kính, trái ngược với cậu là cỏ dại lớn lên trong sa mạc.
+
+Zeon nói nếu Johan thật sự nghe tiếng Chúa và cầm thần lực thì hãy thử sống sót, rồi kích hoạt Sand Mixer dưới chân hắn. Cát trên đường bị hút vào xoáy như máy xay, nuốt tiếng gào tuyệt vọng của Johan.
+
+## Chương 353
+
+Tàn quân Dongdaemun kinh hoàng khi Johan bị Sand Mixer nuốt mất. Một số tín đồ nhảy vào xoáy cát cứu hắn nhưng không ai trở ra. Tất cả nhìn Joshua, người mạnh nhất còn lại. Bình thường Joshua sẽ lao vào cứu Johan, nhưng lúc này niềm tin Johan là thần bắt đầu rạn nứt; hắn tự hỏi nếu Johan thật sự là vật chứa của thần linh, lẽ ra phải sống sót qua chuyện này.
+
+Joshua hiểu cách duy nhất là giết Zeon để cơn bão cát tan, nhưng xung quanh Zeon có hàng chục Sand Soldiers và hắn biết mình không thể xuyên qua. Joshua nhận ra Zeon còn đáng sợ hơn ma thú hạng S vì thông minh, sáng tạo và luôn kiểm soát cục diện. Cậu đã lần lượt loại bỏ Paladin, Inquisitors và Dark Saints, buộc Johan phải tự bước ra, đúng như kế hoạch.
+
+Sand Mixer dừng lại, để lộ Johan trong tình trạng thảm hại: mất hai chân từ đầu gối, hai tay bị xé nát, nằm thở dốc và không còn hiểu nổi tình trạng mình. Zeon quỳ xuống ngang tầm mắt, giật cây thánh giá khỏi cổ hắn. Thánh giá phản kháng bằng tia lửa và gọi Divine Judgement, nhưng không có Johan làm vật dẫn/khuếch đại, đòn đánh yếu tới mức Sand Soldier nhận mà không hề hấn.
+
+Zeon kết luận thánh giá là artifact từ dungeon. Johan cố đòi lại nhưng không còn tay, cũng không thể tái sinh chi thể. Hắn sắp chết vì mất máu, nhưng vẫn nói muốn truyền ý chí Chúa khắp Neo Seoul và cảnh báo Zeon sẽ hối hận vì cắt đứt con người khỏi thần linh. Zeon phản bác rằng Johan đánh giá thấp nhân loại: con người yếu hơn elf, dwarf, beastkin nhưng là chủng tộc tái thiết văn minh nhanh nhất vì chọn tiến về phía trước thay vì bám quá khứ.
+
+Zeon bóp nát thánh giá, khiến tia sinh khí cuối cùng trong Johan biến mất. Johan chết. Tín đồ không thể chấp nhận vì xem hắn là thần. Zeon kích hoạt Sand Gehenna thiêu sạch thi thể Johan, không để lại mảnh vụn, nhằm ngăn hắn bị biến thành tử đạo hoặc biểu tượng tập hợp Dongdaemun.
+
+Joshua hỏi Zeon có cần hủy cả thi thể không và bị Sand Blaster đánh ngã. Zeon nói đây là chiến tranh do Dongdaemun bắt đầu; nếu cậu thua, họ sẽ không thương hại cơ thể cậu. Kẻ thắng phải nghiền nát kẻ thua triệt để, và Zeon không muốn thi thể Johan bị lợi dụng. Khi Joshua hỏi Zeon sẽ làm gì Dongdaemun, cậu nói đó là chuyện của họ và cho Joshua đưa tàn quân rời Sinchon.
+
+Sau khi tàn quân rời đi, Zeon cảm nhận ánh mắt sợ hãi của cư dân Sinchon. Trước đây họ xem cậu là người bảo hộ, nhưng sức mạnh hủy diệt Johan và tinh nhuệ Dongdaemun khiến cả đồng minh cũng kinh hãi. Zeon không thất vọng vì con người sợ thứ mình không hiểu là tự nhiên, rồi quay xuống Crocodile’s Den.
+
+Dưới cống, Chen Xi lo vì Angel of Salvation đã gửi lâu mà Johan chưa tới. Cô nghĩ có thể Zeon đã can thiệp. Cùng lúc, cô thấy Barkhum quỳ một gối trước Zetoya: Thức Tỉnh Giả hạng D đã đánh bại hạng C. Levin bước tới nói mọi thứ kết thúc, Johan sẽ không đến vì Zeon không để điều đó xảy ra. Chen Xi phủ nhận, tin Johan là thần không thể chết. Levin chuyển sang dạng hồn ma, bắt lấy cô trước khi cô thôi miên, rồi dùng Purple Lightning thiêu cô tới tận xương.
+
+## Chương 354
+
+Remura khóc bên thi thể Heather. Cuối cùng họ không cứu được bà, dù nguyên nhân trực tiếp là Chen Xi can thiệp. Ngoài Remura, không ai thương tiếc Heather vì tội ác và lòng tham của bà quá nặng. Sau khi Levin giết Chen Xi, các Thức Tỉnh Giả thoát khỏi thôi miên, tỉnh lại trong bối rối. Chỉ có hai người chết: Heather và Thức Tỉnh Giả hạng E đã tấn công bà; những người khác chỉ bị thương.
+
+Zetoya để Remura khóc đến cạn cảm xúc thay vì cố an ủi. Barkhum đứng dậy tới gặp Zetoya. Zetoya phòng thủ, nhưng Barkhum nói không vô liêm sỉ tới mức thách đấu người mình đã thua. Ông chấp nhận thất bại dù Zetoya khiêm tốn nói mình thắng vì Barkhum mới khỏi bệnh. Barkhum công nhận Zetoya có tài năng đáng kinh ngạc, đặc biệt trong cống ngầm khi cậu có thể chạy trên tường/trần và chiến đấu như ở sân nhà.
+
+Zeon xuất hiện, khiến Barkhum theo bản năng sợ hãi vì cảm nhận sức mạnh áp đảo. Zeon kiểm tra Levin, Brielle, Zetoya và nhận xét họ xử lý tốt. Khi biết không cứu được mẹ Remura, cậu nói lòng tham thường kéo tới hủy diệt. Zeon không thương cảm Heather vì nếu còn sống, bà sẽ hút cạn cuộc đời Remura như đỉa; chết tại đây tốt hơn cho tất cả, dù cậu tiếc cho Remura.
+
+Brielle hỏi tình hình bên ngoài. Zeon nói đã xử lý xong, Johan đã “đi gặp vị thần mà hắn tuyệt vọng thờ phụng.” Zeon nhìn Zetoya và Remura, hiểu từ giờ số phận Crocodile’s Den nằm trong tay họ; cách họ hành động sẽ quyết định tương lai nơi này.
+
+Tin Dongdaemun thất bại và Johan chết gây chấn động khắp Neo Seoul. Dongdaemun vốn là hang ổ cuồng tín, ngay cả các thế lực mạnh hơn cũng tránh chọc vì sợ họ lao vào như bom cảm tử. Việc một người đơn độc tiêu diệt cả thế lực khiến cư dân khu ổ chuột và các nhân vật quyền lực trong Neo Seoul đều dao động. Các khu lần đầu nhận ra một cá nhân có thể lật đổ đại thế lực.
+
+Nam Khu của Xiao Lun đặc biệt phản ứng vì từng va chạm với Zeon. Trong phòng họp, các thủ lĩnh cấp cao như Tanlong của Vermilion Bird, Chuwei, Gotao, Yeomcheong hoảng loạn tranh luận. Xiao Lun khinh thường vì họ để lộ sự yếu đuối, trong khi Qingming, đệ tử trực truyền trẻ tuổi của ông, bình tĩnh đứng ra hạ nhiệt không khí.
+
+Xiao Lun nói Zeon đúng là đáng sợ, nhưng cuối cùng vẫn là con người: có máu, có mana, và khi mana cạn sẽ bất lực. Ông không định khai chiến ngay vì nếu đánh lúc này Nam Khu sẽ thiệt hại lớn, mà chuẩn bị cho chiến tranh chắc chắn sẽ xảy ra trong tương lai. Xiao Lun giao cho Qingming toàn quyền thu thập thông tin về Zeon: năng lực, quan hệ, hành động, mọi thứ có thể trở thành điểm yếu.
+
+## Chương 355
+
+Sáng sớm, Brielle đánh thức Zeon vì cậu có hẹn với Yoo Se-hee ở Chợ Goblin. Zeon mệt mỏi tinh thần vì hậu quả Dongdaemun: sau khi Johan chết, cậu để Joshua và tàn quân quay về, tưởng Joshua sẽ nắm quyền vì mạnh nhất. Nhưng Joshua thiếu kỹ năng chính trị, trong khi các lãnh đạo còn lại tranh nhau làm “người bảo hộ đức tin” cho tới ngày Johan hồi sinh, khiến Dongdaemun rơi vào nội chiến và vô pháp.
+
+Scavenger và tội phạm tràn vào Dongdaemun trong hỗn loạn. Zeon ra lệnh Eaton giám sát vì hỗn loạn hiện còn bị giam trong Dongdaemun nhưng sẽ sớm tràn sang Sinchon/Guro nếu không kiểm soát. Zeon thừa nhận mình có trách nhiệm vì giết Johan kích hoạt chuỗi sự kiện, nên sẵn sàng can thiệp nếu cần. Levin lúc này thường xuống Den mang vật tư cho Zetoya và Remura; Brielle là người nhét đầy subspace bằng đồ tiếp tế.
+
+Zeon và Brielle tới Chợ Goblin gặp Yoo Se-hee. Cô dẫn họ ra rìa khu ổ chuột, nơi trước kia không ai sống vì sát sa mạc và không có vật liệu xây dựng. Giữa cát giờ có một căn nhà làm hoàn toàn bằng cát nhờ chất làm cứng cát do Bryce phát triển. Bryce, người từng được Zeon cứu khỏi Helbrin Mercenaries, giới thiệu tường, trần, mái đều làm từ cát, chỉ cửa ra vào/cửa sổ là vật liệu khác.
+
+Bên trong căn nhà mát dù ngoài trời nóng, vì chất làm cứng cát có tác dụng cách nhiệt và chống nước mưa. Bryce nói mục tiêu của mình là giúp con người sống như con người trên mặt đất, không phải đào hố trốn như động vật. Với chất làm cứng cát, người vô gia cư ở khu ổ chuột và thậm chí người phải sống trong Crocodile’s Den có thể xây nhà ở rìa khu ổ chuột chỉ bằng cát và chất làm cứng.
+
+Vấn đề là thiếu nguyên liệu chính: dịch cơ thể Armored Ant. Mỗi con cung cấp đủ dịch làm mười thùng chất làm cứng, có thể xây khoảng một trăm căn nếu dùng hiệu quả. Armored Ant là ma thú hạng E nhưng sống thành đàn từ vài trăm tới hàng chục nghìn con, đào hầm sâu hàng chục-hàng trăm mét, rất khó tìm và săn. Nguồn hiện có ở Chợ Goblin chỉ từ cá thể lạc đàn.
+
+Zeon nói có thể đi săn, yêu cầu Yoo Se-hee chuẩn bị mười Thức Tỉnh Giả hệ ma pháp hạng C trở lên, hai mươi porter và mười xe vận chuyển. Cậu biết cách tìm tổ vì Armored Ant thích blue wolf moss, loài mọc ký sinh trên white snow cactus, và thực tế cậu đã biết một tổ. Yoo Se-hee quyết định chuẩn bị mọi thứ để xuất phát ngay sáng hôm sau vì nếu có đủ chất làm cứng, có thể giải quyết vấn đề nhà ở mà ngay cả Jin Geum-ho chưa giải được, tăng ảnh hưởng cho Chợ Goblin và Sinchon.
+
+## Chương 356
+
+Đêm muộn, Levin về nhà và biết Zeon/Brielle chuẩn bị đi săn Armored Ant để lấy dịch làm chất làm cứng cát. Cậu ngạc nhiên vì chất làm cứng đã hoàn thành và hỏi nhà cát có ở được không. Brielle khen căn nhà sạch, mát, đủ rộng cho một gia đình, khiến Levin hiểu đây là thứ đặc biệt vì Brielle hiếm khi khen.
+
+Levin xin đi cùng. Zeon hỏi cậu không cần xuống Den nữa sao; Levin nói đã mang đủ đồ cho họ và khả năng lãnh đạo của Zetoya rất đáng kinh ngạc. Zetoya biết tận dụng máy phát mana, Remura, Barkhum và các Thức Tỉnh Giả để hấp thu hoặc lôi kéo các nhóm khác, nhanh chóng lập lực lượng lớn nhất Den. Cậu muốn thống nhất toàn bộ Den và xây xã hội phồn vinh như mặt đất, được Remura và Barkhum hỗ trợ.
+
+Sáng hôm sau, Zeon, Brielle và Levin rời nhà. Levin than chỉ mình phải mang túi subspace lớn, trong khi Zeon và Brielle có loại nhỏ/không phát hiện được. Brielle đồng ý sau khi về sẽ thử làm cho cậu một túi nhỏ hơn, có thể dạng gauntlet hoặc vòng cổ, dù không bảo đảm thành công.
+
+Ở bãi đất trống rìa khu ổ chuột, lực lượng Chợ Goblin đã sẵn sàng. Kim Jin-soo, đội trưởng Đội Hộ Tống Số Một, Thức Tỉnh Giả chiến đấu hạng B, chào Zeon với thái độ kính sợ. Anh nổi tiếng đa dụng với kiếm, cung, rìu, thương và mang theo các vũ khí tháo rời trong túi chiến thuật. Nhiệm vụ là bảo đảm xác Armored Ant; đoàn gồm hai buggy, một xe buýt bọc thép và mười xe vận chuyển hướng tây nam Neo Seoul.
+
+Trên xe, Zeon nói từng thấy tổ Armored Ant ở tây nam và loài này hiếm khi dời tổ vì tổ hầm rất tốn công xây. Nếu địa hình không đổi, mất khoảng một tuần tới nơi; nếu đổi, có thể lâu hơn, ước lượng an toàn một tuần đến mười ngày. Brielle muốn chơi với Gaia trên xe, nên lấy tinh thể đã yểm spell che phủ ảo giác để tài xế và người ngoài chỉ thấy nhóm đang nghỉ/ngồi trò chuyện bình thường.
+
+Gaia ra khỏi subspace, vui vẻ với Brielle. Zeon khen Brielle tiến bộ vì yểm illusion spell vào tinh thể là thành quả lớn; Levin cũng ngạc nhiên rằng với đà này cô có thể rank up nhanh hơn cậu. Brielle luôn ám ảnh với alchemy, lĩnh vực dung hợp luyện kim, ma pháp, enchantment và kỹ thuật khoa học, nên mới tạo được tinh thể ảo giác khiến cả tài xế lẫn đoàn xe không phát hiện.
+
+Kim Jin-soo từ buggy nhìn qua cửa sổ chỉ thấy ảo giác Zeon, Brielle và Levin cười nói thư giãn như đi dã ngoại, không hề căng thẳng khi vào sa mạc. Anh và thuộc hạ ghen tị với Sand Mage vì trong sa mạc phần lớn ma thú khó thành mối đe dọa với Zeon. Thực tế, bên trong xe, người duy nhất vui vẻ trò chuyện là Brielle với Gaia; Zeon và Levin đã ngủ say từ lâu.
+
+## Chương 357
+
+Đoàn xe dừng cắm trại ban đêm. Tài xế xe buýt không nhìn thấy Gaia nhờ ma pháp trận ức chế nhận thức của Brielle và cũng không dám tiến sát Zeon vì đã được Kim Jin-soo cảnh báo. Ông là Thức Tỉnh Giả hạng F, hiểu công việc lái xe cho đoàn là cơ hội tốt hiếm có nên luôn biết giữ giới hạn. Zeon để Brielle và Gaia ở lại xe vì Brielle đã chuẩn bị đồ ăn trong subspace, còn cậu và Levin ra ngoài ăn cùng đoàn.
+
+Kim Jin-soo chọn điểm cắm trại tốt và tiếp đãi Zeon. Anh từng lo Brielle, một “cô bé loài người” trong mắt mọi người, sẽ kén ăn trên chuyến đi dài; nhưng nghe Zeon nói cô tự lo bữa thì nhẹ nhõm. Khẩu phần của đoàn là đồ bảo quản nhạt và chỉ đủ bổ sung năng lượng, nhưng Zeon và Levin ăn bình thản, chứng tỏ họ quen cắm trại và không cần chăm sóc đặc biệt.
+
+Buổi tối, Kim Jin-soo hạ mình hỏi Zeon về ma thú trên tuyến tây nam vì thông tin lãnh thổ ma thú là vấn đề sống chết với đội hộ tống. Zeon không ghét thái độ đó vì Kim Jin-soo hỏi vì mạng người dưới quyền. Zeon cho biết sau khoảng 70 km sẽ gặp đàn Flame Wolf, rồi có khả năng qua tổ sandworm; cậu sẽ xử lý sandworm. Cậu cũng bảo đội hộ tống bớt căng vì quanh trại không có ma thú, nếu có thứ tới gần cậu sẽ báo.
+
+Sáng hôm sau, đoàn xuất phát trong tình trạng tốt vì không bị tập kích ban đêm. Người của Kim Jin-soo cảm thán đi cùng Sand Mage đúng là xa xỉ vì lần đầu ngủ yên trong sa mạc, không phải đặt đủ bẫy, item báo động và canh gác căng thẳng. Khi Zeon báo trước có Flame Wolf cách một kilomet, Kim Jin-soo tin ngay và cho toàn đội chuẩn bị.
+
+Đàn Flame Wolf khoảng 300-400 con xuất hiện. Kim Jin-soo ưu tiên bảo vệ porter vì xe có thể thay, mạng người thì không. Khi đoàn không thể rút lui mà phải đối mặt, Zeon mở cửa xe buýt đang chạy, lên nóc và bảo tài xế tiếp tục tiến. Đàn Flame Wolf thay vì tấn công lại lùi, vài con sợ tới cụp đuôi và tiểu ra. Kim Jin-soo nhận ra tất cả ánh mắt của chúng đều nhìn Zeon với nỗi kinh hoàng.
+
+## Chương 358
+
+Đàn Flame Wolf sợ Zeon như chó con. Zeon nhận ra con alpha nhờ bộ lông đỏ sẫm và tai rách, chính là con non từng được cậu tha sau khi đàn Flame Wolf trước đó tấn công cậu và bị cát xé nát hàng trăm con. Đàn hiện tại là hậu duệ/số sống sót khi còn nhỏ, vẫn khắc sâu ký ức Zeon tàn sát đồng loại nên khi thấy cậu liền co rúm.
+
+Đoàn xe đi thẳng qua giữa đàn Flame Wolf. Lũ sói tách sang hai bên mở đường, không dám tấn công cho tới khi xe cuối cùng đi qua. Zeon cân nhắc nếu giết hết chúng cũng sẽ có đàn khác tới thay, nên tốt hơn để lại đàn đã sợ con người này vì chúng sẽ do dự trước khi tấn công người. Kim Jin-soo và mọi người kinh ngạc vì lần đầu đi qua đàn ma thú mà không cần đánh.
+
+Sau lãnh thổ Flame Wolf, Zeon hướng dẫn đoàn tránh Sandworm. Khu vực có cát rất mịn, truyền rung động tốt nên Sandworm sẽ nhận ra xe; nhưng có những dải cát thô tỏa mùi khó chịu với Sandworm. Zeon chỉ ra vệt cát nâu sẫm trên sống cát để đoàn đi theo. Kim Jin-soo hiểu đây là kiến thức sống còn hiếm ai chia sẻ.
+
+Một porter nghi ngờ không có Sandworm thì ngay sau đó một con trồi lên ở xa, ngửi không khí rồi lại chui xuống. Đoàn hiểu nếu không đi theo vệt cát nâu, họ đã bị tấn công. Từ đó Kim Jin-soo và đội hộ tống làm theo chỉ dẫn của Zeon không chút nghi ngờ. Sau mười ngày, đoàn tới đích mà không có thương vong hay vết thương nào, lần đầu trong lịch sử Đội Hộ Tống Số Một.
+
+Đích đến là khe nứt khổng lồ sâu tối, nơi có ít nhất vài nghìn Armored Ant. Zeon giải thích không cần đánh cả đàn, chỉ săn rìa ngoài vì số lượng kiến quá đông khiến thức ăn khan hiếm, chúng xem nhau như đối thủ hơn là gia đình. Zeon dùng xác Flame Armadillo săn trên đường làm mồi vì đó là món Armored Ant thích nhất; lớp vảy lửa cứng khiến kiến khó săn nên chúng phát điên vì xác này.
+
+Khi đặt xác Flame Armadillo ở miệng khe, một Armored Ant trồi lên, dùng râu phát pheromone gọi đàn. Các Thức Tỉnh Giả tấn công những con lần lượt xuất hiện, Levin cũng tham gia bằng dạng hồn ma và Purple Lightning, biến cuộc săn thành tàn sát. Trong lúc đó Zeon thấy một cái đầu thò ra trên vách đá đối diện khe nứt.
+
+## Chương 359
+
+Zeon phát hiện kẻ quan sát là một lão orc rất già, mặt đầy nếp nhăn, đeo vòng xương và cầm giáo xương. Orc càng già càng mạnh vì xã hội của chúng theo luật kẻ mạnh sống sót; orc yếu hiếm khi sống tới già trừ loại đặc biệt như shaman. Zeon chưa từng thấy orc quanh khu này nên đoán một bộ tộc mới đã định cư, điều này phiền phức vì orc xem mọi thứ chúng thấy là lãnh thổ và mọi sinh vật trong đó là kẻ thù.
+
+Khi tuyến phải của đoàn săn bị Armored Ant phá, Zeon lơ mắt trong chốc lát rồi quay lại thì lão orc đã biến mất không dấu vết. Orc già không để lại vết tích trong sa mạc nên truy tìm không dễ. Zeon tạm bỏ qua vì việc săn Armored Ant cấp bách hơn. Sau khi đã hạ hơn 200 con, Zeon bảo Kim Jin-soo ném xác Flame Armadillo xuống khe để chặn thêm kiến trồi lên; số kiến xuất hiện lập tức giảm rồi dừng hẳn.
+
+Đoàn chất xác Armored Ant lên xe trong chưa tới một giờ rồi rời khe nứt. Khi đã an toàn, tất cả reo mừng vì không ai chết. Với Thức Tỉnh Giả quen mất đồng đội, việc hoàn thành nhiệm vụ không thương vong còn vui hơn chính thành công. Đoàn cắm trại cách xa khe, mở tiệc bằng phần đồ ăn đặc biệt thay vì khẩu phần vô vị.
+
+Các Thức Tỉnh Giả cảm ơn Levin vì Purple Lightning của cậu giúp cuộc săn dễ hơn và cứu mạng họ. Vì cùng xuất thân khu ổ chuột và cùng vượt khó, họ nhanh chóng xem Levin là anh em. Kim Jin-soo cảm ơn Zeon vì kiến thức săn Armored Ant, nói với Thức Tỉnh Giả tầng dưới như họ, kiến thức của cậu tăng mạnh tỷ lệ sống sót. Zeon hơi ngượng trước lời khen.
+
+Trong xe buýt, Brielle và Gaia bàn về việc Armored Ant bò lên vì mùi Flame Armadillo. Brielle nảy ý tưởng tạo nước hoa mô phỏng mùi Flame Armadillo để dụ kiến hiệu quả hơn thay vì phải săn xác thật, nhưng cần bắt một con trên đường về để phân tích thành phần. Zeon nghe họ nói rồi ngủ.
+
+Zeon tỉnh giữa đêm vì dự cảm lạ. Bên ngoài mọi người đang ngủ, chỉ Kim Jin-soo gác. Zeon leo lên xe vận chuyển, nhìn bóng tối rồi nói phải đánh thức mọi người vì có ma thú. Khi Kim Jin-soo tập trung nghe, anh nghe tiếng hàm Armored Ant lách cách và lập tức hô báo động.
+
+## Chương 360
+
+Đàn Armored Ant khổng lồ bao vây trại từ bốn hướng, dù nơi này cách tổ 60-70 km, quãng đường rất bất thường với chúng. Thức Tỉnh Giả và porter lập tức chuẩn bị chiến đấu; porter dùng súng trường chống ma thú của Neo Seoul, đủ hiệu quả với ma thú hạng F như Armored Ant. Levin nhận ra Armored Ant không dễ bỏ lãnh thổ như vậy, Zeon kết luận chắc chắn có kẻ đứng sau.
+
+Zeon giao Levin và Brielle giữ trại. Levin tự tin vì là hạng B, có thể diệt đàn kiến nếu có thời gian; Brielle cũng nói tự lo được, nếu nguy hiểm sẽ nhờ Gaia. Kim Jin-soo chỉ huy mọi người không để kiến vượt qua tường xe; Thức Tỉnh Giả đánh cận chiến, porter bắn liên tục, Levin dùng Purple Lightning, Brielle dùng Wind Cutter.
+
+Zeon bay lên cao và phát hiện xác Flame Armadillo rải từ khe nứt tới trại, chứng tỏ có kẻ dùng mùi để dụ kiến tới. Cậu loại trừ khả năng thù riêng hoặc scavenger vì cả đoàn không gặp người nào trên đường, và xác Armored Ant không đủ giá trị để bày kế phức tạp. Zeon nhận ra nếu nhiều kiến ở đây thì tổ kiến đang trống, đây là nghi binh.
+
+Zeon lập tức dùng Sand Strides lao về khe nứt, tránh kiến thay vì tốn thời gian đánh. Sau khoảng một giờ, cậu tới nơi và thấy xung quanh tổ không còn Armored Ant nào. Cậu lao xuống đáy khe nứt, được cát đỡ trước khi va chạm. Bên trong là sa thạch với vô số đường hầm rỗng.
+
+Zeon lần theo dao động không khí trong đường hầm hẹp tối như mê cung, xuống sâu vài trăm mét. Cậu tới khoang ngầm lớn, nơi Armored Ant Queen có đầu như vương miện, râu dài, và nhiều trứng bám trên vách. Quanh nữ hoàng là xác kiến lính, còn những kẻ tấn công là Dark Elves mặc turban đen/áo choàng sa mạc và orc cầm rìu lớn.
+
+Zeon ngạc nhiên vì Dark Elves và orc, thiên địch vốn khinh ghét nhau, lại phối hợp hoàn hảo. Dark Elves bắn tên, dùng shamshir/rapier, cast spell; orc gây áp lực bằng rìu dù không chém thủng vỏ nữ hoàng. Ở trung tâm là lão orc Zeon đã thấy trước đó, ra hiệu thay đổi đội hình. Cuối cùng orc chặt râu nữ hoàng, khiến nó mất phương hướng; Dark Elves và orc hợp sức giết nó. Lão orc lập tức ra lệnh gom toàn bộ trứng nữ hoàng.
+
+## Chương 361
+
+Theo lệnh lão orc, Dark Elves và orc bỏ qua xác Armored Ant Queen có giá trị, chỉ gom trứng trên vách. Lão orc nói Armored Ant sẽ sớm ăn hết con người rồi quay lại, nên họ phải rời đi trước. Zeon bước ra và xác nhận lão đã học cách dùng xác Flame Armadillo dụ Armored Ant bằng cách quan sát đoàn săn. Lão orc tên Chuangka, có vốn từ và trí khôn bất thường, thù ghét con người và xem orc mới là chủ nhân đúng nghĩa của vùng đất này.
+
+Chuangka gọi Dark Elves là “lũ đen” và ra lệnh giết Zeon. Zeon nhận thấy Dark Elves không bị điều khiển tinh thần, ý thức còn nguyên, nên không hiểu vì sao họ nghe lệnh orc; cậu đoán có thể bị ràng buộc bởi geas. Dark Elves tấn công cực nhanh và im lặng bằng shamshir/rapier, nhắm vào mắt và háng; họ đúng là sát thủ bẩm sinh.
+
+Một nữ Dark Elf dùng Aura Blade hét rằng nếu Zeon không chết thì tất cả họ sẽ chết, xác nhận Chuangka đang nắm thứ gì đó khống chế họ. Zeon dùng Sand Blaster và Sand Claymore đánh bật phần lớn Dark Elves. Kẻ cầm Aura Blade chém xuyên tường cát trong 0,1 giây nhưng Zeon dùng Fire Rain bằng lửa xanh-trắng. Cô dùng Aura Shield chặn phần nào nhưng vẫn bị lửa xuyên qua đánh văng vào tường, turban bung ra, lộ là phụ nữ đẹp như ngọc trai đen.
+
+Trong lúc Dark Elves cản chân Zeon, Chuangka và orc đã biến mất cùng trứng Armored Ant. Zeon nhận ra lão orc xảo quyệt hơn các orc thiên sức mạnh như Orc Warlord Orca; loại orc già mưu mô này nguy hiểm hơn nhiều. Các Dark Elves tỉnh lại, bao quanh đội trưởng để bảo vệ. Zeon hỏi vì sao lấy trứng, nữ đội trưởng nói vì Zeon mà cả bộ tộc họ sẽ chết nếu không trở về; Chuangka đang giữ người của họ làm con tin.
+
+Khi nữ Dark Elf định nói tiếp, cô và các đồng đội đột nhiên ôm ngực/cổ đau đớn, cho thấy có thứ gì đó liên quan Chuangka đang hành hạ họ. Đúng lúc đó, Armored Ant nhận ra nữ hoàng chết và lao về tổ. Nếu bỏ mặc Dark Elves, họ sẽ bị kiến nuốt. Zeon dùng cát nâng họ lên không, thoát khỏi tổ chỉ trước khi đàn kiến tràn xuống vách khe.
+
+Zeon bay khỏi khe nứt với Dark Elves lơ lửng phía sau như cái đuôi. Chuangka và orc đã chạy mất. Zeon không biết lão đang mưu tính gì, nhưng hiểu trước hết phải cứu Dark Elves để biết sự thật. Cậu nghĩ Brielle sẽ biết họ bị gì và bay về phía trại.
+
+## Chương 362
+
+Zeon đưa nhóm Dark Elves về trại. Brielle nhận ra đây là chuyện bất thường vì Dark Elves vốn cực kỳ tự cao, không đời nào tự nguyện hợp tác hoặc nhận lệnh từ orc. Sau khi kiểm tra, cô phát hiện trên gáy họ có dấu nung kiểu Kurayan dùng để trói buộc tù nhân. Zeon nói họ cần nơi yên tĩnh để xóa dấu, nên để Kim Jin-soo và đoàn Chợ Goblin tự quay về theo tuyến đường đã ghi nhớ. Kim Jin-soo chấp nhận vì đã tới lúc đội của anh tự đứng vững, dù quay về không có Zeon vẫn là rủi ro.
+
+Zeon đào một hang lớn trong đụn cát, đưa Brielle, Levin, Gaia và Dark Elves vào trong. Brielle dùng Elixir of Classi làm yếu dấu nung, nhưng quá trình xóa dấu gây đau đớn khủng khiếp khiến nữ Dark Elf gần như chết. Gaia dùng ánh sáng trắng xoa dịu cơn đau, giúp Brielle lần lượt xóa dấu cho toàn bộ nhóm. Sau đó mọi người nghỉ ngơi và ăn đồ Klexi chuẩn bị.
+
+Gaia nói mình đói sau khi dùng sức mạnh và muốn nuốt Reaper's Scythe trong subspace của Zeon. Zeon do dự vì đây là vật phẩm nguyền rủa cực nguy hiểm lấy được từ Grim Reaper, dù nó có năng lực vô hiệu hóa lời nguyền. Brielle khuyên Zeon tin Gaia vì trưởng thành đi kèm rủi ro và Gaia cần tự bảo vệ mình. Zeon đồng ý. Gaia vào subspace, nuốt Reaper's Scythe và bắt đầu quá trình hấp thụ lâu dài.
+
+## Chương 363
+
+Một ngày sau, nhóm Dark Elves tỉnh lại và kinh ngạc vì dấu nung biến mất không để lại sẹo. Nữ Dark Elf tự giới thiệu là Floa của dark clan, nhận ra Brielle là High Elf. Floa kể họ không hợp tác với orc mà bị ép buộc vì Chuangka giữ trẻ con trong tộc làm con tin. Khi các chiến binh ra ngoài săn, làng bị orc đánh úp do Elder Karode phản bội, mở cổng vì căm hận sau cái chết của con gái.
+
+Floa quỳ một gối trước Brielle, dùng nghi thức kính trọng cao nhất của Dark Elves để cầu viện High Elf. Brielle do dự vì từng bị con người bắt và tự thấy mình đã mất tư cách High Elf, nhưng sau khi nhìn Zeon và nhận được cái gật đầu của cậu, cô tuyên bố lời thề High Elf: kẻ thù của Floa sẽ là kẻ thù của cô. Lời thề này không thể rút lại.
+
+Zeon hỏi lý do orc lấy trứng Armored Ant. Floa chỉ biết chúng dùng để chế một loại potion, còn chi tiết Chuangka không tiết lộ. Cả nhóm rời hang, đi tới làng Dark Elf. Zeon bảo Brielle quan sát cách Dark Elves di chuyển vì họ đã thích nghi với sa mạc. Brielle phát hiện họ dùng Wind Walking, một kỹ thuật tạo đệm mana dưới lòng bàn chân, rút ngắn bước và giảm sức cản gió để lướt trên cát. Floa trực tiếp truyền cảm giác mana cho Brielle, giúp cô lĩnh ngộ cốt lõi của Wind Walking.
+
+## Chương 364
+
+Brielle luyện Wind Walking trong lúc di chuyển tới làng Dark Elf. Dù liên tục ngã, nuốt cát và cạn sức, cô không than phiền mà cứ đứng dậy thử lại, khiến Floa và các chiến binh kinh ngạc trước ý chí và tốc độ tiến bộ. Trước khi ngày kết thúc, Brielle đã có thể tự duy trì Wind Walking và lướt trên cát gần ngang tốc độ Dark Elves. Cô vui mừng vì bù đắp được một phần những kỹ năng lẽ ra phải học từ tộc High Elf nếu không bị bắt từ nhỏ.
+
+Floa và các Dark Elves nhìn mối quan hệ thân thiết giữa Brielle, Zeon và Levin mà dao động. Với họ, High Elf vốn cao ngạo và không bao giờ thân mật với con người, còn tộc Floa sống cô lập hơn một thế kỷ trong sa mạc. Họ bắt đầu nghi ngờ lối sống khép kín của mình.
+
+Làng Dark Elf nằm sau một đụn cát lớn, được xây bằng xương và da ma thú săn được thay vì gạch cát. Floa nói trẻ con bị giữ trong căn nhà lớn làm từ da mammoth. Zeon không chờ lâu mà tạo bão cát làm nghi binh, còn Levin dùng Purple Lightning đánh orc canh gác. Khi orc kéo Dark Elves còn bị đóng dấu làm khiên thịt, Levin bị hạn chế. Chuangka xuất hiện, nhận ra Levin từng ở tổ Armored Ant và lệnh dùng Dark Elves tìm những người còn lại. Ngay lúc đó Zeon làm đụn cát khổng lồ trước làng sụp xuống thành sóng cát, đẩy làng vào hỗn loạn.
+
+## Chương 365
+
+Floa và chiến binh Dark Elf kinh hãi trước cảnh Zeon làm sụp đụn cát từng che chở làng hơn một trăm năm. Zeon cố ý điều khiển khối lượng và tốc độ cát để giảm thiệt hại, nếu không cả làng đã bị xóa sổ. Floa hiểu Zeon là đồng minh cực kỳ đáng tin, còn nếu là kẻ địch thì sẽ là thảm họa.
+
+Trong lúc orc còn rối loạn, Floa dẫn chiến binh tới căn nhà giam trẻ con. Họ giết hai orc tinh nhuệ của Chuangka, phá cửa và cứu bọn trẻ. Chuangka chạy tới sau khi spell báo động kích hoạt, cố dùng cây giáo xương kích hoạt dấu nung nhưng thất bại vì Floa và nhóm chiến binh đã được Brielle xóa dấu. Zeon, Levin và Brielle cũng tới nơi. Zeon nhận ra Chuangka thông minh bất thường so với orc bình thường.
+
+Chuangka dùng giáo xương phát ánh sáng cường hóa orc và làm Dark Elves suy yếu. Floa bị lão bóp cổ và suýt bị đóng dấu mới. Zeon dùng Sand Blaster đánh lệch giáo rồi áp sát, đấm Chuangka bay xa. Levin giải phóng Purple Lightning toàn lực, hạ hàng chục orc khi không còn Dark Elves làm khiên thịt. Bị dồn vào đường cùng, Chuangka kích hoạt hắc khí từ giáo khiến những Dark Elves còn dấu nung đau đớn quằn quại, tuyên bố sẽ kéo tất cả xuống địa ngục. Zeon tức giận vì orc luôn kéo người khác theo khi muốn chết và dùng Sand Viper đánh thẳng vào đầu Chuangka.
+
+## Chương 366
+
+Đầu Chuangka nổ tung, kết thúc lão orc một cách đột ngột. Zeon chú ý chiếc vòng cổ bằng xương người và xương thú vẫn tỏa hắc khí ngay cả sau khi Chuangka chết. Khi nhặt nó lên, cậu cảm nhận cơn đau như bị nung đỏ, nhận ra đây là một dạng lời nguyền tương tự lời nguyền của Grim Reaper.
+
+Qua chiếc vòng, Zeon thấy ký ức của Chuangka: lão orc già từng bị đồng tộc bỏ rơi trong sa mạc, sắp chết vì tuổi thọ cạn và mất nước. Một sự hiện diện bí ẩn không rõ chủng tộc xuất hiện, đặt vòng xương lên cổ lão, ban sinh khí, trí tuệ và kéo lão khỏi cái chết. Từ đó Chuangka xây dựng thế lực với mục tiêu trở nên vĩ đại để gặp lại “hắn”, kẻ lão xem như đấng cứu rỗi. Chiếc vòng cố dụ Zeon đeo nó, hứa cho cậu trí tuệ và khả năng như Chuangka, nhưng Zeon chống lại và cố truy tìm danh tính kẻ trao vòng.
+
+Khi Zeon dò sâu hơn, vòng xương nứt và sắp phát nổ. Cậu ném nó ra xa, hô mọi người nằm xuống. Vụ nổ phá hủy nặng nề làng Dark Elf, đốt và xé nát các căn nhà da ma thú, nhưng nhờ phản ứng nhanh của Zeon, phần lớn elf thoát chết. Sau đó Brielle phải xóa dấu nung cho hơn một trăm Dark Elves còn lại trong tình trạng Gaia không thể hỗ trợ vì đang tiêu hóa Reaper's Scythe. Cô kiệt sức, hết elixir và phải chế thêm, nhưng vẫn không chịu nghỉ vì niềm kiêu hãnh High Elf không cho phép làm ngơ trước đồng tộc đang đau đớn.
+
+Brielle nhớ ra Ciela's Furnace trong subspace có thể khuếch đại potion. Cô dùng ngọn lửa trắng của lò tăng hiệu lực elixir, khiến các dấu nung ngoan cố biến mất nhanh chóng và cứu toàn bộ Dark Elves. Floa rơi nước mắt cảm ơn Brielle. Zeon và Levin tự hào nhìn cô trưởng thành thành người có thể cứu kẻ khác. Tuy vậy Zeon vẫn bận tâm về “hắn”, sự hiện diện bí ẩn đã trao vòng xương cho Chuangka, khác hoàn toàn Nigel và báo hiệu những biến động bất tường đang âm thầm diễn ra.
+
+## Chương 367
+
+Hiện không có file nguồn `chapter-367.md` trong thư mục, nên thứ tự dịch chuyển từ chương 366 sang chương 368.
+
+## Chương 368
+
+Zeon nhận ra khu vực quen thuộc vì từng đi qua cùng Dyoden khi mới thức tỉnh. Cây xương rồng khổng lồ bảy nhánh còn sống nhờ gai độc đủ làm tan chảy ma thú, trở thành địa tiêu trong ký ức. Zeon đổi hướng và dẫn Dark Elves, Brielle, Levin đi nhanh tới một nơi mà cậu không chắc còn tồn tại.
+
+Nơi đó là Black Forest, vùng đất của Goya clan, một khu rừng cây than hóa kỳ lạ giữa sa mạc. Black Forest đang bị armored gorilla, saber-tooth tiger và bầy griffin tấn công. Go Doo-won, chủ nhân Black Forest và cha của Go Hahr, cùng hơn chục người Goya đang chống đỡ trong tuyệt vọng. Zeon xuất hiện đúng lúc, dùng Sand Vipers đánh rơi griffin, Levin dùng Purple Lightning hạ bầy bay, còn Floa và Dark Elves săn armored gorilla và saber-tooth bằng kỹ thuật phối hợp của thợ săn.
+
+Go Doo-won nhận ra Zeon, kinh ngạc vì cậu đã trưởng thành và đi cùng Dark Elves. Zeon nói Dyoden đã chết sau khi giết dragon, khiến Go Doo-won vừa bàng hoàng vừa khâm phục. Sau trận, Brielle phát hiện mầm xanh nhỏ mọc từ thân cây than hóa, điều không thể với một cây đã chết và bị kết tinh. Cô khuỵu xuống vì xúc động.
+
+## Chương 369
+
+Brielle xác nhận mầm cây trong Black Forest là thật: ý chí của cây chết đã nảy mầm giữa sa mạc. Cô giao cảm với các thân cây than hóa và nhận ra nhiều cây khác cũng đồng loạt mọc mầm. Dark Elves cũng rơi nước mắt vì elf vốn là chủng tộc của rừng, dù đã thích nghi với sa mạc vẫn luôn khao khát cây xanh.
+
+Go Doo-won dẫn Zeon và Brielle vào sâu trong Black Forest, nơi Hahr đang ở trong một chiếc kén trắng dưới thân cây than hóa lớn nhất. Spirit egg từng bám trên queen bomb bee đã được Hahr giữ suốt tám năm như một sinh vật sống. Vài ngày trước, Hahr và spirit egg biến thành kén, đồng thời mầm cây xuất hiện và ma thú bắt đầu tấn công vì muốn nuốt spirit để lấy sức mạnh.
+
+Brielle giao cảm với kén và xác nhận Hahr vẫn ổn, chỉ đang ở thời điểm quan trọng vì một spirit sắp được sinh ra. Spirit này khác Gaia: Gaia là đứa trẻ sinh ra khi spirit Kurayan dung hợp với cá voi để sống sót, còn spirit của Hahr có thể là spirit thuần khiết đầu tiên trên Trái Đất. Nếu nó sinh ra, Black Forest sẽ hồi sinh, cây cỏ sẽ lan ra và màu xanh có thể trở lại.
+
+Zeon tập hợp con người và Dark Elves, nói kỳ tích này là do ý chí của một half-elf, buộc Floa và Dark Elves phải đối mặt với định kiến của mình. Khi nghe spirit sắp ra đời, Dark Elves quỳ xuống khóc. Floa hỏi liệu tộc mình có thể sống ở Black Forest hay không. Zeon nói quyết định thuộc về Go Doo-won, nên Floa quỳ trước ông và cầu xin được chấp nhận làm cư dân vùng đất này.
+
+## Chương 370
+
+Floa vứt bỏ niềm kiêu hãnh Dark Elf và xin Go Doo-won nhận tộc mình vào Black Forest. Sau khi mất quê nhà vì lối sống cô lập và bị orc giẫm đạp, cô cùng nhiều người trẻ đã quyết định nếu có cơ hội thì sẽ bắt tay với con người để tộc mình sống sót. Go Doo-won, người từng cưới elf và có con gái half-elf Hahr, không có thành kiến với elf nên chấp nhận họ làm cư dân. Dark Elves vui mừng vì có nhà mới là một khu rừng đang nảy mầm.
+
+Floa giải thích Dark Elves vốn tự trồng cây làm nhà: khi trẻ con sinh ra, cha mẹ tặng cây non, đứa trẻ lớn lên cùng cây và cây trở thành nhà của nó. Trên Trái Đất sa mạc hóa, họ buộc phải sống trong nhà da ma thú; nhưng khi Black Forest có mầm cây và sắp có spirit, họ có thể trở lại cách sống của dân rừng. Go Doo-won yêu cầu được gọi là trưởng làng thay vì chủ nhân khu rừng vì nơi này thuộc về mọi người.
+
+Dark Elves và Thức Tỉnh Giả loài người bắt đầu cùng bàn kế hoạch phòng thủ. Họ đếm được mười lăm cây đã nảy mầm, quyết định đặt bẫy và nhờ Zeon đào một con hào rộng khoảng ba mươi mét, sâu hai mươi mét, dài ba trăm mét để chặn ma thú cho tới khi spirit sinh ra. Zeon chấp nhận, dùng cát tạo hào khổng lồ trong sự kinh ngạc của mọi người.
+
+Ở tàn tích làng Dark Elf, một người đàn ông áo choàng đen tìm thấy xác không đầu của Chuangka. Hắn biết Chuangka chết vì chiếc vòng cổ của Kroll có enchantment cảnh báo đã bị phá hủy. Chuangka chỉ là vật thí nghiệm hữu dụng của hắn. Người đàn ông đoán có kẻ khác can thiệp vì Dark Elves khó liều lĩnh nổi loạn khi con cái bị giữ làm con tin. Hắn hứng thú và đi theo hướng Dark Elves biến mất.
+
+## Chương 371
+
+Brielle kết bạn với Josephine, một bé gái Dark Elf được giao chăm sóc một mầm cây mới. Mỗi đứa trẻ Dark Elf đều được giao một cây vì người lớn bảo vệ Black Forest, còn trẻ con nuôi dưỡng cây. Josephine đề nghị nếu sau này có mầm mới, cô bé sẽ nuôi nó cho Brielle để Brielle có thể quay lại thăm rừng bất cứ lúc nào. Điều này khiến Brielle cảm thấy bình yên và hiểu vì sao các trưởng lão High Elf khao khát rừng Kurayan đến vậy.
+
+Brielle muốn một ngày mang mầm cây về làng High Elf, nơi cũng là vùng đất cằn cỗi không có hy vọng như làng Dark Elf cũ. Cô nhận ra sống không có hy vọng chỉ là chịu đựng, nên càng muốn bảo vệ Black Forest. Ở trung tâm rừng, kén của Hahr phát sáng trắng rực. Brielle và Dark Elves cảm nhận năng lượng spirit lấp đầy khoảng trống trong linh hồn, giúp Brielle hiểu sự mất mát khi elf tới Trái Đất và mất kết nối với spirit.
+
+Ma thú kéo tới Black Forest với số lượng lớn, từ linh cẩu một sừng, flame wolf, crimson bear phủ gai tới cyclops cầm chùy. Con hào Zeon đào buộc chúng dồn qua lối hẹp. Thức Tỉnh Giả và Dark Elves phối hợp chống cự; Floa chia chiến binh thành năm đội, lần lượt hạ các ma thú trung cấp như crimson bear bằng cách nhắm vào điểm yếu. Nhưng ma thú cỡ lớn bắt đầu hành động, cyclops tiến vào, còn trên trời ma thú bay che kín mặt trời. Floa lao ra đối đầu cyclops, trong khi Zeon và Levin chuẩn bị giữ bầu trời.
+
+## Chương 372
+
+Brielle ở lại cạnh kén để giữ Hahr bình tĩnh theo lời Zeon, vì sự bất an của Hahr sẽ làm spirit dao động. Cô nói với Hahr rằng Zeon và Levin đang ngoài kia, sẽ không để ma thú bước vào Black Forest. Chiếc kén đáp lại, lắng xuống và phát sáng.
+
+Trên bầu trời, Zeon và Levin đối đầu vô số ma thú bay. Purple Lightning ban đầu hiệu quả, nhưng các ma thú nhanh dần thích nghi và né được sét. Zeon dùng Sand Tornado xé nát những con lọt qua, nhưng griffin, Blade Razorbirds và đặc biệt wyvern khiến tình hình khó hơn. Wyvern có aura mạnh, thân thể bền, hung bạo và thông minh, xứng danh bạo chúa bầu trời.
+
+Dưới đất, Floa dùng Aura Blade phá mắt cyclops, khiến nó nổi loạn và đánh lẫn đồng loại, tạm tạo khoảng trống cho phòng tuyến. Nhưng một cyclops khác giết con bị mù rồi lao vào đội hình. Floa cùng Dark Elves và Thức Tỉnh Giả tiếp tục giữ lối vào.
+
+Một alpha wyvern thông minh vòng qua Zeon và Levin, lao thẳng vào sâu trong Black Forest để nuốt kén. Zeon giao bầu trời cho Levin rồi rơi xuống như thiên thạch, giết một wyvern bằng nắm đấm bọc Inferno Gauntlet và truy đuổi alpha. Alpha dùng sóng siêu âm làm Zeon choáng trong giây lát, khiến nhiều wyvern lao vào, nhưng Zeon tỉnh lại và dùng Fire Rain thiêu chúng. Khi alpha sắp nuốt kén, Brielle ném một lọ độc alchemy vào miệng nó. Độc làm tan lưỡi và vòm miệng, tạo cơ hội cho Zeon dùng Sand Tornado nghiền nát alpha. Ngay sau đó toàn bộ Black Forest rung chuyển, và Zeon nhận ra có ma thú hạng S xuất hiện.
+
+## Chương 373
+
+Một ma thú hạng S xuất hiện trước Black Forest: cá sấu đá khổng lồ, giống thể dung hợp giữa cá sấu và golem, thân to ngang pháo đài di động Archelon. Nó giẫm nát mọi ma thú khác và vượt qua con hào Zeon đào như vượt một dòng suối. Floa dùng Aura Blade chém vào đầu nó nhưng chỉ làm văng đá, không gây sát thương đáng kể.
+
+Zeon nhận ra con cá sấu đá không có linh hồn, chỉ có bản năng của golem và khao khát nuốt spirit để có được linh hồn. Cậu làm sụp cát dưới chân nó, kéo nó vào hố, rồi chặn đợt phóng đá như tên lửa bằng hàng trăm Sand Blaster phát nổ nhờ Inferno Gauntlet để bảo vệ Black Forest.
+
+Sand Mixer không đủ hiệu quả với thân đá nên Zeon dùng Sand Gehenna, sau đó cho dung nham xoay như Sand Mixer để nung chảy chân cá sấu đá. Nhưng con thú phân tách thân thể thành hàng trăm cá sấu đá nhỏ, tránh bị giết trong Sand Gehenna và tràn về Black Forest. Zeon đáp lại bằng cách triệu hồi hàng trăm Sand Soldiers, dùng số lượng đối đầu số lượng để giữ phòng tuyến.
+
+## Chương 374
+
+Kalinan, người đàn ông áo choàng từng trao vòng xương cho Chuangka, quan sát Black Forest từ đụn cát. Hắn hứng thú khi thấy cá sấu dung hợp golem và Zeon điều khiển hàng trăm Sand Soldiers. Sand Soldiers yếu hơn cá sấu đá về khối lượng và sức mạnh, nhưng có thể tái tạo ngay khi bị phá, giúp Dark Elves và Thức Tỉnh Giả tiêu diệt từng con cá sấu đá.
+
+Một số cá sấu đá vẫn lọt qua phòng tuyến và lao tới kén. Zeon cố ý nới lỏng phòng tuyến để dụ bản thể chính mang lõi xuất hiện vì chỉ bản thể thật mới được phép nuốt spirit. Con lớn nhất và hung hãn nhất tới chỗ kén chính là bản thể. Zeon rơi xuống đầu nó, dùng Inferno Gauntlet phá lưng và giật lõi đỏ khỏi thân. Khi cậu bóp nát lõi, bột lõi không tản ra mà bị hấp thụ vào cơ thể Zeon.
+
+Chiếc kén bùng sáng, spirit đầu tiên của Black Forest ra đời với tên Yuri. Hahr bước ra trong hình dạng trưởng thành, xinh đẹp và huyền bí sau tám năm chăm sóc spirit egg. Yuri tỏa ánh sáng biến cát khô thành đất màu mỡ, khiến cỏ và mầm xanh mọc lên. Dark Elves khóc vì lần đầu cảm nhận spirit gần đến vậy.
+
+Yuri nói muốn gặp “đứa trẻ” liên kết với Zeon, tức Gaia, nhưng Gaia vẫn đang ngủ trong subspace để tiêu hóa Reaper's Scythe. Ngay lúc đó, Kalinan xuất hiện trong Black Forest mà Zeon và Levin không cảm nhận được. Yuri sợ hãi chui vào lòng Hahr. Kalinan xúc động vì spirit đã sinh ra, nhưng lạnh lùng nói giao ước vừa thành lập có thể bị phá. Zeon chặn đường vì Yuri cảnh giác với hắn.
+
+## Chương 375
+
+Kalinan xuất hiện với khí tức khiến cả Thức Tỉnh Giả, Dark Elves, Levin và Brielle đều đông cứng. Zeon là người duy nhất cử động được và bay lên đối diện hắn. Kalinan dùng Shockwave không dấu hiệu thi triển, nhưng Zeon rung các hạt cát quanh mình tạo sóng triệt tiêu âm thanh nên không bị thương nặng.
+
+Kalinan lộ mặt là một elf tóc vàng mắt vàng, nhưng nói mình “từng là” elf. Zeon suy ra hắn đã biến đổi giống Nigel. Khi Zeon nhắc tới vòng xương của Chuangka, Kalinan xác nhận cậu là người giết lão orc. Hắn thèm muốn Yuri dù Yuri đã ràng buộc linh hồn với Hahr, nói có thể cắt giao ước và sẽ để Zeon sống nếu giao spirit.
+
+Zeon liên hệ Kalinan với Nigel, Pilgrim và viên ngọc tím từng được Nigel lấy khỏi ngực Pilgrim. Cậu suy luận viên ngọc tím là chìa khóa giúp Nigel, Pilgrim và Kalinan vượt giới hạn chủng tộc, đồng thời có liên hệ tới Krasias vì Nigel từng hỏi liệu Zeon thật sự tin Krasias đã chết hay không. Kalinan không phủ nhận và tuyên bố sẽ giết Zeon.
+
+Kalinan dùng Shockwave mạnh hơn khiến toàn bộ sinh vật trong rừng gần như gục ngã, Zeon dù triệt tiêu vẫn bị chấn động nội tạng. Hắn bay cao và thi triển Wide Area Spallation, dùng sóng siêu âm bao trùm Black Forest để đun sôi dịch thể trong cơ thể mọi sinh vật như lò vi sóng. Zeon mở rộng kỹ thuật rung cát trên quy mô lớn, dùng âm thanh nuốt âm thanh để triệt tiêu đòn diện rộng. Ngay sau đó Gaia thức tỉnh, lớn hơn nhiều sau khi tiêu hóa Reaper's Scythe. Zeon nói Kalinan là kẻ địch, Gaia đưa cậu lao thẳng vào hắn.
+
+## Chương 376
+
+Zeon cưỡi Gaia lao lên trời, dùng bão cát tăng tốc và phóng Sand Vipers vào Kalinan. Kalinan dùng Sonic Vibration rung không khí tạo tường âm lực phá nát Sand Vipers, xác nhận năng lực của hắn là điều khiển âm thanh. Hắn dùng Dead March Chương Một, khúc ai ca khiến sinh vật rơi vào giấc ngủ vĩnh hằng, nhưng Zeon không bị ảnh hưởng nhờ tinh thần bền bỉ và Dragon’s Eye trong Inferno Gauntlet, còn Gaia miễn nhiễm do đã hấp thụ Reaper's Scythe.
+
+Kalinan dùng Ice Barrier chỉ để câu giờ, rồi Dead March Chương Hai thao túng khí quyển tạo mưa lớn nhằm cuốn cát của Zeon. Zeon dùng Inferno Gauntlet dựng tường lửa bốc hơi mưa và tiếp tục áp sát. Kalinan tung Dead March Chương Ba: Single-Point Spallation, tập trung sóng âm vào một điểm, phá màng nhĩ và đảo loạn não Zeon. Zeon chảy máu thất khiếu, tưởng như sắp ngã, nhưng nhờ khả năng tái sinh siêu tốc, vết thương hồi phục gần như tức thì.
+
+Zeon phản kích bằng White Phosphorus Flame khiến Kalinan phải tạo chân không để dập lửa. Khi Zeon áp sát với sát ý mạnh, Kalinan hoảng sợ bay lên cao hơn một kilomet. Zeon đánh cược dùng Gương Mushura, vật phẩm dịch chuyển ngẫu nhiên trong bán kính một kilomet lấy từ Hassim, và xuất hiện ngay phía trên Kalinan. Cậu dùng các Sand Soldiers tạo từ bụi cát giữa không trung liên tục ôm ghì Kalinan, kéo hắn rơi xuống như thiên thạch. Dù Kalinan phá từng Sand Soldier bằng sóng âm, Zeon triệu hồi thêm tới mười con bao vây và ghì chặt hắn cho tới khi hắn đâm xuống mặt đất.
+
+## Chương 377
+
+Kalinan rơi xuống tạo hố lớn và bão cát che trời. Gaia đỡ Zeon sau khi cậu dùng Gương Mushura, rồi bay về chỗ Brielle. Kalinan nằm trong hố với tay chân vặn vẹo, bụng rách, ruột trào ra, nửa hộp sọ mất nhưng vẫn còn sống. Giọng hắn trở nên phẳng lặng, gọi Kalinan là “thân thể này”, khiến Zeon nhận ra kẻ đang nói không còn là Kalinan thật.
+
+Zeon suy luận ý chí trong Kalinan chính là Krasias, dựa trên câu hỏi trước kia của Nigel và việc Nigel/Kalinan vượt giới hạn chủng tộc nhờ viên ngọc tím. “Kalinan” không phủ nhận. Zeon hỏi viên ngọc tím có phải mảnh vỡ hay vật chứa ý chí còn sót lại của Krasias không. Ý chí Krasias dụ Zeon nhận mình để vượt giới hạn con người và trở thành tồn tại gần thần, nhưng Zeon từ chối vì không muốn đánh mất bản thân. Cậu tin ban đầu cái tôi có thể còn nguyên, nhưng khi yếu đi Krasias sẽ chiếm lấy, giống tình trạng Kalinan hiện tại.
+
+Viên ngọc tím bắn khỏi ngực Kalinan và bay mất như sao băng trước khi Zeon kịp phản ứng. Kalinan chết thật sự sau khi vật chứa ý chí rời đi. Zeon thiêu xác Kalinan, rồi cùng Levin và Brielle quay về Black Forest. Gaia lúc này dài bảy, tám mét như orca lớn, không thể vào nhà Zeon nữa. Brielle buồn nhưng Gaia an ủi rằng họ vẫn có thể gặp nhau.
+
+Khi nhóm trở về, Yuri vui mừng bay quanh Gaia, còn Gaia cũng hân hoan bơi trên trời. Hahr nói có thể giữa Yuri và Gaia một ngày nào đó sẽ sinh ra spirit mới, dù bản thân cô không chắc vì sự ra đời của spirit vẫn là bí ẩn. Yuri và Gaia cộng hưởng trên bầu trời, rải hạt sáng sinh mệnh xuống Black Forest. Nơi ánh sáng chạm tới, mầm cây lớn nhanh thành cây non, lá xanh phủ cành, cỏ mọc từ đất. Black Forest chết chóc bắt đầu hồi sinh và hóa xanh trước mắt con người, Dark Elves, Zeon, Levin và Brielle. Brielle quỳ xuống khóc vì cảm xúc của một elf, đứa con của rừng, quá sâu để diễn tả.
+
+## Chương 378
+
+Mười ngày sau khi Yuri ra đời, Black Forest gần như đã hồi phục hình dạng rừng thật sự. Trẻ con loài người và Dark Elf chơi cùng nhau dưới những tán cây, còn người lớn phối hợp: Thức Tỉnh Giả loài người bảo vệ bên ngoài, Dark Elves chăm sóc cây. Nhờ hạt sáng của Yuri và kỹ thuật nuôi dưỡng của elf, cây lớn nhanh, hứa hẹn sớm có nhà cây như ở Kurayan. Brielle cũng tham gia chăm đất, lần đầu cảm nhận đất đen màu mỡ thay vì cát bụi.
+
+Josephine thân thiết với Brielle và đã xin người lớn giao một cây riêng để nuôi cho cô. Zeon và Levin quan sát Brielle hạnh phúc, cùng thừa nhận nếu cô muốn ở lại rừng thì họ sẽ tôn trọng vì rừng là cội nguồn sinh mệnh của elf. Gaia và Yuri luôn bay sát bên nhau, khiến Levin trêu rằng họ có thể sinh ra spirit mới.
+
+Floa tìm Zeon để bàn chuyện bảo vệ rừng. Dù khu rừng hồi sinh, nó vẫn còn non trẻ và sẽ thu hút lòng tham của Neo Seoul, scavengers, elf khác và dị tộc nếu bị lộ. Teriuden, trưởng lão Dark Elf từng tham gia dựng Great Barrier ở Kurayan, nói có thể dựng kết giới che giấu và bảo vệ cả khu rừng nếu có thánh vật, spirit và địa hình phù hợp. Ông cần Zeon tạo bốn đồi cát ở đông, tây, nam, bắc, cao khoảng một trăm mét để chôn thánh vật. Zeon đồng ý và trong hai giờ tạo bão cát, dựng bốn đồi cát quanh Black Forest mà không làm hại làng.
+
+## Chương 379
+
+Sau vài ngày chuẩn bị, Dark Elves và Thức Tỉnh Giả loài người hoàn tất gần mười ma pháp trận quy mô lớn để dựng Great Barrier. Trong thời gian đó, wyverns và griffins quay lại định chiếm spirit, nhưng Gaia dùng quyền năng từ Reaper's Scythe: ánh sáng đen từ cơ thể cô khiến ma thú yếu hơn chết như ruồi. Gaia giờ đã có phẩm cách của hậu duệ Moby Dick, không còn là đối tượng cần bảo vệ, còn Yuri bay cạnh cô để bảo vệ rừng.
+
+Dân làng đổi tên Black Forest thành Primeval Forest, khu rừng đầu tiên hồi sinh trên Trái Đất, với hy vọng trở thành khởi nguyên và thánh địa của sự sống. Great Barrier kích hoạt từ bốn thánh vật, tạo cột sáng và mái vòm ánh sáng bao phủ toàn rừng rồi biến mất. Kết giới vô hình với người ngoài, chỉ người trong cảm nhận được, có thể che giấu và chống phần lớn ma thú. Người không có Divine Token bằng gỗ Cloud Tree và chưa qua xác thực sẽ không thể nhìn thấy hay bước vào Primeval Forest. Zeon, Levin và Brielle được Teriuden trao token để tự do ra vào.
+
+Nhìn kết giới và khu rừng, Brielle nhớ mẹ và làng High Elf khô cằn. Gaia và Yuri an ủi cô, rồi trong ngực Brielle xuất hiện phản ứng kỳ lạ: một spirit mới muốn liên kết với cô. Hahr giải thích Gaia và Yuri đã kích hoạt sự ra đời của spirit khác. Spirit xuất hiện là Silf, spirit của gió, từng là spirit giao ước của Teriuden ở Kurayan. Brielle lập giao ước với Silf và đặt tên cho cô bé là Riria. Lần đầu có spirit của riêng mình, Brielle hiểu Gaia thân thiết với cô nhưng vẫn thuộc về Zeon, còn Riria thuộc về riêng cô. Brielle xin Teriuden cho mang theo một ngọn cỏ để về làng High Elf, vì đã đến lúc cô cho dân làng thấy spirit và sự sống thật sự.
+
+## Chương 380
+
+File nguồn `chapter-380.md` hiện không phải nội dung truyện mà bị ghi nhầm thành mã thư viện/Redis, nên không thể dịch chương này từ nguồn hiện có.
+
+## Chương 381
+
+File nguồn `chapter-381.md` hiện bị hỏng, toàn ký tự null, không có nội dung truyện để dịch.
+
+## Chương 382
+
+File nguồn `chapter-382.md` hiện không phải nội dung truyện mà bị ghi nhầm thành mã thư viện/Redis, nên không thể dịch chương này từ nguồn hiện có.
+
+## Chương 383
+
+Seo Tae-ran ra tận cổng Tòa Thị Chính để đón đoàn Mandy đưa người sống sót từ mỏ ma thạch về. Người đàn ông lạ tự giới thiệu là Jang Wuhang từ Sichuan, một địa danh cũ thuộc China/Zhonghua. Hắn mặc giáp vảy da ma thú, mang cung, ống tên và liuye dao, trông như chiến binh cổ. Jang nói thuộc địa Sichuan đang nguy cấp, hắn là trinh sát/pathfinder được phái đi tìm thuộc địa khác cầu viện. Hắn mất hơn một năm băng sa mạc, toàn bộ đồng đội chết dọc đường. Seo Tae-ran đưa hắn vào Tòa Thị Chính và ra lệnh giữ tuyệt mật, nhưng Mandy biết tin này sẽ khó giấu ở Neo Seoul.
+
+Zeon xuống Crocodile’s Den và nhận ra mùi hôi trong cống đã giảm mạnh. Barkhum, nay là trưởng an ninh của làng Zetoya sau khi được Remura chữa và trung thành với cô, chặn người mới không nhận ra Zeon. Làng Zetoya đã thay đổi: các chòi tạm được thay bằng nhà gạch cát dùng chất làm cứng cát Yoo Se-hee gửi xuống. Cát từ mặt đất lọt vào qua thông gió/cống được gom lại để xây nhà, khiến dân làng lần đầu có chỗ ở tử tế.
+
+Zetoya và Remura vẫn bận rộn giúp đỡ người dưới lòng đất. Remura chữa bệnh cho cả người từ các Den khác kéo tới, còn Zetoya quản lý lượng người mới. Klexi từng ghé làng, than mùi hôi rồi lặng lẽ mang xuống một máy lọc không khí khổng lồ, cùng nhiều vật dụng từ mặt đất, giúp không khí sạch hơn. Zeon hỏi Zetoya có muốn đưa dân lên mặt đất không, nhưng Zetoya nói người không thức tỉnh chưa thể thích nghi trong một sớm một chiều; cậu muốn ở lại phát triển ngôi làng dưới lòng đất thành nơi tiên tiến như Neo Seoul.
+
+## Chương 384
+
+Ở Nam Khu, Xiao Lun nghe Chu Wei báo rằng một pathfinder từ Sichuan đã vào Tòa Thị Chính. Vì Sichuan giáp quê hương Tibet của ông và ông nội ông vốn là người Sichuan, tin này khiến Xiao Lun dao động mạnh. Ông muốn biết ở Sichuan còn bao nhiêu người sống sót và liệu họ có biết gì về Tibet không. Dù đã mười năm không trực tiếp gặp Jin Geum-ho vì vấn đề tự trọng, Xiao Lun quyết định đích thân tới gặp ông để lấy tin quê nhà.
+
+Tại nhà Zeon, Remura lần đầu lên mặt đất và được ăn mì bò cay do Klexi nấu. Cô bám lấy Brielle, gọi cô là unnie, khiến Brielle vừa càu nhàu vừa chăm sóc dịu dàng. Zeon cảm ơn Klexi vì máy lọc không khí ở làng Zetoya, nhưng Klexi chỉ tỏ ra cộc cằn và đẩy thêm mì cho cậu. Ông đối xử với Remura như cháu gái, vui vẻ nấu thêm vì cô bé khen ngon.
+
+Mandy xuất hiện, kiệt sức và xin một bát mì. Cô nhận ra Remura là healer cấp cao trong tin đồn. Brielle thì thầm cảnh báo Remura rằng Mandy bình thường tốt, nhưng khi nổi giận sẽ thành Eloy khó chịu. Mandy báo với Zeon về Jang Wuhang, pathfinder từ Sichuan, người nói dưới vùng Sichuan cũ ở China có một thành phố ngầm khổng lồ đủ chứa hàng trăm nghìn người, tuy chưa bằng Neo Seoul nhưng rất lớn. Zeon thật sự thấy chuyện này thú vị.
+
+## Chương 385
+
+Jang Wuhang ở phòng khách tầng mười lăm Tòa Thị Chính, nhìn Neo Seoul với vừa kinh ngạc vừa tự ti. Hắn không hiểu vì sao thuộc địa của một “quốc gia nhỏ” lại phát triển vượt xa Sichuan: nhà cao tầng, xe cộ, trang phục, không khí sạch, thiết bị điện tử và phòng khách tiện nghi đều là những thứ thành phố ngầm của hắn không có. Hắn muốn lục tung thành phố để đem bí mật về quê nhà.
+
+Jang được đưa lên gặp Jin Geum-ho. Sự hiện diện của Jin khiến hắn cảm thấy bị đè nén, hiểu vì sao ông xây được Neo Seoul. Jang nói thành phố ngầm Sichuan vốn là bunker hạt nhân cho quan chức Đảng và gia đình, sau đó mở rộng để chứa hơn ba trăm nghìn người nhưng hiện quá chật và nguy cơ sụp đổ cao. Hắn cầu xin Jin chia sẻ magitech của Neo Seoul để Sichuan phát triển như Neo Seoul, đổi lại bằng lời hứa sẽ báo đáp gấp trăm, gấp ngàn lần trong tương lai.
+
+Jin Geum-ho từ chối thẳng, nói yêu cầu magitech chẳng khác nào đòi cướp toàn bộ thành tựu Neo Seoul xây dựng suốt một thế kỷ; ông chỉ chấp nhận viện trợ nhân đạo. Sau khi Jang bị Seo Tae-ran tiễn ra, Jin nói kiểu người như Jang vẫn giữ thói quen thèm muốn thứ không thuộc về mình và lòng tốt chỉ khiến họ tham lam hơn. Ông cũng cảm nhận Jang không “trong suốt”, như có thứ gì che bản chất và cố lừa ông, nên không tin hắn.
+
+Trong phòng, Jang đập phá đồ đạc trong cơn nhục nhã và thề sẽ có ngày đem toàn quân xé nát Neo Seoul. Hắn hiểu không thể nhận hợp tác từ Jin nên cần cách khác để lấy magitech và bí mật phòng thủ của Neo Seoul. Thân phận thật của hắn ở thành phố ngầm Sichuan là Sĩ quan Trinh sát, chuyên đi trước chủ lực để thu thập tình báo, ám sát, phá hoại và gieo bất hòa, không phải pathfinder bình thường.
+
+## Chương 386
+
+Zeon suy nghĩ về Jang Wuhang và từ pathfinder, nhận ra việc một người từ Sichuan cách hơn ba nghìn kilomet tới được Neo Seoul không thể chỉ do may mắn; Jang chắc chắn có năng lực cao và ẩn giấu mục đích. Dù tò mò, Zeon không quá lo vì người xử lý Jang là Jin Geum-ho, kẻ đã xây dựng Neo Seoul và rất khó bị qua mặt. Trong nhà, Brielle cho Remura gặp spirit Riria, còn Zeon ra sa mạc trong đêm để kiểm tra lõi rock crocodile đã bị hấp thu vào cơ thể mình.
+
+Trong cảnh giới nội tại của sand mage, Zeon tìm thấy một viên sỏi nhỏ lẫn giữa sa mạc vàng, chính là lõi rock crocodile. Sau cả đêm tập trung giao cảm và đọc thông tin từ lõi, cậu học được cách dùng quyền năng golem để biến cát thành đá. Khi triệu hồi Sand Soldiers rồi ra lệnh cường hóa, cơ thể họ chuyển từ cát sang đá nhẵn, bền và nặng hơn; khi giải trừ, đá lại tan thành cát. Zeon vẫn giữ tên Sand Soldiers vì chúng được tạo ra từ quyền năng của sand mage.
+
+Zeon gọi Gaia và nhận ra cô đã lớn gần mười mét sau khi hấp thu Reaper's Scythe, ngày càng giống mẹ nhưng vẫn giữ vẻ đáng yêu. Cưỡi Gaia bay trên mây, Zeon hiểu bầu trời là nơi thuộc về cô và các ma thú bay, kể cả wyverns, giờ đều tránh xa Gaia. Trong lúc trinh sát, Zeon phát hiện một đàn Red Locust, loài ma thú châu chấu phương nam không thuộc khu vực này. Vì Red Locust sinh sản cực nhanh, ăn sạch mọi thứ và có vỏ như titan, Zeon quyết định tiêu diệt ngay trước khi thành thảm họa. Cậu nhảy xuống từ Gaia, triệu hồi Sand Soldiers Cường Hóa và ra lệnh quét sạch cả đàn.
+
+## Chương 387
+
+Sand Soldiers Cường Hóa chứng minh sức mạnh vượt xa phiên bản cát trước kia: răng Red Locust không thể cắn thủng cơ thể đá, còn mỗi cú đấm của họ có đủ khối lượng để nghiền nát thân thể cứng rắn của Red Locust. Sau khi cả đàn bị tiêu diệt mà không mất một chiến binh nào, Zeon xác nhận việc hấp thu lõi rock crocodile đã tăng sức mạnh cho mình rõ rệt. Cậu giải trừ Sand Soldiers, chúng tan trở lại thành cát đúng bản chất sinh ra từ cát và trở về với cát.
+
+Zeon cưỡi Gaia quay lại Neo Seoul lúc bình minh. Gaia tạo một lớp chắn vô hình trước sức cản của gió, giúp Zeon đứng trên lưng cô như ngồi xe. Các ma thú bay hoảng sợ tránh đường, cho thấy Gaia hiện đã là tồn tại thống trị bầu trời khu vực. Zeon đáp xuống cách Neo Seoul khoảng hai kilomet bằng bão cát rồi đi bộ về khu ổ chuột, giữa cảnh người dân đã quen xây nhà cát bằng chất làm cứng.
+
+Về nhà, Zeon gặp Brielle và Remura. Remura đã được Brielle cho mặc đồ, ăn ngủ tử tế nên vẻ xinh xắn hiện rõ. Remura muốn quay lại Crocodile’s Den ngay vì lo cho Zetoya và những người bệnh dưới đó; môi trường tồi tệ khiến người già yếu và người thường luôn bệnh tật, cô không thể rời lâu. Zeon nhận lời đưa cô xuống, Brielle cũng đi cùng vì đã chuẩn bị thứ muốn trao cho Zetoya.
+
+Cùng lúc, Xiao Lun sau mười năm bất ngờ đến Tòa Thị Chính, khiến lực lượng an ninh căng thẳng. Trưởng an ninh Kim Hyun-jin kinh ngạc vì Xiao Lun vẫn nhớ mình từ thời còn là lính gác thường. Seo Tae-ran cho phép ông lên gặp Jin Geum-ho ngay. Xiao Lun và Tae-ran đấu khẩu ngang sức, rồi ông gặp Jin. Xiao Lun hiểu Jin cố tình để lộ tin về pathfinder Sichuan, yêu cầu giao Jang Wuhang vì Jang đến từ quê hương liên quan đến ông. Jin không từ chối ngay mà hỏi Xiao Lun sẽ trả gì để đổi lấy hắn.
+
+## Chương 388
+
+Jang Wuhang bị giữ trong phòng khách Tòa Thị Chính, không thể tự do rời đi. Hắn muốn trốn ra để điều tra Neo Seoul nhưng nhận ra thành phố được canh phòng và vận hành quá chặt chẽ, không có khe hở dễ lợi dụng. Xiao Lun xuất hiện sau khi đạt thỏa thuận với Jin. Khi biết Jang thật sự đến từ Sichuan, Xiao Lun tiết lộ ông nội mình cũng là người Sichuan. Jang lập tức dùng lễ tiết đồng hương, gọi ông là tiền bối và tạo quan hệ thân cận.
+
+Jang kể thuộc địa của hắn có tên chính thức Celestial Subterranean City, thường gọi là Subterranean City, vốn do quân phiệt Celestial ở Sichuan xây theo lệnh chính phủ trung ương trước Đại Thảm Họa như bunker hạt nhân cho nhân vật trọng yếu, gia đình và binh lính. Ban đầu nó được thiết kế cho một trăm nghìn người sống một năm, nhưng hơn một thế kỷ đã mở rộng để chứa ba trăm nghìn người. Việc mở rộng liều lĩnh khiến lương thực, nước, không khí và vật tư đều thiếu; các phe phái trong thành phố ngầm hiện đang chiến tranh. Mặt đất quanh Sichuan lại đầy ma thú mạnh do địa hình lòng chảo, nên người trong đó không thể dễ dàng lên mặt đất.
+
+Khi Xiao Lun hỏi về lực lượng Thức Tỉnh Giả, Jang nói Subterranean City có ít nhất mười nghìn người dùng được, nhưng Xiao Lun xem đó là bánh vẽ vì khoảng cách quá xa. Jang tiết lộ hắn có bảy đồng đội còn sống đang chờ gần Neo Seoul, trước đó nói họ chết vì không cần nói thật với kẻ địch. Hắn cho Xiao Lun xem dấu ấn cấp B hệ cận chiến võ thuật và nói mình dùng liuye dao, cố chứng minh sự tin cậy. Xiao Lun quyết định đưa Jang rời Tòa Thị Chính và đặt hắn dưới quyền mình, nhưng trong lòng định vắt kiệt giá trị từ hắn. Để đổi lấy quyền quản lý Jang, Xiao Lun đã nhường một mảng kinh doanh béo bở của Nam Khu cho Tòa Thị Chính.
+
+Ở Crocodile Village, Brielle mang đến lõi kết giới phòng hộ do cô chế tạo nhờ nghiên cứu nhiều dungeon và đặc biệt là Watching Eye trong nhà Zeon. Cô đặt lõi ở trung tâm làng và các quả cầu ở lối vào để bảo vệ bán kính làng, giao Zetoya hỗ trợ lắp đặt. Crocodile Village đã ngày càng nổi tiếng, thu hút người định cư nhưng cũng kéo theo scavenger và kẻ cướp dưới Den, nên kết giới sẽ giảm đáng kể rủi ro cho dân làng. Zeon nhìn những ngôi làng đang mọc lên cả trên mặt đất lẫn dưới lòng đất, cảm thấy sự sống trở lại, nhưng cũng lo về Krasias: tuy hắn đã chết, tàn niệm vẫn tồn tại. Zeon nghi Nigel, half-dragon đã lấy viên ngọc tím từ necromancer Pilgrim, biết gì đó về tàn niệm Krasias và một biến động mới đang âm thầm bắt đầu.
+
+## Chương 389
+
+Kết giới của Brielle được lắp đặt thành công, bảo vệ bán kính năm trăm mét quanh trung tâm Crocodile Village và quyền điều khiển được giao cho Zetoya. Không ai có thể đi qua kết giới nếu không được Zetoya cho phép. Nhờ nhà cát, vật tư từ mặt đất, máy phát điện ma thạch và các thiết bị điện tử, Crocodile Village thay đổi hoàn toàn. Trẻ em, vốn sinh ra trong Crocodile’s Den u ám và ít cười, giờ có thể ăn no, tiếp xúc tiện nghi văn minh và chạy chơi giữa các ngõ với hy vọng về tương lai. Người thường tự nguyện xây dựng, Thức Tỉnh Giả mở rộng tuần tra, còn Remura chữa bệnh cho người yếu và những ai hồi phục đều trở thành người ủng hộ cô cùng Zetoya. Ngôi làng đã có thể tự vận hành mà không cần Zeon can thiệp.
+
+Sau vài ngày ở Crocodile Village, Zeon, Levin và Brielle về nhà. Brielle tự nhốt mình trong phòng gần một tuần để chế tạo thứ gì đó, có lẽ là quà đem về làng High Elf. Khi ra ngoài, cô gầy đi rõ rệt, đội mũ chóp và mặc áo choàng từ da Sand Maw. Zeon hiểu hôm nay là ngày Brielle rời đi. Cô từ chối để Zeon hay Levin đi cùng vì luật làng High Elf không chấp nhận người ngoài; bản thân cô đã nhiễm quá nhiều thế giới loài người nên chắc chắn sẽ gặp nhiều thử thách và nhục nhã khi quay về. Brielle vẫn quyết định đi một mình, nhưng dùng Gaia để bay đến gần làng, tránh phần lớn nguy hiểm sa mạc.
+
+Zeon, Levin và Brielle đi bộ ra xa Neo Seoul đến khi thành phố biến mất khỏi đường chân trời. Zeon gọi Gaia bằng liên kết tinh thần. Brielle ôm Gaia, nhờ cô chở mình về quê. Trước khi đi, Brielle dặn Zeon và Levin đừng dọn phòng cô vì có thể cô sẽ vắng mặt một thời gian. Gaia chở Brielle bay đi với tốc độ khủng khiếp, để lại Levin cố tỏ ra không buồn nhưng rõ ràng rất hụt hẫng. Zeon tin Brielle sẽ bình an trở về, dù biết cô phải tự chịu hậu quả từ lựa chọn của mình.
+
+Khi Brielle rời đi, nhà Zeon lập tức trở nên trống trải. Zeon nhận ra ba người đã trở thành gia đình dù ban đầu chỉ bị kéo lại bởi elf pact. Cậu ra quầy ăn của lão Klexi để ăn vì thấy đói và cô đơn. Một phụ nữ mặc sườn xám quyến rũ ngồi cạnh cậu, gọi cùng món và chào cậu bằng danh xưng Zeon đại nhân. Cô tỏ ý nếu Zeon đi cùng mình, cô sẽ cho biết nhiều chuyện, nhưng Zeon từ chối vì đã gọi súp. Người phụ nữ sững lại vì bị từ chối chỉ bởi một bát súp.
+
+## Chương 390
+
+Người phụ nữ tên Cheong Ming, một đệ tử của Xiao Lun được lệnh tìm hiểu mọi thứ về Zeon. Cô từng chuẩn bị kỹ để tiếp cận nhưng Zeon khi đó rời Neo Seoul đi săn Armored Ants, nên phải quay về Nam Khu tay trắng. Nghe tin Zeon trở lại, cô lập tức tới khu ổ chuột. Cheong Ming dùng sắc đẹp, trang phục gợi cảm và loại nước hoa cực đắt tên Namseulhyang, làm từ dịch tiết ma thú, để quyến rũ Zeon và moi thông tin. Nhưng với khứu giác nhạy bén của Zeon, mùi ấy chỉ hôi khó chịu.
+
+Zeon nhận ra Namseulhyang được làm từ dịch tiết của Golden Mantis cái. Cậu từng săn loài này và biết con cái dùng mùi để dụ con đực giao phối rồi ăn sống đầu nó; dịch tiết khiến con đực mất lý trí và tê liệt đau đớn, nên vẫn tiếp tục giao phối cho tới khi bị ăn sạch. Kiến thức này khiến Cheong Ming kinh ngạc vì rất ít người ở Nam Khu biết rõ nguồn gốc Namseulhyang. Zeon bảo cô lùi ra vì cậu đang ăn, nói cách tiếp cận này chỉ phản tác dụng và nhắn Xiao Lun muốn gặp thì tự tới.
+
+Cheong Ming bị Zeon liên tục làm nhục: cậu nói cô không phải kiểu mình thích, còn khi cô hỏi tìm đâu ra phụ nữ đẹp hơn cô, Zeon đáp mình đã thấy nhiều elves. Cô nổi giận nhưng không dám tấn công vì khu ổ chuột đầy cát, đánh Zeon ở đây là tự sát. Sau khi cô bỏ đi và trả tiền cho bát súp chưa đụng tới, Klexi nghiêm túc hỏi về nước hoa làm từ dịch tiết ma thú. Zeon xác nhận và Klexi quyết định cảnh báo đám trẻ vì thứ đó có thể làm đàn ông rối trí. Hai người cũng nói về việc Xiao Lun đang để mắt tới Zeon, và Zeon hỏi quê Xiao Lun; Klexi nói ông ta đến từ China, có lẽ vùng Tibet, khá gần Sichuan. Zeon kéo luôn bát súp Cheong Ming bỏ lại để ăn.
+
+Cheong Ming quỳ trước Xiao Lun và thừa nhận thất bại, không viện cớ. Xiao Lun nhận định uy hiếp, hối lộ và mỹ nhân kế đều vô dụng với Zeon, khiến cậu trở thành kẻ rất khó xử lý. Jang Wuhang, lúc này đang ở Nam Khu sau khi rời Tòa Thị Chính, nghe vậy hỏi về Zeon. Xiao Lun giải thích Zeon là Sand Mage, một Thức Tỉnh Giả điều khiển cát, có năng lực mạnh, đầu óc sắc bén, thù sâu với Nam Khu và đã giết vài người của họ. Jang lập tức hứng thú vì Subterranean City không có Thức Tỉnh Giả kiểu này; hắn đề nghị được gặp Zeon để thử thuyết phục, cho rằng thành công thì tốt, thất bại cũng chẳng mất gì. Nụ cười đầy ẩn ý của Jang cho thấy hắn có ý đồ riêng với Zeon.
+
+## Chương 391
+
+Một vụ nổ lớn đánh thức Zeon và Levin giữa đêm. Dongdaemun lại bùng nổ giao tranh vì sau cái chết của Johan, giáo phái mất trung tâm kiểm soát, những tư tế còn sót lại, kẻ ngoài cuộc và scavenger đều tranh nhau quyền lực. Zeon tự hỏi liệu mình có nên giết Johan không, nhưng Levin nói đây không phải lỗi của cậu và dù thế nào cũng là vấn đề sớm muộn phải đối mặt. Vì không ngủ được, Zeon và Levin tới Dongdaemun xem tình hình.
+
+Ở Dongdaemun, họ chứng kiến Garion, một Regenerator từng bị Johan tẩy não, dẫn nhóm Thức Tỉnh Giả từng là nạn nhân giáo phái tàn sát các tư tế. Garion chiến đấu như berserker, dùng thân thể đổi lấy mạng kẻ địch vì năng lực tái sinh gần như ngang siêu tái sinh của Zeon: bị kiếm xuyên ngực, tự kéo lưỡi kiếm xé qua xương thịt nhưng vẫn hồi phục trong chớp mắt. Hắn không sợ đau, không sợ thương tích, khiến các tư tế kinh hoàng và nhanh chóng bị tiêu diệt sạch.
+
+Garion nhận ra Zeon và cúi đầu gọi cậu là Zeon-nim. Trước đây Garion là tín đồ bị Johan tẩy não, từng tấn công Zeon; chính Zeon đánh vào não hắn và phá tẩy não. Khi tỉnh lại, Garion nhớ ra mình đã tự tay giết vợ con, từ đó không thể ngủ yên và cũng không thể tự sát vì khả năng tái sinh do Johan và giáo phái cưỡng ép đánh thức. Hắn tập hợp những người giống mình, đều mang tội giết gia đình dưới tẩy não, để săn tư tế giáo phái. Zeon hỏi nếu cậu bảo dừng hắn có dừng không, nhưng Garion xin lỗi và cầu xin Zeon sau khi hắn giết sạch mọi tư tế, hãy biến hắn thành máu và cát để hắn có thể mỉm cười gặp lại gia đình.
+
+## Chương 392
+
+Zeon đi một mình sau khi bảo Levin về trước, lòng nặng vì Garion. Cậu hiểu Garion là nạn nhân của Johan, nhưng cuộc báo thù của hắn đã giết quá nhiều người vô tội bị cuốn vào xung đột ở Dongdaemun. Zeon tự hỏi liệu có đúng khi bỏ mặc hắn, đồng thời nhận ra hành động của mình có thể làm rung chuyển nhân quả và tạo ra những kết quả mất kiểm soát như Garion. Dù vậy, tránh hành động vì sợ hậu quả không phải cách của Zeon. Cậu nghĩ tới necromancer Pilgrim, elf Kalinan, half-dragon Nigel và tàn ngã/tàn niệm Krasias đang ảnh hưởng đến nhiều kẻ; nếu bỏ mặc, một thảm họa khác có thể xảy ra.
+
+Trong lúc đi giữa đêm, Zeon gặp Jang Wuhang, pathfinder từ Sichuan. Jang đến gặp cậu với sự cho phép của Xiao Lun. Zeon nhận ra mùi máu người nồng nặc trên Jang, mùi của kẻ đã tàn sát nhiều người. Jang chào theo kiểu võ giả, tự giới thiệu từ Sichuan, rồi cố kéo Zeon vào cùng phe bằng cách nói cả hai đều là quái vật nhuốm máu. Zeon lạnh lùng phản bác và liên tục khiêu khích sự kiêu ngạo của Jang, nhất là thái độ gọi Neo Seoul là xứ lạc hậu.
+
+Jang đề nghị Zeon đi cùng hắn tới Subterranean City, hứa với năng lực của Zeon cậu sẽ được trọng vọng và hưởng mọi lạc thú trên mặt đất. Zeon từ chối ngay, chỉ ra Neo Seoul đã có mọi thứ và một siêu đô thị hơn hai mươi triệu dân không thể so với thành phố ngầm ba trăm nghìn người. Khi Jang nói Subterranean City có nền tảng, Thức Tỉnh Giả và trí tuệ vượt Neo Seoul, chỉ cần nghiên cứu magitech là đuổi kịp, Zeon nhận ra mục tiêu thật của hắn là lấy magitech Neo Seoul. Jang vẫn gọi đó là trao đổi công bằng nhưng không có gì để trả, khiến Zeon càng không tin.
+
+Jang suýt rút liuye dao dùng Red Blossom Invincible Blade, môn võ cổ truyền hàng trăm năm được hồi sinh nhờ thời đại Thức Tỉnh, nhưng đã kìm lại khi nhìn thấy đôi mắt lạnh của Zeon. Zeon nhận ra Jang kiên nhẫn và lý trí hơn vẻ ngoài. Jang rút lui, bảo nếu đổi ý thì đến Nam Khu, xác nhận mình ở cùng Xiao Lun vì đồng hương. Zeon nghi ngờ nguồn gốc sự tự tin của Jang vì cấp B, dù có võ thuật cổ, vẫn không đủ thách thức cậu; chắc chắn hắn có lá bài tẩy. Sau khi rời đi, Jang tự thừa nhận Zeon là quái vật, nhưng tin “Chủ nhân” mạnh nhất trong Subterranean City của hắn có thể chinh phục Neo Seoul nếu được đưa đến đây.
+
+## Chương 393
+
+Kim Jin-soo của Đội Hộ tống Số Một Chợ Goblin dẫn đoàn buggy ra sa mạc thu gom phụ phẩm ma thú. Điều hòa xe hỏng vì cát, khiến ông cáu gắt với cấp dưới, nhưng họ đều hiểu sa mạc là thiên địch của thiết bị điện tử. Họ nhớ lần đi cùng Zeon thì xe hoạt động tốt, đoán nhờ quyền năng Sand Mage bảo vệ. Đội nhắc lại nhiệm vụ trước với xác Armored Ants mang về lợi nhuận lớn, rồi bàn về nhiệm vụ hiện tại: thu gom vỏ Ghost Beetle, loài ma thú cấp C cực hiếm có hoa văn như mặt quỷ, vỏ rất cứng và là vật liệu quan trọng để chế tạo giáp cho Thức Tỉnh Giả, thậm chí có thể tạo giáp kháng ma pháp.
+
+Điểm hẹn với đội săn của Go Hyun-woo, bạn thân Kim Jin-soo, bất thường vì không có cờ hay khói tín hiệu. Kim Jin-soo linh cảm xấu, ra lệnh chuẩn bị chiến đấu. Khi lên cồn cát, họ thấy trại săn đã bị phá hủy, xác thợ săn Chợ Goblin nằm rải rác, tất cả bị xẻ thịt và chặt rời tàn bạo. Go Hyun-woo bị tàn phá đến mức chỉ Kim Jin-soo mới nhận ra. Lều chứa phụ phẩm bị cướp sạch vỏ Ghost Beetle, cho thấy hung thủ là con người chứ không phải ma thú.
+
+Kim Jin-soo loại trừ khả năng Scavenger bình thường vì Go Hyun-woo cấp B, đồng đội cấp C và đều là cựu binh sa mạc; nếu là Scavenger thì không thể thắng một chiều như vậy. Các trinh sát không tìm thấy dấu vết vì cát đã nuốt sạch, nên Kim Jin-soo quyết định mang thi thể về Neo Seoul và lần theo vỏ Ghost Beetle trong Chợ Goblin hoặc chợ đen, nơi duy nhất có thể tiêu thụ số lượng hàng hiếm như vậy. Cả đội thề sẽ tìm hung thủ và xé xác chúng.
+
+Ở Nam Khu, Jang Wuhang đặt liuye dao khắc số “một” lên bàn. Hắn xem thanh đao như phần thân thể của mình và từng tin không gì mình không thể chém đứt, nhưng sau khi gặp Jin Geum-ho, Zeon và Xiao Lun, hắn nhận ra bản thân đã đụng tường. Jang không tuyệt vọng vì pathfinder từ Thành phố Ngầm không đi một mình mà hoạt động theo đơn vị mười người. Dù các đội tinh nhuệ khác bị ma thú tiêu diệt, tiểu đội của hắn vẫn sống nhờ phối hợp. Jang bắt đầu lo vì các “huynh đệ” chưa tới và sợ họ đã gây rắc rối ngoài tầm kiểm soát.
+
+## Chương 394
+
+Levin ngồi xổm phơi nắng trong hẻm khu ổ chuột cùng Aaron và Dominic. Ba người đều sinh ra và lớn lên ở đây, tuy từng đánh nhau nhiều nhưng có quy tắc không động vào dân thường, chỉ đánh Thức Tỉnh Giả khác, nên dân địa phương không sợ họ. Aaron và Dominic than nóng vì Levin cấp B chịu nắng tốt hơn họ, rồi trêu Levin là người giàu vì được sống trong nhà Zeon, nơi an toàn nhất Neo Seoul. Họ hiện thất nghiệp sau khi đội raid mỏ ma thạch giải tán vì thương vong, nhưng vẫn đủ tiền sống vài tháng. Levin thấy vui vì dù mình đã là cấp B, bạn bè vẫn đối xử như cũ.
+
+Ba người phát hiện một ông lão lạ đi trên phố khu ổ chuột. Dù mặc đồ như cư dân địa phương và chống gậy, ông ta không hòa hợp với nơi này: tay áo có vết máu cũ, dưới áo có giáp kiểu Chợ Goblin, gậy làm bằng gỗ hiếm, và cách ông ta quan sát mọi người giống kẻ đang học cách giả vờ bình thường. Levin nhận định ông ta là người ngoài, có thể là Scavenger nhưng không bình thường, rồi bảo Aaron cho hai đứa tinh mắt theo dõi. Những con hẻm Sinchon là địa bàn của họ, trẻ con ở đó là mắt tai của họ.
+
+Zeon ăn mì bò ở quán lão Klexi. Klexi hỏi về Brielle vì mấy ngày không thấy cô bé; Zeon nói Brielle về làng elf một thời gian, đã có người đáng tin trông chừng. Klexi lo lắng như người già, còn Zeon tin Brielle thông minh và sẽ vượt qua thử thách. Sau đó Zeon tới Chợ Goblin để giải tỏa đầu óc. Ở khu chợ náo nhiệt, cậu phát hiện một gã khổng lồ cao khoảng hai mét rưỡi, vai rộng, cơ bắp, đội mũ che mặt, đeo cheongryongdo lớn và vác bao vào cửa hàng phụ phẩm ma thú.
+
+Gã khổng lồ muốn bán vỏ Ghost Beetle. Chủ tiệm lập tức nghi ngờ vì đã biết Ghost Beetle cực hiếm và hỏi nguồn gốc. Gã chỉ nói mình săn được, yêu cầu báo giá và tỏ ra khó chịu khi bị hỏi kỹ. Chủ tiệm ngày càng cảnh giác vì số hàng này liên quan tới vụ đội săn Chợ Goblin bị giết và vỏ bị cướp, nhưng gã khổng lồ mất kiên nhẫn, nhe răng đe dọa.
+
+## Chương 395
+
+Khi chủ tiệm Chợ Goblin tiếp tục yêu cầu nói rõ nguồn gốc vỏ Ghost Beetle, gã khổng lồ xúc phạm Neo Seoul là quốc gia bé như hạt bụi và định bỏ đi. Chủ tiệm gọi bảo vệ vì đêm trước Yoo Se-hee đã ra lệnh cho mọi cửa hàng phải báo cáo ngay nếu có ai bán vỏ Ghost Beetle. Bị chặn lại, gã rút cheongryongdo khổng lồ chém bay đầu chủ tiệm trong chớp mắt rồi vác bao rời đi. Hắn dùng một vật phẩm áo choàng tàng hình để thoát khỏi vòng vây trước khi cổng chợ bị phong tỏa, sau đó định đem hàng sang chợ đen khác bán vì đó là cách kiếm tiền duy nhất hiện tại.
+
+Zeon âm thầm bám theo gã từ Chợ Goblin tới một con hẻm vắng, nhưng bất ngờ bị phát hiện. Gã nói đó là nhờ Khí Cảm, một dạng cảm nhận mà hắn chê Thức Tỉnh Giả xứ lạc hậu không biết. Zeon đoán hắn đến từ Sichuan vì cùng mùi và thái độ như Jang Wuhang: mùi máu, cách nói, vẻ kiêu ngạo xem thường người khác. Gã tên Ma Gwang-ryang, đồng đội của Jang, và có khả năng sử dụng tiếng cười như đòn tấn công âm thanh, nhưng Zeon kháng tốt vì từng đối đầu Karlin chuyên ma pháp âm thanh.
+
+Ma Gwang-ryang tấn công Zeon bằng cheongryongdo, nhưng Zeon chặn được bằng Inferno Gauntlet. Hắn nổi giận khi Zeon mỉa mai Subterranean City chỉ có ba trăm nghìn dân, chưa bằng một khu ổ chuột. Ma dùng Mad Dragon Slash, phủ thanh đao bằng Sword Qi/do-gi đỏ rực, gọi đó là do-gi chứ không phải Aura Blade. Hắn thi triển Battle Wolf Step, bộ pháp lúc vụng về như say rượu, lúc hung bạo như sói, tạo chuyển động khó đoán; do-gi thậm chí lướt qua cũng cắt được cổ Zeon.
+
+Zeon quan sát và bắt được quy luật bộ pháp. Khi Ma định ra đòn lớn, Zeon dùng Fire Missile đánh vào vũ khí, tiếp tục phóng hàng chục missile để buộc hắn dựng Sword Barrier phòng thủ. Missile chỉ là mồi nhử; trong làn khói, Zeon dùng Sand Stride vòng ra sau và đấm vào lưng Ma Gwang-ryang. Ma phản kích bằng do-gi bay như shuriken, nhưng Zeon dùng Sand Blaster đánh bật. Sau đó Zeon rải cát mịn trong không khí, kích hoạt Sand Mixer. Những hạt cát xoay cực tốc bao vây Ma Gwang-ryang, khiến hắn thét lên đau đớn giữa cơn bão.
+
+## Chương 396
+
+Ma Gwang-ryang mặc giáp ngực kiệt tác của Subterranean City, từng cứu mạng hắn nhiều lần, nhưng Sand Mixer của Zeon dùng cát mịn luồn qua khe giáp và cào xé da thịt khiến giáp vô dụng. Ma dùng Explosive Flame Qi, võ học gia truyền được tăng cường nhờ Thức Tỉnh, để tạo vùng chân không thổi bay cát. Sau đó hắn phóng tuyệt kỹ Fierce Dragon Shatters Mountains, tạo rồng khí từ cheongryongdo, nhưng Zeon dùng nhiều Sand Vipers đánh tan dần con rồng.
+
+Zeon đã âm thầm dồn cát vào vị trí Ma lùi về rồi kích hoạt Claymore, thổi bay cả hai chân dưới đầu gối của hắn. Khi bị hỏi mục đích vào Neo Seoul và số đồng bọn, Ma không trả lời mà biến đổi. Cơ thể hắn phình ra, mọc lông và mang dấu V trắng trước ngực, giống Crescent Gorilla, một loài ma thú vùng đông bắc có sức mạnh và tốc độ đáng sợ. Ma khẳng định mình không phải beastkin. Dù biến thành Crescent Gorilla, chân bị Claymore phá hủy vẫn không tái sinh.
+
+Trong hình thái Crescent Gorilla, lông Ma có độ bền và đàn hồi như thép, khiến Sand Vipers không gây tác dụng. Zeon dụ Ma mở miệng rồi cho cát tràn vào trong cơ thể, kích hoạt Sand Mixer từ bên trong. Lớp phòng ngự ngoài không bảo vệ được nội tạng; dây thanh quản, dạ dày, ruột và các cơ quan trọng yếu bị nghiền nát, khiến Ma chết và rơi xuống đất. Kỳ lạ là sau khi chết hắn không trở lại hình người mà vẫn giữ xác Crescent Gorilla.
+
+Yoo Se-hee và Thức Tỉnh Giả Chợ Goblin đuổi tới, ban đầu hoang mang vì chỉ thấy xác ma thú. Zeon giải thích đây chính là người gây náo loạn ở Chợ Goblin và có liên quan đến Jang Wuhang từ Sichuan/Subterranean City. Yoo Se-hee nói vỏ Ghost Beetle Ma định bán là hàng cướp được sau khi giết người vận chuyển/thợ săn của Chợ Goblin, nên chủ tiệm mới kéo dài thời gian theo lệnh của cô. Chợ Goblin sẽ mang xác đi cho chuyên gia mổ xẻ. Zeon cảnh báo nên siết phòng thủ vì nếu Ma có đồng bọn, chúng có thể đang ẩn trong dân khu ổ chuột.
+
+## Chương 397
+
+Hai thành viên Wolf Fang Squad, Sou Chen và Tang Xi’an, ẩn trong đám đông quan sát Zeon và Yoo Se-hee. Họ nhận ra Zeon chính là sand mage đã giết Ma Gwang-ryang và chửi Ma ngu vì đã berserk, làm lộ sự tồn tại của nhóm. Wolf Fang Squad từng rời Subterranean City, lang thang trong sa mạc, bị scavengers nhầm là con mồi nhưng đã tàn sát hàng trăm scavenger rồi tra tấn người sống để biết về Neo Seoul. Sau đó họ cử Jang Wuhang đi trước, tản ra thu thập tình báo, và đánh úp nhóm thợ săn Chợ Goblin vừa săn Ghost Beetle thành công để lấy thông tin về tiền tệ, khu ổ chuột và Chợ Goblin. Họ cướp vỏ Ghost Beetle để bán lấy tiền và giấy tờ hợp pháp, nhưng Ma Gwang-ryang thất bại và chết.
+
+Yoo Se-hee giao xác Ma cho các đồ tể chuyên tháo dỡ ma thú của Chợ Goblin để tìm nguyên nhân con người biến thành ma thú. Black Lion báo Ma không có dấu vết ra vào kết giới Chợ Goblin bằng thẻ hợp lệ. Yoo Se-hee suy luận hoặc có nội gián, hoặc kết giới có lỗ hổng; vì nhóm mới vào khu ổ chuột vài ngày nên khả năng chiêu mộ nội gián thấp, kết giới bị qua mặt có vẻ hợp lý hơn. Cô gọi chuyên gia kết giới, tăng cường vòng ngoài, liên lạc các khu để tìm người đáng nghi, và coi đây là khủng hoảng lớn vì danh tiếng Chợ Goblin dựa trên thân phận được xác minh và an toàn.
+
+Zeon về nhà và nghe Levin kể về ông già khả nghi ở khu ổ chuột: mặc như dân địa phương nhưng có giáp dưới áo, cầm gậy gỗ hiếm, cố giả vờ hòa nhập trong khi quan sát và học mọi thứ. Zeon kể lại Ma Gwang-ryang, hai người kết luận ông già và Ma có thể cùng nhóm với Jang Wuhang. Vì Levin đã cho Kevin và Tom theo dõi ông già, Zeon quyết định đi ngay trước khi nhóm Wolf Fang hòa nhập sâu hơn.
+
+Zeon, Levin, Aaron và Dominic tới Demon Den, tòa nhà khổng lồ ở Shinchon chứa khoảng mười hai nghìn người, mật độ còn tệ hơn Ant Nest của Zeon nên là căn cứ lâu năm của tội phạm và scavengers. Aaron từng lớn lên ở đây nên còn nhiều liên hệ, giúp cả nhóm lên tầng trên dễ dàng. Kevin và Tom, hai đứa trẻ theo dõi ông già, chạy ra báo cáo. Zeon phát hiện những con bọ bám trên quần áo chúng, lập tức hô nằm xuống, giật bọ ném ra ngoài cửa sổ; chúng nổ tung giữa không trung.
+
+## Chương 398
+
+Kevin và Tom suýt chết vì bọ nổ, khiến Levin tự trách vì sơ suất. Tom chỉ căn phòng ông già từng ở. Zeon dùng Inferno Gauntlet nung chảy tay nắm khóa, còn Levin chuyển sang ghost form. Khi mở cửa, họ phát hiện căn phòng đầy bọ giống loại bám trên quần áo bọn trẻ. Zeon lập tức đổ cát từ subspace vào tạo tường chặn lối vào, dẫn hướng vụ nổ dây chuyền ra ngoài. Demon Den rung chuyển dữ dội, Zeon bị chấn động đến chảy máu khóe môi, nhưng nhờ cậu hấp thu phần lớn lực nổ, các căn bên cạnh và bức tường ngoài không sụp hoàn toàn.
+
+Căn phòng trống, ông già đã trốn sau khi nhận ra bị theo dõi. Zeon suy đoán năng lực của ông ta là điều khiển côn trùng và nhặt xác bọ cháy, thấy chúng giống bomb-beetle từng thống trị Black Forest/Primeval Forest: lao vào mục tiêu rồi tự hủy. Khác biệt là bomb-beetle nghe lệnh queen, còn đám này nghe lệnh ông già. Trong phòng tắm, họ thấy xác những người thuê ban đầu bị nhét dúm dó, chứng tỏ ông già chiếm nhà, nuôi bọ nổ, gắn bọ lên trẻ con và sẵn sàng thổi bay mọi thứ, cực kỳ tàn nhẫn.
+
+Aaron và Dominic hứa kích hoạt mạng lưới khu ổ chuột để tìm nhóm này; Zeon dặn nếu phát hiện thì không được giao chiến, phải liên lạc ngay. Từ bức tường bị thổi bay trên tầng cao Demon Den, Zeon cảm nhận có ánh mắt đang quan sát mình. Ông già điều khiển bọ, tên Heuk-no, đứng trên mái một tòa nhà gần đó cùng con bọ đen Bak Gui, sinh vật có hậu duệ mang đặc tính phát nổ. Heuk-no tiếc vì mất hết bọ con nhưng tin một khi quen Neo Seoul, cả thành phố sẽ thành sân chơi của họ.
+
+Sou Chen và Tang Xi’an đến gặp Heuk-no. Ông kể đã gắn con của Bak Gui lên bọn trẻ và cho nổ chỗ ẩn. Heuk-no từng bị xem thường vì chỉ giao tiếp được với côn trùng nhỏ, cho đến khi gặp Bak Gui. Khi thuần phục nó, ông dùng hậu duệ phát nổ của nó giết những kẻ từng khinh mình. Nếu Bak Gui được ăn no, nó có thể đẻ hàng trăm trứng mỗi ngày, nở và trưởng thành nhanh, tạo đội quân bọ nổ vô tận. Chúng không hiệu quả với ma thú cấp B trở lên có repulsion field nhưng là thảm họa với người và ma thú yếu. Jang Wuhang và Wolf Fang Squad sống tới Neo Seoul phần lớn nhờ Heuk-no.
+
+Heuk-no biết Ma Gwang-ryang đã chết dưới tay kẻ dùng cát và nổi điên vì ông xem Ma gần như con trai. Sou Chen để ông chửi rủa Zeon rồi khuyên chuyển căn cứ vì Neo Seoul sẽ lùng họ như chó săn. Sou Chen chủ trương trước khi Wuhang liên lạc, họ phải nằm yên, tích lũy sức mạnh và hấp thu mọi thứ của Neo Seoul để nuôi dưỡng Subterranean City, dù phải trở thành ác nhân cũng không quan tâm.
+
+## Chương 399
+
+Yoo Se-hee gọi Zeon và Levin tới Chợ Goblin từ sáng sớm sau một đêm không ngủ vì xác Ma Gwang-ryang. Cô dẫn họ xuống khu tháo dỡ ma thú, nơi xác Crescent Gorilla đã bị mổ phanh. Zeon tưởng Sand Mixer đã nghiền sạch nội tạng, nhưng trái tim vẫn nguyên vẹn. Trong tim có một viên ma thạch cắm trực tiếp, và Yoo Se-hee xác nhận đó là ma thạch của Crescent Gorilla được cấy vào tim. Ma thạch ma thú có thuộc tính riêng, tinh khiết và mạnh hơn ma thạch mỏ nhưng không ổn định cho nhà máy điện, nên Neo Seoul ít nghiên cứu sâu.
+
+Zeon suy luận không phải ai ở Subterranean City cũng được cấy ma thạch như vậy vì viên này đến từ cá thể thống lĩnh, chỉ boss hoặc ma thú cấp B trở lên mới có. Có lẽ chỉ tinh nhuệ được cấy và sức mạnh nhận được phụ thuộc vào loại ma thạch. Yoo Se-hee nghiền trái tim, lấy viên ma thạch và phát hiện trên bề mặt có ma pháp trận siêu nhỏ, có thể là thứ giúp cấy ghép khả thi. Cô giữ lại để cho người nghiên cứu. Levin ghê sợ việc cấy ma thạch vào người, nhưng Yoo Se-hee nói Neo Seoul cũng có người tự cắt tay chân khỏe mạnh để lắp máy móc; khác biệt nằm ở mục đích: bảo vệ gia đình là hy sinh, còn giết và cướp là vứt bỏ nhân tính.
+
+Levin nhận ra nhóm Wolf Fang có thể trốn xuống Crocodile’s Den và vội đi làng Zetoya để cảnh báo, vì chúng có thể nhắm vào đó. Zeon và Yoo Se-hee thống nhất nhóm này đang nghiên cứu Neo Seoul, nên muốn bắt chúng thì cũng phải nghiên cứu cách chúng di chuyển và suy nghĩ. Zeon chuẩn bị đào sâu nghiêm túc vào chúng.
+
+Ở Tòa Thị Chính, Seo Tae-ran báo khu ổ chuột đang ồn ào vì người liên quan tới Jang Wuhang gây rối, chứng minh Jang nói đến một mình là dối trá. Jin Geum-ho không ngạc nhiên, ra lệnh theo dõi Nam Khu, tăng an ninh quanh Tòa Thị Chính, Trung Khu và các cơ sở trọng yếu như nhà máy điện ma thạch và trung tâm nghiên cứu kỹ thuật ma pháp. Ông hiểu các khu tự trị đã phát triển bản sắc riêng nhưng Nam Khu của Xiao Lun gần như đóng cửa và thoát khỏi tầm kiểm soát.
+
+Jin Geum-ho cùng Seo Tae-ran xuống cơ sở nghiên cứu bí mật dưới Tòa Thị Chính, nơi dự án Heaven’s Judgment đang phát triển. Sau khi trái tim Moby Dick không đủ, họ xử lý và lắp thêm trái tim Kraken, vừa đạt mức công suất cơ bản sau nhiều tháng đồng bộ mạch mana và hệ thống. Trưởng nhóm nghiên cứu nói đã xây dựng theo lý thuyết nên cần thử nghiệm thực chiến, không thể thử tại cơ sở. Jin Geum-ho bảo tìm một mục tiêu phù hợp; ánh mắt lạnh của ông khiến Seo Tae-ran biết một biến cố lớn sắp xảy ra.
+
+## Chương 400
+
+Xiao Lun dùng bữa lớn cùng ba lãnh đạo Nam Khu: Tan Ryung, Chu Wei và Cheong Ming. Ông coi những bữa ăn nội bộ là dịp xây dựng tình thân và giải quyết việc quan trọng, luôn nhấn mạnh “gia đình” và niềm tin người cùng huyết thống phải gắn bó. Chu Wei báo Jang Wuhang đang đi khắp Nam Khu vì mọi thứ mới lạ, hỏi han liên tục, và đã gặp Zeon nhưng chiêu mộ thất bại như dự đoán. Xiao Lun xem Zeon là vũ khí chiến lược có thể phá vỡ cân bằng Neo Seoul nếu đứng về phe nào, nên may là Zeon không tham vọng quyền lực và vẫn ở khu ổ chuột.
+
+Tan Ryung lo về Jang Wuhang, nhưng Xiao Lun trấn an rằng dù Wuhang gần như gia đình vì cùng quê, ba người được ông nuôi từ nhỏ mới là gia đình thật sự và sẽ không bị đặt sau Wuhang. Dù vậy, Xiao Lun vẫn tính toán nếu Subterranean City thật sự có mười nghìn Thức Tỉnh Giả thì Nam Khu có thể lập tức bù thiếu hụt sức mạnh. Ông không tin con số này vì tỷ lệ Thức Tỉnh Giả một trên ba mươi cao gấp nhiều lần Neo Seoul, cho rằng có thể phóng đại gấp mười, nhưng ngay cả một nghìn Thức Tỉnh Giả cùng tài nguyên và ba trăm nghìn dân cũng đủ tăng sức mạnh Nam Khu đáng kể. Vấn đề là mở tuyến giao thương an toàn qua sa mạc; nếu Zeon giúp thì có thể, nhưng chuyện đó không xảy ra.
+
+Jang Wuhang vào gặp Xiao Lun và dâng thanh kiếm bên hông. Hắn nói đây là món quà từ “Chủ nhân”, được giao tìm người có thể dùng nó phụng sự Subterranean City. Thanh kiếm được tiết lộ là Sword of King Goujian of Yue, thanh kiếm của vua Goujian nước Yue cổ đại, gắn với điển tích nếm mật nằm gai và khát vọng báo thù/thống trị. Khi Xiao Lun truyền mana, phong ấn vỡ, lưỡi kiếm biến đổi thành Goujian Blade thật sự. Jang nói sau khi thế giới sụp đổ, thanh kiếm trong bảo tàng thấm quyền năng bí ẩn và truyền thuyết rằng người nắm giữ nó sẽ thành kẻ thống trị một thời đại. Xiao Lun bị cộng hưởng của kiếm mê hoặc, mắt chuyển đỏ mà không nhận ra.
+
+Zeon tới chợ đen Guro, nơi được kết giới bảo vệ nhưng không xác minh thân phận như Chợ Goblin, là thiên đường của tội phạm và scavengers. Vì Wolf Fang Unit không thể bán vỏ Ghost Beetle ở Chợ Goblin nữa sau khi chợ phong tỏa, vá lỗ hổng kết giới và tăng an ninh, Zeon suy đoán chúng có thể chuyển sang chợ đen khác. Cậu kéo mũ trùm che mặt, đi qua những sạp hàng rác rưởi chuyên lừa khách. Trên một bàn hàng, cậu chú ý tới một xấp giấy ố vàng ghi chữ đỏ như máu, tỏa ra năng lượng kỳ lạ. Chủ sạp nói đó là bùa mang vận may lấy từ vài gã nhà quê, nhìn Zeon như con mồi dễ lừa, còn Zeon thấy nó thú vị.
+
+## Chương 401
+
+Zeon mua xấp “bùa may mắn” ở chợ đen Guro sau khi mặc cả từ một trăm xuống sáu mươi sol. Chủ sạp nói người bán là đàn ông khoảng năm mươi tuổi, có vết bỏng lớn trên má, trùng với Mo Yong-han sau này. Khi cầm bùa, Zeon cảm thấy tia tê khó chịu và nhận ra đây không phải bùa cầu may mà là lời nguyền. Cậu truyền mana vào từng lá, phát hiện chúng chứa mana ô uế với cảm xúc trầm cảm, căm hận và phẫn nộ, có tác dụng bào mòn tinh thần người giữ, cuối cùng đẩy họ tới tự sát. Kinh nghiệm với Reaper's Scythe giúp Zeon phân biệt bản chất các loại nguyền rủa.
+
+Zeon quét qua chợ đen và tìm thêm hơn mười vật phẩm bị nguyền rủa gồm dây chuyền, vòng tay, nhẫn, hoa tai, tất cả có hoa văn/chữ khắc giống bùa và đều được người bán gọi là đồ đem lại may mắn. Các chủ sạp tin vì khi chạm vào chúng, họ cảm thấy hạnh phúc cực độ trong chốc lát, đủ làm mờ lý trí. Zeon suy luận kẻ bán đang cố đùa bỡn con người, bán những món đem khoái cảm ngắn hạn nhưng gặm linh hồn lâu dài. Người này đã kiếm đủ tiền để sống và ẩn trong khu ổ chuột, làm việc truy tìm khó hơn.
+
+Zeon nghi kẻ bán đồ nguyền cũng là người hack kết giới Chợ Goblin để đưa Ma Gwang-ryang vào, vì có năng lực chế tạo artifact và can thiệp hệ thống phòng vệ. Cậu thấy loại địch âm thầm, ra tay từ bóng tối như vậy phiền phức hơn kẻ mạnh trực diện. Zeon lo Jang Wuhang mới là vấn đề thật sự vì hắn nấp sau Xiao Lun và có thể thao túng Nam Khu, trong khi chính Xiao Lun dù mạnh và xảo quyệt vẫn có thể bị dao đâm sau lưng.
+
+Xiao Lun nghiên cứu Goujian Blade sau khi kiểm tra thấy nó cắt đôi một thanh kiếm hiện đại do thợ rèn bậc thầy Nam Khu rèn. Dù bề ngoài là kiếm đồng cổ, nó đã được item hóa trong Đại Sụp Đổ nên có độ bền phi lý. Thanh kiếm ngân lên như công nhận Xiao Lun là chủ nhân, khiến ông càng tin lời Jang Wuhang rằng đây là thanh kiếm của kẻ thống trị thời đại. Dưới ảnh hưởng của Goujian Blade, Xiao Lun bắt đầu tự nhủ chỉ mình mới xứng đáng làm kẻ thống trị Neo Seoul, còn Jin Geum-ho chỉ là lão già gặp thời.
+
+Jang Wuhang đi tới cổng chính Neo Seoul lúc sáng sớm sau nhiều ngày tham quan các khu và ghen tị với sự sạch sẽ, trật tự, không khí trong lành cùng văn minh của thành phố. Hắn muốn đồng bào ở Subterranean City cũng được sống như vậy. Khi cổng mở lúc sáu giờ và dòng người qua kiểm tra giấy tờ vào thành, Jang dùng Khí Cảm nhận ra nhóm Wolf Fang Unit đã cải trang lẫn trong người mới vào. Họ gọi hắn là đội trưởng, đánh dấu cuộc đoàn tụ của Wolf Fang Unit trong Neo Seoul.
+
+## Chương 402
+
+Jang Wuhang đưa Wolf Fang Squad tới nơi kín đáo, nơi họ bỏ lớp ngụy trang khuôn mặt bằng kỹ thuật của Subterranean City. Các thành viên còn lại gồm Tang Xi’an, Wu Qian, Heuk-no, Mo Yong-han và Deng Zhu Ping; Ma Gwang-ryang đã chết dưới tay Zeon. Tang Xi’an nói nếu Ma đụng Zeon ngoài sa mạc thì sẽ bị giết còn nhanh hơn, xác nhận Zeon nguy hiểm vượt xa cấp độ của Ma. Jang đau nặng vì Ma là chiến lực hàng đầu và đóng góp lớn cho việc sống sót của đội.
+
+Mo Yong-han, đàn ông ngoài năm mươi có vết bỏng trên má, là Curse Caster đa năng có thể chế tạo vật phẩm và triển khai/phân tích kết giới. Chính ông bán đồ nguyền ở chợ đen để kiếm tiền cho đội. Khi phát hiện Black Wolf Team, một nhóm Thức Tỉnh Giả sáu người rời Neo Seoul đi săn, Wolf Fang giết họ, lấy quần áo, vũ khí, thẻ định danh và chôn xác trong cát. Mo Yong-han tìm lỗ hổng sau nhiều đêm không ngủ, thay dấu ấn mana trên thẻ bằng của Wolf Fang, giúp họ lừa đội gác và vào Neo Seoul hợp pháp.
+
+Wolf Fang bị Neo Seoul choáng ngợp: đường phố sạch, nhà cao tầng công nghệ cao, quần áo đẹp, xe cộ, tất cả vượt xa Subterranean City. Deng Zhu Ping, kẻ nhỏ con, máu lạnh và có khuynh hướng khủng bố, muốn phá hủy cảnh trật tự ấy rồi chiếm lấy thành phố, nhưng Jang nhắc phải đặt nhiệm vụ lên trước. Deng là người đề xuất dùng Goujian Blade để lấy lòng một nhân vật quyền lực Neo Seoul, và Jang đã giao kiếm cho Xiao Lun đúng kế hoạch. Họ sẽ nghỉ ở căn cứ Nam Khu Jang chuẩn bị, chờ thời cơ đánh cắp công nghệ cốt lõi của Neo Seoul cho Subterranean City.
+
+Yoo Se-hee đưa Zeon ra ngoài Neo Seoul gặp First Convoy của Kim Jin-soo, nơi tìm thấy xác Black Wolf Team bị chôn trong hố cát. Zeon dùng Dominion gạt cát khỏi xác, xác định họ bị kẻ dùng kiếm cắt cổ trong một đòn, không phải bị cướp sau chuyến săn vì họ mới rời thành phố và chưa có chiến lợi phẩm. Tất cả thẻ định danh đều bị lấy. Yoo Se-hee nhận ra Wolf Fang đã dùng thân phận Black Wolf Team để vào Neo Seoul, dù thẻ vốn có dấu ấn mana và phải qua kiểm tra. Zeon nhắc chúng từng xuyên qua kết giới Chợ Goblin nên chắc chắn có cách.
+
+Zeon quyết định tự vào Neo Seoul để săn Wolf Fang vì ảnh hưởng Chợ Goblin trong nội thành hạn chế, còn dùng mạng Eye of Argos của Klexi quá nguy hiểm nếu lộ vỏ bọc. Thi thể Black Wolf Team được đẩy khỏi hố bằng Dominion để First Convoy mang về hỏa táng. Zeon đi thẳng tới cổng Neo Seoul, được lính gác nhận ra và cho qua vì thuộc diện quản lý đặc biệt. Cậu biết tin mình vào thành sẽ lập tức truyền tới các khu, nên cần né sự giám sát khi lẩn vào phố xá Neo Seoul.
+
+## Chương 403
+
+Xiao Lun tỉnh dậy trong trạng thái mơ hồ, cảm giác như đã mơ nhưng không nhớ rõ. Khi nắm Goujian Blade bên cạnh, đầu óc ông lập tức tỉnh táo. Chu Wei báo Jang Wuhang yêu cầu quyền tiếp cận các cơ sở mật trọng yếu của Tòa Thị Chính, cụ thể là các tháp phòng thủ Nam Khu từng xây quanh Nhà máy điện ma thạch và định kỳ kiểm tra. Xiao Lun tức giận vì đây là bí mật của Nam Khu bị Jang biết, và vì ông đã cấm Jang tiếp cận cơ sở Tòa Thị Chính.
+
+Jang Wuhang dùng lý do sự sống còn của Subterranean City để thuyết phục, nói nếu đem sơ đồ nhà máy điện và magitech Neo Seoul về, đồng bào dưới lòng đất sẽ được cứu. Xiao Lun phản đối vì nếu bị phát hiện, Nam Khu sẽ gánh hậu quả từ Jin Geum-ho, người thống trị Neo Seoul suốt trăm năm và còn giấu lực lượng thật sự chưa ai đo được. Khi Jang khiêu khích rằng Xiao Lun sợ Jin, Xiao Lun nổi giận định giam hắn.
+
+Jang nhắc Xiao Lun đang cầm Goujian Blade, thanh kiếm của kẻ thống trị thời đại. Luồng khí đỏ từ kiếm khuấy động ham muốn sâu trong Xiao Lun, khiến ông mờ lý trí. Jang biết thanh kiếm còn được gọi là Ma Kiếm ở Subterranean City: nó khuếch đại dục vọng chủ nhân và làm cùn lý trí, đến mức Chủ nhân của Subterranean City cũng không dám dùng. Dưới ảnh hưởng của kiếm, Xiao Lun đưa cho Jang thẻ ra vào cơ sở vòng ngoài. Khi lý trí Xiao Lun hồi lại, Jang lập tức giả vờ dập đầu xin lỗi và bảo ông xem như chưa từng nghe yêu cầu, khiến Xiao Lun không nhớ rõ điều bất thường.
+
+Zeon vào Neo Seoul và tới nhà Mandy, một trong số ít nơi ẩn náu an toàn trong thành phố. Cậu báo Jang Wuhang có đồng bọn cải trang thành Black Wolf Team đã thâm nhập Neo Seoul, nhiều khả năng nhằm đánh cắp magitech và đưa về Subterranean City. Mandy nói Jin Geum-ho đã tăng an ninh các cơ sở trọng yếu nhiều lần, nhưng Zeon cho rằng chúng sẽ không bỏ cuộc. Hai người thu hẹp mục tiêu khả dĩ nhất là Nhà máy điện ma thạch, trái tim phát triển văn minh Neo Seoul; nếu bị khủng bố, nhà máy thực phẩm, thịt nuôi cấy, lọc không khí và nghiên cứu sẽ tê liệt. Mandy chuyển sang nhân cách Eloy vì việc này hợp với Eloy hơn, rồi cùng Zeon chuẩn bị tới Nhà máy điện.
+
+## Chương 404
+
+Nhà máy điện ma thạch là cơ sở trọng yếu tạo phần lớn điện năng Neo Seoul, cung cấp cho mọi khu vì cả bốn khu đều có cổ phần, nhằm tránh một khu độc quyền. Nam Khu từng xây các tháp phòng thủ vòng ngoài chứa thiết bị tạo kết giới, nên định kỳ gửi người kiểm tra. Derek, Thức Tỉnh Giả cấp C hệ võ thuật và đội trưởng gác tháp, nghi ngờ nhóm Jang Wuhang đến kiểm tra lúc nửa đêm với toàn gương mặt lạ. Dù thẻ ra vào và thẻ định danh đều hợp lệ, Derek vẫn cho người âm thầm theo dõi vì biệt danh “Chó Điên” của ông đến từ trực giác nguy hiểm sắc bén.
+
+Vừa vào tháp, Jang bỏ nụ cười, rút thời hạn lấy dữ liệu từ hai giờ xuống một giờ vì biết Derek nghi ngờ. Hắn giao Tang Xi’an và Sou Chen chặn đường, hỏi Mo Yong-han về đường thoát, Heuk-no về Blast Fiends, và Deng Zhu Ping về việc chiếm quyền hệ thống phòng thủ. Jang nhắc cả đội rằng mọi việc họ làm là vì ba trăm nghìn người Subterranean City, không được do dự hay thấy tội lỗi dù ở đây có bao nhiêu người chết.
+
+Trong phòng điều khiển tháp, Jang dùng dao giấu sẵn đâm người giám sát, rồi Wolf Fang Squad giết sạch Thức Tỉnh Giả trong phòng trước khi họ kịp báo động. Mo Yong-han dùng năng lực phân tích cấu trúc chạm vào máy phát kết giới, lần dòng mana và phát hiện hệ thống kết giới Neo Seoul phức tạp hơn dự tính, kết hợp hàng chục ma pháp trận và cơ khí. Ông mở được một cổng ảo qua kết giới nhưng chỉ giữ được ba mươi phút, và một khi ý thức ông cưỡng ép vào hệ thống nhà máy thì báo động sẽ vang. Jang ra lệnh vẫn tiếp tục, vì không thể quay đầu.
+
+Khi Mo Yong-han chạm vào dòng mana Nhà máy điện ma thạch, báo động toàn nhà máy vang lên. Jang tuyên bố từ đây là chiến tranh. Tang Xi’an dùng độc và ám khí gia truyền kết hợp độc tố ma thú, phun sương độc trong hành lang, ăn mòn cả mặt nạ phòng độc và giết những ai không có Aura Shield. Khi hệ thống lọc không khí khởi động làm độc sớm vô dụng, Jang bảo Heuk-no thả con của Blast Fiend từ áo choàng không gian túi. Đám bọ bay dọc hành lang và tự nổ, mở đầu thảm họa trong tháp.
+
+## Chương 405
+
+Zeon và Eloy đang đi trên phố thì nghe vụ nổ từ hướng Nhà máy điện ma thạch ở Trung Khu. Họ lập tức chạy tới tháp phòng thủ, nơi lực lượng Tòa Thị Chính đã vây quanh nhưng không thể vào vì hành lang đầy bọ tự hủy. Derek báo hàng chục người đã thương vong, phòng điều khiển bị giết sạch, và lực lượng ông gửi vào cũng bị bọ nổ quét. Salamander Special Task Force, đơn vị chống khủng bố toàn Thức Tỉnh Giả ma pháp lửa do Kim Geun-pyung cấp B chỉ huy, tới xử lý bằng fireballs để kích nổ bọ từ xa.
+
+Salamanders tiến vào sau khi dọn một phần bọ, nhưng bị bẫy bên trong quét sạch. Một thành viên trọng thương bị ném ra, báo “tất cả bị quét” rồi chết. Ngay sau đó, panel tháp mở ra, mana gatling gun lộ nòng và bắn mana blast cô đặc như railgun nhờ nguồn cấp trực tiếp từ nhà máy. Nó nghiền nát các Thức Tỉnh Giả gần lối vào và nhắm vào Derek. Khi Derek định dùng nắm đấm chặn phát bắn trong tuyệt vọng, Zeon xuất hiện trước mặt và đỡ thay.
+
+Eloy xác nhận cô là người gọi Zeon nên không vướng thủ tục. Zeon tiến vào tháp, né các phát bắn của mana gatling và dùng Fire Missile phá nòng súng. Bên trong tháp đầy xác Thức Tỉnh Giả và dấu nổ cháy đen do bọ. Zeon bảo Eloy tìm và xử lý kẻ vận hành mana gun, còn cậu hướng tới phòng điều khiển nơi có dòng mana mạnh.
+
+Sou Chen và Tang Xi’an chặn Zeon. Sou Chen nói từ khi Zeon vào Neo Seoul, cái tên hắn nghe nhiều nhất là Zeon, và hắn tận mắt thấy Zeon giết Ma Gwang-ryang. Zeon nhận ra họ đang câu giờ cho phòng điều khiển. Tang Xi’an bất ngờ ném ám khí từ bóng tối và đe dọa sẽ nấu chảy Zeon đến tận tủy, mở đầu trận chiến của Zeon với hai thành viên Wolf Fang.
+
+## Chương 406
+
+Tang Xi’an tung Rain of Flowers Across the Sky, ám sát thuật cổ dùng vô số ám khí như kim độc, phi tiêu, shuriken và dao ném lấp kín hành lang. Zeon mở subspace phóng cát, dựng tường cát chặn toàn bộ. Sou Chen phá tường bằng Exploding Annihilation Strike/Baomiegao, kỹ thuật thuộc Exploding Annihilation Wild-Breaking Fist, môn võ cổ từng bị xem là trò cười trước Đại Sụp Đổ nhưng hồi sinh khi Sou Chen thức tỉnh ma pháp sét và dung hợp nó vào võ thuật.
+
+Sou Chen dùng ma pháp sét bảo vệ cơ thể, xuyên qua Fire Missile và đánh bật Zeon; Tang Xi’an phối hợp phủ kín hành lang bằng ám khí. Zeon dùng Fire Shield xanh trắng nung chảy ám khí, rồi đối đầu trực diện với Heaven-Crashing Strike của Sou Chen. Dù Sou Chen tin sand mage yếu thân thể, nắm đấm của Zeon nhờ huấn luyện dưới Dyoden, tám năm lang thang sa mạc và Inferno Gauntlet đã nghiền nát khớp ngón tay, bật khuỷu của hắn. Zeon nhận ra võ thuật cổ của Sou Chen có quá nhiều động tác thừa, thiếu hiệu quả nếu không dựa vào ma pháp sét.
+
+Zeon áp sát đánh bại Sou Chen bằng liên hoàn quyền cước, phá từng thế phản công và vô hiệu hóa sét bằng cát. Cậu chộp mặt Sou Chen, dùng Inferno Gauntlet đốt nửa mặt hắn, rồi đấm xuyên ngực rút trái tim còn đập ra. Trái tim có hình dạng và mana không phải của người, chứng minh Sou Chen cũng được cấy tim ma thú như Ma Gwang-ryang; Zeon nghiền nát nó để ngăn hắn berserk. Tang Xi’an phẫn nộ biến đổi, mọc thêm bốn tay thành sáu tay, rồi phóng bão ám khí từ cả sáu tay. Zeon lao thẳng vào cơn bão.
+
+## Chương 407
+
+Tang Xi’an tự xem mình như Thiên Thủ Quan Âm với sáu tay phóng dao ném như hoa rơi, nhưng Zeon là thiên địch của cô: cậu cảm nhận và điều khiển từng hạt cát nhỏ hơn, chính xác hơn bất kỳ ám khí nào. Zeon dùng cát chặn toàn bộ dao ném, khiến chúng nổ giữa không trung như pháo hoa. Tang Xi’an định bỏ nhiệm vụ chạy trốn, nhưng Zeon đã lén đưa cát tới chân cô từ lúc đánh Sou Chen. Sand Mixer nghiền nát hai chân cô từ mắt cá tới đùi.
+
+Tang Xi’an vẫn không chết vì tim ma thú trong ngực, cố chống sáu tay đứng lên. Zeon dùng Phosphorus Flame thiêu sạch cơ thể, sáu tay ma hóa, da thịt, tóc và cả trái tim ma thú; lửa địa ngục chỉ tắt khi không còn một hạt bụi. Sau đó Zeon tiếp tục tiến vì thời gian đang đứng về phía địch và Wolf Fang vẫn kiểm soát tháp phòng thủ.
+
+Trong phòng điều khiển, Jang Wuhang cảm nhận khí tức Sou Chen và Tang Xi’an biến mất. Deng Zhu Ping cũng chạy về với vết thương nặng do Eloy phục kích khi hắn điều khiển mana cannons. Jang ra lệnh Deng Zhu Ping lắp quả bom mang theo ngay trong phòng điều khiển, bất chấp thiệt hại thảm khốc, vì nếu họ chết ở đây mà không hoàn thành nhiệm vụ thì Subterranean City không còn tương lai. Jang cũng bảo Heuk-no thả toàn bộ con còn lại của Exploding Demon xuống hành lang để câu giờ.
+
+Mo Yong-han hoàn tất ghi cấu trúc và nguyên lý Nhà máy điện ma thạch vào Pangu’s Eye, artifact độc nhất có thể ghi lại ký ức chủ nhân. Chỉ cần Pangu’s Eye còn, Subterranean City có thể xây nhà máy điện ma thạch riêng. Wolf Fang trốn qua cống thoát nước dưới phòng điều khiển. Zeon và Eloy tới nơi, phát hiện quả bom tinh thể xanh sắp nổ, đủ thổi bay tháp và gây nổ dây chuyền Nhà máy điện ma thạch, khiến ít nhất nửa Neo Seoul sụp đổ. Zeon bảo Eloy đuổi theo địch, còn cậu mang bom chạy ra ngoài Neo Seoul. Khi bom sắp nổ ngay khu ổ chuột, Zeon dùng Gương Mushura buộc vào bom để dịch chuyển ngẫu nhiên một kilomet; may mắn bom xuất hiện trên trời và nổ cùng Gương Mushura, làm rung chuyển khu ổ chuột nhưng không làm sập công trình.
+
+## Chương 408
+
+Crocodile’s Den là hệ thống cống ngầm nối bên dưới Neo Seoul và khu ổ chuột, dù trên mặt đất hai nơi bị tường cao ngăn cách. Neo Seoul đã chặn mọi lối ra ngoài bằng chướng ngại, bẫy, ma pháp trận và kết giới, nhưng sau hơn trăm năm một số kết giới suy yếu, cá sấu tấn công liên tục tạo ra một khe hở nhỏ. Croker từng dùng khe này để buôn lậu hàng Neo Seoul ra chợ đen. Sau khi Croker chết, khe bị bỏ hoang, và Wolf Fang dùng nó để trốn khỏi Neo Seoul.
+
+Deng Zhu Ping dẫn Jang Wuhang, Mo Yong-han và Heuk-no qua cống. Mo Yong-han mang Pangu’s Eye chứa bản thiết kế Nhà máy điện ma thạch. Jang nhận ra không có dư chấn từ bom Volcanic Mole, thứ nếu nổ sẽ đủ phá hủy núi, nên nghi Zeon đã xử lý được. Deng dùng năng lực định vị bằng tiếng vang: gõ răng để sóng âm bật khỏi tường, nước và vật cản, tạo bản đồ ba chiều hơn trăm mét quanh mình. Hắn phát hiện phía trước có khoảng hai trăm người sống dưới lòng đất, các “crocodiles”, khiến Jang nở nụ cười độc ác.
+
+Eloy đuổi theo Wolf Fang qua khe cống, bị mùi hôi hành hạ vì giác quan half-elf nhạy hơn người, nhưng cũng nhờ vậy lần theo dấu vết rất nhanh. Heuk-no thả con của Exploding Demon, nhưng Eloy dùng Rain Spear từ Mad Fox kích nổ dây chuyền cả đàn bọ. Cô đến một không gian ngầm nơi dân Crocodile’s Den co cụm, nhiều người bị Wolf Fang đánh trọng thương. Khi cô định lao vào cứu, Levin xuất hiện cùng Remura và cảnh báo có bẫy.
+
+Wolf Fang đã buộc một quả bom giống bom trong tháp lên ngực một đứa trẻ, rồi dùng các sợi bạc như mạng nhện nối tới những người dân khác; nếu chạm bừa hoặc làm đứt dây, bom sẽ nổ. Remura nhận nhiệm vụ chữa người bị thương, Eloy ở lại bảo vệ cô và dân làng, trong khi viện binh Zetoya đang tới. Khi bom bắt đầu đếm ngược, Levin dùng ghost form xuyên qua dây, gỡ bom khỏi đứa trẻ rồi bay thẳng lên trời và ném nó đi. Bom nổ trên không, Levin bị hất văng nhưng không bị thương nhờ ghost form. Zeon cưỡi bão cát tới, gặp Levin và phát hiện chuyển động của Wolf Fang trong sa mạc trước bình minh.
+
+## Chương 409
+
+Chu Wei báo cho Xiao Lun rằng Jang Wuhang đã thâm nhập tháp phòng thủ, đánh cắp dữ liệu Nhà máy điện ma thạch và đặt bom. Xiao Lun nhận ra chính mình đã cấp thẻ vào tháp cho Jang, tức Nam Khu sẽ bị Tòa Thị Chính truy trách nhiệm. May mắn là Zeon đưa bom ra ngoài Neo Seoul nên thiệt hại tối thiểu, nếu không Nhà máy điện sụp đổ sẽ khiến Neo Seoul thoái lùi về thời Trung Cổ và Nam Khu/Xiao Lun bị hủy diệt bởi các khu còn lại.
+
+Jin Geum-ho đích thân vào Nam Khu để bắt chịu trách nhiệm. Tan Ryung và Yeom Cheong đã tự ý mang quân chặn trước khi Xiao Lun kịp ra lệnh, khiến Xiao Lun phải vội tới ngăn tình hình leo thang. Trên đường, vô số Thức Tỉnh Giả Nam Khu đã bị thương nặng. Phía Tòa Thị Chính chỉ có bốn người: Jin Geum-ho, Seo Tae-ran, cùng hai thành viên Numbers là Grain và Omujin. Grain là phó chỉ huy Execution Unit, bậc thầy trọng lực; Omujin là Steel Sovereign, có thể điều khiển thép và là thành viên thứ ba của Numbers.
+
+Grain đã dùng trọng lực khống chế hàng trăm Thức Tỉnh Giả Nam Khu, thậm chí ép bẹp một cấp A dám chen vào cuộc nói chuyện của người lớn. Xiao Lun dù là cấp S vẫn phải nhịn vì nếu đánh với Grain, toàn bộ Numbers và lực lượng Tòa Thị Chính sẽ kéo đến, kéo theo các khu khác và dẫn tới Nam Khu bị diệt. Xiao Lun hiểu Jin không đến để khai chiến mà để đòi giá, nên hỏi ông muốn gì.
+
+Jin Geum-ho đòi Eye of the Solar Peacock, đôi mắt của ma thú cấp S mà Nam Khu từng trả giá lớn để săn. Solar Peacock có lông đuôi như hàng chục mắt bắn chùm hủy diệt, còn đôi mắt thật hoạt động như radar phát hiện Thức Tỉnh Giả trong phạm vi hàng trăm mét và bắn tia chính xác. Xiao Lun cay đắng nhận ra Jin đã dự đoán con đường này bằng Heaven’s Eye ngay từ khi giao Jang Wuhang cho ông. Ông buộc phải giao Eye of the Solar Peacock cho Omujin. Jin khuyên Xiao Lun đừng quá tin người cùng quê, vì phản bội thường đến từ quan hệ quê hương và huyết thống nông cạn.
+
+## Chương 410
+
+Jang Wuhang cảm nhận nguy cơ khi Zeon và Levin lao xuống như sao băng. Hắn dùng Red Blossom Invincible Blade thức thứ ba Rain of Flowers Across the Bloody Sea với liuye dao tạm kiếm ở Nam Khu, nhưng Zeon phá bằng Sand Viper còn Levin né. Zeon đối chất việc Wolf Fang cố thổi bay Neo Seoul. Jang nói dân Neo Seoul chỉ như cát sa mạc, chết vài người không đáng, nhưng nổi giận khi Zeon áp dụng cùng logic cho ba trăm nghìn dân Subterranean City. Zeon nhận ra Jang là loại người tự khoác chính nghĩa, chấp nhận hy sinh người khác nhưng không chịu nổi mất mát của mình.
+
+Jang biện hộ rằng hắn cần Nhà máy điện ma thạch để đem ánh sáng cho Subterranean City và gọi Zeon không phải đại hiệp vì sống sung túc mà không chia sẻ. Zeon đáp nếu cần thì phải trả giá công bằng, không phải phá hủy và cướp. Jang ra lệnh Mo Yong-han đưa Heuk-no cùng Pangu’s Eye chạy về Subterranean City, còn hắn và Deng Zhu Ping giữ chân Zeon. Levin đuổi theo Mo Yong-han và Heuk-no; Jang định đánh Levin nhưng Zeon chặn bằng Sand Blaster.
+
+Jang dùng Red Blossom Invincible Blade thức thứ năm Red Blossom Tempest Annihilation, còn Deng Zhu Ping ném Iceburst Bomb, thứ đóng băng mọi thứ trong phạm vi ba mươi giây. Zeon và cát xung quanh bị đóng băng, Jang tấn công tưởng đã hạ cậu, nhưng Zeon thật ra dùng quyền năng sand mage lặn xuống lòng đất, để đòn đánh trúng cát rỗng. Khi băng tan, Zeon đã âm thầm đưa cát dưới chân Deng Zhu Ping và dùng Sand Mixer nghiền nát phần dưới đầu gối hắn.
+
+Trái tim ma thú trong Deng Zhu Ping tự phá phong ấn khi cảm nhận nguy cơ, biến hắn thành dạng lai giữa gorilla và nhím với gai dày trên lưng. Zeon nhận ra toàn bộ nhóm đều được cấy tim ma thú. Khi Jang và Zhu Ping lao lên, Zeon dựng cột cát nâng mình lên cao và dùng Sand Spear, tạo hàng trăm rồi hơn một nghìn giáo cát trút xuống liên tiếp như mưa, biến chiến trường thành địa ngục oanh kích. Zhu Ping bị giáo cát xuyên thủng khắp người, chưa kịp dùng gai trên lưng; Zeon dùng Sand Blaster thổi nát đầu hắn.
+
+Jang Wuhang trồi lên từ dưới đất với hình thái ma thú: cơ thể phủ ngoại giáp chitin, hai tay biến thành lưỡi hái bọ ngựa. Tim ma thú của hắn là Qinyong, Terracotta Warrior boss cấp S từ dungeon hình thành từ lăng mộ First Emperor, từng khiến Subterranean City trả giá vô số mạng để chế phục. Sau khi biến đổi, năng lượng của Jang vượt cấp S và hắn không thể trở lại làm người. Hắn tự xem mình như Qinyong bảo vệ First Emperor, tồn tại để bảo vệ Subterranean City. Zeon bác bỏ, gọi hắn chỉ là tên trộm bị bắt quả tang đang biện minh. Khi Jang lao tới, Zeon kích hoạt Sand Gehenna, biến toàn bộ chiến trường thành địa ngục cát rực cháy.
+
+## Chương 411
+
+Zeon dùng Sand Gehenna biến cát quanh Jang Wuhang thành dung nham, rồi kích hoạt Sand Mixer để xoay dung nham. Jang biết kỹ năng này nguy hiểm nên lao lên không trung định bổ xuống, nhưng Zeon dùng Sand Viper tạo từ dung nham. Các Lava Sand Vipers va vào Jang, nguội và đông cứng trên cơ thể hắn, cản trở chuyển động khiến đòn tấn công chậm lại. Khi Jang phá được lớp đá bám, Zeon triệu hồi Sand Soldiers Cường Hóa bằng quyền năng từ lõi rock crocodile, cơ thể đá, sức mạnh và độ bền vượt xa Sand Soldiers thường.
+
+Jang Wuhang bị các Sand Soldiers Cường Hóa bám chặt như núi đè, trong lúc Sand Gehenna lại sôi dưới chân. Dù dung nham cũng làm tan chảy Sand Soldiers, chúng không sợ chết vì là triệu hồi của Zeon, tiếp tục ghì Jang xuống. Khi Jang chém nát một phần binh lính, Zeon lại gọi thêm và dùng Sand Mixer trong dung nham. Dung nham xoáy chui qua vết nứt lớp vỏ chitin, xé Jang từ bên trong; một tay hắn bị giật đứt, dung nham tràn vào miệng và vết thương, cuối cùng làm tan cả não. Jang chết trong cơn căm hận Zeon, toàn bộ tồn tại bị dung nham xóa khỏi thế gian.
+
+Sau khi tiêu tốn nhiều mana cho Sand Gehenna, Sand Mixer và Sand Soldiers, Zeon nghỉ ngắn rồi đuổi theo hướng Levin. Cậu thấy Levin đang chiến đấu với Heuk-no, Brood Fiend và vô số con của nó; xác Mo Yong-han nằm gần đó. Con của Brood Fiend là loại tự hủy, nhưng gặp Levin là khắc tinh: ghost form khiến vụ nổ vô hại, còn Purple Lightning kích nổ dây chuyền ngay khi chúng tới gần. Brood Fiend đẻ con non liên tục nhưng không có thời gian nuôi lớn nên sức nổ yếu và bị Levin đốt cháy hàng loạt.
+
+Heuk-no, đã mất một gối, ra lệnh cuối cho Brood Fiend tự hủy vì không muốn chết vô nghĩa. Vụ nổ của Brood Fiend mạnh hơn đám con rất nhiều, xóa sạch Heuk-no và cả xác Mo Yong-han, nhưng Levin vẫn an toàn nhờ ghost form. Levin báo mình mắc lỗi vì Wolf Fang đã buộc Pangu’s Eye/viên tinh thể xanh lên lưng một con Bladeback Shipbird đã thuần phục và thả nó bay về Subterranean City. Zeon không lo, vì cậu tin Jin Geum-ho không phải người để dữ liệu thật của mình bị lấy dễ dàng.
+
+## Chương 412
+
+Jin Geum-ho trở lại Tòa Thị Chính cùng Seo Tae-ran, Grain và Omujin sau khi ép Xiao Lun giao Eye of the Solar Peacock. Với họ, chuyến đi Nam Khu chỉ như đi dạo vì Grain và Omujin, hai thành viên Numbers, đều có sức mạnh ngang lãnh chúa một khu. Omujin vui vì thấy Xiao Lun mất mặt, Grain cũng không phủ nhận cảm giác dễ chịu ấy, còn Seo Tae-ran nhận xét hai người không thay đổi. Omujin tiếp tục lắm lời trêu Seo Tae-ran chuyện chưa kết hôn.
+
+Grain hỏi Jin về dữ liệu Nhà máy điện ma thạch bị Wolf Fang đánh cắp. Jin thản nhiên nói đó đúng là dữ liệu nhà máy điện, nhưng nhắc rằng Neo Seoul đã thất bại hơn một trăm lần mới xây được nhà máy ổn định. Phiên bản thứ ba từng suýt xóa sổ Neo Seoul, buộc hàng trăm Thức Tỉnh Giả, cả Jin và Dyoden, lao vào giảm thiểu vụ nổ; một nửa số Thức Tỉnh Giả đi cùng chết. Một nhà máy cấp toàn thành phố không thể được sao chép chỉ bằng sơ đồ, cần vô số thử nghiệm, khủng hoảng và chỉnh sửa sống còn. Jin chỉ cười ẩn ý khi Grain đoán thứ bị lấy có thể là dữ liệu phiên bản thứ ba.
+
+Jin đưa cả nhóm xuống phòng thí nghiệm ngầm, nơi Omujin lần đầu thấy dự án Heaven’s Judgment: cấu trúc hình trụ khổng lồ mang hy vọng giành lại Trái Đất cho nhân loại. Jin nhận Eye of the Solar Peacock từ Omujin và nói nhờ nó Heaven’s Judgment sẽ được hoàn thiện. Omujin kính phục Jin không phải vì quyền lực hay sức mạnh, mà vì tầm nhìn không bỏ cuộc suốt hơn trăm năm: giành lại Trái Đất từ ma thú cho nhân loại. Hắn thầm nguyện sẵn sàng dâng mạng vì thế giới Jin mơ tới.
+
+Zeon và Levin xuống Crocodile’s Den, nơi Zetoya và Remura báo mọi người bị thương đã được chữa. Eloy khen Remura như phép màu vì chữa vết thương nặng trong chớp mắt, hiểu vì sao Johan từng muốn biến cô bé thành Thánh Nữ của giáo hội. Zeon nói Wolf Fang đã bị xử lý hết nhưng dữ liệu không thu hồi được; Eloy lo lắng, nhưng Zeon chỉ ra nếu dữ liệu thật sự quan trọng, Jin Geum-ho không bao giờ ngồi yên. Mandy thay Eloy xuất hiện và quyết định ở lại Sand City một thời gian vì hứng thú với thế giới dưới lòng đất sạch sẽ, có nhà cát, điện và máy lọc không khí.
+
+Zeon quan sát làng Zetoya/Sand City đã phát triển nhanh với nhiều nhà và dân hơn, nhưng cũng chạm giới hạn. Zetoya, Barkhum, Remura và mọi người xử lý tốt các vấn đề phát sinh, nhưng dòng người đổ vào quá lớn. Zeon nghĩ đã đến lúc mở rộng nơi này; vì là không gian ngầm khép kín, việc mở rộng cần nhiều người có năng lực phù hợp, nhưng nếu huy động được họ, biến làng thành thành phố nhỏ có thể không bất khả thi.
+
+## Chương 413
+
+Vụ Nhà máy điện ma thạch suýt nổ và rò rỉ an ninh nghiêm trọng bị che giấu, nên Neo Seoul vẫn bận rộn như thường. Ở khu ổ chuột, vấn đề lớn nhất là khu định cư bằng chất làm cứng cát đang mở rộng ở rìa Shinchon, thu hút tầng lớp thấp nhất kéo tới vì họ từng không có phòng ngủ, chỉ chợp mắt trong hẻm. Dân số tăng làm sức mạnh Shinchon tăng, khiến Eaton, kẻ trên danh nghĩa cai trị Shinchon nhờ uy của Zeon, ngày càng vững quyền và mở rộng kinh doanh.
+
+Eaton bắt đầu vận hành năm đội săn ma thú, mỗi đội hai mươi người nhưng cần tổng cộng sáu mươi người gồm hỗ trợ. Đội 5 mới nhất do Kang Nam-su, Thức Tỉnh Giả cấp C hệ ma pháp lớn tuổi, chỉ huy. Kang có thể vào Neo Seoul được trọng dụng nhưng ở lại khu ổ chuột vì đã quen, được tôn trọng và không muốn thích nghi với đời sống mới. Đội 5 lạc xa về phía bắc các mỏ ma thạch hàng trăm kilomet do gặp bão cát, la bàn hỏng và quyết định quay về mỏ.
+
+Trước khi rút, Kang Nam-su nghe âm thanh khó chịu và phát hiện một đàn Red Locust đỏ thẫm dài khoảng một mét, ít nhất vài trăm con, đang bay tới. Ông ra lệnh đội hỗ trợ rút trước, biết đội săn không thể chạy thoát và phải chiến đấu để câu thời gian. Đội 5 dùng kỹ năng chặn đàn một thoáng nhưng nhanh chóng bị làn sóng Red Locust nuốt sạch. Sau đó một bóng người áo choàng rách, đội mũ rộng vành xuất hiện; Red Locust còn lại không tấn công mà cọ vào người đó thân mật. Người này vuốt ve chúng và nói mình gần tới lãnh thổ loài người.
+
+Một tháng sau, Zeon nhìn Sand City dưới Crocodile’s Den đã mở rộng vượt bậc nhờ các Thức Tỉnh Giả đào ngầm. Việc đào vốn nguy hiểm vì cát có thể sụp, nhưng Zeon dùng quyền năng giữ cát, còn Barkhum và người khác dùng chất làm cứng gia cố tường cát. Kết quả là một hang ngầm rộng đầy nhà cửa, công trình bằng cát đào ra, giống thành phố cát thật sự. Dân số tăng khiến máy phát mana Brielle từng làm không đủ công suất; cần thêm máy phát lớn hoặc nhà máy điện, nhưng nhà máy điện ma thạch là bất khả thi. Zeon chỉ có thể chờ Brielle quay lại để làm thêm máy phát.
+
+Zeon chuẩn bị trở lại mặt đất, Levin đi cùng vì có mấy đứa trẻ mới thức tỉnh cần huấn luyện săn ma thú. Levin cho rằng một khi thức tỉnh, dù còn nhỏ, địa vị và nghĩa vụ thay đổi: phải bảo vệ cư dân hoặc săn để nuôi làng. Zeon không trách Levin vì trong thế giới này, có vài Thức Tỉnh Giả thích lo chuyện bao đồng cũng không tệ.
+
+## Chương 414
+
+Vừa lên mặt đất, Zeon gặp Eaton chờ trước nhà với vẻ khẩn cấp. Eaton đưa cậu tới văn phòng, nơi có hai người sống sót quấn băng đầy máu và xác một Red Locust dài một mét. Họ là thành viên đội hỗ trợ của Đội 5 do Kang Nam-su dẫn đầu; nhờ Kang ra lệnh rút trước nên sống sót, dù Red Locust vẫn đuổi theo và gần như giết sạch họ. Họ kể Đội 5 bị bão cát làm lạc, gặp đàn Red Locust ít nhất vài trăm con ở khoảng một trăm kilomet phía bắc Mỏ Ma Thạch rồi bị quét sạch.
+
+Zeon nhận ra Red Locust đang có dấu hiệu di cư đều đặn xuống phía nam, vì trước đó cậu từng tiêu diệt một đàn tương tự gần khu vực này. Nếu vài trăm con được ăn và sinh sản, số lượng sẽ bùng nổ. Eaton lo vì Đội 1 và Đội 3 cũng đang hoạt động phía bắc, dùng Mỏ Ma Thạch làm căn cứ, nhưng không có cách liên lạc để gọi về. Nếu gặp Red Locust, họ sẽ bị tiêu diệt, và ngay cả Mỏ Ma Thạch cũng có nguy cơ vì ma thú nhỏ đi bầy khó phòng thủ hơn một cá thể lớn. Zeon đồng ý đi tìm họ.
+
+Zeon tới quán Klexi nhờ chuẩn bị đồ ăn cho chuyến đi vài ngày. Klexi hiểu quy trình, làm mỗi món mười phần đủ ăn mười ngày, rồi nhận lời thỉnh thoảng xuống xem Levin và thành phố ngầm trong lúc Zeon vắng. Trở về nhà, Zeon cảm thấy căn nhà trống trải vì Brielle về làng High Elf, Levin đưa đám trẻ đi huấn luyện. Cậu gói vài vật dụng cần thiết và một mình vào sa mạc.
+
+Được sa mạc ôm lấy, Zeon cảm thấy sinh lực dâng lên và bung hết tốc độ bằng Sand Step, mỗi bước bắn xa mười mét. Chưa tới nửa ngày, cậu tới Mỏ Ma Thạch cũ, nơi ít thợ mỏ hơn vì phần lớn đã chuyển sang mỏ lộ thiên mới, nhưng vẫn có nhiều Thức Tỉnh Giả, đội raid và đội săn dùng làm căn cứ tiếp tế. Lính gác nhận ra Zeon ngay vì vụ sòng bạc ngầm trước kia và cho cậu vào nghỉ. Trong khu mỏ, một vụ đánh nhau nổ ra giữa hai Thức Tỉnh Giả; người nhỏ hơn nhưng đầy sức mạnh áp đảo gã khổng lồ như gấu bằng tay không, rồi hét hỏi còn ai tiếp theo.
+
+## Chương 415
+
+Người đàn ông thắng trận có giọng nói cộng hưởng mạnh, khí thế khiến các Thức Tỉnh Giả khác không dám lao vào. Dù nhỏ hơn gã khổng lồ, cơ thể hắn đầy cơ bắp và chằng chịt sẹo sâu, chứng tỏ từng sống sót qua nhiều vết thương chí mạng. Cổ tay hắn bị giáp da che dấu ấn cấp bậc. Zeon chú ý bộ giáp da thô sơ của hắn, không giống đồ xưởng Neo Seoul hay Item dungeon, và thanh greatsword khổng lồ trên lưng có hoa văn cổ xưa kỳ lạ.
+
+Người đàn ông cảm nhận ánh mắt Zeon và hỏi có muốn đấu không. Zeon không có ý đánh nhau, nhưng cả hai đều nhận ra đối phương khác biệt. Người đàn ông mời Zeon ăn chung; họ vào quán ăn tồi tàn gần đó. Hắn tự giới thiệu là Uslann. Uslann chưa từng tới Neo Seoul, nói mình đang tìm một thứ quan trọng, và có thuộc hạ không thể vào cùng vì hoàn cảnh. Khi trả tiền, Uslann đưa một đồng vàng khắc hoa văn giống thanh kiếm, khiến chủ quán khó xử vì không có tiền thối. Zeon trả bữa ăn bằng sol và đổi đồng vàng lấy năm mươi sol để Uslann có tiền dùng lần sau.
+
+Zeon nhận ra việc Uslann dùng vàng rất bất thường: Neo Seoul dùng sol được bảo chứng, các thuộc địa khác thường dùng ma thạch, kể cả Iron Fortress cũng không dùng vàng. Đồng vàng, giáp thô cổ và vũ khí của Uslann khiến Zeon nghĩ tới El Harun, thành phố của các chủng tộc khác trên Trái Đất, nơi elves, dwarves, beastkin và con người cùng sống. El Harun trước nay đóng cửa và cô lập, hiếm khi người trong đó hoạt động bên ngoài. Việc gặp Uslann ở Mỏ Ma Thạch trong lúc điều tra Red Locust khiến Zeon không thích, và cậu hy vọng chuyện này không liên quan.
+
+Uslann ở lại uống rượu, nhớ lại khoảnh khắc chạm mắt Zeon khiến tim hắn trầm xuống, lông tơ dựng đứng và lòng bàn tay đổ mồ hôi. Kể từ khi bước vào thế giới này, hắn chưa từng gặp con người nào cho cảm giác nguy hiểm như vậy. Hắn mời Zeon ăn để tìm hiểu nhưng không thu được gì vì Zeon giấu mình quá kín. Uslann kết luận Zeon là con người mạnh nhất hắn gặp trên đường tới Mỏ Ma Thạch, cho thấy tiềm năng thật sự của nhân loại. Hắn muốn nhanh chóng hoàn thành nhiệm vụ và báo cho El Harun về Zeon.
+
+## Chương 416
+
+Zeon quay lại sòng bạc ngầm ở Mỏ Ma Thạch để hỏi cặp song sinh từng bị cậu khuất phục. Cậu yêu cầu hai loại thông tin: các đội raid/đội săn mất tích gần đây và hành tung của Uslann. Cặp song sinh cho biết có nhiều đội săn đi về phía bắc mỏ chưa quay lại, khiến Zeon nhận ra số nạn nhân của Red Locust có thể lớn hơn dự đoán. Với Uslann, Zeon chỉ dặn chúng quan sát từ xa, vì bám sát một kẻ như hắn chắc chắn sẽ bị phát hiện.
+
+Zeon tự mình thu thập tin trong khu mỏ và phát hiện hơn ba trăm người chưa trở về, nhưng phần lớn vẫn bị xem là chậm lịch chứ chưa được coi là mất tích. Đến tối, cặp song sinh báo rằng Uslann đã biến mất sau khi rời quán ăn, có lẽ đã rời khỏi mỏ. Zeon có cảm giác cuộc gặp với Uslann không phải ngẫu nhiên, và họ chắc chắn sẽ còn gặp lại trong sa mạc.
+
+Zeon rời Mỏ Ma Thạch một mình bằng Sand Step, không cần phương tiện hay đồng đội vì quyền năng của cậu chuyên biệt cho sa mạc. Trên đường, các ma thú phục kích như Black Scorpion đều bị cát xé nát trước khi chạm tới cậu. Sau một ngày đi về phía bắc, cậu phát hiện bộ xương mới của một Blast Hippo cấp C khổng lồ, bị Red Locust gặm đến trơ xương. Từ dấu vết này, Zeon suy luận đàn châu chấu đã tăng từ vài trăm lên hàng nghìn con, đang ăn, sinh sản và có khả năng ẩn dưới lòng đất để đẻ trứng. Cậu bắt đầu tìm kiếm từ trên cao bằng cách nâng mình lên bằng cột cát.
+
+## Chương 417
+
+Derod, một cư dân El Harun có năng lực giao tiếp với côn trùng, ngồi trước lửa trại nhìn đàn Red Locust ăn sống một ma thú cấp C. Hắn gọi chúng là con của mình, nhận thịt chúng mang tới và ăn thịt ma thú chưa xử lý như món ngon, vì ác khí trong thịt không thể hại hắn. Derod lấy ra Sừng Hắc Nữ Vương, báu vật hắn đánh cắp từ El Harun sau khi vượt qua vô số kết giới và bẫy, dù phải mất tất cả những gì mình có. Hắn tin chiếc sừng sẽ dẫn tới một dungeon liên kết với nó, nên cần tiếp tục nuôi đàn Red Locust bằng con người và ma thú.
+
+Zeon dựng lều một người mua ở Goblin Market, dùng hỏa thạch Neo Seoul làm lửa trại và ăn hộp cơm lão Klexi chuẩn bị trong subspace. Ba người mặc áo choàng xuất hiện trong đêm, xin chia sẻ hơi ấm. Người dẫn đầu là Jupiro, hai người còn lại là Alonso và Criden. Họ cảnh giác với Zeon vì giữa sa mạc mà dám một mình đốt lửa trại là hành vi hoặc của cấp S, hoặc của kẻ điên. Zeon cũng không trách vì trong sa mạc, tin người lạ là ngu xuẩn.
+
+Qua trang bị, hoa văn trên găng và vỏ kiếm, Zeon nhận ra họ có liên quan tới Uslann. Khi cậu nhắc tên Uslann, cả ba lập tức thủ thế, nhưng dịu lại khi Zeon đưa đồng vàng Uslann đã cho. Họ xác nhận mình là cấp dưới của đội trưởng Uslann và đang tản ra tìm một người. Sự xuất hiện của họ củng cố phán đoán của Zeon rằng Uslann đến từ El Harun và có nhiệm vụ riêng liên quan đến kẻ trong sa mạc.
+
+## Chương 418
+
+Jupiro tin Zeon không thể giết Uslann để cướp đồng vàng, vì Uslann là cường giả thuần nhân loại được cả elves và dwarves của El Harun công nhận, mạnh bằng cả ba người Jupiro cộng lại. Họ đang truy tìm Derod, kẻ đánh cắp báu vật El Harun rồi bỏ trốn. Zeon quan sát các chi tiết trang bị và đoán ra nguồn gốc El Harun; phản ứng căng thẳng của Alonso và Criden xác nhận suy đoán ấy. Zeon nói cậu từng tình cờ chạm mặt người El Harun, thực chất là từng bị người của Hieltoon tấn công cùng Dyoden.
+
+Jupiro giải thích gián tiếp về vai trò của con người trong El Harun: vì con người Kurayan và con người Trái Đất gần như không khác biệt bề ngoài, họ thường được giao nhiệm vụ ra ngoài thu gom vật tư và tiếp xúc với nhân loại, trong khi nguồn gốc thật phải được giữ kín. Zeon nói bí mật của El Harun không hoàn hảo, vì hơn một trăm năm đã trôi qua kể từ khi họ vượt sang Trái Đất. Hai bên tạm tin nhau sau khi Zeon thề trên danh dự chiến binh rằng không có ý định hại họ.
+
+Zeon nói dối một phần rằng cậu đang tìm đồng đội mất tích trong sa mạc, cố tình không nhắc Red Locust để xem phản ứng. Jupiro biết chuyện nhưng giả vờ không biết; Zeon đọc được sự chột dạ nhưng cũng bỏ qua. Jupiro đề nghị đi cùng vì hai bên đều có thứ cần tìm, thực chất muốn giám sát người Neo Seoul biết về El Harun. Sáng hôm sau, Jupiro ghen tị khi thấy lều gấp của Neo Seoul, nhận ra El Harun tuy có nhiều chủng tộc và hội đồng cai trị nhưng thiếu các tiện ích tinh tế do mỗi chủng tộc có nhu cầu khác nhau. Từ đỉnh đụn cát, họ thấy một vùng trời tối đen bất thường, xác nhận đàn Red Locust đã lớn mạnh. Jupiro bắn pháo hiệu gọi đồng đội, và Zeon nghe được họ gọi Derod là Bug Master.
+
+## Chương 419
+
+Nhóm Jupiro và Zeon tới nơi đàn Red Locust vừa quét qua nhưng đã muộn. Trên cát chỉ còn xương và da dày chưa bị ăn hết, chứng tỏ Derod vội rời đi vì cảm nhận được truy đuổi. Zeon nhận ra đàn Red Locust đã trở thành một tai họa trong sa mạc: ma thú cấp B có force field có thể chống chịu, nhưng cấp C trở xuống và con người sống trong sa mạc gần như chắc chắn bị nuốt sạch nếu gặp chúng. Với Zeon, việc ngăn đàn châu chấu trước khi chúng nhân lên thêm nữa là cần thiết để bảo vệ các làng người sống sót và lữ khách, dù Neo Seoul có thể vẫn an toàn.
+
+Một nhóm El Harun khác xuất hiện gồm elven ranger Corin, werewolf Shaping, dwarf Dempleton và cô gái Asil Aronia. Quan hệ giữa nhóm con người của Jupiro và nhóm chủng tộc khác rất căng thẳng. Corin khinh miệt con người, Dempleton hung hăng chĩa rìu vào Zeon, còn Aronia lại chú ý tới mùi hương kỳ lạ trên người Zeon, thứ gợi cảm giác quen thuộc và hoài niệm. Zeon đoán cô cảm nhận mùi spirit liên quan tới Gaia, nhưng giấu kín.
+
+Dempleton nổi giận vì lời đáp sắc bén của Zeon và định bổ rìu xuống, nhưng Uslann xuất hiện không tiếng động và chặn hắn lại. Uslann là thủ lĩnh của đội hỗn hợp nhiều chủng tộc này, đủ sức khiến cả Corin, Shaping và Dempleton cúi đầu dù họ khinh thường con người. Uslann xin lỗi Zeon vì người của mình, rồi biết Zeon đã tự suy ra nguồn gốc El Harun từ đồng vàng hắn đưa. Khi Zeon nói mình truy tìm đàn Red Locust vì người quen trở thành nạn nhân, Uslann chấp nhận tạm thời hợp tác vì mục tiêu của họ đều hướng tới Derod.
+
+## Chương 420
+
+Đội của Uslann gồm mười người tính cả Zeon di chuyển gần như không tiếng động vì sự hiện diện của Uslann khiến mọi người im lặng. Zeon quan sát thấy con người trong đội kính trọng Uslann, còn các chủng tộc khác cũng phải thừa nhận hắn, qua đó nhận ra nội bộ El Harun phức tạp và có thể đang tồn tại đấu đá quyền lực giữa các chủng tộc. Zeon nghĩ một ngày nào đó phải tới El Harun để xác nhận liệu tàn niệm Krasias có ảnh hưởng tới nơi đó hay không, vì nếu có, nó sẽ đe dọa cả Neo Seoul, Primeval Forest và sự sống đang hồi sinh trên Trái Đất.
+
+Aronia tiếp tục áp sát Zeon vì ngửi thấy mùi dễ chịu, khiến cậu càng tin cô bị thu hút bởi Gaia. Là một druid/Asil có liên hệ với fae, cô có thể cảm nhận mùi spirit, nhưng Zeon không thể để lộ Gaia cho El Harun. Giữa lúc đó, Corin dừng đội vì cảm nhận được một dungeon vừa bị cưỡng ép mở gần đó. Biệt danh Dungeon Chaser của hắn đến từ khả năng phát hiện sự tồn tại và trạng thái mở của dungeon, một lĩnh vực mà ngay cả Zeon cũng không bằng nếu dungeon không tiếp xúc với cát.
+
+Họ tới một cổng dungeon mở giữa không trung, mana bất ổn và sắp nổ vì có kẻ cưỡng ép mở một dungeon chưa chín nhưng không phá hủy lõi để ổn định. Khi lối vào vỡ tung, hàng trăm undead từ bên trong tràn ra, gồm zombies, ghouls, knights và ma thú undead. Uslann dùng Warrior’s Shout xua tan sợ hãi cho đồng đội rồi lao vào chiến đấu, chém nát từng hàng undead. Tuy nhiên, undead bị hạ lại tái hợp và đứng dậy, buộc họ phải tìm boss hoặc lõi điều khiển. Khi Corin chưa kịp phát hiện boss, Zeon yêu cầu mọi người tránh ra, giơ Inferno Gauntlet lên và thi triển Fire Rain, khiến lửa trút xuống đám undead như mưa.
+
+## Chương 421
+
+Fire Rain của Zeon thiêu rụi đám undead, vì lửa từ Inferno Gauntlet là thiên địch của xác chết biết đi: một khi thịt bị đốt thành tro, chúng không thể tái sinh. Uslann và người của hắn kinh ngạc trước hiệu quả áp đảo của Zeon, dù một số phi nhân vẫn tự trấn an rằng đó chỉ là lợi thế thuộc tính. Corin phát hiện boss của dungeon là một goblin undead nhỏ bé có thể dập lửa bằng thao tác tay. Shaping hóa werewolf lao vào xé đôi nó rồi ném tới chân Zeon để cậu dùng lửa kết liễu hoàn toàn. Sau khi boss chết, toàn bộ undead sụp đổ.
+
+Aronia kiểm tra tàn tích dungeon và xác nhận Derod đã dùng Sừng Nữ Vương để cưỡng ép mở dungeon. Uslann lỡ nhắc tới Queen’s Cradle, khiến Zeon chú ý vì cậu cảm nhận đó là chìa khóa thật sự của vụ này, nhưng cậu giả vờ không nghe và nhặt ma thạch của goblin. Sau đó thêm ba dungeon nữa bùng phát; hai cái được nhóm Uslann tự xử lý, nhưng cái cuối mạnh hơn buộc Zeon phải ra tay. Khi dựng trại, con người và các chủng tộc khác vẫn ngồi tách biệt, khiến Uslann thất vọng vì nhận ra El Harun bị Neo Seoul bỏ lại không chỉ về công nghệ mà còn về sự thống nhất.
+
+Uslann quan sát Zeon ngồi ăn một mình, nhận ra cậu sở hữu vật phẩm subspace và tự hỏi trong mắt Zeon, nhóm El Harun trông thảm hại đến mức nào. Aronia tới xin nếm hộp cơm của Zeon và kinh ngạc vì đồ ăn do Klexi nấu quá ngon. Khi cô muốn gặp Klexi, Zeon nói đồng đội cô sẽ không cho phép. Aronia buột miệng rằng đồ ăn El Harun tệ vì các phe quá bận đấu đá để quan tâm tới nấu nướng, qua đó vô tình bộc lộ thực trạng chia rẽ của thành phố.
+
+## Chương 422
+
+Trong lúc Zeon nghỉ trong lều, Corin, Shaping và Dempleton công khai nói xấu con người, đặc biệt là Zeon, vì ghen ghét với sự tiện nghi và sức mạnh của cậu. Aronia cố khuyên các chủng tộc hòa thuận hơn vì sinh tồn trên Trái Đất đã đủ khó, nhưng Corin khẳng định con người là kẻ yếu phải cúi đầu và không đáng tin, lấy Derod làm ví dụ. Zeon nghe được nhưng không phản ứng cho tới khi cậu phát hiện tiếng nghiến hàm từ xa trong bóng tối.
+
+Zeon bước ra và cảnh báo Uslann. Uslann tập trung mới nghe thấy âm thanh, trong khi Corin, elf có thính giác cực nhạy, còn chậm hơn cả hai. Điều này khiến Corin choáng váng vì nhận ra giác quan Zeon sắc bén hơn cả Uslann và vượt xa tiêu chuẩn elf. Âm thanh đó là đàn Red Locust do Derod điều khiển, đã lên tới hàng nghìn con và chủ động phản công đội truy đuổi.
+
+Nhóm Uslann chiến đấu quyết liệt; Uslann dùng Aura Blade từ greatsword chém nhiều Red Locust cùng lúc, Jupiro, Alonso, Corin, Dempleton và Shaping giữ tuyến, Aronia dùng Wind Slash. Nhưng số lượng quá lớn khiến họ không thể trụ mãi. Uslann nhờ Zeon dùng lại Fire Rain, còn Zeon nói cậu đang quan sát vì nghi Derod nấp gần đó. Uslann hiểu ý muốn đánh cỏ động rắn và yêu cầu Zeon tung hết sức. Fire Rain được rót lượng mana khổng lồ thiêu rụi ba mươi phần trăm đàn châu chấu, buộc Derod lộ dao động mana trên một ngọn đồi. Uslann lao tới, chém nổ ngọn đồi gọi tên Derod.
+
+## Chương 423
+
+Zeon tiếp tục dùng Fire Rain, một mình tiêu diệt khoảng một nửa đàn Red Locust. Lần đầu tiên Corin và Dempleton thấy ma thú côn trùng vốn không sợ chết lại co rúm trước một con người, vì sức hủy diệt của Zeon đi ngược cả bản năng bầy đàn của chúng. Những con sống sót rút lui quá nhanh để đuổi theo. Dưới chân Uslann còn lại một cánh tay của Derod, chứng tỏ hắn đã thoát nhưng bị thương nặng. Zeon đề nghị lập tức truy đuổi theo dấu Red Locust.
+
+Corin dẫn đầu lần theo hướng đông. Derod vừa chạy vừa dùng Red Locust lẻ và ma thú trong các lãnh địa đi qua để cản đường, khiến đội Uslann liên tục bị tấn công giữa đêm và dần bị thương, nhưng ý chí của họ vẫn cực kỳ bền bỉ. Derod hối hận vì đã phục kích thay vì đi thẳng tới dungeon; hắn muốn báo thù cho Brula, con gái đã chết của mình, nên không chấp nhận gục ngã. Khi chiếc Sừng Nữ Vương trong người cộng hưởng mạnh, Derod nhận ra dungeon liên kết với chiếc sừng ở ngay phía trước.
+
+Derod dồn mana vào sừng và cưỡng ép mở một cổng dungeon, nhưng lần này dungeon đáp lại như có thứ bên trong phản ứng. Zeon phóng Fire Spear đâm trúng lưng Derod, nhưng hắn vẫn lao vào cổng bằng ý chí. Zeon và Uslann bám theo vào trong, phát hiện một dungeon rừng rậm dày đặc, như mảnh quá khứ của Kurayan trước khi sụp đổ. Corin và Shaping xúc động vì lần đầu thấy rừng thật. Uslann, dù cũng dao động, ra lệnh Zeon đốt cả khu rừng để ép Derod lộ diện vì hạt giống từ dungeon cũng không thể sống ngoài sa mạc. Ngay khi Zeon chuẩn bị thiêu rừng, toàn bộ khu rừng rung chuyển.
+
+## Chương 424
+
+Từ bụi rậm trong dungeon, những con rắn có cánh phủ vảy xanh đậm lao ra. Chúng có thân thể cực kỳ bền chắc, kháng lửa mạnh và máu mang tính axit chết người. Khi một giọt máu dính vào tay Shaping, cánh tay hắn bị ăn mòn nhanh chóng; Jupiro buộc phải chặt đứt tay hắn để cứu mạng, khiến Dempleton ban đầu hiểu lầm rồi phải xin lỗi. Uslann nhận ra Derod đã mở một dungeon cực kỳ nguy hiểm, nơi vô số rắn có cánh ẩn trong rừng.
+
+Khi hàng nghìn con rắn có cánh tràn ra, Fire Rain thường của Zeon chỉ buộc chúng lộ diện chứ không đủ giết vì chúng kháng lửa. Zeon dùng White Phosphorus Flame, ngọn lửa trắng không thể dập, lan từ con này sang con khác và thiêu xuyên cả vảy lẫn thịt, chỉ tắt sau khi xương thành tro. Màn này khiến cả Uslann lẫn các phi nhân từng khinh miệt Zeon lạnh sống lưng, vì họ nhận ra cậu vẫn còn giấu một kỹ năng kinh khủng hơn Fire Rain.
+
+Sau khi vượt qua đàn rắn, Corin dẫn đường tới một cổng đá mở xuống lòng đất. Bên trong là hành lang có bích họa kể về một phụ nữ dark elf hiền hậu, bị đồng tộc xa lánh vì tin đồn dòng máu bị pha với quỷ, nhưng yêu một người đàn ông loài người. Đoạn giữa câu chuyện bị phá hủy có chủ ý; bức còn lại cho thấy cô biến thành sinh vật chimera với thân trên phụ nữ, thân dưới rắn, sừng lớn trên trán và tóc là hàng nghìn con rắn. Ở phòng trong, boss dungeon đã biến mất, chỉ còn Derod mất nửa thân dưới, cháy đen và sắp chết. Hắn nói đã giải phóng Black Queen bằng cách hiến tế thân thể mình, khiến Uslann kinh hoàng vì chủ nhân dungeon thật sự là Black Queen, kẻ Derod muốn thả để El Harun khóc ra máu.
+
+## Chương 425
+
+Derod vốn sinh ra là Bug Master, người có thể điều khiển côn trùng như tay chân. Dù năng lực này cực mạnh, hắn bị El Harun khinh miệt: beastkin coi điều khiển côn trùng là hèn nhát, còn elves nhìn hắn như sâu bọ bẩn thỉu. Người duy nhất là tất cả với hắn là con gái Brula, một cô gái bình thường, xinh đẹp và hiền hậu. Khi Brula mất tích, Derod tìm khắp El Harun và chỉ thấy phần xác còn lại của cô với dấu vết bị ăn thịt. Bạn bè của Brula bị thế lực nào đó ép im lặng, khiến Derod hiểu thủ phạm là một nhân vật quyền lực vượt ngoài tầm với.
+
+Derod dùng toàn bộ côn trùng ở El Harun làm mắt tai để tìm sự thật, rồi tuyệt vọng khi biết thủ phạm là một trong những nhân vật mạnh nhất thành phố. Không thể tự trả thù, hắn chọn mượn sức Black Queen, một tồn tại từng gieo kinh hoàng ở Kurayan. Hắn phát hiện Sừng Đen, một phần của Black Queen, được cất trong kho subspace của El Harun, liều mạng đánh cắp nó và nhờ chiếc sừng dẫn tới dungeon phong ấn Black Queen. Hắn dâng chính mình làm vật hiến tế để đánh thức bà, vì với hắn, từ ngày Brula chết, hắn đã không còn là người sống.
+
+Uslann trách Derod đáng lẽ phải đưa chuyện lên Hội Đồng, nhưng Derod cười thảm vì Hội Đồng El Harun, gồm thủ lĩnh các chủng tộc và chỉ đứng sau Del Roa, sẽ không bao giờ quan tâm bất hạnh của một Bug Master. Derod chết mà không tiết lộ hình dáng hay hướng đi của Black Queen, chỉ để lại lời nguyền rủa El Harun. Khi dungeon bắt đầu sụp đổ vì lõi Black Queen biến mất, Zeon nán lại khép mắt cho Derod, hiểu phần nào lý do báo thù của hắn. Một chiếc gương đồng nhỏ rơi khỏi áo Derod, mang cảm giác như di vật, và Zeon bí mật nhặt lấy.
+
+Bên ngoài dungeon, Uslann mời Zeon tới El Harun. Hắn không làm vậy vì thiện cảm mà vì cần White Phosphorus Flame để đối phó Black Queen, dù El Harun rất mạnh. Corin nổi giận vì Zeon dám từ chối lời mời tới nơi người thường cả đời không vào được, nhưng bị Uslann đánh gục và khiển trách. Zeon thật ra đã quyết định đi vì El Harun là nơi cậu sớm muộn cũng phải kiểm chứng tàn niệm Krasias, nhưng giả vờ do dự để phía Uslann sốt ruột hơn. Cuối cùng cậu đồng ý. Uslann nói theo ghi chép, Black Queen có thân trên phụ nữ và thân dưới rắn, còn được gọi là Queen of Serpents, hiện thân của báo thù; bà chắc chắn sẽ tìm tới El Harun, và họ phải giết bà trước khi tới nơi.
+
+## Chương 426
+
+Một thương đội half-elf do Hodran dẫn đầu đang băng qua sa mạc để đưa vật tư về El Harun. Hodran là half-elf nhưng che tai bằng khăn/mũ để trà trộn vào các làng người sống sót và thuộc địa ẩn, bí mật thu gom hàng hóa cho El Harun. Cánh tay phải trẻ tuổi của ông, Etrang, khinh thường con người và không tin lời Hodran về sức mạnh của Neo Seoul, vì phần lớn những con người họ từng thấy chỉ sống chui dưới đất với nền văn minh thấp kém. Hodran thì từng nhìn Neo Seoul từ xa thời trẻ, vẫn nhớ cảm giác kinh sợ trước siêu đô thị ấy nên luôn cảnh báo người của mình không được xem thường nhân loại.
+
+Trên đường, thương đội phát hiện một phụ nữ elf xinh đẹp đứng một mình giữa sa mạc, quần áo rách rưới, da sẫm như ngọc trai đen, tóc đen dài và mắt xám hiếm thấy. Cô nói năng gượng gạo như lâu rồi chưa dùng tiếng nói, hỏi vì sao thế giới biến thành sa mạc, rồi tự xưng là Neria. Cô nói mình bị đồng tộc bỏ rơi, làng đã biến mất, không còn nơi để về. Hodran tức giận trước ý nghĩ elf bỏ rơi đồng tộc, nhưng do cô là Dark Elf nên do dự vì Dark Elves bị đối xử không tốt ở El Harun.
+
+Etrang thuyết phục Hodran rằng dù là Dark Elf, Neria vẫn là đồng tộc và không thể bị bỏ lại trong sa mạc. Hodran đồng ý cho cô đi cùng tới El Harun, đặt cô lên một con lạc đà trống. Các thành viên thương đội đều choáng ngợp trước vẻ đẹp của Neria, nhưng cô chỉ trống rỗng nhìn ra sa mạc và ghi nhớ cái tên El Harun. Neria hiện có biểu hiện bất thường: như vừa hấp thu ký ức của kẻ khác, đang học lại ngôn ngữ và hướng tới El Harun.
+
+## Chương 427
+
+Ba ngày sau khi rời dungeon, nhóm Uslann vẫn không tìm được bất cứ dấu vết nào của Black Queen, dù theo ghi chép bà có đuôi dài hơn mười mét và không thể di chuyển mà không để lại vết tích. Corin hổ thẹn vì thân là ranger mà không truy dấu được. Jupiro đề nghị đi thẳng về El Harun, vì nếu Black Queen có thể hấp thu suy nghĩ và ký ức nạn nhân như ghi chép, bà chắc hẳn đã biết vị trí El Harun. Uslann đồng ý, ra lệnh quay về và khẳng định Zeon sẽ đi cùng dù Corin phản đối.
+
+Trên đường về, họ tới Pankrena, một núi lửa đen khổng lồ giữa biển cát, tên trong tiếng Asil nghĩa là “Cơn thịnh nộ của Thần”. Pankrena từng phun trào sau Đại Thảm Họa, lật tung địa hình và biến cát xung quanh thành màu đen, hạt thô nặng hơn bình thường nhưng Zeon vẫn điều khiển được. Để tới El Harun phải đi qua Pankrena, nơi được Pankrena Rangers, lực lượng ba trăm elves và beastkin canh giữ nghiêm ngặt vì tầm quan trọng không kém mỏ ma thạch.
+
+Tagol, thủ lĩnh Pankrena Rangers, chặn nhóm Uslann vì Zeon là con người ngoại lai. Jupiro nổi giận trước thái độ kẻ cả của elves, hai phe suýt rút vũ khí. Zeon nói không ngại chờ, nhưng Uslann coi đây là chuyện danh dự của chính mình và đe dọa Tagol bằng sát ý thật sự. Tagol nhượng bộ cho Zeon đi qua với bảo chứng của Uslann, nhưng viện lệnh hội đồng bắt mọi lực lượng trở về phải nghỉ một đêm trước khi vào El Harun. Nhóm Uslann được đưa tới doanh trại đá núi lửa, nơi Zeon thấy thương đội Hodran và chú ý ngay tới một elf tóc đen mắt xám xinh đẹp, chính là Neria.
+
+## Chương 428
+
+Uslann tưởng Zeon bị sắc đẹp của Neria mê hoặc, nhưng thật ra Zeon chú ý vì khí tức kỳ lạ như kim vô hình châm vào da. Khi Neria nhìn lại, đôi mắt xám của cô không để lộ bất cứ thứ gì, như bị một tấm màn che phủ. Aronia trêu Zeon thích phụ nữ đẹp, khiến cậu bỏ cuộc tranh luận. Hodran nhận ra Uslann và mời cả nhóm dùng bữa cùng thương đội; ông cũng chào Zeon lịch sự khi biết cậu là khách do Uslann mời, dù ngạc nhiên vì một con người ngoại lai được dẫn về El Harun.
+
+Zeon ngồi cạnh Neria và trò chuyện. Cô nói mình chỉ tình cờ gặp thương đội trong sa mạc, làng đã bị xóa sạch bởi thứ còn tệ hơn ma thú. Zeon cảm nhận sự lệch pha mạnh mẽ giữa mắt, mặt và lời nói của cô: biểu cảm trống rỗng, lời nói lịch sự, mắt lạnh như băng, giống kẻ đang bắt chước cảm xúc mà không có cảm xúc thật. Neria hỏi về Neo Seoul, tỏ ra xa lạ với thành phố của nhân loại.
+
+Corin chen vào, nói một elf cao quý như Neria không nên hạ mình nói chuyện với con người và phần lớn con người thấp kém hơn, chỉ miễn cưỡng loại trừ con người El Harun vì nể Uslann. Jupiro và Alonso tức giận, nhưng Zeon ra tay trước: cậu túm gáy Corin, bắt hắn xin lỗi. Khi Shaping và Dempleton lao vào hỗ trợ, Zeon không dùng kỹ năng, chỉ dùng thể thuật đánh bật Dempleton và liên tục nện gối vào Shaping dạng werewolf tới bất tỉnh, vẫn giữ Corin trong tay. Mọi người kinh ngạc vì tưởng Zeon chỉ là pháp sư lửa, không ngờ thể chất/cận chiến cũng vượt ngoài lẽ thường.
+
+## Chương 429
+
+Corin bị Zeon siết gáy tới mức nghe tiếng xương cổ nứt, cuối cùng sợ chết mà hét xin lỗi trước mặt mọi người. Zeon buông hắn ra, để hắn sụp xuống vì vừa được thở vừa nhục nhã. Uslann lạnh lùng nói Corin hãy xem đây là bài học và nhắc hắn rằng bản thân Uslann cũng là con người, nên đừng mong Uslann báo thù cho hắn. Shaping hồi phục gương mặt nhờ năng lực werewolf nhưng tinh thần đã bị khắc sâu nỗi sợ Zeon, còn Dempleton cũng mất ý chí chống đối sau khi chứng kiến Corin bị bẻ gãy và Shaping bị nghiền nát.
+
+Uslann nhận ra Zeon còn có kỹ năng cận chiến mạnh bất thường. Zeon nói cậu từng được huấn luyện khắc nghiệt bởi một người phi thường, ám chỉ Dyoden, người đã ép kỹ năng chiến đấu vào cậu bằng những thử thách sinh tử. Neria quan sát và nhận xét Zeon đánh giỏi, nhưng thắc mắc vì sao cậu không dùng mana giết họ. Zeon trả lời họ không phải kẻ thù đáng giết, chỉ là những người đi con đường khác; Neria có vẻ không hài lòng với cách nghĩ này.
+
+Đêm đó, Zeon khó ngủ trong nhà nghỉ đá núi lửa vì Pankrena rung chuyển mạnh, khói xám dày hơn ban ngày nhưng xung quanh lại im lặng bất thường. Cậu ra ngoài và gặp Neria đang nhìn núi lửa. Neria nói núi lửa đang khóc như một đứa trẻ tới tuổi trưởng thành, đau đớn vì lớn lên; Zeon hiểu nếu nỗi đau càng lớn, vụ phun trào càng lớn và có thể đe dọa cả El Harun. Hai người nói về Neo Seoul: Zeon giải thích thành phố có hơn hai mươi triệu người dựa vào nó, con người yếu hơn các chủng tộc khác nên phải tụ lại để sinh tồn, và kiêu hãnh vô nghĩa nếu đã chết. Neria, vốn không mấy quan tâm tới con người Kurayan, học được cách nghĩ này rồi nói Zeon có vẻ là người tốt, hy vọng cậu sống lâu, vì vậy khuyên cậu quay lại từ đây.
+
+## Chương 430
+
+Tagol nhận báo cáo từ Pankrena Rangers rằng Zeon và Neria không có hành vi đáng ngờ trong thời gian bị giám sát. Hắn vẫn đặc biệt khó chịu với Zeon vì là con người ngoại lai, nhưng chỉ thu được thông tin Zeon áp đảo Corin và Shaping bằng thể chất thuần túy, đồng thời thành thạo ma pháp lửa. Tagol không tin nổi vì elves thường vượt xa con người về phản xạ, tốc độ, thị lực và cảm nhận mana, nhưng vẫn ra lệnh gửi toàn bộ thông tin về El Harun để theo dõi Zeon sát sao. Hắn cũng phớt lờ các chấn động Pankrena ngày càng ngắn lại, vì trước đây điều tra viên El Harun từng nhiều lần kết luận không có dấu hiệu phun trào và sau này không còn ai quan tâm báo cáo của hắn.
+
+Sáng hôm sau, thương đội Hodran và nhóm Uslann cùng khởi hành tới El Harun, cách Pankrena hai ngày đường. Vì khu vực vẫn thuộc lãnh thổ El Harun nhưng không có trường phản ma pháp như Neo Seoul, họ phải cảnh giác với ma thú dù đường có vẻ an toàn. Zeon đi ở cuối đội, cảm thấy bình tâm trước sa mạc đen, rồi chiếc gương đồng nhặt từ Derod bất ngờ rung trong áo. Cậu định lấy ra nhưng dừng vì có quá nhiều ánh mắt, đúng lúc Neria tiến lại gần mà cậu không nhận ra.
+
+Neria đi chân trần trên cát nóng, nói thích cảm nhận năng lượng tự nhiên trực tiếp. Khi cô mỉm cười, tâm trí Zeon dao động như linh hồn bị kéo đi, nhưng chiếc gương đồng lại rung mạnh và kéo cậu tỉnh táo, khiến cậu nghi chiếc gương có liên hệ với Neria và Neria có liên quan tới dungeon/Black Queen. Neria nhắc lại lời khuyên cậu quay lại, nhưng nói cô tôn trọng lựa chọn của mỗi người và hậu quả họ tự gánh. Zeon đồng tình vì với cậu, đời người là chuỗi lựa chọn, thà tự chọn và chịu kết quả còn hơn giao số phận cho kẻ khác. Cậu cảm nhận từ Neria một mùi nguy hiểm nhưng vẫn chọn đi cùng.
+
+Neria nhìn sa mạc và nói nơi này cằn cỗi, nhưng phản ứng mạnh khi Zeon hỏi cô có thương hại cậu hay không. Gió nổi lên, và Neria bắt đầu hát về một cô gái từng mơ sống giản dị, yêu và sinh con, được gió, đất và thần linh chúc phúc, nhưng bị các vị thần quay lưng và cười nhạo bất hạnh. Bài hát nói cô gái là búp bê bị treo trên dây vận mệnh của thần, nhưng “ta” đã cắt đứt những sợi dây trong thế giới không còn tìm thấy hương thơm của người. Zeon rùng mình vì giọng hát lạnh lẽo, trong khi toàn bộ thương đội và nhóm Uslann đều mê mẩn như bị bỏ bùa, khiến cậu nhận ra tình hình cực kỳ nguy hiểm.
+
+## Chương 431
+
+Garante, tư tế cuối cùng của Highlanders ở El Harun, cầu nguyện trong không gian trắng tinh trước quả cầu pha lê thánh vật được mang từ Kurayan. Highlanders từng là chủng tộc thông linh với thần linh trên các ngọn núi cao, nhưng từ khi vượt sang Trái Đất hơn trăm năm trước, thần linh không còn đáp lời. Garante biết nếu ông chết, số Highlanders ít ỏi còn lại ở El Harun có thể biến mất khỏi lịch sử, nên càng cầu nguyện tha thiết. Lần đầu tiên sau hơn một thế kỷ, quả cầu phát sáng như đáp lại, nhưng ngay sau đó nứt ra, các vết nứt tạo thành hình một con rắn đang bò, báo hiệu điềm dữ liên quan Black Queen.
+
+Zeon tiến vào lãnh địa El Harun và cảm nhận mana cực kỳ đậm đặc tụ trong vùng đất, giống những nơi thường bị ma thú cấp S chiếm giữ. El Harun nằm sau một kết giới ảo giác che giấu hẻm vực khổng lồ giữa sa mạc. Lối vào hẻm vực được Elven Rangers ẩn nấp canh giữ, trong đường đi có nhiều bẫy giết ma thú và con người, kể cả mana particle cannon ngụy trang trong vách đá. Zeon nhận ra đây là cổng tử thần tương xứng với pháo đài cuối cùng của các chủng tộc khác, giống Neo Seoul là hy vọng cuối cùng của nhân loại.
+
+Trước tường thành El Harun cao ngang Neo Seoul, đội trưởng lính gác kiểm tra nhóm Uslann và thương đội Hodran. Zeon được Uslann bảo chứng vì hỗ trợ săn Derod, còn Neria được Hodran bảo chứng vì bị “cứu” trong sa mạc. Một pháp sư elf dùng mặt dây chuyền lời nguyền của Ferino để buộc họ thề không gây hại El Harun. Zeon thề mà không lo vì kháng nguyền từ trải nghiệm với Reaper's Scythe khiến lời nguyền này quá yếu. Neria cũng thề không ngập ngừng, nhưng mặt dây lóe bất ổn rồi trở lại bình thường; pháp sư tưởng mình nhìn nhầm và cho cả hai vào.
+
+## Chương 432
+
+Cổng El Harun mở ra, để lộ làn sóng mana khổng lồ và một thành phố trong hẻm vực hình chiếc chum. Dwarves khoét đường hầm dọc vách đá, nhiều công trình quân sự gắn mana cannon vào vách, còn trung tâm là rừng đá kiến trúc trung cổ Kurayan. Nổi bật nhất là khu rừng nhỏ với một World Tree khổng lồ nhưng đang héo úa. Neria giải thích đây không phải World Tree thật mà là cây ép mọc từ một nhánh được mang từ Kurayan; World Tree thật chỉ mọc mạnh từ hạt giống duy nhất, còn cây mọc từ cành không thể chống đỡ thế giới lâu dài. Nếu cây chết, các kết giới nó duy trì cho El Harun sẽ sụp đổ.
+
+Zeon nhớ tới hạt giống World Tree từng rơi vào tay mình ở Mỏ Ma Thạch và hiện do Gaia giữ, cảm thấy số phận đang trêu ngươi khi El Harun lại tuyệt vọng vì cây mọc từ cành đang chết. Uslann giao Jupiro dẫn Zeon và Neria tới chỗ nghỉ, nhưng Neria muốn đi tham quan El Harun trước. Jupiro tự hào hứa sẽ cho họ thấy thành phố tiên tiến nhất Trái Đất, nhưng Zeon so với Neo Seoul thì không thấy quá ấn tượng.
+
+Trong khi đó, Uslann tới Hall of Guardians ở khu con người, nơi mọi chiến binh/Thức Tỉnh Giả loài người thuộc về. Goldwyn, đội trưởng chiến binh Guardians, đưa Uslann gặp Riala, lãnh chúa Hall of Guardians, đang bàn với Garante về quả cầu pha lê nứt. Uslann báo Derod chết nhưng Sừng Đen không thu hồi được vì hắn đã mở dungeon Black Queen và Black Queen đã rời đi trước khi họ tới. Riala và Garante hiểu thảm họa đang tới, lập tức yêu cầu triệu tập Hội Đồng và thậm chí báo Del Roa nếu bị trì hoãn. Garante dùng quả cầu phát hiện Uslann đã bị Black Queen mê hoặc; khi Uslann kể đã gặp Zeon và Neria, Riala nhận ra Neria chính là Black Queen và kinh hoàng vì bà đã vào trong El Harun.
+
+## Chương 433
+
+Jupiro dẫn Zeon và Neria tới Uron-ga, khu nghèo tương đương khu ổ chuột của El Harun. Nơi này được đặt theo Thánh Uron, một High Elf hơn ba trăm tuổi được toàn thành phố kính trọng vì đã rời khu World Tree giàu có để sống giữa người nghèo, chăm trẻ mồ côi, chữa bệnh và giúp người bệnh chết không đau đớn. Tuy nhiên, Neria lập tức chỉ đúng nhà Uron dù chưa từng tới, ánh mắt lạnh lẽo khiến Jupiro bất an. Khi hắn cố chặn cô, Neria nói mình kế thừa việc của Derod rồi dùng quyền năng vô hình khóa miệng và cơ thể Jupiro.
+
+Neria hỏi Zeon có ngăn mình không; cậu nói không, vì cậu cũng là người lạ ở El Harun và không có nghĩa vụ báo cho họ dù đã đoán ra thân phận cô. Neria nói mình là tạp chất trong thế giới này, còn Zeon đáp cậu chỉ là người lạ ở đây, chứ ở Neo Seoul cậu là công dân có nhà. Neria bày tỏ muốn thấy Neo Seoul. Sau đó cô vào nhà Uron, nơi trẻ em nhiều chủng tộc chơi trong sân và Uron ngồi cười hiền trên ghế mây.
+
+Neria đối mặt Uron và nhắc Brula. Cô tố Uron dụ dỗ trẻ em bằng lời ngọt, trong đó có Brula, rồi ném chúng xuống tầng sâu cho “đứa con sinh ra từ tội lỗi” của ông để xóa chứng cứ. Uron bỏ mặt nạ nhân từ, kích hoạt kết giới quanh nhà và gọi beastkin hộ vệ, tự tin Uron-ga là vương quốc của ông vì ông được elves, beastkin và cả High Elves bảo vệ. Uron thừa nhận thế giới không còn hy vọng, El Harun chỉ là nhóm khách không mời trên Trái Đất, nhưng phủ nhận tội ác. Khi ông ném fireball cấp A vào Neria, cô không bị hại và trong ngọn lửa, Uron thoáng thấy bóng một con rắn khổng lồ.
+
+## Chương 434
+
+Uron tưởng mình nhìn nhầm hoặc Neria dùng ảo giác, nên ra lệnh beastkin xé xác cô và định cho Nokhan ăn cô. Beastkin biến thành ba người sói và hai người gấu. Một người gấu lao vào Zeon, nhưng cậu chỉ dùng thể thuật né và đánh vào các yếu huyệt, liên tục nện mặt nó cho tới khi bất tỉnh mà không giết, vì cậu đã thề bằng vòng cổ Ferino không gây hại El Harun và không tới để gây chuyện. Trong khi đó, các beastkin tấn công Neria đều quằn quại, mặt đen lại, miệng trào máu bọt.
+
+Neria tự xưng là kẻ báo thù/nữ thần báo thù vì Derod đã dâng chính mình cho cô, nên cô phải thực hiện nguyện vọng của hắn. Uron dùng Inferno mạnh hơn fireball rất nhiều, nhưng Neria bước trong lửa như đi dạo. Cô nói Derod không thể tự trả thù vì ảnh hưởng của Uron quá lớn, Red Locust không vào được El Harun do kết giới, nên hắn đánh cắp Sừng Đen, hồi sinh Black Queen và phó thác báo thù cho cô.
+
+Uron gọi Nokhan, một quái vật gorilla bọc giáp sắt cao khoảng năm mét bị giam dưới sân. Nokhan là dị biến sinh ra từ tội lỗi của Uron với một phụ nữ beastkin bị ông cưỡng đoạt; người mẹ nguyền rủa cả Uron lẫn đứa trẻ và bị Nokhan ăn ngay khi sinh nó. Uron chỉ có thể kiểm soát Nokhan phần nào bằng lời nói. Khi Nokhan cắn đầu Neria, tóc đen của cô biến thành hàng trăm, hàng nghìn con rắn trườn ra khỏi miệng Nokhan, khiến Uron kinh hoàng.
+
+## Chương 435
+
+Tóc Neria biến thành vô số rắn mảnh như sợi len, khiến Uron kinh hoàng và Nokhan bị tê liệt khi một con cắn vào lưỡi. Neria thương hại Nokhan vì nó không chọn sinh ra như quái vật nhưng phải gánh tội của cha; cô tự nhận sẽ là mẹ của nó, dùng rắn cắn vào đầu Nokhan để mê hoặc nó. Nokhan lập tức đổi chủ, nhìn Neria bằng sự tôn kính và tình yêu, rồi quay sát ý về phía Uron. Neria bảo Nokhan báo thù cho mẹ ruột của nó, khiến Uron sợ hãi vì lần đầu Nokhan thù địch với ông.
+
+Neria ép Uron nói tên thật của cô. Ông nhớ truyền thuyết về dark elf bị thần nguyền, tóc biến thành rắn, người nhìn vào mắt sẽ hóa đá: có người gọi là Medusa, có người gọi là Black Queen. Uron không dám nói hết tên vì sợ nguyên thủy. Neria tố ông đã thèm muốn, chà đạp, giết và làm ô uế cả xác những đứa trẻ. Khi Uron định chạy, Nokhan cắn đứt cẳng tay ông; Uron giải kết giới và lao ra ngoài.
+
+Bên ngoài, Riala dẫn lực lượng Hall of Guardians, đi cùng Garante và nhiều chủng tộc khác, đã bao vây nhà Uron. Uron cầu cứu, nói Black Queen ở trong nhà. Riala và Garante đã biết Uslann bị mê hoặc nhưng vẫn chấn động khi chính Uron xác nhận. Nokhan phá tường lao ra, Garante nhận định nó không phải ma thú mà là dị biến sinh ra từ elf và beastkin, làm dấy nghi vấn vì sao nó ở nhà Uron. Khi Neria bước ra với mái tóc rắn, mọi người xác nhận bà là Black Queen và hiểu chính nhóm Uslann đã đưa tai họa vào El Harun; lời thề bằng vòng cổ Ferino hoàn toàn vô dụng trước quyền năng của bà.
+
+Riala chất vấn Neria, nhưng Neria nói bà bị gọi là Black Queen chỉ vì là dark elf da đen và hỏi nếu bà là ma thú thì vì sao kết giới El Harun cho bà vào. Garante khăng khăng bà chắc dùng artifact và mọi lời của bà là dối trá. Neria nói mình đến để thực hiện nguyện vọng của tín đồ Derod: báo thù Uron vì ông làm nhục Brula rồi ném cô cho Nokhan ăn. Uron phủ nhận, Garante tin Uron vì hình tượng Thánh Uron chăm sóc trẻ em quá lâu đời. Lúc đó Zeon lên tiếng rằng Nokhan là con trai Uron. Riala hỏi thân phận cậu; khi Zeon nói mình đến từ Neo Seoul, bà lập tức coi cậu là kẻ thù.
+
+## Chương 436
+
+Riala kết luận Zeon là kẻ thù vì cậu đến từ Neo Seoul và xuất hiện cùng Black Queen. Zeon giải thích mình không tự ý đến mà được Uslann mời đi cùng vì vụ Derod, Uslann xác nhận lời đó, nhưng Riala cho rằng Uslann đã bị ảo giác của Black Queen lừa. Corin, Shaping và Dempleton lợi dụng cơ hội để tố Zeon có âm mưu từ đầu và luôn ở gần Black Queen, khiến thù địch với Zeon dâng cao. Goldwyn, đội trưởng Hall of Guardians, đề nghị tiêu diệt cả Neria lẫn Zeon để giảm tổn thất El Harun, và Riala ra lệnh giết.
+
+Neria xin lỗi vì kéo Zeon vào rắc rối, nhưng cậu nói dù không có cô, El Harun cũng sẽ không để một người Neo Seoul rời đi tự do. El Harun vốn cực kỳ cảnh giác Neo Seoul vì biết đó là đỉnh cao văn minh nhân loại, vượt xa họ trong magitech, nhất là sự kết hợp ma pháp và khoa học. Họ giấu mình vì sợ một ngày Neo Seoul phát hiện và xâm lược, nên Zeon bị nhìn như gián điệp.
+
+Goldwyn dẫn hàng trăm guardians tấn công Neria. Cô dùng Scales of Protection tạo rắn khổng lồ làm barrier, rồi Wrath of the Serpent tách thành hàng trăm bóng rắn cắn các Thức Tỉnh Giả, gây độc tức tử. Garante dùng quyền năng Highlander thanh tẩy độc và ban Blessing of Hamora, phúc lành còn sót từ nữ thần Hamora đã chết, giúp guardians tạm quên sợ và tăng sức mạnh. Goldwyn lao vào bằng Aura Blade nhưng bị Neria gạt bay. Cô tiếp tục tạo rắn nổ, axit làm tan thịt/xương; đồng đội buộc phải chặt tay chân người trúng độc hoặc giết những người bị tan đầu/thân để giải thoát, khiến guardians căm hận Black Queen hơn.
+
+## Chương 437
+
+Hội Đồng họp trong tòa nhà cổ gần World Tree nhưng chỉ có bốn thành viên tới: Hera, thủ lĩnh thực tế của elves; Kelota, tù trưởng Giant Dwarves; Repo, thủ lĩnh beastmen; và Taboaru, thủ lĩnh Zela. Dù Riala đã cảnh báo Black Queen vào El Harun, nhiều thành viên coi nhẹ vì người báo là con người và tin kết giới thành phố không bị xáo trộn. Crudu, tù trưởng giants và chủ tọa Hội Đồng hiện tại, cũng không xuất hiện, cho thấy sự xem thường lời Riala. Hera là người duy nhất phần nào đánh giá Riala công bằng và lo lắng vì chia rẽ giữa con người và các chủng tộc khác ngày càng sâu sau khi Del Roa rút lui.
+
+Một elf lao vào báo Black Queen đã xuất hiện và hơn một trăm Thức Tỉnh Giả chết, Hall of Guardians đang cầm chân nhưng không trụ nổi. Hera lập tức triệu tập chiến binh elf và rời đi; Kelota, Repo, Taboaru cũng buộc phải đi theo vì nếu trì hoãn sẽ bị chính dân mình lên án.
+
+Trên chiến trường, guardians của Hall đã kiệt quệ, chỉ nhờ Highlanders của Garante tới mới không bị quét sạch. Uron cố lùi để chạy nhưng Nokhan phát hiện và lao tới. Trong hoảng loạn, Uron gọi Nokhan là con trai mình trước mặt mọi người, vô tình thừa nhận lời Neria về tội ác của ông. Riala nghi ngờ nhưng tạm gác để ngăn Neria và Nokhan. Khi Uron chớp cơ hội bỏ chạy, Zeon dùng fireball đánh gục ông, nói kẻ gây ra vấn đề phải tự đối mặt với nó. Uron đe dọa Zeon sẽ bị cả El Harun truy sát nếu hại mình, nhưng Zeon lạnh lùng nói cậu không quan tâm.
+
+## Chương 438
+
+Uron nhận ra mọi bí mật của mình nằm dưới nhà: nơi giam Nokhan, hài cốt những đứa trẻ bị cho nó ăn, và vô số chứng cứ khác. Ông nhớ Brula là đứa trẻ sống động và đẹp nhất mình từng chiếm đoạt nhưng cũng chống cự mạnh nhất, buộc ông phải giết nhanh. Ông từng xem Derod là kẻ ẩn dật vô hại, nhưng Derod đã dùng côn trùng tìm ra sự thật, đánh cắp Sừng Đen và hồi sinh Black Queen để báo thù. Zeon đọc rõ ánh mắt Uron vẫn chỉ tính né trách nhiệm nên thấy ghê tởm và định dùng Fire Missiles kết liễu ông.
+
+Hera xuất hiện chặn đòn, cứu Uron, cùng hơn một nghìn viện quân gồm elves, Giant Dwarves, Zela mages và beastmen. Repo bảo Riala và con người rút lui vì Hall of Guardians không xử lý được Black Queen, khiến Riala nhục nhã nhưng phải chấp nhận để giữ lực lượng còn lại. Kelota và Repo khinh thường Neria nhưng bị cô chế giễu là dwarf lùn và thú hôi. Taboaru ra lệnh pháp sư tấn công, mở màn cho đợt oanh kích tổng lực của các chủng tộc.
+
+Neria không né mà hứng toàn bộ đòn: fire missiles, rìu, băng, kiếm, để máu đổ xuống đất. Khi mọi người tưởng đã thắng, vô số rắn tràn ra từ khói. Kelota nhớ truyền thuyết “từ máu của bà, con cái sẽ được sinh ra” và hiểu Neria cố ý chịu đòn để máu sinh rắn. Trong số rắn có Flying Serpents gọi là Bisa, cắn ai là chết vì độc. Neria hiện hình thật: thân trên phụ nữ, thân dưới rắn, Sừng Đen mọc trên trán đúng vị trí, rồi ra lệnh các con mang hủy diệt tới El Harun.
+
+## Chương 439
+
+Hàng vạn con rắn sinh từ máu Neria tấn công các Thức Tỉnh Giả El Harun. Chúng không sợ chết, chỉ tuân lệnh mẹ. Các chiến binh El Harun vẫn mạnh mẽ chống trả, dùng aura, ma pháp và healer để chặn độc, uống antidote hoặc chặt chi để sống. Nhưng rắn không ngừng sinh thêm từ máu Neria, càng về sau càng to và mạnh, khiến thương vong tăng và tinh thần phòng tuyến lung lay.
+
+Kelota, Repo và Taboaru cố tấn công Neria trực tiếp, nhưng cơ thể bà được một barrier đen bảo vệ, phản đòn vật lý và tán ma pháp ra ngoài gây hại đồng minh. Rắn khổng lồ dài hai mươi đến ba mươi mét xuất hiện quanh bà, mạnh ngang great-class monsters, đánh bật mọi kẻ áp sát. Taboaru hối hận vì không triệu tập toàn bộ Hội Đồng ngay từ đầu. Khi phòng tuyến bắt đầu nứt và rắn sắp tràn tới dân thường, Osoro cùng Shadow Clan xuất hiện, dùng shadow barrier phong rắn lại.
+
+Viện quân dựng Mana Particle Cannons, vũ khí chết chóc nhất của El Harun, bắn liên tục vào barrier của Neria cho tới khi tất cả pháo quá tải và nổ tung. Hera, đang kiềm chế Zeon, tin Black Queen đã bị thương nặng vì văn minh hiện đại sẽ quét sạch cái cũ. Zeon phản bác rằng sức mạnh El Harun vẫn không vượt qua Neo Seoul, khiến Hera phẫn nộ. Cậu nói El Harun trốn vì sợ sức mạnh nhân loại: cá nhân con người yếu nhưng ý chí và quyết tâm đã xây Neo Seoul từ tay trắng, và các chủng tộc khác áp bức con người El Harun vì sợ họ cũng xây được nền văn minh riêng như Neo Seoul.
+
+## Chương 440
+
+Hera bị Zeon vạch trần nỗi sợ và sự ghen tị với nhân loại nên nhục nhã, không thể phủ nhận vì ánh mắt Zeon như nhìn xuyên sự dối trá. Bà tấn công cậu bằng Holy Light Bow và kỹ năng Death’s Pursuit, tạo nhiều mũi tên ánh sáng đi các quỹ đạo khác nhau nhưng trúng cùng lúc. Zeon dùng Fire Rain dày như mưa để kích nổ toàn bộ, rồi lao qua biển lửa áp sát Hera. Khi nắm đấm bọc gauntlet lửa của cậu sắp đánh trúng, Riala nhảy vào đỡ, quyết định tạm gác chia rẽ con người/elf để giết Zeon trước rồi tái hợp với Kelota và các thủ lĩnh khác.
+
+Riala và Hera phối hợp tự nhiên dù không luyện cùng: Riala cận chiến bằng nắm đấm, Hera hỗ trợ tầm xa. Zeon thán phục tổ hợp võ giả/pháp sư hoàn hảo, nhưng vẫn đọc được nhịp tấn công và phá mũi tên Hera bằng Fire Missiles. Cậu nhận ra Death’s Pursuit mạnh nhưng nổ khi chịu tác động nhỏ nhất; Hera thiếu kinh nghiệm thực chiến nên không đổi kỹ năng cho tới khi Riala chỉ ra điểm yếu và yêu cầu dùng đòn có xuyên phá.
+
+Hera đổi sang Laser Shot, tia sáng tập trung có sức xuyên thủng Fire Missiles và khoan lỗ sâu xuống đất, đủ uy hiếp cả Zeon. Zeon nhận ra không thể tiếp tục kiềm chế vì Hera đã thức tỉnh đúng cách, nên chuyển sang kết thúc nhanh. Cậu đánh Riala bằng nắm đấm tích mana vào bụng, rồi áp sát, túm tóc kéo đầu bà ra sau và siết cổ, dùng Riala làm khiên trước Laser Shot của Hera. Hera giận dữ nhìn Zeon chế nhạo sau lưng Riala, cuối cùng vẫn buông dây.
+
+## Chương 441
+
+Hera dùng Laser Shot uốn cong quỹ đạo, buộc Zeon phải thả Riala ra khi tia sáng nhắm vào đầu cậu. Zeon không chết vì đã dùng Inferno Gauntlet che chắn, cho thấy trang bị của cậu đủ sức chặn cả đòn xuyên phá ánh sáng của Hera. Cậu lập tức áp sát Hera bằng tốc độ như dịch chuyển, chặn Holy Light Bow bằng gauntlet rồi dùng White Phosphorus Flame ép bà phải duy trì Holy Shield liên tục, vô hiệu hóa khả năng tấn công của Hera.
+
+Riala nhận ra Zeon đang chia cắt từng đối thủ và buộc phải dốc toàn lực. Bà kích hoạt Soul of Steel, armguard S-rank từ Kurayan, để tăng ý chí, sức mạnh thể chất và aura, rồi dùng võ thuật cấm Bombing of Iron. Môn võ này do một người ở Kurayan sáng tạo sau khi cả gia đình bị chủng tộc khác sát hại; nó cực đoan, tàn bạo, dùng mọi bộ phận cơ thể và mọi cách giết chóc để diệt địch. Dù Riala trút ra chuỗi tấn công điên cuồng khiến Zeon lùi bước, cơ thể được tôi luyện bởi Dyoden, ma pháp lửa và Inferno Gauntlet giúp cậu chịu đựng được. Khi Riala kiệt sức, Zeon phản công bằng nắm đấm bọc lửa và Fire Rain, đánh gục bà trong một chuỗi áp sát rồi oanh kích chính xác.
+
+## Chương 442
+
+Riala trọng thương nhưng vẫn khẳng định El Harun sẽ không thua Zeon hay Black Queen. Zeon cho rằng bà chỉ đang sủa chứ chưa còn sức cắn, rồi chuyển chú ý sang Uron. Uron hoàn toàn mất mặt nạ cao quý, gọi Nokhan là con trai mình để cầu cứu trước mặt tất cả, qua đó xác nhận lời Neria rằng Nokhan là đứa con lai bị ông giam giữ và nuôi bằng xác trẻ em. Nokhan lao tới nhưng không cứu cha; nó cắn nát đầu Uron và ăn ông ngay trước mắt mọi người.
+
+Các elf và Thức Tỉnh Giả kinh hoàng tấn công Nokhan, nhưng Zeon hiểu nó đã buông bỏ sự sống sau khi hoàn thành mục đích duy nhất. Với nó, cái chết là giải thoát. Khi Nokhan nhìn Zeon như cầu xin, Zeon dùng nắm đấm bốc cháy kết liễu nó. Riala biết sự thật về Uron và Nokhan thì hổ thẹn, nhưng vẫn lo Black Queen sẽ giết người vô tội. Zeon buộc bà đối diện câu hỏi liệu cư dân El Harun thật sự vô tội hay không, khi chính họ đã làm ngơ trước tội ác của Uron và Derod.
+
+Trong lúc đó, Neria dùng cả rắn khổng lồ lẫn rắn nhỏ như sợi chỉ để phá chiến tuyến. Những con rắn nhỏ len lỏi cắn trúng Taboaru và nhiều Thức Tỉnh Giả, buộc các priest phải liên tục chữa trị. Shadow Clan dựng barrier giữ rắn lại nhưng barrier nứt dần. Garante hiểu phải mở một cơ hội duy nhất để đánh thẳng vào Neria, nên tuyên bố sẽ khởi động Godslayer’s Will và yêu cầu Highlanders truyền sức mạnh cho mình.
+
+## Chương 443
+
+Highlanders từng mất liên hệ với thần khi sang Trái Đất, nhưng vẫn giữ một Godslayer: Necklace of Radiance, di vật của nữ thần Hamora thuộc Twelve High Gods. Godslayer là vũ khí do thần tạo ra để giết thần, gần như không thể được người thường sử dụng. Highlanders có thể vận hành Necklace of Radiance bằng nghi thức tập thể, nhưng cái giá là tuổi thọ và sinh lực của cả tộc nhân tham gia. Garante nhận sức mạnh từ các Highlanders, kích hoạt ánh sáng thần thánh và dùng danh nghĩa Hamora kết án Black Queen.
+
+Cột sáng từ Necklace of Radiance đánh trúng Neria, phá tan barrier của Shadow Clan và thổi bay một nửa cơ thể bà. Garante và các Highlanders lập tức già đi hàng chục năm, kiệt sức, nhưng Neria vẫn sống. Máu bà gọi ra một con đại xà khổng lồ, hấp thu tất cả những con rắn được sinh ra trước đó, rồi hợp nhất với nửa thân còn lại của Neria. Tâm trí bà gần như tan vỡ, chỉ còn bản năng nuốt chửng mọi thứ và tiến về World Tree.
+
+Repo, Taboaru, Kelota và các thủ lĩnh khác dốc sức tấn công nhưng không để lại nổi vết xước trên vảy đại xà; độc của Neria còn làm tan chảy những người trúng phải. Khi World Tree rơi vào nguy cơ trực tiếp, Krudu, tù trưởng Giants và chủ tịch Hội Đồng, cuối cùng xuất hiện. Ông cao hơn năm mét, tung một đòn đủ khiến đầu con rắn dài bảy mươi mét chao đảo, kéo lại hy vọng cho El Harun.
+
+## Chương 444
+
+Krudu xuất hiện cùng các chiến binh Giants trưởng thành, giúp tinh thần El Harun hồi phục. Giants có cơ thể như vũ khí sống và sức kháng ma pháp tự nhiên, trở thành lực lượng đủ sức cầm chân Neria sau khi những đòn của các thủ lĩnh khác thất bại. Trong lúc Zeon quan sát trận chiến, một phụ nữ áo đen đáp xuống sau lưng cậu. Gương mặt cô bị làm mờ như phủ sương, không phải do kỹ năng hay vật phẩm; cô là Deva, thành viên Hội Đồng thuộc Abyssal Race, chủng tộc bí ẩn sinh ra từ Pool of the Abyss ở Kurayan.
+
+Deva dùng Hellfire nuốt White Phosphorus Flame, giải thoát Hera khỏi thế bị khóa chết, rồi chữa trị cho Riala. Hera và Riala trở lại chiến tuyến chống Black Queen, còn Deva ở lại hậu phương, vừa hỗ trợ vừa canh chừng Zeon. Zeon nhận ra Deva biết tên thật Neria và có quan hệ sâu với bà. Khi cậu gặng hỏi, Deva phủ nhận rằng tộc mình tạo ra Neria nhưng vẫn che giấu sự thật, chỉ muốn Zeon rút lui.
+
+Trên chiến trường, Neria bắn ra tia đỏ hóa đá Kelota, rồi tiếp tục hóa đá Repo và Riala. Việc cả các thủ lĩnh S-rank cũng bị hóa đá chứng tỏ Neria đã vượt cấp họ. Nếu World Tree bị phá hủy, El Harun sẽ sụp đổ. Zeon hỏi vì sao Deva không dùng Hellfire; cô thừa nhận mình không thể xuống tay vì tội lỗi. Zeon nói nếu cô không tự nhuộm máu tay, người khác phải làm thay, và ép cô nói ra sự thật trước khi cơ hội cứu Neria biến mất.
+
+## Chương 445
+
+Deva kể lại quá khứ của Neria. Ở Kurayan, các thần không toàn năng mà sống nhờ đức tin. Twelve High Gods là những vị có quyền năng lớn nhất, trong đó Ciela là Goddess of Harmony mà elves phụng sự, còn Trizian là God of Darkness mà dark elves tôn thờ. Neria từng là priestess được Trizian yêu quý và bảo hộ, một dark elf thuần khiết thề cả đời phụng sự ông, nhưng bà đã yêu một người đàn ông loài người và sinh con với ông trong bí mật.
+
+Neria giấu Trizian bằng một vật phẩm che mắt thần và mỗi năm chỉ thăm chồng con một lần. Khi Trizian nghi ngờ, ông ra lệnh theo dõi và biết được sự thật. Trong cơn thịnh nộ, ông huy động tín đồ và các chủng tộc khác săn đuổi Neria. Bà cùng chồng con chạy tới ngôi đền của Mars, Goddess of the Swamp bị lãng quên, để cầu xin che chở. Nhưng Mars quá yếu trước Trizian và đoàn săn. Người chồng bị giants xé xác, đứa con bị elves giết và moi tim đặt lên altar, còn Neria bị cắt mí mắt để phải chứng kiến tất cả, bị đồng tộc cắt gân, bị con người làm nhục, rồi bị Trizian khắc hàng nghìn vết thương và ném xuống đầm lầy chôn sống.
+
+Neria không thể chết trước khi báo thù. Oán hận của bà hòa với thần tính tàn lụi của Mars, cùng hận thù của mọi sinh vật yếu đuối dưới đầm lầy, biến bà thành Black Queen. Deva nói mục tiêu của Neria là phá hủy World Tree, khiến thế giới của El Harun sụp đổ như thế giới của bà và Mars từng bị phá hủy. Zeon thừa nhận nếu ở vị trí Neria, cậu cũng sẽ chọn trả thù như vậy, nhưng quá nhiều người sẽ chết nếu để bà tiếp tục.
+
+Khi Zeon hỏi quan hệ của Deva với Neria, cô tiết lộ mình đã hơn một nghìn tuổi và từng ở ngôi đền Mars. Deva và Neria thân thiết hơn chị em, nhưng khi Neria yêu con người và xa dần mình, Deva cảm thấy bị bỏ rơi. Sau khi Trizian ban thần dụ theo dõi Neria, chính Deva là người đã báo cho ông rằng Neria có con với loài người. Tội lỗi ấy khiến cô không thể tự tay chống lại Neria. Deva quỳ trước Zeon, cầu xin cậu giải thoát Neria khỏi lời nguyền và chấp nhận mọi hình phạt.
+
+## Chương 446
+
+Deva quỳ trước Zeon vì đã đánh mất niềm kiêu hãnh Abyssal từ ngày phản bội Neria một nghìn năm trước. Cô cầu xin Zeon giúp ngăn Black Queen, nhưng cậu lạnh lùng gọi cô là kẻ hèn nhát vì vẫn đẩy trách nhiệm của mình sang người khác. Lời quở trách khiến Deva tỉnh ra: chính cô đã khởi đầu bi kịch, nên cô phải tự đối mặt với Neria.
+
+Deva bay lên gọi Neria là chị, cố đánh thức bà, nhưng Black Queen đã gần như mất lý trí và chỉ đáp lại bằng hàm rắn, nọc độc, cùng những đòn tàn sát. Deva dùng Gravity ghì Neria xuống để Krudu, Taboaru, Hera, Garante và Osoro tấn công, rồi tự tung Hellfire vào thân trên Neria. Neria tỉnh lại trong khoảnh khắc, thừa nhận mình oán hận nhưng không muốn hủy diệt; thứ thúc đẩy bà là cơn thịnh nộ của Mars đã hợp nhất với bà. Neria cầu xin Deva giết mình, vì nếu còn sống bà sẽ hủy diệt tất cả.
+
+Neria nuốt Hellfire rồi phun ngược ra cùng nọc độc, hạ nhiều chiến binh và đánh văng Deva. Deva tuyệt vọng thừa nhận Black Queen là thảm họa do mình tạo ra. Zeon nhìn thấy nước mắt của Neria và hiểu bà thật sự muốn thoát khỏi địa ngục, nên quyết định can thiệp. Cậu bước về phía Neria không chút do dự, nhớ lại trận săn Leviathan, rồi triệu hồi Sand Soldier để bắt đầu đối đầu Black Queen.
+
+## Chương 447
+
+Zeon dùng cát vốn hiện diện khắp El Harun để triệu hồi hàng chục, rồi hàng trăm Sand Soldiers đã tiến hóa. Ban đầu các Thức Tỉnh Giả coi thường chúng, nhưng Sand Soldiers không biết đau hay sợ, bị vỡ nắm đấm thì đánh bằng cổ tay, vai, đầu, gối, bị nghiền nát thì lập tức tái sinh từ cát xung quanh. Nhờ số lượng và sức bền vô hạn miễn là Zeon còn mana, chúng dần phá vỡ lớp vảy cứng hơn kim cương của Black Queen.
+
+Các thủ lĩnh nhận ra Zeon là Sand Sorcerer, một năng lực không tồn tại ở Kurayan mà sinh ra trên Trái Đất. Zeon đồng thời dùng Sand Vipers, Sand Spears và nhiều cấu trúc cát để oanh kích Neria, trong khi nọc độc và tia hóa đá của bà gần như vô hiệu với thân thể đá của Sand Soldiers. Cậu cưỡi bão cát bay ngang tầm Neria, nói rằng sau Dyoden cậu không ngờ lại đối mặt với một vị thần nữa. Khi Neria biết Dyoden từng giết thần và dragon nhưng đã chết, bà thất vọng; Zeon đáp rằng điều Dyoden làm được, cậu cũng làm được.
+
+Zeon kéo dài cuộc trò chuyện để gom toàn bộ cát trong El Harun dưới thân Neria, rồi kích hoạt Sand Mixer, biến cát thành vòng xoáy khổng lồ mài vảy bà. Khi Neria bật khỏi Sand Mixer và cố nuốt cậu, Zeon né bằng bão cát, tiếp tục oanh kích bằng Sand Blasters, Sand Vipers và Sand Soldiers. Các Thức Tỉnh Giả kinh ngạc vì cậu vẫn chưa dùng ma pháp lửa, dù Corin từng nói sở trường của Zeon là lửa. Đúng lúc đó, Zeon kích hoạt Sand Gehenna, biến cát dưới thân Black Queen thành địa ngục nóng chảy dính đặc.
+
+## Chương 448
+
+Black Queen thét bằng siêu âm khiến vô số người gục xuống, chỉ các thủ lĩnh cấp cao còn đứng vững. Krudu và những người còn lại không chỉ kinh ngạc trước Neria mà còn sợ Zeon, vì năng lượng hủy diệt từ cậu giống một núi lửa sắp phun trào. Họ thậm chí cân nhắc nên giúp Zeon giết Black Queen hay giết chính Zeon trước, nhưng Krudu tự thấy xấu hổ vì họ đang ghen tị và sợ hãi trong khi một người ngoài chiến đấu để bảo vệ El Harun. Ông quyết định tham chiến, kéo theo các chiến binh khác.
+
+Nhờ Sand Gehenna thiêu sạch máu Neria, rắn mới không thể sinh ra, phong tỏa ưu thế số lượng của Black Queen. Khi bị dồn ép, Neria tự làm nổ thân rắn khổng lồ, biến máu, vảy và thịt thành mảnh đạn, rồi lột xác thành chân thân nhỏ hơn: một phụ nữ tái nhợt với cánh đen và nửa thân dưới rắn, tỏa ra thần lực áp đảo. Cuộc chiến thật sự giữa Zeon và Neria bắt đầu trên không, ngoài tầm với của các thủ lĩnh.
+
+Zeon dùng mọi sức mạnh trừ Exion, vì đó là lá bài cuối không thể để lộ trước đám đông. Robe làm từ da Leviathan giúp cậu chịu được đòn của Neria và hồi phục nhanh. Cậu dùng Claymores làm dao động trường năng lượng của bà, rồi phóng White Phosphorus vào khe hở. Neria định hấp thu ngọn lửa như Deva từng làm, nhưng Zeon kích nổ nó trong tay bà, thổi bay cánh tay dưới khuỷu. Sau đó cậu triệu hồi Sand Soldiers đè Neria xuống, biến chúng thành dung nham bằng Sand Gehenna, rồi chuẩn bị kết liễu bằng Sand Mixer.
+
+## Chương 449
+
+Không còn vảy, cơ thể Neria rất mong manh trước Sand Mixer nóng rực của Zeon. Trường năng lượng bảo vệ bà bị mài vỡ, thịt bị nghiền thành hạt nhỏ hơn cát. Mars trong lõi bà gào thét, không chấp nhận biến mất và cố dùng thần lực chữa lành, nhưng Neria áp chế ý chí của nữ thần. Bà hiểu cơn giận của mình chưa mất hết, nhưng thế giới đã hủy hoại bà không còn nữa, nên bà không muốn phá hủy thế giới còn lại. Neria quyết định kết thúc cả Black Queen, cả chính mình, lẫn chấp niệm của Mars.
+
+Neria yêu cầu Zeon xóa mình khỏi thế giới hoàn toàn, thiêu đến mức không còn một tế bào để chấp niệm Black Queen không thể hồi sinh. Trước khi biến mất, bà trao cho Zeon vảy của great dragon Arkaid, một ancient dragon đã trở về với tự nhiên. Zeon cất nó vào subspace. Khi chỉ còn thân trên và gương mặt, Neria hỏi mình trông thế nào; Zeon nói bà đẹp. Bà biết đó là lời nói dối và muốn nhìn chiếc gương đồng từng thuộc về Derod.
+
+Neria dùng tia hóa đá bắn vào gương, để tia phản chiếu lại chính mình và tự biến thành đá, cắt đứt cơ hội hồi sinh cuối cùng. Sand Mixer nghiền nát Neria hóa đá cho tới khi không còn dấu vết, Black Queen bị hủy diệt hoàn toàn. Những người từng bị quyền năng của bà khống chế, kể cả Repo và Riala, tỉnh lại. Tất cả hiểu Zeon là người đã đánh bại Black Queen. Các chủng tộc vốn khinh thường con người không biết phải tiếp cận cậu thế nào, nên Riala thay mặt họ cảm ơn.
+
+Riala đưa Zeon tới một căn nhà trống cũ trong khu con người vì các chủng tộc khác vẫn từ chối đối đãi cậu như anh hùng do cậu từng vào El Harun cùng Black Queen. Hội Đồng cử chiến binh các tộc canh quanh nhà để giám sát Zeon vì sợ hãi. Riala giao Danny, một thiếu niên D-rank Awakened ở khu con người, làm người hầu cận Zeon. Danny ngưỡng mộ Zeon như vị cứu tinh vì cậu là con người đầu tiên cậu bé thấy có thể áp đảo các chủng tộc khác. Zeon chỉ muốn nghỉ ngơi và nhanh chóng ngủ sâu, khiến Danny kinh ngạc vì cậu không hề có vẻ chịu áp lực.
+
+## Chương 450
+
+Hội Đồng El Harun họp với mười thủ lĩnh để bàn cách đối đãi Zeon. Riala cho rằng Zeon là ân nhân đã giết Black Queen và xứng đáng được tôn trọng, nhưng Kelota cố đổ trách nhiệm cho cậu vì cậu vào El Harun cùng Neria. Nhiều thủ lĩnh khác im lặng ngầm đồng tình với Kelota, khiến Riala bùng nổ. Bà chửi thẳng Hội Đồng đạo đức giả, chỉ ra họ khinh thường con người nhưng lại đang cố lờ đi món nợ với Zeon.
+
+Riala tuyên bố nếu Hội Đồng tiếp tục đối xử với con người như người ngoài, bà sẽ đưa toàn bộ con người rời khỏi El Harun. Lời này khiến Kelota và các thủ lĩnh khác kinh hoàng, vì con người đã vận hành hầu hết đời sống xã hội của El Harun: Giants quá vụng, Giant Dwarves chỉ mê quặng/vũ khí/nghệ thuật, Elves xa rời lao động, các tộc khác cũng không đủ tính xã hội để thay thế. Không có con người, El Harun sẽ sụp đổ.
+
+Riala tiếp tục ép Hera phải chịu trách nhiệm vì gốc rễ thảm họa là Uron, một Elf cao quý bên ngoài nhưng tàn ác với trẻ em và ném nạn nhân cho quái vật để che giấu chứng cứ. Bà cũng chất vấn Osoro, Deva và Raune vì triệu tập Hội Đồng nhưng không tham dự đúng lúc, rồi đến muộn khi Black Queen xuất hiện, để phần việc bẩn thỉu và nguy hiểm rơi lên con người. Riala khẳng định yêu cầu câu trả lời hợp lý không phải lời đe dọa mà là lời hứa, rồi rời phòng họp.
+
+Sau khi Riala đi, Deva thừa nhận đây là vấn đề nghiêm trọng và yêu cầu trước hết phải làm Riala bình tĩnh. Cô đe dọa cắt thương mại giữa Abyssal clan và Giant Dwarves nếu Kelota tiếp tục nói bừa, rồi yêu cầu Hera xin lỗi và bồi thường rõ ràng vì căn nguyên sự việc nằm ở Elves. Krudu kết luận Zeon là chìa khóa: cách họ đối đãi với cậu sẽ quyết định con người rời đi hay ở lại. Ông nhấn mạnh Zeon không phải con người bình thường mà là sand mage duy nhất của Trái Đất, quá nguy hiểm để biến thành kẻ thù. Garante đề xuất thay vì bàn tiếp trong Hội Đồng, họ nên tìm câu trả lời từ Lord Del Roa.
+
+## Chương 451
+
+Zeon bị bán giam lỏng trong nơi ở sau khi cứu El Harun, trong khi các chủng tộc khác bận tái thiết Uron-ga do Black Queen tàn phá. Cậu không bị cách đối xử lạnh nhạt làm dao động, trái lại dùng thời gian cô độc để image training, tái hiện trận chiến với Black Queen và tinh luyện các tổ hợp kỹ năng. Krudu tới gặp cậu, vừa khó chịu với thái độ tự do của Zeon vừa không thể xem nhẹ cậu vì cậu là Sand Mage đã đóng vai trò quyết định hạ Black Queen.
+
+Krudu dẫn Zeon tới lãnh địa World Tree, nơi Elves và các chủng tộc khác nhìn cậu bằng thù địch vì sợ quyền năng điều khiển cát xa lạ và vì Zeon từng làm nhục Hera. World Tree cao khoảng một trăm mét, tán vươn hàng kilomet, nhưng Krudu nói nó chỉ là cái bóng nhỏ bé so với World Tree thật ở Kurayan. Khi barrier của World Tree chặn đường, Zeon được phép vào ngay lập tức, điều khiến Krudu kinh ngạc vì bản thân ông từng mất nhiều năm mới được cái cây công nhận.
+
+Trong lãnh vực World Tree, Zeon nghe những tiếng thì thầm mà không hiểu ý nghĩa và nghĩ Brielle có lẽ sẽ hiểu được. Tới gốc cây, cậu gặp Del Roa: một Elf thật đã hợp nhất với thân World Tree, trông như hình người được khắc vào gỗ. Del Roa xác nhận ông không tham chiến với Black Queen vì không còn di chuyển được. Ông nói World Tree này không sinh từ hạt giống đúng nghĩa, thiếu mọi thứ và sẽ chết nếu không có ông hợp nhất vào; theo ông, đó là sự hy sinh cần thiết duy nhất để bảo vệ World Tree, El Harun và những người đến từ Kurayan.
+
+## Chương 452
+
+World Tree ở El Harun là mảnh không hoàn chỉnh, đang khô héo và chỉ nhờ Del Roa hợp nhất mới tiếp tục áp chế núi lửa Pankrena. Việc hợp nhất cần sức mạnh lớn, linh hồn được cây công nhận và divine artifact Blue Crown, Crown of the Gods, chứa quyền năng của Cobaltan thuộc Twelve High Gods. Del Roa cảm ơn Zeon vì xử lý Black Queen nhưng cũng nói sự hiện diện của cậu khiến El Harun hỗn loạn và muốn cậu sớm rời đi.
+
+Zeon chất vấn Del Roa về sự kiêu hãnh kỳ lạ của El Harun: họ sống nhờ đóng góp của con người nhưng vẫn khinh thường con người, thậm chí khó chịu vì được một con người ngoại lai cứu. Del Roa đáp rằng El Harun có lịch sử, lý tưởng và danh dự riêng mà kẻ ngoài không hiểu. Khi Zeon lắng nghe World Tree, cậu cảm thấy cái cây đang đau và dường như không muốn sự hợp nhất với Del Roa, nhưng không nói thẳng vì đó chỉ là trực giác. Del Roa thừa nhận chỉ cảm nhận mơ hồ cảm xúc của cây, rồi gọi nó là đứa trẻ mong manh hay rên rỉ cần được quản chặt, khiến Zeon càng nghi ngờ.
+
+Del Roa đẩy Zeon ra khỏi barrier và giao việc thông báo phần thưởng cho người khác. Sáng hôm sau, Riala tới báo lệnh: bà phải hộ tống Zeon rời El Harun tới Dungeon of Darkness, một treasure dungeon cách khoảng một trăm kilomet, nơi có thể nhận item giá trị và được đồn clear sẽ có S-rank item. Riala tức giận vì thay vì bồi thường tử tế, Del Roa bắt Zeon tự clear dungeon để lấy phần thưởng, nhưng Zeon bình thản vì mục tiêu kiểm tra ảnh hưởng tàn niệm Krasias ở El Harun đã gần như hoàn thành và cậu đã nhận được vảy ancient dragon Arkaid từ Neria. Bên ngoài, Uslann chỉ còn các cấp dưới con người Jupiro, Alonso và Criden vì Corin, Dempleton và Aronia đã bị điều đi, thể hiện sự chèn ép con người trong El Harun. Riala giải thích ở Kurayan con người từng thống trị, săn bắt và bóc lột các chủng tộc khác, nên oán hận hiện tại phần nào là cái giá lịch sử, dù vẫn rất cay đắng.
+
+## Chương 453
+
+Nhóm Zeon rời El Harun mà không có ai tới tiễn ngoài Riala, Uslann và các chiến binh con người. Tagol cùng Pankrena elf rangers ẩn mình quan sát từ xa; dù một số elf cảm thấy việc tiễn Zeon lạnh nhạt là sai, Tagol cho rằng mở Dark Dungeon cho một con người ngoại lai đã là đủ và vẫn thù Zeon vì từng bị Hera khiển trách sau khi để Neria vào El Harun. Núi lửa Pankrena rung chuyển dữ dội như đáp lại cơn giận của hắn.
+
+Trên đường tới dungeon, nhóm phải đi bộ vì El Harun không cấp cả lạc đà lẫn xe, khiến Jupiro và Alonso tức giận. Riala hối hận rằng con người đáng lẽ nên tự cô lập ngay khi tới Trái Đất thay vì liên minh với các chủng tộc khác sau khi phát hiện hành tinh chỉ còn biển cát do terraforming thất bại. Giữa đường, họ gặp twin-horned sand drake, một ma thú B-rank có vảy dày, shield tự nhiên và cặp sừng phóng sét. Riala không hỗ trợ mà để Uslann và cấp dưới chứng minh bản thân, vì chiến đấu là bổn phận của chiến binh con người El Harun vốn phải huấn luyện từ nhỏ để bù lại thân thể yếu và mana kém hơn phi nhân.
+
+Uslann, Jupiro, Alonso và Criden phối hợp hạ twin-horned sand drake sau khi phá shield. Trong lúc nghỉ, Zeon mở subspace lấy các hộp cơm do Klexi chuẩn bị và chia cho mọi người. Riala kinh ngạc vì Zeon sở hữu trang bị subspace cá nhân, còn cả nhóm sững sờ trước hương vị đồ ăn Neo Seoul. Zeon nhận ra ẩm thực El Harun rất tệ vì quá nhiều chủng tộc có khẩu vị khác nhau: Beastmen thích thịt sống, Elves ăn chay nghiêm ngặt, Dwarves không quan tâm hương vị, còn con người quá bận sinh tồn để phát triển ẩm thực.
+
+## Chương 454
+
+Sau ba ngày đi bộ, nhóm tới khu vực Dungeon of Darkness, nằm ở đáy một vùng từng là biển sâu hàng nghìn mét trước khi Trái Đất sa mạc hóa. Dungeon này chỉ mở mỗi tháng một lần, mỗi người chỉ vào được một lần, và phần thưởng thay đổi tùy rank, độ khó thử thách. Item tốt nhất từng xuất hiện là Karrikal’s Dagger, một dao găm cong như trăng non có đá xanh cho phép dùng ma pháp băng ngang phép A-rank; vì vậy nhiều người tin dungeon có thể cho S-rank item nếu clear sâu hơn.
+
+Karon và các elf rangers canh dungeon chặn nhóm, miễn cưỡng cho Zeon vào theo lệnh. Họ khó chịu vì cơ hội quý giá lại trao cho con người ngoại lai, dù đó là phần thưởng vì giết Black Queen. Zeon nhận ra biểu cảm của elf rangers căng thẳng quá mức, nhưng Riala quen với thù địch nên không thấy khác thường. Nhóm bước vào lối vào là một màn bóng tối dày đặc, không có portal hữu hình. Ngay sau khi họ biến mất, Karon ra lệnh đặt explosives rồi rút lui; thuộc hạ Max lo vì Riala cũng ở trong dungeon, nhưng Karon bảo họ chỉ cần làm theo lệnh và ông chịu trách nhiệm.
+
+Bên trong Dungeon of Darkness, Zeon bị tách khỏi Riala, Uslann và những người khác, nhận ra dungeon phân tán người vào không gian riêng. Dungeon này không có hình dạng cố định, thay đổi môi trường theo cấp độ và năng lực người xâm nhập, nên rất khó dùng chiến lược cố định. Zeon bước vào không gian xám mờ, nơi mỗi bước chân làm phát ra tiếng `Tsshh` kỳ dị. Sau hơn mười phút, cậu phát hiện âm thanh càng đi càng chồng lớp và khuếch đại, trở thành cách dungeon trực tiếp tấn công giác quan.
+
+## Chương 455
+
+Âm thanh trong vùng xám bóp méo giác quan Zeon, làm tê liệt thăng bằng qua tai trong, khiến cậu khuỵu xuống và gần như không thể suy nghĩ. Cậu bình tĩnh hít sâu, dùng mana bảo vệ màng nhĩ để giảm tiếng ù trong đầu và lấy lại lý trí. Zeon coi trải nghiệm tra tấn đơn giản nhưng hiệu quả này như một liều vaccine, vì nếu bị đánh úp tương tự trong chiến đấu thật, cậu có thể đã chết.
+
+Để thoát vùng xám mà không làm âm thanh khuếch đại thêm, Zeon dùng quyền chi phối gom cát vô hình trên mặt đất rồi kích hoạt Sand Step, để cát nâng mình lướt đi không gây chấn động. Sau gần hai giờ căng thẳng, cậu thoát khỏi vùng xám và bước vào một khu rừng khổng lồ không thấy điểm cuối. Vùng xám biến mất hoàn toàn, chứng tỏ dungeon đã dịch chuyển không gian một cách tinh vi. Điều này khiến Zeon bắt đầu quan tâm thật sự tới phần thưởng của Dungeon of Darkness.
+
+Trong rừng, Zeon bị báo đen hai đầu tấn công. Một con chỉ khoảng C-class không đáng ngại, nhưng chúng có hàng trăm, thậm chí hàng nghìn con ẩn trong rừng, dùng tốc độ và khả năng ẩn nấp làm vũ khí. Fire Rain bị tán cây dày chặn lại, còn khu rừng gần như không có cát mịn để điều khiển. Zeon mở subspace, đổ cát ra như thác nước và dùng Sandstorm nghiền nát cây cối cùng đàn báo để mở đường, dù tiêu hao mana rất lớn.
+
+Khi gần tới mép rừng, boss xuất hiện: một con báo hai đầu khổng lồ cao mười mét, dài hơn hai mươi mét, có cánh và trường năng lượng đỏ, ít nhất A-class. Boss phun hai luồng lửa, nhưng Inferno Gauntlet của Zeon hấp thu lửa thường rồi bắn ngược với sức mạnh tăng cường. Zeon chuyển Sandstorm thành Sand Mixer, xé barrier và da boss, hấp thu đòn lửa tiếp theo rồi nhân đôi phản kích. Khi boss há miệng loạng choạng, cát tràn vào trong và xoay dữ dội, nghiền nát nó hoàn toàn. Một chiếc chìa khóa rơi ra, và khi Zeon nhặt lên, cậu biến mất.
+
+## Chương 456
+
+Thiếu file nguồn `chapter-456.md` trong thư mục hiện tại, nên chưa thể dịch hoặc tóm tắt chính xác chương này. Không tự suy diễn nội dung để tránh làm sai mạch truyện.
+
+## Chương 457
+
+Zeon nói chuyện với Arkaid, chủ nhân thật sự của Dungeon of Darkness. Arkaid kể rằng Krasias đã giết ông để cướp authority ông tích lũy trong mười nghìn năm, vì Krasias không phải dragon đúng nghĩa mà là tồn tại như thần mang hình dạng dragon, được gọi là Devourer of Authority. Arkaid từng là Ancient Dragon tinh thông thuật giả kim, đã khám phá bí mật chuyển hóa sự sống: tạo ra sinh vật sống từ hư vô. Ông nhận ra đó là cấm vực có thể phá vỡ quy luật thế giới nên đã tự dừng lại, nhưng Krasias cảm nhận được cánh cửa ấy và truy sát ông để cướp nó.
+
+Arkaid không thể chống lại Krasias, bị tước authority và chết trong hang ổ. Sau khi tỉnh lại trong Dungeon of Darkness, ông hiểu mình chỉ là một ảo ảnh/tồn tại bị quy luật dungeon hồi sinh và ràng buộc, nên không rời dungeon vì sợ gây hại thế giới. Ông chỉ gặp trực tiếp Zeon, cho rằng Zeon là người đầu tiên và cuối cùng xứng đáng đối mặt mình, còn Riala và nhóm Uslann chỉ phải vượt thử thách phù hợp rồi nhận item cuối cùng.
+
+Zeon kể cho Arkaid mọi chuyện từ khi Krasias xuất hiện trên Trái Đất, terraforming biến hành tinh thành sa mạc, El Harun hình thành, Jin Geum-ho và Dyoden xây lại Neo Seoul, tới cuộc gặp Neria. Arkaid suy luận Kurayan vốn quá ổn định để sụp đổ chỉ sau một nghìn năm, nên chắc chắn có ngoại lực tác động vào quy luật thế giới. Ông tin Krasias đã dùng authority chuyển hóa sự sống cướp từ mình, vô tình hoặc cố ý làm Kurayan sụp đổ, rồi tiếp tục hủy hoại Trái Đất bằng terraforming. Arkaid cũng nói Nigel, Black Dragon thông thái mà ông kính trọng, có lẽ đang săn các viên đá tím chứa tàn niệm Krasias. Nigel từng theo đuổi polymorph đến mức muốn tái sinh thật sự thành chủng tộc khác, nên hình dạng Zeon từng thấy của Nigel có thể không phải biến hình bình thường. Cuối cùng, Arkaid xin Zeon giết mình vì ông là linh hồn không nên tồn tại; nếu tha hóa, tai họa ông gây ra sẽ vượt xa Neria.
+
+## Chương 458
+
+Riala, Uslann, Jupiro, Alonso và Criden đánh bại Great Gargoyle, guardian S-class mà Arkaid tạo ra cho Dungeon of Darkness. Uslann và người của hắn thu hút Gargoyle, còn Riala tìm và phá lõi, nhưng tất cả đều bị thương nặng và suýt có người chết. Từ đống đá của Gargoyle, Riala tìm thấy Lautra’s Armor, bộ giáp của Lautra, anh hùng nhân loại huyền thoại từng thắng chiến tranh chủng tộc ở Kurayan và đặt nền móng cho Đế Quốc loài người.
+
+Uslann khuyên Riala mặc thử vì item cấp Lautra tự chọn chủ nhân và có thể giết kẻ không xứng đáng. Riala chấp nhận, phần vì nếu không mặc thì có thể item rơi vào tay chủng tộc khác. Lautra’s Armor gây đau nóng thiêu đốt rồi tự điều chỉnh vừa khít, công nhận bà làm chủ nhân. Viên ruby trên ngực giáp cộng hưởng, truyền sức mạnh khiến Riala cảm thấy mình tăng ít nhất một tầng. Sự kiện này mang ý nghĩa biểu tượng rất lớn: Riala trở thành người kế thừa Lautra, đem lại hy vọng và vị thế mới cho con người El Harun.
+
+Sau khi rời dungeon, nhóm phát hiện các elf rangers canh giữ biến mất. Một vụ nổ lớn làm sập núi cát, chôn vùi Dungeon of Darkness và cả nhóm Riala. Nhờ barrier đỏ từ Lautra’s Armor, họ sống sót và trồi lên mặt đất. Karon cùng các elven rangers hoảng loạn vì tưởng đã chôn chết họ. Riala chất vấn vì sao elves tự xưng cao quý lại cố giết đồng đội El Harun; Karon tiết lộ mệnh lệnh đến từ “bên trên”, và sự im lặng của hắn xác nhận người ra lệnh là Lord Del Roa.
+
+## Chương 459
+
+Zeon đánh bại Arkaid trong dungeon, nhưng Arkaid gần như không phản kích mà chịu đựng để được giải thoát. Thân thể hồi sinh của ông chỉ là mảnh suy thoái, không bằng bản thể thật từng chết ở Kurayan, nên mana heart và sừng không còn giá trị. Di sản thật sự của ông là chiếc vảy Arkaid mà Neria đã trao cho Zeon. Arkaid nói dragon chết tự nhiên sẽ trả mọi thứ về mana, nhưng dragon chết bất thường buộc phải để lại mảnh tồn tại; chiếc vảy mang ý chí và thù hận của ông với Krasias, và việc nó tới tay Zeon là sự an bài của thế giới.
+
+Arkaid dồn toàn bộ sức mạnh cuối cùng vào chiếc vảy, tạo thành Ring of Purification cho Zeon. Ánh sáng thiêng liêng từ quá trình này hồi đầy mana cho Zeon và còn làm dung lượng mana của cậu gần như tăng gấp đôi. Sau khi trao nhẫn, Arkaid biến mất hoàn toàn, trở về tự nhiên, khiến dungeon bắt đầu sụp đổ. Zeon đeo Ring of Purification nhưng chưa kịp thử hiệu quả, phải thoát qua lối ra gần đó.
+
+Lối ra đưa Zeon tới dưới lòng đất, giữa khối cát chôn vùi Dungeon of Darkness. Là sand mage, cậu đọc được địa hình và hiểu có người cố ý làm sập núi cát để chôn dungeon. Khi lên mặt đất, cậu thấy xác elf rangers và Riala, Uslann cùng nhóm con người phủ máu. Riala xác nhận Karon và elf rangers đã cố giết họ theo lệnh Del Roa. Del Roa muốn loại bỏ Riala, thủ lĩnh con người, rồi thay bằng những kẻ dễ kiểm soát để siết lại nhân loại trong El Harun.
+
+Âm mưu này khiến cơn giận của con người El Harun bùng nổ. Riala, nay là chủ nhân Lautra’s Armor, quyết định tự trở về El Harun để giải quyết, không nhận sự can thiệp của Zeon vì cậu là người Neo Seoul và có thể biến nội chiến El Harun thành chiến tranh giữa hai thế lực. Nếu xấu nhất, bà sẽ đưa toàn bộ con người rời đi. Uslann, Jupiro, Alonso và Criden bắt tay tạm biệt Zeon rồi đi theo Riala. Họ cũng nhận ra Corin, Dempleton và các đồng đội phi nhân đã bị rút khỏi nhiệm vụ từ trước, chứng tỏ các thủ lĩnh chủng tộc khác biết kế hoạch của Del Roa, càng làm họ căm hận.
+
+## Chương 460
+
+Zeon trên đường về Neo Seoul gặp trại của Bloody Raid Team thuộc Western Sector, một đội gồm các Thức Tỉnh Giả cơ giới hóa. Sa mạc cực kỳ khắc nghiệt với họ vì cát lọt vào khớp máy, ăn mòn và làm kẹt các bộ phận dù đã bọc da ma thú. Đội trưởng Oh Jin-ho gần như cơ giới hóa toàn bộ ngoài đầu và tim, nhưng nhờ một cloak có Cleanliness Magic, ông miễn nhiễm với bụi cát và không bị trục trặc như cấp dưới.
+
+Bloody Raid Team đi xa hàng trăm kilomet để tìm dungeon vì quanh Neo Seoul không còn dungeon đáng giá; dungeon càng xa thường cho phần thưởng càng lớn. Tuy nhiên, nếu đội trinh sát không tìm thấy gì, họ buộc phải rút vì các bộ phận cơ giới đang xuống cấp. Khi Zeon một mình đi tới, cả trại cảnh giác vì trong sa mạc người lạ thường là kẻ địch. Một thành viên nhận ra cậu là Sand Mage Zeon, người từng làm Southern Sector mất mặt trong vụ Jang Wuhang của Xiao Lun thâm nhập nhà máy điện ma thạch.
+
+Oh Jin-ho tiếp Zeon thận trọng nhưng lịch sự. Zeon giải thích mình đang về Neo Seoul sau khi điều tra vụ các raid team Goblin Market mất tích ở phía bắc; cậu không tìm được người sống nhưng đã biết nguyên nhân cái chết và sẽ báo Market. Oh Jin-ho tôn trọng lý do đó và mời cậu vào trại. Zeon thấy dễ chịu vì gặp người Neo Seoul sau thời gian ở El Harun, ít nhất họ không nhìn cậu bằng thù hận lộ liễu. Khi đội trinh sát quay về với vẻ mặt hứng khởi, Oh Jin-ho hiểu họ đã tìm thấy dungeon.
+
+## Chương 461
+
+Đội trinh sát của Bloody Raid Team do Choi Gwang-muk dẫn đầu báo đã tìm thấy dungeon có sóng mana cực mạnh, tối thiểu A-class và có thể là S-class. Choi Gwang-muk cũng là Thức Tỉnh Giả cơ giới hóa nhưng chuyên trinh sát, có thiết bị dò mana do Western District tự phát triển gắn trên ngực. Lực lượng hiện tại của Bloody Raid Team đủ xử lý A-class nhưng chưa từng clear S-class: Oh Jin-ho là A-class, Choi Gwang-muk B-class, các thành viên còn lại chủ yếu B và C-class.
+
+Vì quay về Neo Seoul gọi viện quân sẽ mất quá nhiều thời gian và nguy hiểm khi cắm trại lâu giữa sa mạc, Choi Gwang-muk đề nghị nhờ Zeon giúp. Oh Jin-ho tới gặp Zeon, đề nghị cậu hỗ trợ một lần, có thể tự nêu phần thưởng và được bảo đảm quyền hoạt động tự do trong Western District. Zeon đồng ý vì họ đã tiếp đón cậu trong trại, nhưng chỉ đóng vai bảo hiểm và can thiệp khi nguy hiểm. Thật ra cậu cũng muốn dùng dungeon để thử Ring of Purification, item Arkaid tạo từ sức mạnh cuối cùng của dragon.
+
+Sáng hôm sau, Bloody Raid Team kiểm tra kỹ các bộ phận, vũ khí, đạn dược và phụ tùng, vì với Thức Tỉnh Giả cơ giới hóa hiệu năng máy móc quan trọng ngang hoặc hơn năng lực cá nhân. Dungeon cách trại ba mươi kilomet, có lối vào là cổng đá giữa hai cột đá. Bên trong là một temple-type dungeon hoàn toàn bằng kim loại, với tường, cột, trần bằng hợp kim lạ, chạm khắc con người và thú thờ phụng một tồn tại thần thánh trên trần. Các Thức Tỉnh Giả cơ giới hóa lập tức bị kim loại quý cám dỗ, nhưng Oh Jin-ho quát họ giữ lý trí, đánh boss trước rồi mới tính chiến lợi phẩm.
+
+Ngay sau đó, hàng chục sói kim loại xuất hiện từ cuối hành lang và tấn công. Bloody Raid Team khai hỏa bằng đạn đặc biệt từ tay và vai, xé các mảng kim loại khỏi đàn sói nhưng chúng không biết đau. Tuyến cận chiến do Oh Jin-ho dẫn đầu lao vào va chạm trực diện, mở màn trận chiến trong temple dungeon kim loại.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

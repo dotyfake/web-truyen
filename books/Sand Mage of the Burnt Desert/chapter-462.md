@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 462
+﻿# Sand Mage of the Burnt Desert - Chương 462
 
 Pachachang!
 
@@ -371,3 +371,4 @@ Srrrkk!
 Các bộ phận bị nghiền nát của Thức Tỉnh Giả đã chết bắt đầu tan chảy và hấp thu vào cơ thể Atlas.
 
 ―Phân tích hoàn tất. Bắt đầu đồng hóa.
+

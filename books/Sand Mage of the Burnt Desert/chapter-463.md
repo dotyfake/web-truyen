@@ -1,4 +1,4 @@
-# Sand Mage of the Burnt Desert - Chương 463
+﻿# Sand Mage of the Burnt Desert - Chương 463
 
 Clank! Wiiiing!
 
@@ -381,3 +381,4 @@ Dù họ cần sự giúp đỡ của Zeon, Bloody Raid Team đã thành công c
 Đó là một chiến thắng khó tin.
 
 Chỉ riêng việc mang Atlas, golem S-class, về Western District cũng đủ biến họ thành anh hùng.
+

@@ -1,0 +1,16 @@
+{
+  "title": "Sach",
+  "description": "Truyện 1 chương",
+  "folder": "Sach",
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Tu Nhin Lai Chinh Minh",
+      "file": "Tu_Nhin_Lai_Chinh_Minh.md"
+    }
+  ],
+  "total": 1,
+  "created_by": "auto_script_v2",
+  "created_at": "2026-05-14T13:35:16.247856",
+  "last_updated": "2026-05-14T13:35:16.247866"
+}

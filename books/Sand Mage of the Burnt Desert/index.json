@@ -1,6 +1,6 @@
 {
   "title": "Sand Mage Of The Burnt Desert",
-  "description": "Truyện 584 chương",
+  "description": "Truyện 604 chương",
   "folder": "Sand Mage of the Burnt Desert",
   "chapters": [
     {
@@ -2920,12 +2920,112 @@
     },
     {
       "index": 583,
+      "title": "Chapter 591",
+      "file": "chapter-591.md"
+    },
+    {
+      "index": 584,
+      "title": "Chapter 592",
+      "file": "chapter-592.md"
+    },
+    {
+      "index": 585,
+      "title": "Chapter 593",
+      "file": "chapter-593.md"
+    },
+    {
+      "index": 586,
+      "title": "Chapter 594",
+      "file": "chapter-594.md"
+    },
+    {
+      "index": 587,
+      "title": "Chapter 595",
+      "file": "chapter-595.md"
+    },
+    {
+      "index": 588,
+      "title": "Chapter 596",
+      "file": "chapter-596.md"
+    },
+    {
+      "index": 589,
+      "title": "Chapter 597",
+      "file": "chapter-597.md"
+    },
+    {
+      "index": 590,
+      "title": "Chapter 598",
+      "file": "chapter-598.md"
+    },
+    {
+      "index": 591,
+      "title": "Chapter 599",
+      "file": "chapter-599.md"
+    },
+    {
+      "index": 592,
+      "title": "Chapter 600",
+      "file": "chapter-600.md"
+    },
+    {
+      "index": 593,
+      "title": "Chương 601",
+      "file": "chapter-601.md"
+    },
+    {
+      "index": 594,
+      "title": "Chương 602",
+      "file": "chapter-602.md"
+    },
+    {
+      "index": 595,
+      "title": "Chương 603",
+      "file": "chapter-603.md"
+    },
+    {
+      "index": 596,
+      "title": "Chương 604",
+      "file": "chapter-604.md"
+    },
+    {
+      "index": 597,
+      "title": "Chương 605",
+      "file": "chapter-605.md"
+    },
+    {
+      "index": 598,
+      "title": "Chương 606",
+      "file": "chapter-606.md"
+    },
+    {
+      "index": 599,
+      "title": "Chương 607",
+      "file": "chapter-607.md"
+    },
+    {
+      "index": 600,
+      "title": "Chương 608",
+      "file": "chapter-608.md"
+    },
+    {
+      "index": 601,
+      "title": "Chương 609",
+      "file": "chapter-609.md"
+    },
+    {
+      "index": 602,
+      "title": "Chương 610",
+      "file": "chapter-610.md"
+    },
+    {
+      "index": 603,
       "title": "Translation Memory",
       "file": "translation-memory.md"
     }
   ],
-  "total": 584,
+  "total": 604,
   "created_by": "auto_script_v2",
-  "created_at": "2026-05-15T11:12:53.429995",
-  "last_updated": "2026-05-15T11:12:53.430006"
+  "created_at": "2026-05-15T15:05:49.166443",
+  "last_updated": "2026-05-15T15:05:49.166467"
 }

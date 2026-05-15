@@ -1,6 +1,6 @@
 {
   "title": "Sand Mage Of The Burnt Desert",
-  "description": "Truyện 572 chương",
+  "description": "Truyện 584 chương",
   "folder": "Sand Mage of the Burnt Desert",
   "chapters": [
     {
@@ -2860,12 +2860,72 @@
     },
     {
       "index": 571,
+      "title": "Chapter 579",
+      "file": "chapter-579.md"
+    },
+    {
+      "index": 572,
+      "title": "Chapter 580",
+      "file": "chapter-580.md"
+    },
+    {
+      "index": 573,
+      "title": "Chapter 581",
+      "file": "chapter-581.md"
+    },
+    {
+      "index": 574,
+      "title": "Chapter 582",
+      "file": "chapter-582.md"
+    },
+    {
+      "index": 575,
+      "title": "Chapter 583",
+      "file": "chapter-583.md"
+    },
+    {
+      "index": 576,
+      "title": "Chapter 584",
+      "file": "chapter-584.md"
+    },
+    {
+      "index": 577,
+      "title": "Chapter 585",
+      "file": "chapter-585.md"
+    },
+    {
+      "index": 578,
+      "title": "Chapter 586",
+      "file": "chapter-586.md"
+    },
+    {
+      "index": 579,
+      "title": "Chapter 587",
+      "file": "chapter-587.md"
+    },
+    {
+      "index": 580,
+      "title": "Chapter 588",
+      "file": "chapter-588.md"
+    },
+    {
+      "index": 581,
+      "title": "Chapter 589",
+      "file": "chapter-589.md"
+    },
+    {
+      "index": 582,
+      "title": "Chapter 590",
+      "file": "chapter-590.md"
+    },
+    {
+      "index": 583,
       "title": "Translation Memory",
       "file": "translation-memory.md"
     }
   ],
-  "total": 572,
+  "total": 584,
   "created_by": "auto_script_v2",
-  "created_at": "2026-05-13T09:13:59.839335",
-  "last_updated": "2026-05-13T09:13:59.839347"
+  "created_at": "2026-05-15T11:12:53.429995",
+  "last_updated": "2026-05-15T11:12:53.430006"
 }

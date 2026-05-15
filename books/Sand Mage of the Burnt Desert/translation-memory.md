@@ -1,4 +1,4 @@
-﻿# Ghi nhớ dịch thuật - Sand Mage of the Burnt Desert
+# Ghi nhớ dịch thuật - Sand Mage of the Burnt Desert
 
 ## Quy ước chung
 
@@ -126,6 +126,27 @@
 - Brielle Loa: High Elf có tài thuật giả kim, bị bắt và ép chế ma túy bằng máu người cho Crocodiles/Goran. Sau khi được Zeon cứu, cô thề bằng linh hồn sẽ giữ bí mật Sand Mage và đi theo Zeon, khiến mạng sống bị ràng buộc với cậu.
 - Xiao Lun: người cai trị khu phía nam Neo Seoul, ông lão thấp bé đội mũ thêu chỉ vàng; tham vọng chiếm Tòa Thị Chính. Ghi chú nhất quán: chương 59 memory từng ghi Xiao Ran theo nguồn cũ, từ chương 85 nguồn dùng Xiao Lun nên dùng Xiao Lun về sau.
 - Tajik: thuộc hạ trẻ tuổi, lạnh lùng của Xiao Lun; phụ trách điều tra cái chết/mất liên lạc của Crocodiles và tự tạo đường đi mới.
+- Seong Ho-yeon: thủ lĩnh của tổ chức Numbers, đơn vị hành quyết trực thuộc Tòa Thị Chính Neo Seoul.
+- Urtian: cư dân/thủ lĩnh ở Pháo Đài Thép, có vợ là Deborah và các con là Bán Elf.
+- Deborah: vợ của Urtian, được giao làm người quản lý cổng dịch chuyển tại Pháo Đài Thép.
+- Tesserina: một con rồng (Long Tộc) khởi nguồn của ma pháp, đồng hành cùng Zeon.
+- Serian: elf, người cai quản Quận Bắc ở Neo Seoul.
+- Borin: một trong những người cai quản quận ở Neo Seoul.
+- Jin Geum-ho: Thị trưởng Neo Seoul, sở hữu sức mạnh và quyền lực tuyệt đối.
+- Seo Tae-ran: nhân viên/thư ký cấp cao tại Tòa Thị Chính Neo Seoul.
+- Raphael: đội trưởng Đội Vệ Binh Hồ Đen (lực lượng tinh nhuệ của Quận Bắc), tháp tùng Serian.
+- Đội Vệ Binh Hồ Đen: lực lượng hộ vệ tinh nhuệ của Quận Bắc, toàn bộ là elf.
+- Nigel: Bán long (half-dragon) thuộc Hắc Tộc (Black Clan), từng là Cổ Long (Ancient Dragon) nhưng đã tự tái cấu trúc cơ thể thành hình dáng con người (cao 5 mét) để chiến đấu.
+- Floa: Thủ lĩnh của các hắc tiên (dark elves) tại Rừng Khởi Nguyên.
+- Goduwon: Trưởng làng tại Rừng Khởi Nguyên, cha của Har.
+- Har: Cô bé loài người sống ở Rừng Khởi Nguyên, người lập khế ước với tinh linh Yuri.
+- Yuri: Tinh linh của Har, có hình dáng giống hệt cô bé.
+- Krudu: Thủ lĩnh của những người khổng lồ tại El Harun.
+- Dantal: Elf tóc trắng cưỡi hắc mã khổng lồ, từng bảo vệ El Harun nhưng đã bỏ đi để tìm sức mạnh. Đã hấp thụ một phần tàn niệm của Krasias và cướp Kiếm của Kovaltan.
+- Hera: Thủ lĩnh của các elf tại El Harun. Cô cứu Liala và rời bỏ El Harun cùng các elf đi theo mình.
+- Liala: Người đứng đầu đại diện cho con người ở El Harun, đã quyết định dẫn con người rời khỏi El Harun.
+- Neos: Bạch Long (White Dragon), đang bị con người khai thác dưới Neo Seoul (được nhắc đến).
+- Hyltun: Kim Long (Gold Dragon), đã bị Dyoden giết (được nhắc đến).
 
 ## Ghi chú file nguồn
 
@@ -5800,3 +5821,66 @@ Jin tiết lộ lá bài của mình: dự án satellite Heavenly Punishment, d�
 
 
 
+
+## Chương 578
+
+Tại Pháo Đài Thép, Seong Ho-yeon và Urtian ngồi trò chuyện, ngắm nhìn khung cảnh sa mạc. Seong Ho-yeon đánh giá rất cao tiềm năng của Pháo Đài Thép vì có tường bảo vệ, không gian rộng và đủ nước uống, tốt hơn mọi khu định cư khác và giống với giai đoạn đầu xây dựng Neo Seoul. Urtian bày tỏ sự lo lắng cho sự an toàn của những đứa con Bán Elf của mình dưới sự quản lý của Neo Seoul. Seong Ho-yeon trấn an rằng "nhân loại" bao gồm tất cả sinh vật có tư duy không phải quái vật, đồng thời thề trên danh dự của tổ chức Numbers sẽ trở thành cha đỡ đầu cho các con của Urtian để đảm bảo an toàn cho chúng. Thỏa thuận hợp tác được thiết lập: Neo Seoul cung cấp công nghệ hỗ trợ, còn Pháo Đài Thép sẽ làm căn cứ địa vững chắc tiến vào sa mạc.
+
+Zeon và Jin Geum-ho thảo luận về việc thiết lập cổng dịch chuyển. Zeon đồng ý chuyển quyền quản trị cổng dịch chuyển tại Pháo Đài Thép cho Tòa Thị Chính Neo Seoul để quản lý người ra vào nghiêm ngặt, ngăn chặn tội phạm và cướp xác thối. Jin Geum-ho yêu cầu Zeon lắp đặt thêm một cổng tại khu mỏ ma thạch lộ thiên mới để tăng tốc quá trình vận chuyển. Về vị trí đặt cổng chính, Zeon kiên quyết đề nghị đặt ở quảng trường khu ổ chuột thay vì bên trong khu vực an toàn của Neo Seoul, nhằm mục đích tạo cơ hội kết nối và phát triển cho những người dân nghèo không được vào thành phố. Jin Geum-ho trầm tư rồi đồng ý, nhưng yêu cầu xây dựng các cơ sở phòng thủ bọc thép và do Tòa Thị Chính trực tiếp quản lý. Nhóm phụ nữ bao gồm Deborah từ Pháo Đài Thép cũng được dẫn tới Neo Seoul để tham quan.
+
+Jin Geum-ho muốn việc công bố cổng dịch chuyển được diễn ra công khai và thật hoành tráng để thu hút sự chú ý. Zeon quay về gặp Tesserina và nhờ cô giải quyết vấn đề quản trị, tránh việc quyền lực quá lớn tập trung vào tay một cá nhân. Tesserina tạo ra một bảng điều khiển đồng bộ với Ngọc Dịch Chuyển, giúp quyền quản lý cổng dịch chuyển được gán cho một vật phẩm thay vì con người, cho phép Tòa Thị Chính dễ dàng kiểm soát hơn. Tại quảng trường, Jin Geum-ho tập hợp ban lãnh đạo, các Thức Tỉnh Giả và người cai quản các quận. Sự xuất hiện rầm rộ khiến nhiều người bất an, đặc biệt là Serian - elf cai quản Quận Bắc. Cô đã kinh hoàng nhận ra khí tức rồng của Tesserina và bị cô nàng ra hiệu im lặng, khiến Serian vô cùng chấn động về thế lực thực sự đứng sau Zeon. Khi Jin Geum-ho nhập mật khẩu vào bảng điều khiển do Zeon đưa, cổng dịch chuyển chính thức mở ra, làm cả Neo Seoul bùng nổ trong sự kinh ngạc tột độ.
+
+
+## Chương 579
+
+Việc khai mở cổng dịch chuyển tới Pháo Đài Thép đã tạo ra một cơn địa chấn tại Neo Seoul. Lần đầu tiên, những người cai quản các quận được Jin Geum-ho đích thân đưa đến Pháo Đài Thép. Tận mắt chứng kiến sự tồn tại của nơi này cùng khả năng dịch chuyển tức thời, họ hoàn toàn bị choáng ngợp. Tuy nhiên, Jin Geum-ho tuyên bố Tòa Thị Chính sẽ độc quyền kiểm soát cổng dịch chuyển; các quận muốn sử dụng phải trả một cái giá tương xứng để mua cổ phần ưu tiên sử dụng. Đồng thời, ba mươi phần trăm quyền sử dụng sẽ dành miễn phí cho người dân khu ổ chuột và các đội săn nhỏ lẻ. Seden Price cố gắng vặn vẹo nhưng nhanh chóng bị Seo Tae-ran – người phụ trách đàm phán cái giá – dập tắt. Zeon cũng tiết lộ với Serian rằng sẽ có một cổng dịch chuyển thứ ba nối với một nơi quan trọng (ẩn ý về khu rừng của các elf), khuyên cô không nên bỏ lỡ cơ hội, và Serian lập tức làm theo.
+
+Tại Pháo Đài Thép, Urtian trở thành tâm điểm khi các quận tranh nhau đặt căn cứ. Ông khôn khéo phân bổ khu vực của các lực lượng mạnh lên tuyến đầu để tăng cường phòng thủ, đồng thời chừa sẵn không gian cho làn sóng di cư từ El Harun. Những người đến từ Neo Seoul không khỏi trầm trồ trước tiềm năng vô hạn và hồ nước ngầm khổng lồ của pháo đài. Cùng lúc đó, khu ổ chuột, nơi đặt cổng dịch chuyển, đang lột xác thần tốc. Tòa Thị Chính xây dựng tháp phòng thủ và thiết lập các biện pháp an ninh nghiêm ngặt quanh bảng điều khiển kích hoạt cổng. Cổng dịch chuyển kết nối Pháo Đài Thép và Mỏ Ma Thạch giúp cho nguồn cung ma thạch trở nên dồi dào, đẩy mạnh các cuộc thám hiểm về phía Tây. Người dân khu ổ chuột dễ dàng tìm việc làm, dòng tiền luân chuyển mạnh mẽ, và Goblin Market của lão Klexi cùng Yoo Se-hee cũng hưởng lợi khổng lồ. Cả hai đều kinh ngạc trước sự thay đổi màu nhiệm này, và lão Klexi khẳng định chắc nịch rằng Zeon chính là đấng cứu thế của cả thế giới sa mạc hóa này.
+
+## Chương 580
+
+Zeon rời Neo Seoul và rảo bước trên sa mạc, hướng về Rừng Khởi Nguyên để lắp đặt cổng dịch chuyển tiếp theo. Cùng đi với cậu, ngoài Levin và Tesserina, còn có Serian – người cai quản Quận Bắc – và đội hộ vệ tinh nhuệ của cô mang tên Đội Vệ Binh Hồ Đen, do Raphael chỉ huy. Raphael cùng các elf khác vô cùng căng thẳng vì sa mạc vốn là một thế giới đầy rẫy tử địa, nhưng Serian lại tỏ ra rất bình thản. Cô biết rõ Tesserina mang trong mình khí tức của loài rồng, và đồng hành cùng pháp sư cát mạnh nhất sa mạc thì còn an toàn hơn cả ở lại Neo Seoul. Tesserina tỏ vẻ không thoải mái khi phải mang theo những "gánh nặng" này đến Rừng Khởi Nguyên, nơi cô cũng chưa từng đặt chân tới. Tuy nhiên, Zeon giải thích rằng sự hiện diện của các elf Neo Seoul là cần thiết để làm "vùng đệm", giúp các hắc tiên ở Rừng Khởi Nguyên thấu hiểu lập trường của những người bên ngoài, từ đó giảm bớt sự cảnh giác và mở lòng hơn sau hàng thế kỷ bị bức hại.
+
+Cuộc hành trình trên sa mạc diễn ra một cách êm đềm đến mức khó tin đối với Đội Vệ Binh Hồ Đen. Khi phát hiện một con giun cát khổng lồ đang lao tới, Levin lập tức hóa thành dạng Bóng Ma và dùng sét lôi kéo nó chạy về hướng khác một cách dễ dàng. Zeon sử dụng sức mạnh chi phối sa mạc để xác định đường đi nước bước của quái vật, nhờ đó cả đoàn luôn đi trên những tuyến đường an toàn tuyệt đối và có thể cắm trại qua đêm trong sự bình yên trọn vẹn, thậm chí Serian còn được thư thái nhâm nhi tách trà thảo mộc. Ngày hôm sau, khi mọi người vừa khởi hành tiếp, một chấn động dữ dội bất ngờ dội lên từ dưới lòng đất khiến các elf hốt hoảng chuẩn bị chiến đấu. Trái ngược với họ, Zeon và Levin lại mỉm cười đầy thích thú. Giữa sự ngơ ngác của Tesserina, Levin chỉ tay về phía trước: đó chính là Archelon – pháo đài di động mang hình hài một con rùa khổng lồ, một người bạn cũ của họ trên sa mạc.
+
+
+## Chương 581
+
+Cả nhóm Zeon gặp lại pháo đài di động Archelon. Kailey và Pavilsa của bộ tộc Mot mời họ lên bên trong mai rùa để di chuyển. Tesserina tỏ ra rất thân thiết với Archelon và được nó nhận ra bản chất thực sự của một con rồng. Trong khi đó, Serian vô cùng choáng ngợp trước quy mô và sự phát triển của ngôi làng bên trong mai rùa. Pavilsa cho biết Archelon đã già và họ đang tìm kiếm một nơi để nó có thể yên nghỉ. Kailey trao cho Zeon một chiếc đồng hồ cát chứa cát đen mà cô nhặt được. Khi Zeon cầm lấy, đồng hồ vỡ nát và lượng Exion bên trong đã hòa làm một với Exion của Zeon, giúp sức mạnh của Pháp Sư Cát đạt đến một tầm cao mới.
+
+## Chương 582
+
+Hành trình trên lưng Archelon diễn ra vô cùng êm đềm khi tất cả quái vật đều hoảng sợ lảng tránh. Bất chợt, Zeon và Tesserina cảm nhận được một luồng khí tức khổng lồ. Kẻ đang tiến lại gần là Nigel – một Bán long (người lai rồng) khổng lồ cao tới 5 mét thuộc Hắc Tộc. Nigel từng là một Cổ Long nhưng đã tự tái cấu trúc cơ thể thành dạng người để phù hợp với việc chiến đấu. Hắn nhận ra Tesserina đang dùng cơ thể chimera và tiết lộ những thông tin chấn động: trên thế giới này chỉ có 6 con rồng từng xuất hiện, trong đó Bạch Long Neos đang bị khai thác dưới Neo Seoul, Kim Long Hyltun đã bị Dyoden giết chết, và một con rồng khác đã chết dưới tay chính Nigel vì chứa chấp tàn niệm của Krasias.
+
+## Chương 583
+
+Nigel giải thích sự thật kinh hoàng về tàn niệm của Krasias. Krasias cải tạo Trái Đất là vì sự sống còn của bản thân và đã để lại tàn niệm như những hạt giống phục sinh. Những kẻ hấp thụ tàn niệm (như Pilgrim, Dantal) sẽ mạnh lên nhưng dần đánh mất nhân cách và bị ý chí của Krasias thao túng. Các tàn niệm có thể cảm nhận và nuốt chửng lẫn nhau, để rồi kẻ chiến thắng cuối cùng sẽ tái sinh thành Krasias. Nigel tuyên bố sẽ tiêu diệt tất cả và trao cho Zeon một chiếc găng tay đen như một sự "bảo hiểm". Sau khi Nigel rời đi, Archelon tiếp tục hành trình và dừng lại trước một đại kết giới vô hình bảo vệ Rừng Khởi Nguyên. Tại đây, những hắc tiên cảnh giới đã xuất hiện.
+
+## Chương 584
+
+Sự xuất hiện của các hắc tiên thuần chủng khiến Serian và Đội Vệ Binh vô cùng ngạc nhiên. Ban đầu, các hắc tiên tỏ ra đầy cảnh giác với Serian vì cô là elf đến từ Neo Seoul, nhưng họ đã mở kết giới cho toàn bộ nhóm cùng Archelon tiến vào vì nể mặt Zeon. Bên trong là một khu rừng bạt ngàn tuyệt đẹp. Cô bé Har bay đến cùng tinh linh Yuri khiến các elf sững sờ đến mức quỳ gối. Thủ lĩnh hắc tiên Floa và trưởng làng Goduwon (cha của Har) đón tiếp mọi người bằng nhựa cây phong quý giá. Zeon đề cập đến việc mở cửa giao thương giữa Rừng Khởi Nguyên và Neo Seoul, đưa Serian ra làm người bảo hộ. Dù còn e ngại, nhưng những thay đổi lớn lao sắp tới khiến mọi người hiểu rằng họ cần phải chuẩn bị.
+
+## Chương 585
+
+Sự tồn tại của cổng dịch chuyển gây ra nhiều tranh cãi giữa con người (muốn mở cửa) và hắc tiên (muốn khép kín) tại Rừng Khởi Nguyên. Goduwon và Zeon đứng ngoài quan sát, tin rằng mọi người sẽ tự thỏa thuận được. Zeon giải thích rằng sự ra đời của World Tree ở quê hương Briel đã thúc đẩy khu rừng này phát triển quá nhanh, sớm muộn cũng sẽ bị lộ, nên việc kết nối với Neo Seoul là tất yếu. Tesserina tiết lộ đã tìm ra cách kết nối trực tiếp cổng dịch chuyển tới làng World Tree mà không cần qua Neo Seoul. Được Tesserina động viên và hứa sẽ cường hóa kết giới, Floa đồng ý mở cửa một phần khu rừng. Zeon lập tức kích hoạt cổng dịch chuyển. Levin đi qua và đưa thị trưởng Jin Geum-ho cùng Seo Tae-ran tới. Đứng trước khu rừng bạt ngàn giữa sa mạc, Jin Geum-ho hoàn toàn bị sốc.
+
+
+## Chương 586
+
+Jin Geum-ho và Seo Tae-ran cực kỳ ấn tượng khi đến Rừng Khởi Nguyên thông qua cổng dịch chuyển. Tại đây, Jin Geum-ho thể hiện sự kính trọng với Goduwon và gặp lại người quen cũ Pavilsa của bộ tộc Mot. Serian đại diện cho Rừng Khởi Nguyên đã đàm phán thành công với Seo Tae-ran: Tòa Thị Chính Neo Seoul sẽ hỗ trợ tối đa cho khu rừng, đổi lại sự tồn tại của khu rừng vẫn được giữ bí mật. Sau đó, Jin Geum-ho quyết định trở về Neo Seoul và đến thăm thành phố ngầm, trong khi nhóm Zeon chuẩn bị cho chuyến đi tiếp theo đến làng World Tree.
+
+## Chương 587
+
+Tại El Harun, Liala chất vấn Del Roa về việc lừa dối và ám sát Zeon cùng chính cô. Del Roa lấy lý do "vì đại cục" và thể hiện sự khinh miệt con người, chỉ quan tâm đến World Tree đang thoi thóp. Liala quyết định dẫn con người rời đi. Del Roa nổi điên định giết Liala bằng quyền năng của World Tree, nhưng thủ lĩnh elf Hera đã can thiệp và cứu cô. Giữa lúc Del Roa chuẩn bị ra tay với cả hai, Dantal – vị hộ vệ huyền thoại của El Harun ngày trước – đột ngột trở về trên lưng hắc mã khổng lồ và yêu cầu Del Roa giao ra Kiếm của Kovaltan.
+
+## Chương 588
+
+Dantal tiết lộ ông ta đã hấp thụ một phần tàn niệm của Krasias nên không sợ bị Kiếm của Kovaltan – vũ khí diệt thần – phản phệ. Cuộc đụng độ giữa Del Roa (dùng sức mạnh World Tree) và Dantal làm rung chuyển toàn bộ El Harun. Do Del Roa dồn sức đánh Dantal, núi lửa Pankrena phun trào dữ dội, dung nham tuôn về phía El Harun. Liala tập hợp hàng chục ngàn con người sơ tán hướng về Pháo Đài Thép. Hera cũng dẫn các elf rời đi sau khi nhận ra bản chất độc tài của Del Roa. Hai nhóm hợp lại, bỏ lại phía sau một El Harun đang sụp đổ.
+
+## Chương 589
+
+Zeon, Levin và Tesserina thông qua cổng dịch chuyển đi từ Rừng Khởi Nguyên sang Pháo Đài Thép. Cả nhóm chứng kiến sự phát triển nhộn nhịp tại Pháo Đài Thép nhờ giao thương với Neo Seoul. Zeon giấu Jin Geum-ho và Seo Tae-ran chuyện điểm đến tiếp theo là làng World Tree, sau đó cùng Levin và Tesserina tiến vào sa mạc. Trong sa mạc, Zeon thể hiện sự kiểm soát cát đến mức hoàn hảo (sau khi nhận thêm Exion). Ngày hôm sau, để tạo điểm mốc dẫn đường cho con người lưu lạc trong sa mạc đi tới các vùng an toàn, Zeon đã sử dụng sức mạnh để nung chảy và đông cứng cát thành một ngọn hải đăng khổng lồ màu đen.
+
+## Chương 590
+
+Bất chấp lời cảnh báo của Tesserina rằng lũ quái vật sẽ sớm phá hủy ngọn hải đăng, Zeon khẳng định cậu sẽ liên tục xây lại nó để thu hút nhân loại tụ họp, từ đó mở rộng lãnh thổ và chống lại lũ quái thú. Cùng lúc đó, tại El Harun, Del Roa đã thua Dantal và mất Kiếm của Kovaltan. World Tree bị thương chí mạng và dung nham đang ập đến. Dưới sự thúc giục của Krudu (thủ lĩnh người khổng lồ), Del Roa đau đớn tách cơ thể mình khỏi World Tree để dẫn dắt những người còn lại sống sót. El Harun bị dung nham nuốt chửng hoàn toàn. Del Roa tuyên bố họ sẽ đi cướp đoạt Pháo Đài Thép từ tay con người để làm nơi định cư mới.

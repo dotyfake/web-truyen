@@ -1,6 +1,6 @@
 {
   "title": "Sand Mage Of The Burnt Desert",
-  "description": "Truyện 604 chương",
+  "description": "Truyện 649 chương",
   "folder": "Sand Mage of the Burnt Desert",
   "chapters": [
     {
@@ -3020,12 +3020,237 @@
     },
     {
       "index": 603,
+      "title": "Chương 611",
+      "file": "chapter-611.md"
+    },
+    {
+      "index": 604,
+      "title": "Chương 612",
+      "file": "chapter-612.md"
+    },
+    {
+      "index": 605,
+      "title": "Chương 613",
+      "file": "chapter-613.md"
+    },
+    {
+      "index": 606,
+      "title": "Chương 614",
+      "file": "chapter-614.md"
+    },
+    {
+      "index": 607,
+      "title": "Chương 615",
+      "file": "chapter-615.md"
+    },
+    {
+      "index": 608,
+      "title": "Chương 616",
+      "file": "chapter-616.md"
+    },
+    {
+      "index": 609,
+      "title": "Chương 617",
+      "file": "chapter-617.md"
+    },
+    {
+      "index": 610,
+      "title": "Chương 618",
+      "file": "chapter-618.md"
+    },
+    {
+      "index": 611,
+      "title": "Chương 619",
+      "file": "chapter-619.md"
+    },
+    {
+      "index": 612,
+      "title": "Chương 620",
+      "file": "chapter-620.md"
+    },
+    {
+      "index": 613,
+      "title": "Chương 621",
+      "file": "chapter-621.md"
+    },
+    {
+      "index": 614,
+      "title": "Chương 622",
+      "file": "chapter-622.md"
+    },
+    {
+      "index": 615,
+      "title": "Chương 623",
+      "file": "chapter-623.md"
+    },
+    {
+      "index": 616,
+      "title": "Chương 624",
+      "file": "chapter-624.md"
+    },
+    {
+      "index": 617,
+      "title": "Chương 625",
+      "file": "chapter-625.md"
+    },
+    {
+      "index": 618,
+      "title": "Chương 626",
+      "file": "chapter-626.md"
+    },
+    {
+      "index": 619,
+      "title": "Chương 627",
+      "file": "chapter-627.md"
+    },
+    {
+      "index": 620,
+      "title": "Chương 628",
+      "file": "chapter-628.md"
+    },
+    {
+      "index": 621,
+      "title": "Chương 629",
+      "file": "chapter-629.md"
+    },
+    {
+      "index": 622,
+      "title": "Chương 630",
+      "file": "chapter-630.md"
+    },
+    {
+      "index": 623,
+      "title": "Chương 631",
+      "file": "chapter-631.md"
+    },
+    {
+      "index": 624,
+      "title": "Chương 632",
+      "file": "chapter-632.md"
+    },
+    {
+      "index": 625,
+      "title": "Chương 633",
+      "file": "chapter-633.md"
+    },
+    {
+      "index": 626,
+      "title": "Chương 634",
+      "file": "chapter-634.md"
+    },
+    {
+      "index": 627,
+      "title": "Chương 635",
+      "file": "chapter-635.md"
+    },
+    {
+      "index": 628,
+      "title": "Chương 636",
+      "file": "chapter-636.md"
+    },
+    {
+      "index": 629,
+      "title": "Chương 637",
+      "file": "chapter-637.md"
+    },
+    {
+      "index": 630,
+      "title": "Chương 638",
+      "file": "chapter-638.md"
+    },
+    {
+      "index": 631,
+      "title": "Chương 639",
+      "file": "chapter-639.md"
+    },
+    {
+      "index": 632,
+      "title": "Chương 640",
+      "file": "chapter-640.md"
+    },
+    {
+      "index": 633,
+      "title": "Chương 641",
+      "file": "chapter-641.md"
+    },
+    {
+      "index": 634,
+      "title": "Chương 642",
+      "file": "chapter-642.md"
+    },
+    {
+      "index": 635,
+      "title": "Chương 643",
+      "file": "chapter-643.md"
+    },
+    {
+      "index": 636,
+      "title": "Chương 644",
+      "file": "chapter-644.md"
+    },
+    {
+      "index": 637,
+      "title": "Chương 645",
+      "file": "chapter-645.md"
+    },
+    {
+      "index": 638,
+      "title": "Chương 646",
+      "file": "chapter-646.md"
+    },
+    {
+      "index": 639,
+      "title": "Chương 647",
+      "file": "chapter-647.md"
+    },
+    {
+      "index": 640,
+      "title": "Chương 648",
+      "file": "chapter-648.md"
+    },
+    {
+      "index": 641,
+      "title": "Chương 649",
+      "file": "chapter-649.md"
+    },
+    {
+      "index": 642,
+      "title": "Chương 650",
+      "file": "chapter-650.md"
+    },
+    {
+      "index": 643,
+      "title": "Chương 651",
+      "file": "chapter-651.md"
+    },
+    {
+      "index": 644,
+      "title": "Chương 652",
+      "file": "chapter-652.md"
+    },
+    {
+      "index": 645,
+      "title": "Chương 653",
+      "file": "chapter-653.md"
+    },
+    {
+      "index": 646,
+      "title": "Chương 654",
+      "file": "chapter-654.md"
+    },
+    {
+      "index": 647,
+      "title": "Chương 655",
+      "file": "chapter-655.md"
+    },
+    {
+      "index": 648,
       "title": "Translation Memory",
       "file": "translation-memory.md"
     }
   ],
-  "total": 604,
+  "total": 649,
   "created_by": "auto_script_v2",
-  "created_at": "2026-05-15T15:05:49.166443",
-  "last_updated": "2026-05-15T15:05:49.166467"
+  "created_at": "2026-05-15T19:14:27.288159",
+  "last_updated": "2026-05-15T19:14:27.288171"
 }

@@ -1,0 +1,151 @@
+{
+  "title": "Bi Kip",
+  "description": "Truyện 28 chương",
+  "folder": "Bi Kip",
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Chương 1.1. Thiết Lập Thói Quen Viết: Tìm Thời Gian, Không Gian Và Nhịp Điệu Phù Hợp",
+      "file": "Chuong_1_1_Thiet_Lap_Thoi_Quen_Viet.md"
+    },
+    {
+      "index": 1,
+      "title": "Chương 1.2. Vượt Qua Tắc Nghẽn Viết (Writer's Block): Các Kỹ Thuật Và Tư Duy",
+      "file": "Chuong_1_2_Vuot_Qua_Tac_Nghen_Viet.md"
+    },
+    {
+      "index": 2,
+      "title": "Chương 1.3. Quản Lý Động Lực: Làm Thế Nào Để Duy Trì Đam Mê Trong Dự Án Dài Hạn",
+      "file": "Chuong_1_3_Quan_Ly_Dong_Luc.md"
+    },
+    {
+      "index": 3,
+      "title": "Chương 1.4. Công Cụ & Phần Mềm (Tools & Software): Từ Word Đến Scrivener, Tìm Công Cụ Phù Hợp",
+      "file": "Chuong_1_4_Cong_Cu_Va_Phan_Mem.md"
+    },
+    {
+      "index": 4,
+      "title": "Chương 2.1. Lập Kế Hoạch & Thời Gian Biểu (Planning & Timeline): Lập Kế Hoạch Và Deadline Thực Tế",
+      "file": "Chuong_2_1_Lap_Ke_Hoach_Va_Thoi_Gian_Bieu.md"
+    },
+    {
+      "index": 5,
+      "title": "Chương 2.2. Mốc Quan Trọng & Theo Dõi Tiến Độ (Milestone & Progress Tracking)",
+      "file": "Chuong_2_2_Moc_Quan_Trong_Va_Theo_Doi_Tien_Do.md"
+    },
+    {
+      "index": 6,
+      "title": "Chương 2.3. Kiểm Soát Phiên Bản (Version Control): Quản Lý Các Bản Nháp Và Bản Sửa Đổi",
+      "file": "Chuong_2_3_Kiem_Soat_Phien_Ban.md"
+    },
+    {
+      "index": 7,
+      "title": "Chương 2.4. Sao Lưu & Tổ Chức (Backup & Organization): Bảo Vệ Và Sắp Xếp Công Việc",
+      "file": "Chuong_2_4_Sao_Luu_Va_To_Chuc.md"
+    },
+    {
+      "index": 8,
+      "title": "Chương 3.1. Tìm Kiếm Ý Tưởng: Kỹ Thuật \"What If...?\", Kết Hợp Các Khái Niệm Đối Lập, Quan Sát Đời Sống",
+      "file": "Chuong_3_1_Tim_Kiem_Y_Tuong.md"
+    },
+    {
+      "index": 9,
+      "title": "Chương 3.2. Dòng Tóm Tắt & Tiền Đề (Logline & Premise): Chuyển Ý Tưởng Thành Một Câu Tóm Tắt Cốt Lõi, Hấp Dẫn",
+      "file": "Chuong_3_2_Dong_Tom_Tat_Va_Tien_De.md"
+    },
+    {
+      "index": 10,
+      "title": "Chương 3.3. Thể Loại & Đối Tượng: Xác Định \"Sân Chơi\" Và \"Luật Chơi\"",
+      "file": "Chuong_3_3_The_Loai_Va_Doi_Tuong.md"
+    },
+    {
+      "index": 11,
+      "title": "Chương 4.1. Nguyên Tắc \"Tảng Băng Trôi\" (Iceberg Principle): Chỉ Cho Độc Giả Thấy Những Gì Cần Thiết",
+      "file": "Chuong_4_1_Nguyen_Tac_Tang_Bang_Troi.md"
+    },
+    {
+      "index": 12,
+      "title": "Chương 4.2. Các Trụ Cột Của Xây Dựng Thế Giới (Worldbuilding): Lịch Sử, Địa Lý, Văn Hóa, Xã Hội, Hệ Thống Năng Lực/Công Nghệ",
+      "file": "Chuong_4_2_Cac_Tru_Cot_Worldbuilding.md"
+    },
+    {
+      "index": 13,
+      "title": "Chương 4.3. Hệ Thống \"Cứng\" Và \"Mềm\" (Hard vs. Soft Magic Systems): Phân Tích Ưu/Nhược Điểm",
+      "file": "Chuong_4_3_He_Thong_Cung_Va_Mem.md"
+    },
+    {
+      "index": 14,
+      "title": "Chương 4.4. Kỹ Thuật Giới Thiệu Thế Giới: Tránh \"Đổ Thông Tin\" (Info-dump), Lồng Ghép Thông Tin Qua Hành Động Và Đối Thoại",
+      "file": "Chuong_4_4_Ky_Thuat_Gioi_Thieu_The_Gioi.md"
+    },
+    {
+      "index": 15,
+      "title": "Chương 4.5. Phương Pháp Nghiên Cứu (Research Methods): Nghiên Cứu Để Tạo Tính Xác Thực",
+      "file": "Chuong_4_5_Phuong_Phap_Nghien_Cuu.md"
+    },
+    {
+      "index": 16,
+      "title": "Chương 5.1. Nhân Vật Đa Chiều: Mục Tiêu (Goal), Động Lực (Motivation), Xung Đột Nội Tâm (Internal Conflict)",
+      "file": "Chuong_5_1_Nhan_Vat_Da_Chieu_Goal_Motivation_Internal_Conflict.md"
+    },
+    {
+      "index": 17,
+      "title": "Chương 5.2. Vòng Cung Phát Triển (Character Arc): Thay Đổi Tích Cực, Tiêu Cực, Hoặc Kiên Định",
+      "file": "Chuong_5_2_Vong_Cung_Phat_Trien_Nhan_Vat.md"
+    },
+    {
+      "index": 18,
+      "title": "Chương 5.3. Hệ Thống Nhân Vật: Vai Trò Của Nhân Vật Phụ, Phản Diện, Và Các Nhân Vật Làm Nền",
+      "file": "Chuong_5_3_He_Thong_Nhan_Vat.md"
+    },
+    {
+      "index": 19,
+      "title": "Chương 5.4. Tâm Lý Học Nhân Vật (Character Psychology): Tâm Lý Học Nhân Vật Và Động Lực Hành Vi",
+      "file": "Chuong_5_4_Tam_Ly_Hoc_Nhan_Vat.md"
+    },
+    {
+      "index": 20,
+      "title": "Chương 6.1. Cấu Trúc 3 Hồi (Three-Act Structure): Thiết Lập - Đối Đầu - Giải Quyết",
+      "file": "Chuong_6_1_Cau_Truc_3_Hoi.md"
+    },
+    {
+      "index": 21,
+      "title": "Chương 6.2. Hành Trình Của Người Hùng (The Hero's Journey): 12 Bước Kinh Điển",
+      "file": "Chuong_6_2_Hanh_Trinh_Cua_Nguoi_Hung.md"
+    },
+    {
+      "index": 22,
+      "title": "Chương 6.3. Các Cấu Trúc Khác: 5 Hồi, Save the Cat, Đường Cong Fichtean và Những Bản Đồ Thay Thế",
+      "file": "Chuong_6_3_Cac_Cau_Truc_Khac.md"
+    },
+    {
+      "index": 23,
+      "title": "Chương 6.4. Áp Dụng Linh Hoạt: Làm Sao Để Không Bị Rập Khuôn",
+      "file": "Chuong_6_4_Ap_Dung_Linh_Hoat.md"
+    },
+    {
+      "index": 24,
+      "title": "Chương 7.1. Sự Kiện Khởi Đầu (Inciting Incident): Cú Hích Đẩy Nhân Vật Vào Hành Trình",
+      "file": "Chuong_7_1_Su_Kien_Khoi_Dau.md"
+    },
+    {
+      "index": 25,
+      "title": "Chương 7.2. Các Điểm Bước Ngoặt (Plot Points / Turning Points): Những Khúc Cua Thay Đổi Hoàn Toàn Cục Diện",
+      "file": "Chuong_7_2_Cac_Diem_Buoc_Ngoat.md"
+    },
+    {
+      "index": 26,
+      "title": "Chương 7.3. Điểm Giữa (Midpoint): Chiến Thắng Giả, Thất Bại Thảm Hại và Cú Đổi Trục Của Câu Chuyện",
+      "file": "Chuong_7_3_Diem_Giua.md"
+    },
+    {
+      "index": 27,
+      "title": "Chương 7.4. Đỉnh Điểm & Kết Thúc (Climax & Resolution): Nguyên Tắc Trả Giá và Các Kiểu Kết Thúc",
+      "file": "Chuong_7_4_Dinh_Diem_Va_Ket_Thuc.md"
+    }
+  ],
+  "total": 28,
+  "created_by": "auto_script_v2",
+  "created_at": "2026-06-04T00:51:32.655309",
+  "last_updated": "2026-06-04T00:51:32.655320"
+}
